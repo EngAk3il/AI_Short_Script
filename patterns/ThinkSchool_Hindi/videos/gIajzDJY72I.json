@@ -1,0 +1,148 @@
+{
+  "video_id": "gIajzDJY72I",
+  "duration_seconds": 83,
+  "wps": 3.35,
+  "total_words": 278,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1029
+  },
+  "hook": {
+    "type": "question",
+    "text": "इंडिया में लग्जरी ब्रांड बनाना इतना मुश्किल क्यों है गौरव? जहां पे यह होता है ना कि हम अपने ही प्रोडक्ट को, अपने ही देश की चीजों को बोलते हैं कि यार यह"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिला। मैं 15 मिनट मोदी जी के साथ था। कैसे मिला आपको यह अपॉर्चुनिटी? 6 महीने तक कुछ रिस्पांस नहीं आया।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "कि",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "वॉच",
+      "count": 6
+    },
+    {
+      "word": "लग्जरी",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "ब्रांड",
+      "count": 4
+    },
+    {
+      "word": "गौरव",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "मोदी",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "मोदी जी",
+      "count": 3
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 2
+    },
+    {
+      "phrase": "लग्जरी ब्रांड",
+      "count": 2
+    },
+    {
+      "phrase": "अपने ही",
+      "count": 2
+    },
+    {
+      "phrase": "पे इंपैक्ट",
+      "count": 2
+    },
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "लग्जरी वॉच",
+      "count": 2
+    },
+    {
+      "phrase": "कहां पे",
+      "count": 2
+    },
+    {
+      "phrase": "स्टोर चलेगा",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

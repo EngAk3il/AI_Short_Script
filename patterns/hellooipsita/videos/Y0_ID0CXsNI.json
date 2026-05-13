@@ -1,0 +1,148 @@
+{
+  "video_id": "Y0_ID0CXsNI",
+  "duration_seconds": 45,
+  "wps": 3.62,
+  "total_words": 163,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 635
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यू आर कांस्टेंटली बीटिंग योरसेल्फ अप फॉर नॉट फीलिंग पॉजिटिव और इवन वर्स नॉट बीइंग दैट पॉजिटिव पर्सन आई यूज टू बी इवन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अलाइना इफ टू हैपन एज इट इज सपोज टू हैपन और दूसरा ये है कि आप यू वक आउट ऑफ़ दैट एक्सपीरियंस डिसपे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 7
+    },
+    {
+      "word": "टू",
+      "count": 6
+    },
+    {
+      "word": "दैट",
+      "count": 5
+    },
+    {
+      "word": "मोमेंट",
+      "count": 5
+    },
+    {
+      "word": "आर",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "नॉट",
+      "count": 3
+    },
+    {
+      "word": "पॉजिटिव",
+      "count": 3
+    },
+    {
+      "word": "एक्सपीरियंस",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 3
+    },
+    {
+      "word": "ऑन",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "इवन",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    },
+    {
+      "word": "वी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू आर",
+      "count": 2
+    },
+    {
+      "phrase": "एवरी मोमेंट",
+      "count": 2
+    },
+    {
+      "phrase": "दैट मोमेंट",
+      "count": 2
+    },
+    {
+      "phrase": "अनफोल्डिंग इन",
+      "count": 2
+    },
+    {
+      "phrase": "इन फ्रंट",
+      "count": 2
+    },
+    {
+      "phrase": "फ्रंट ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ यू",
+      "count": 2
+    },
+    {
+      "phrase": "टू हैपन",
+      "count": 2
+    },
+    {
+      "phrase": "आर कांस्टेंटली",
+      "count": 1
+    },
+    {
+      "phrase": "कांस्टेंटली बीटिंग",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

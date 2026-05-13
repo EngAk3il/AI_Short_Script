@@ -1,0 +1,148 @@
+{
+  "video_id": "3cOsP9IubuI",
+  "duration_seconds": 48,
+  "wps": 3.52,
+  "total_words": 169,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 761
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Dual Lipa just launched a new brand and everybody thought that it was just another celebrity scam. We've seen this before. A big star launches a brand,"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "She is not just selling the face. She's selling entrylevel access to the world's best biotechnology."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 12
+    },
+    {
+      "word": "she",
+      "count": 6
+    },
+    {
+      "word": "just",
+      "count": 5
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "brand",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "cream",
+      "count": 3
+    },
+    {
+      "word": "skin",
+      "count": 3
+    },
+    {
+      "word": "new",
+      "count": 2
+    },
+    {
+      "word": "was",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "before",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "price",
+      "count": 2
+    },
+    {
+      "word": "did",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "it was",
+      "count": 2
+    },
+    {
+      "phrase": "a brand",
+      "count": 2
+    },
+    {
+      "phrase": "she did",
+      "count": 2
+    },
+    {
+      "phrase": "with the",
+      "count": 2
+    },
+    {
+      "phrase": "not just",
+      "count": 2
+    },
+    {
+      "phrase": "to the",
+      "count": 2
+    },
+    {
+      "phrase": "for the",
+      "count": 2
+    },
+    {
+      "phrase": "dual lipa",
+      "count": 1
+    },
+    {
+      "phrase": "lipa just",
+      "count": 1
+    },
+    {
+      "phrase": "just launched",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

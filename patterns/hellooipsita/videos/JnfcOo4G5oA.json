@@ -1,0 +1,149 @@
+{
+  "video_id": "JnfcOo4G5oA",
+  "duration_seconds": 49,
+  "wps": 3.27,
+  "total_words": 160,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 670
+  },
+  "hook": {
+    "type": "question",
+    "text": "if you go back and forth between periods"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "it's so much easier later"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 10
+    },
+    {
+      "word": "you",
+      "count": 8
+    },
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "in",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "of",
+      "count": 6
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "motion",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "law",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "remember",
+      "count": 3
+    },
+    {
+      "word": "much",
+      "count": 3
+    },
+    {
+      "word": "task",
+      "count": 3
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "extreme",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "inertia",
+      "count": 2
+    },
+    {
+      "word": "applies",
+      "count": 2
+    },
+    {
+      "word": "an",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "for you",
+      "count": 3
+    },
+    {
+      "phrase": "in motion",
+      "count": 3
+    },
+    {
+      "phrase": "you the",
+      "count": 2
+    },
+    {
+      "phrase": "the law",
+      "count": 2
+    },
+    {
+      "phrase": "law of",
+      "count": 2
+    },
+    {
+      "phrase": "of inertia",
+      "count": 2
+    },
+    {
+      "phrase": "applies to",
+      "count": 2
+    },
+    {
+      "phrase": "an object",
+      "count": 2
+    },
+    {
+      "phrase": "object in",
+      "count": 2
+    },
+    {
+      "phrase": "continues to",
+      "count": 2
+    }
+  ],
+  "segment_count": 22
+}

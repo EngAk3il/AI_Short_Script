@@ -1,0 +1,47 @@
+{
+  "video_id": "FT4DrdlJK54",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 9,
+      "text": "This is a toast notification because it pops up just like a toast. This is a classic design trick where we are hiding real world objects in plain sight. Let's break down some of the coolest examples."
+    },
+    {
+      "start": 9,
+      "duration": 8,
+      "text": "First up, radio buttons. You can only select one option at a time. That's because on old car radios when you press the button the other buttons would pop"
+    },
+    {
+      "start": 17,
+      "duration": 7,
+      "text": "out, so you could only choose one station. And this is a carousel. It is designed to show you a series of items"
+    },
+    {
+      "start": 24,
+      "duration": 6,
+      "text": "one after another just like a real life merrygoround where the horses and the content circle around for you to see."
+    },
+    {
+      "start": 30,
+      "duration": 8,
+      "text": "Next one comes from food and you must have seen this everywhere lately. This is the bento grid. The design is directly inspired from the Japanese"
+    },
+    {
+      "start": 38,
+      "duration": 6,
+      "text": "bento lunch boxes which use compartments to keep food separate. So simple and smart. But my favorite is the next one"
+    },
+    {
+      "start": 44,
+      "duration": 9,
+      "text": "breadcrumbs. These little links show you the path you took on a website. And this comes from the story of Hansel and Gretle. They left breadcrumbs in the"
+    },
+    {
+      "start": 53,
+      "duration": 3.0,
+      "text": "forest so they could find their way home. And this is known as a subscribe button. You know what to do."
+    }
+  ]
+}

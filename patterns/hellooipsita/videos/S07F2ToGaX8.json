@@ -1,0 +1,148 @@
+{
+  "video_id": "S07F2ToGaX8",
+  "duration_seconds": 31,
+  "wps": 2.97,
+  "total_words": 92,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 312
+  },
+  "hook": {
+    "type": "question",
+    "text": "जस्ट नोट नोबडी रिली केस जैसे आपकी अपनी इनसिक्योरिटी है जिन लोगों को आपने पेडिसल पर बैठा रखा है कि यह मुझे जज करेंगे कि मैं क्या हूं क्या"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वांट फॉर परफेक्शन एंग मेल्स डाउन यू बिगिन टू अटेंट एंड यू लेट इट बदर यू लेस"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "एस",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "जस्ट",
+      "count": 2
+    },
+    {
+      "word": "जैसे",
+      "count": 2
+    },
+    {
+      "word": "इनसिक्योरिटी",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 2
+    },
+    {
+      "word": "हूं",
+      "count": 2
+    },
+    {
+      "word": "आर",
+      "count": 2
+    },
+    {
+      "word": "सून",
+      "count": 2
+    },
+    {
+      "word": "सी",
+      "count": 2
+    },
+    {
+      "word": "पीपल",
+      "count": 2
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    },
+    {
+      "word": "नोट",
+      "count": 1
+    },
+    {
+      "word": "नोबडी",
+      "count": 1
+    },
+    {
+      "word": "रिली",
+      "count": 1
+    },
+    {
+      "word": "केस",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इनसिक्योरिटी है",
+      "count": 2
+    },
+    {
+      "phrase": "एस सून",
+      "count": 2
+    },
+    {
+      "phrase": "सून एस",
+      "count": 2
+    },
+    {
+      "phrase": "एस यू",
+      "count": 2
+    },
+    {
+      "phrase": "यू सी",
+      "count": 2
+    },
+    {
+      "phrase": "सी पीपल",
+      "count": 2
+    },
+    {
+      "phrase": "जस्ट नोट",
+      "count": 1
+    },
+    {
+      "phrase": "नोट नोबडी",
+      "count": 1
+    },
+    {
+      "phrase": "नोबडी रिली",
+      "count": 1
+    },
+    {
+      "phrase": "रिली केस",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

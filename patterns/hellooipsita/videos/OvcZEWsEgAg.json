@@ -1,0 +1,148 @@
+{
+  "video_id": "OvcZEWsEgAg",
+  "duration_seconds": 34,
+  "wps": 2.65,
+  "total_words": 90,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 316
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "नाउ व्हाट ू यू मीन बाय कैच द बेबी व्हेन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नो दैट श"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "एट",
+      "count": 4
+    },
+    {
+      "word": "कैच",
+      "count": 3
+    },
+    {
+      "word": "इरिटेशन",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "नाउ",
+      "count": 2
+    },
+    {
+      "word": "व्हेन",
+      "count": 2
+    },
+    {
+      "word": "सम",
+      "count": 2
+    },
+    {
+      "word": "सॉर्ट",
+      "count": 2
+    },
+    {
+      "word": "ऑफ",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "फ्रस्ट्रेशन",
+      "count": 2
+    },
+    {
+      "word": "इट",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "एन",
+      "count": 2
+    },
+    {
+      "word": "इंफें",
+      "count": 2
+    },
+    {
+      "word": "व्हाट",
+      "count": 1
+    },
+    {
+      "word": "मीन",
+      "count": 1
+    },
+    {
+      "word": "बाय",
+      "count": 1
+    },
+    {
+      "word": "बेबी",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सम सॉर्ट",
+      "count": 2
+    },
+    {
+      "phrase": "सॉर्ट ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ इरिटेशन",
+      "count": 2
+    },
+    {
+      "phrase": "नाउ व्हाट",
+      "count": 1
+    },
+    {
+      "phrase": "व्हाट ू",
+      "count": 1
+    },
+    {
+      "phrase": "ू यू",
+      "count": 1
+    },
+    {
+      "phrase": "यू मीन",
+      "count": 1
+    },
+    {
+      "phrase": "मीन बाय",
+      "count": 1
+    },
+    {
+      "phrase": "बाय कैच",
+      "count": 1
+    },
+    {
+      "phrase": "कैच द",
+      "count": 1
+    }
+  ],
+  "segment_count": 12
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "qAGefEnDfsc",
+  "duration_seconds": 62,
+  "wps": 4.21,
+  "total_words": 261,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 937
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इस वीडियो में हजारों एचडी होल्डर ने एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तक सुधार शक्ति है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "की",
+      "count": 14
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "से",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "ज्यादा",
+      "count": 5
+    },
+    {
+      "word": "वीडियो",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "पोस्ट",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "अप्लाई",
+      "count": 3
+    },
+    {
+      "word": "ग्रेजुएट",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "है की",
+      "count": 3
+    },
+    {
+      "phrase": "से भी",
+      "count": 3
+    },
+    {
+      "phrase": "भी ज्यादा",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "एचडी होल्डर",
+      "count": 2
+    },
+    {
+      "phrase": "लिए अप्लाई",
+      "count": 2
+    },
+    {
+      "phrase": "अप्लाई किया",
+      "count": 2
+    },
+    {
+      "phrase": "की पोस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "पोस्ट के",
+      "count": 2
+    }
+  ],
+  "segment_count": 32
+}

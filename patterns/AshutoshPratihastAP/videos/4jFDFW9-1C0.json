@@ -1,0 +1,148 @@
+{
+  "video_id": "4jFDFW9-1C0",
+  "duration_seconds": 28,
+  "wps": 4.25,
+  "total_words": 119,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 449
+  },
+  "hook": {
+    "type": "statement",
+    "text": "कि एक डॉग फूड इंस्पेक्टर करने वाली कंपनी की सेल्स जबरदस्त तरीके से शेयर थे पोस्ट आफ प्रेसिडेंट बहुत ज्यादा परेशान होता है बहुत डिफरेंस होता है कि यार मैं इस इतनी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "खड़ा होता वह बोलता है कि अभियुक्तों से पूछा कि आपको नुस्खा पसंद भी है कि नहीं नो योर कस्टमर है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "कि",
+      "count": 6
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "होता",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "सेल्स",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "यार",
+      "count": 2
+    },
+    {
+      "word": "इस",
+      "count": 2
+    },
+    {
+      "word": "इतनी",
+      "count": 2
+    },
+    {
+      "word": "मीटिंग",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "बोलता",
+      "count": 2
+    },
+    {
+      "word": "बेस्ट",
+      "count": 2
+    },
+    {
+      "word": "डॉग",
+      "count": 1
+    },
+    {
+      "word": "फूड",
+      "count": 1
+    },
+    {
+      "word": "इंस्पेक्टर",
+      "count": 1
+    },
+    {
+      "word": "करने",
+      "count": 1
+    },
+    {
+      "word": "वाली",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 4
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "कि यार",
+      "count": 2
+    },
+    {
+      "phrase": "बोलता है",
+      "count": 2
+    },
+    {
+      "phrase": "कि एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक डॉग",
+      "count": 1
+    },
+    {
+      "phrase": "डॉग फूड",
+      "count": 1
+    },
+    {
+      "phrase": "फूड इंस्पेक्टर",
+      "count": 1
+    },
+    {
+      "phrase": "इंस्पेक्टर करने",
+      "count": 1
+    },
+    {
+      "phrase": "करने वाली",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

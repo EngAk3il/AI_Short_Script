@@ -1,0 +1,148 @@
+{
+  "video_id": "g_uqU0Jf8hI",
+  "duration_seconds": 91,
+  "wps": 2.91,
+  "total_words": 265,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1055
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इन्होंने मुझे ₹1 दिया था मेरी वीडियोस के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "असली सवाल ये है कि आप कब सवाल पूछोगे?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "ही",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "नहीं",
+      "count": 6
+    },
+    {
+      "word": "पर",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "दिया",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "सवाल",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "ट्रांसजेंडर",
+      "count": 3
+    },
+    {
+      "word": "ट्रांस",
+      "count": 3
+    },
+    {
+      "word": "कम्युनिटी",
+      "count": 3
+    },
+    {
+      "word": "पास",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "डेफिनेशन",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ट्रांसजेंडर लोग",
+      "count": 2
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "पास हुआ",
+      "count": 2
+    },
+    {
+      "phrase": "आई कैन",
+      "count": 2
+    },
+    {
+      "phrase": "चूज़ कर",
+      "count": 2
+    },
+    {
+      "phrase": "ये प्रॉब्लम",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 2
+    },
+    {
+      "phrase": "है ये",
+      "count": 2
+    },
+    {
+      "phrase": "कम्युनिटी को",
+      "count": 2
+    },
+    {
+      "phrase": "को एक",
+      "count": 2
+    }
+  ],
+  "segment_count": 37
+}

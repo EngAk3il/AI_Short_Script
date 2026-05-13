@@ -1,0 +1,148 @@
+{
+  "video_id": "y7qQ3N40Flc",
+  "duration_seconds": 107,
+  "wps": 3.31,
+  "total_words": 354,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 1336
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एलपीजी सिलेंडर के यह फैक्ट्स आपको सरप्राइज़ कर देंगे। जब एक रिफाइनरी में क्रूड ऑयल को हीट किया जाता है तो उसमें मौजूद प्रोपेन और ब्यूटेन नाम केमिकल्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्मेल ऐड की जाने लगी"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 18
+    },
+    {
+      "word": "में",
+      "count": 15
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "एलपीजी",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "गैस",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "जाता",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "सिलडर्स",
+      "count": 5
+    },
+    {
+      "word": "वेपर",
+      "count": 5
+    },
+    {
+      "word": "सिलेंडर",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "लिक्विड",
+      "count": 4
+    },
+    {
+      "word": "kg",
+      "count": 4
+    },
+    {
+      "word": "बाद",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जाता है",
+      "count": 6
+    },
+    {
+      "phrase": "किया जाता",
+      "count": 3
+    },
+    {
+      "phrase": "होता है",
+      "count": 3
+    },
+    {
+      "phrase": "सिलेंडर के",
+      "count": 2
+    },
+    {
+      "phrase": "हीट किया",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "फिर इसी",
+      "count": 2
+    },
+    {
+      "phrase": "जाती है",
+      "count": 2
+    },
+    {
+      "phrase": "एलपीजी का",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

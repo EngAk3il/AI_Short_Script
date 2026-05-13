@@ -1,0 +1,148 @@
+{
+  "video_id": "j_dz-r9zf3U",
+  "duration_seconds": 99,
+  "wps": 3.46,
+  "total_words": 343,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1337
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अहमदाबाद प्लेन क्रैश की मिस्ट्री इस रिपोर्ट ने सॉल्व कर दी है। रिसेंटली एयर इंडिया 171 क्रैश की प्रिलिमिनरी इन्वेस्टिगेशन रिपोर्ट रिलीज हुई जिसमें"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इमीडिएटली रिप्लेस करना चाहिए। लेकिन यह बुलेटिन मैंडेटरी नहीं था। सिर्फ एडवाइजर था, जिस कारण इसे इतना सीरियसली नहीं लिया"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "हो",
+      "count": 12
+    },
+    {
+      "word": "स्विचेस",
+      "count": 11
+    },
+    {
+      "word": "कि",
+      "count": 9
+    },
+    {
+      "word": "बंद",
+      "count": 8
+    },
+    {
+      "word": "यह",
+      "count": 8
+    },
+    {
+      "word": "ने",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "ऑफ",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "कारण",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "लेकिन",
+      "count": 4
+    },
+    {
+      "word": "इंजंस",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "गया",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बंद हो",
+      "count": 4
+    },
+    {
+      "phrase": "लॉकिंग मैकेनिज्म",
+      "count": 4
+    },
+    {
+      "phrase": "जिस कारण",
+      "count": 3
+    },
+    {
+      "phrase": "स्विचेस बंद",
+      "count": 3
+    },
+    {
+      "phrase": "यह लॉकिंग",
+      "count": 3
+    },
+    {
+      "phrase": "यह स्विचेस",
+      "count": 3
+    },
+    {
+      "phrase": "क्रैश की",
+      "count": 2
+    },
+    {
+      "phrase": "कर दी",
+      "count": 2
+    },
+    {
+      "phrase": "टेक ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ के",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

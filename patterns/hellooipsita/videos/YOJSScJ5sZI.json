@@ -1,0 +1,148 @@
+{
+  "video_id": "YOJSScJ5sZI",
+  "duration_seconds": 12,
+  "wps": 4.0,
+  "total_words": 48,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 189
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "I can't decide who my real friends are what do I do the number one metric to filter and assemble your set of people"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "is to find out what your deal breaker is what is that one thing someone has to do repeatedly and intentionally for you to"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "do",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "can't",
+      "count": 1
+    },
+    {
+      "word": "decide",
+      "count": 1
+    },
+    {
+      "word": "who",
+      "count": 1
+    },
+    {
+      "word": "my",
+      "count": 1
+    },
+    {
+      "word": "real",
+      "count": 1
+    },
+    {
+      "word": "friends",
+      "count": 1
+    },
+    {
+      "word": "are",
+      "count": 1
+    },
+    {
+      "word": "the",
+      "count": 1
+    },
+    {
+      "word": "number",
+      "count": 1
+    },
+    {
+      "word": "metric",
+      "count": 1
+    },
+    {
+      "word": "filter",
+      "count": 1
+    },
+    {
+      "word": "assemble",
+      "count": 1
+    },
+    {
+      "word": "set",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "i can't",
+      "count": 1
+    },
+    {
+      "phrase": "can't decide",
+      "count": 1
+    },
+    {
+      "phrase": "decide who",
+      "count": 1
+    },
+    {
+      "phrase": "who my",
+      "count": 1
+    },
+    {
+      "phrase": "my real",
+      "count": 1
+    },
+    {
+      "phrase": "real friends",
+      "count": 1
+    },
+    {
+      "phrase": "friends are",
+      "count": 1
+    },
+    {
+      "phrase": "are what",
+      "count": 1
+    },
+    {
+      "phrase": "what do",
+      "count": 1
+    },
+    {
+      "phrase": "do i",
+      "count": 1
+    }
+  ],
+  "segment_count": 2
+}

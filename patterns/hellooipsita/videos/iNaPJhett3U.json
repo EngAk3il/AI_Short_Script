@@ -1,0 +1,148 @@
+{
+  "video_id": "iNaPJhett3U",
+  "duration_seconds": 33,
+  "wps": 2.97,
+  "total_words": 98,
+  "language_mix": {
+    "hindi": 98.6,
+    "english": 1.4,
+    "total_chars": 353
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जस्ट रिमेंबर वेरिएशन वेरिएशन कुड कम इन द"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "माय हैंड्स टू गेट योर टेंशन that's"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "योर",
+      "count": 4
+    },
+    {
+      "word": "यू",
+      "count": 4
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "वेरिएशन",
+      "count": 2
+    },
+    {
+      "word": "कुड",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "लाइक",
+      "count": 2
+    },
+    {
+      "word": "लैंग्वेज",
+      "count": 2
+    },
+    {
+      "word": "वे",
+      "count": 2
+    },
+    {
+      "word": "आर",
+      "count": 2
+    },
+    {
+      "word": "एम",
+      "count": 2
+    },
+    {
+      "word": "ब्रिंगिंग",
+      "count": 2
+    },
+    {
+      "word": "बैक",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 1
+    },
+    {
+      "word": "रिमेंबर",
+      "count": 1
+    },
+    {
+      "word": "कम",
+      "count": 1
+    },
+    {
+      "word": "फॉर्म",
+      "count": 1
+    },
+    {
+      "word": "ऑफ",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इन द",
+      "count": 2
+    },
+    {
+      "phrase": "और योर",
+      "count": 2
+    },
+    {
+      "phrase": "द वे",
+      "count": 2
+    },
+    {
+      "phrase": "यू आर",
+      "count": 2
+    },
+    {
+      "phrase": "आई एम",
+      "count": 2
+    },
+    {
+      "phrase": "ब्रिंगिंग यू",
+      "count": 2
+    },
+    {
+      "phrase": "यू बैक",
+      "count": 2
+    },
+    {
+      "phrase": "जस्ट रिमेंबर",
+      "count": 1
+    },
+    {
+      "phrase": "रिमेंबर वेरिएशन",
+      "count": 1
+    },
+    {
+      "phrase": "वेरिएशन वेरिएशन",
+      "count": 1
+    }
+  ],
+  "segment_count": 12
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "J4xXJ9WjVHk",
+  "duration_seconds": 60,
+  "wps": 2.97,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 664
+  },
+  "hook": {
+    "type": "question",
+    "text": "सर चाइना के कंपैरिजन में अभी फिलहाल इंडियन मिलिट्री का स्ट्रेंथ कंपेरेबल है। अगर आप फोर्स लेवल्स कंपेयर करेंगे तो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इज एवर गोइंग टू हैपन।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "कॉम्बैट",
+      "count": 4
+    },
+    {
+      "word": "आर",
+      "count": 4
+    },
+    {
+      "word": "दैट",
+      "count": 4
+    },
+    {
+      "word": "चाइना",
+      "count": 3
+    },
+    {
+      "word": "इंडियन",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "वी",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 2
+    },
+    {
+      "word": "फोर्स",
+      "count": 2
+    },
+    {
+      "word": "एक्सपोज़र",
+      "count": 2
+    },
+    {
+      "word": "बट",
+      "count": 2
+    },
+    {
+      "word": "इट",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कॉम्बैट एक्सपोज़र",
+      "count": 2
+    },
+    {
+      "phrase": "है बट",
+      "count": 2
+    },
+    {
+      "phrase": "वी आर",
+      "count": 2
+    },
+    {
+      "phrase": "इज गुड",
+      "count": 2
+    },
+    {
+      "phrase": "और वी",
+      "count": 2
+    },
+    {
+      "phrase": "कि हम",
+      "count": 2
+    },
+    {
+      "phrase": "सर चाइना",
+      "count": 1
+    },
+    {
+      "phrase": "चाइना के",
+      "count": 1
+    },
+    {
+      "phrase": "के कंपैरिजन",
+      "count": 1
+    },
+    {
+      "phrase": "कंपैरिजन में",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

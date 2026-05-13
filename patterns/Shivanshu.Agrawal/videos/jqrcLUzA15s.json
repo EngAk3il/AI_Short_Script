@@ -1,0 +1,148 @@
+{
+  "video_id": "jqrcLUzA15s",
+  "duration_seconds": 37,
+  "wps": 1.11,
+  "total_words": 41,
+  "language_mix": {
+    "hindi": 95.5,
+    "english": 4.5,
+    "total_chars": 157
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "kia8 साइज एसयूवी की डिमांड है इसीलिए 2019 में उन्होंने अपनी सेटस एवी कार के साथ इंडिया में एंट्री ली और इंस्टेंट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "किया इवन इंडिया में"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "kia8",
+      "count": 1
+    },
+    {
+      "word": "साइज",
+      "count": 1
+    },
+    {
+      "word": "एसयूवी",
+      "count": 1
+    },
+    {
+      "word": "डिमांड",
+      "count": 1
+    },
+    {
+      "word": "है",
+      "count": 1
+    },
+    {
+      "word": "इसीलिए",
+      "count": 1
+    },
+    {
+      "word": "2019",
+      "count": 1
+    },
+    {
+      "word": "उन्होंने",
+      "count": 1
+    },
+    {
+      "word": "अपनी",
+      "count": 1
+    },
+    {
+      "word": "सेटस",
+      "count": 1
+    },
+    {
+      "word": "एवी",
+      "count": 1
+    },
+    {
+      "word": "कार",
+      "count": 1
+    },
+    {
+      "word": "साथ",
+      "count": 1
+    },
+    {
+      "word": "एंट्री",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया में",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "kia8 साइज",
+      "count": 1
+    },
+    {
+      "phrase": "साइज एसयूवी",
+      "count": 1
+    },
+    {
+      "phrase": "एसयूवी की",
+      "count": 1
+    },
+    {
+      "phrase": "की डिमांड",
+      "count": 1
+    },
+    {
+      "phrase": "डिमांड है",
+      "count": 1
+    },
+    {
+      "phrase": "है इसीलिए",
+      "count": 1
+    },
+    {
+      "phrase": "इसीलिए 2019",
+      "count": 1
+    },
+    {
+      "phrase": "2019 में",
+      "count": 1
+    }
+  ],
+  "segment_count": 3
+}

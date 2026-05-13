@@ -1,0 +1,148 @@
+{
+  "video_id": "iSsaMJto1TA",
+  "duration_seconds": 52,
+  "wps": 2.56,
+  "total_words": 133,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 509
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "टीम इंडिया का यह डांस कहते हैं इसे मर्फा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक दिन कहीं खामोश ना हो"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "मर्फा",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "हैदराबाद",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "डांस",
+      "count": 2
+    },
+    {
+      "word": "इसे",
+      "count": 2
+    },
+    {
+      "word": "बीट्स",
+      "count": 2
+    },
+    {
+      "word": "पूरा",
+      "count": 2
+    },
+    {
+      "word": "आया",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    },
+    {
+      "word": "टीम",
+      "count": 1
+    },
+    {
+      "word": "इंडिया",
+      "count": 1
+    },
+    {
+      "word": "का",
+      "count": 1
+    },
+    {
+      "word": "कहते",
+      "count": 1
+    },
+    {
+      "word": "हैं",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पूरा हैदराबाद",
+      "count": 2
+    },
+    {
+      "phrase": "टीम इंडिया",
+      "count": 1
+    },
+    {
+      "phrase": "इंडिया का",
+      "count": 1
+    },
+    {
+      "phrase": "का यह",
+      "count": 1
+    },
+    {
+      "phrase": "यह डांस",
+      "count": 1
+    },
+    {
+      "phrase": "डांस कहते",
+      "count": 1
+    },
+    {
+      "phrase": "कहते हैं",
+      "count": 1
+    },
+    {
+      "phrase": "हैं इसे",
+      "count": 1
+    },
+    {
+      "phrase": "इसे मर्फा",
+      "count": 1
+    },
+    {
+      "phrase": "मर्फा जिसकी",
+      "count": 1
+    }
+  ],
+  "segment_count": 17
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "GqBuM4MvEv8",
+  "duration_seconds": 61,
+  "wps": 2.8,
+  "total_words": 171,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 710
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Make the good enough list. Make a list"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "my",
+      "count": 8
+    },
+    {
+      "word": "good",
+      "count": 6
+    },
+    {
+      "word": "list",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "enough",
+      "count": 5
+    },
+    {
+      "word": "that",
+      "count": 5
+    },
+    {
+      "word": "make",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "could",
+      "count": 3
+    },
+    {
+      "word": "needs",
+      "count": 3
+    },
+    {
+      "word": "be",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "i'm",
+      "count": 2
+    },
+    {
+      "word": "who's",
+      "count": 2
+    },
+    {
+      "word": "been",
+      "count": 2
+    },
+    {
+      "word": "creating",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "good enough",
+      "count": 5
+    },
+    {
+      "phrase": "enough list",
+      "count": 4
+    },
+    {
+      "phrase": "my good",
+      "count": 3
+    },
+    {
+      "phrase": "needs to",
+      "count": 3
+    },
+    {
+      "phrase": "creating content",
+      "count": 2
+    },
+    {
+      "phrase": "list could",
+      "count": 2
+    },
+    {
+      "phrase": "that my",
+      "count": 2
+    },
+    {
+      "phrase": "my video",
+      "count": 2
+    },
+    {
+      "phrase": "to be",
+      "count": 2
+    },
+    {
+      "phrase": "in my",
+      "count": 2
+    }
+  ],
+  "segment_count": 25
+}

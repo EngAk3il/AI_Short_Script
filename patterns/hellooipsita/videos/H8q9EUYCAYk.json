@@ -1,0 +1,148 @@
+{
+  "video_id": "H8q9EUYCAYk",
+  "duration_seconds": 39,
+  "wps": 3.18,
+  "total_words": 124,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 556
+  },
+  "hook": {
+    "type": "question",
+    "text": "every embarrassing moment in your life is a story to tell if there's something that happened maybe 2 years ago that still haunts you at night and keeps you"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "lighten the heaviness around the embarrassing event it's not that serious think about it"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 11
+    },
+    {
+      "word": "that",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "your",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "embarrassing",
+      "count": 2
+    },
+    {
+      "word": "moment",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "story",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "at",
+      "count": 2
+    },
+    {
+      "word": "night",
+      "count": 2
+    },
+    {
+      "word": "think",
+      "count": 2
+    },
+    {
+      "word": "about",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "around",
+      "count": 2
+    },
+    {
+      "word": "yourself",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "2 years",
+      "count": 2
+    },
+    {
+      "phrase": "at night",
+      "count": 2
+    },
+    {
+      "phrase": "think about",
+      "count": 2
+    },
+    {
+      "phrase": "about it",
+      "count": 2
+    },
+    {
+      "phrase": "anxiety of",
+      "count": 2
+    },
+    {
+      "phrase": "of the",
+      "count": 2
+    },
+    {
+      "phrase": "lighten the",
+      "count": 2
+    },
+    {
+      "phrase": "every embarrassing",
+      "count": 1
+    },
+    {
+      "phrase": "embarrassing moment",
+      "count": 1
+    },
+    {
+      "phrase": "moment in",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

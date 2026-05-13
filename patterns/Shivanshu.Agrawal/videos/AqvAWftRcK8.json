@@ -1,0 +1,148 @@
+{
+  "video_id": "AqvAWftRcK8",
+  "duration_seconds": 43,
+  "wps": 3.53,
+  "total_words": 152,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 544
+  },
+  "hook": {
+    "type": "question",
+    "text": "आज आपके ब्रेन का एक छोटा सा टेस्ट लेते हैं इस इमेज को ध्यान से देखिए अब इस इमेज को देखिए और अब इसे देखिए क्या आपने भी इन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कोलगेट का भी काफी प्रमोशन हो गया"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "इस",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "इमेज",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "इमेजेस",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "कोलगेट",
+      "count": 4
+    },
+    {
+      "word": "देखिए",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "आपके",
+      "count": 2
+    },
+    {
+      "word": "ब्रेन",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "अब",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इस इमेज",
+      "count": 4
+    },
+    {
+      "phrase": "इमेजेस में",
+      "count": 3
+    },
+    {
+      "phrase": "इमेज में",
+      "count": 3
+    },
+    {
+      "phrase": "में इस",
+      "count": 3
+    },
+    {
+      "phrase": "आपके ब्रेन",
+      "count": 2
+    },
+    {
+      "phrase": "का एक",
+      "count": 2
+    },
+    {
+      "phrase": "इमेज को",
+      "count": 2
+    },
+    {
+      "phrase": "इन तीनों",
+      "count": 2
+    },
+    {
+      "phrase": "तीनों इमेजेस",
+      "count": 2
+    },
+    {
+      "phrase": "तो कोलगेट",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

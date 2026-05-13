@@ -1,0 +1,148 @@
+{
+  "video_id": "zCKVS7afwSc",
+  "duration_seconds": 36,
+  "wps": 4.19,
+  "total_words": 151,
+  "language_mix": {
+    "hindi": 95.9,
+    "english": 4.1,
+    "total_chars": 541
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक जूस कंपनी ने गूगल के साथ करोड़ का स्कैम किया दूसरों नाम की एक कंपनी ₹50000 की एक हाई एंड मशीन बनाती थी जो स्पेशल"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कुलसी के बाद जो शहरों का हर जगह बहुत मजाक उदा फाइनली उन्हें कस्टमर को रिफंड देना पड़ा जिसके बाद वो bankerpt हो गए और गूगल के करोड़ रुपए दो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "कंपनी",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "जूस",
+      "count": 3
+    },
+    {
+      "word": "गूगल",
+      "count": 3
+    },
+    {
+      "word": "करोड़",
+      "count": 3
+    },
+    {
+      "word": "मशीन",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "करके",
+      "count": 2
+    },
+    {
+      "word": "फ्रूट",
+      "count": 2
+    },
+    {
+      "word": "शहरों",
+      "count": 2
+    },
+    {
+      "word": "कुछ",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गूगल के",
+      "count": 2
+    },
+    {
+      "phrase": "की एक",
+      "count": 2
+    },
+    {
+      "phrase": "थी जो",
+      "count": 2
+    },
+    {
+      "phrase": "जो शहरों",
+      "count": 2
+    },
+    {
+      "phrase": "एक जूस",
+      "count": 1
+    },
+    {
+      "phrase": "जूस कंपनी",
+      "count": 1
+    },
+    {
+      "phrase": "कंपनी ने",
+      "count": 1
+    },
+    {
+      "phrase": "ने गूगल",
+      "count": 1
+    },
+    {
+      "phrase": "के साथ",
+      "count": 1
+    },
+    {
+      "phrase": "साथ करोड़",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

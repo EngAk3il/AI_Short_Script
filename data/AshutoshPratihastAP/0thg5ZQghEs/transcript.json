@@ -1,0 +1,42 @@
+{
+  "video_id": "0thg5ZQghEs",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 8,
+      "duration": 2,
+      "text": "[संगीत]"
+    },
+    {
+      "start": 10,
+      "duration": 8,
+      "text": "jajbaton को महक लें दे आज पत्ते चक लें दे"
+    },
+    {
+      "start": 18,
+      "duration": 5,
+      "text": "आज पत्ते चक लें दे"
+    },
+    {
+      "start": 23,
+      "duration": 3,
+      "text": "[संगीत]"
+    },
+    {
+      "start": 26,
+      "duration": 2,
+      "text": "चक दे"
+    },
+    {
+      "start": 28,
+      "duration": 2,
+      "text": "[संगीत]"
+    },
+    {
+      "start": 30,
+      "duration": 3.0,
+      "text": "[प्रशंसा]"
+    }
+  ]
+}

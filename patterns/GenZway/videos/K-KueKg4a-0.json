@@ -1,0 +1,149 @@
+{
+  "video_id": "K-KueKg4a-0",
+  "duration_seconds": 29,
+  "wps": 3.79,
+  "total_words": 110,
+  "language_mix": {
+    "hindi": 98.8,
+    "english": 1.2,
+    "total_chars": 342
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये बटन दबाने के लिए अमीर लोग 11 गुना प्राइस पे करते हैं क्योंकि आप लोग इसमें से जो भी बटन दबाओगे वेट्रेस उस काम के लिए खुद ब खुद आ जाएगी और ₹50 का खाना"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आते हैं और 4000 का खाना खा के चले जाते है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "लोग",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "खुद",
+      "count": 3
+    },
+    {
+      "word": "खाना",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "बटन",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "अमीर",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "चीज",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 1
+    },
+    {
+      "word": "दबाने",
+      "count": 1
+    },
+    {
+      "word": "11",
+      "count": 1
+    },
+    {
+      "word": "गुना",
+      "count": 1
+    },
+    {
+      "word": "प्राइस",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "अमीर लोग",
+      "count": 2
+    },
+    {
+      "phrase": "का खाना",
+      "count": 2
+    },
+    {
+      "phrase": "ये बटन",
+      "count": 1
+    },
+    {
+      "phrase": "बटन दबाने",
+      "count": 1
+    },
+    {
+      "phrase": "दबाने के",
+      "count": 1
+    },
+    {
+      "phrase": "लिए अमीर",
+      "count": 1
+    },
+    {
+      "phrase": "लोग 11",
+      "count": 1
+    },
+    {
+      "phrase": "11 गुना",
+      "count": 1
+    },
+    {
+      "phrase": "गुना प्राइस",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

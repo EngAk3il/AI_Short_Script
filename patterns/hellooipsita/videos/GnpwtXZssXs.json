@@ -1,0 +1,148 @@
+{
+  "video_id": "GnpwtXZssXs",
+  "duration_seconds": 29,
+  "wps": 3.17,
+  "total_words": 92,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 360
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "समथिंग दैट कैचेज यू ऑफ गर्ड एंड यू जस्ट फाइंड योरसेल्फ एक्टिंग एंड बिहेविंग इन वेज दैट यू डिन एक्सपेक्ट एंड देन व्हाट हैपेंस इज आफ्टर दैट यू एंड अप टिंग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "विथ एंड इट इज समथिंग दैट आल्सो वीकें योर ओन रिलेशनशिप विट योरसेल्फ"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "दैट",
+      "count": 7
+    },
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "इज",
+      "count": 4
+    },
+    {
+      "word": "समथिंग",
+      "count": 3
+    },
+    {
+      "word": "ऑफ",
+      "count": 3
+    },
+    {
+      "word": "योरसेल्फ",
+      "count": 3
+    },
+    {
+      "word": "बिहेविंग",
+      "count": 2
+    },
+    {
+      "word": "इट",
+      "count": 2
+    },
+    {
+      "word": "नॉट",
+      "count": 2
+    },
+    {
+      "word": "नंबर",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "कैचेज",
+      "count": 1
+    },
+    {
+      "word": "गर्ड",
+      "count": 1
+    },
+    {
+      "word": "जस्ट",
+      "count": 1
+    },
+    {
+      "word": "फाइंड",
+      "count": 1
+    },
+    {
+      "word": "एक्टिंग",
+      "count": 1
+    },
+    {
+      "word": "इन",
+      "count": 1
+    },
+    {
+      "word": "वेज",
+      "count": 1
+    },
+    {
+      "word": "डिन",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "समथिंग दैट",
+      "count": 3
+    },
+    {
+      "phrase": "एंड बिहेविंग",
+      "count": 2
+    },
+    {
+      "phrase": "दैट यू",
+      "count": 2
+    },
+    {
+      "phrase": "दैट कैचेज",
+      "count": 1
+    },
+    {
+      "phrase": "कैचेज यू",
+      "count": 1
+    },
+    {
+      "phrase": "यू ऑफ",
+      "count": 1
+    },
+    {
+      "phrase": "ऑफ गर्ड",
+      "count": 1
+    },
+    {
+      "phrase": "गर्ड एंड",
+      "count": 1
+    },
+    {
+      "phrase": "एंड यू",
+      "count": 1
+    },
+    {
+      "phrase": "यू जस्ट",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

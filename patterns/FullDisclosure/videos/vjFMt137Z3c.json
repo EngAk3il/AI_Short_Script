@@ -1,0 +1,148 @@
+{
+  "video_id": "vjFMt137Z3c",
+  "duration_seconds": 69,
+  "wps": 2.71,
+  "total_words": 187,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 848
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Oscars just ditched [music] TV. In a historic move, the Academy Awards are moving exclusively to YouTube starting"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "events, or the quiet end of television as we [music] know it? Tell me what you think and follow Full Disclosure for"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 14
+    },
+    {
+      "word": "music",
+      "count": 11
+    },
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "oscars",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "tv",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "move",
+      "count": 2
+    },
+    {
+      "word": "youtube",
+      "count": 2
+    },
+    {
+      "word": "2029",
+      "count": 2
+    },
+    {
+      "word": "ceremony",
+      "count": 2
+    },
+    {
+      "word": "will",
+      "count": 2
+    },
+    {
+      "word": "events",
+      "count": 2
+    },
+    {
+      "word": "live",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the oscars",
+      "count": 3
+    },
+    {
+      "phrase": "for the",
+      "count": 2
+    },
+    {
+      "phrase": "music and",
+      "count": 2
+    },
+    {
+      "phrase": "or the",
+      "count": 2
+    },
+    {
+      "phrase": "oscars just",
+      "count": 1
+    },
+    {
+      "phrase": "just ditched",
+      "count": 1
+    },
+    {
+      "phrase": "ditched music",
+      "count": 1
+    },
+    {
+      "phrase": "music tv",
+      "count": 1
+    },
+    {
+      "phrase": "tv in",
+      "count": 1
+    },
+    {
+      "phrase": "in a",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

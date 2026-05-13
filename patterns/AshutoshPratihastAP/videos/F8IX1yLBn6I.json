@@ -1,0 +1,148 @@
+{
+  "video_id": "F8IX1yLBn6I",
+  "duration_seconds": 39,
+  "wps": 2.08,
+  "total_words": 81,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 271
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "गाड़ी बजे तक की तेज सत्तर पकिल नाम से"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सबीना शनि"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "गाड़ी",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "यार",
+      "count": 2
+    },
+    {
+      "word": "टांग",
+      "count": 2
+    },
+    {
+      "word": "दे",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 2
+    },
+    {
+      "word": "राखी",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "जेल",
+      "count": 2
+    },
+    {
+      "word": "बजे",
+      "count": 1
+    },
+    {
+      "word": "तक",
+      "count": 1
+    },
+    {
+      "word": "तेज",
+      "count": 1
+    },
+    {
+      "word": "सत्तर",
+      "count": 1
+    },
+    {
+      "word": "पकिल",
+      "count": 1
+    },
+    {
+      "word": "नाम",
+      "count": 1
+    },
+    {
+      "word": "से",
+      "count": 1
+    },
+    {
+      "word": "छोरी",
+      "count": 1
+    },
+    {
+      "word": "गावे",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "राखी है",
+      "count": 2
+    },
+    {
+      "phrase": "गाड़ी बजे",
+      "count": 1
+    },
+    {
+      "phrase": "बजे तक",
+      "count": 1
+    },
+    {
+      "phrase": "तक की",
+      "count": 1
+    },
+    {
+      "phrase": "की तेज",
+      "count": 1
+    },
+    {
+      "phrase": "तेज सत्तर",
+      "count": 1
+    },
+    {
+      "phrase": "सत्तर पकिल",
+      "count": 1
+    },
+    {
+      "phrase": "पकिल नाम",
+      "count": 1
+    },
+    {
+      "phrase": "नाम से",
+      "count": 1
+    },
+    {
+      "phrase": "से छोरी",
+      "count": 1
+    }
+  ],
+  "segment_count": 11
+}

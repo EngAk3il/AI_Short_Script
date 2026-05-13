@@ -1,0 +1,148 @@
+{
+  "video_id": "G4cebeDYXUY",
+  "duration_seconds": 25,
+  "wps": 5.0,
+  "total_words": 125,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 447
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये कोक के रेट ना बढ़ने वाले हैं। इवन ये पानी की बोतल तक के रेट 11% से बढ़ चुके हैं। हां ये कॉस्ट को तुम पे कभी ट्रांसफर नहीं किया जाएगा। पर उससे पहले मुद्दा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "से बढ़ चुका है। जिसकी कॉस्ट ऐड एंड तुम लोगों तक ट्रांसफर नहीं करी जाएगी। क्योंकि इसके अंदर मार्जिन बहुत होता है। पर कोक के अंदर ट्रांसफर की जा सकती है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "रेट",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "कॉस्ट",
+      "count": 4
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "तुम",
+      "count": 3
+    },
+    {
+      "word": "ट्रांसफर",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "कोक",
+      "count": 2
+    },
+    {
+      "word": "11%",
+      "count": 2
+    },
+    {
+      "word": "बढ़",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "उससे",
+      "count": 2
+    },
+    {
+      "word": "बनाने",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कोक के",
+      "count": 2
+    },
+    {
+      "phrase": "के रेट",
+      "count": 2
+    },
+    {
+      "phrase": "रेट 11%",
+      "count": 2
+    },
+    {
+      "phrase": "11% से",
+      "count": 2
+    },
+    {
+      "phrase": "से बढ़",
+      "count": 2
+    },
+    {
+      "phrase": "ट्रांसफर नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "कॉस्ट आती",
+      "count": 2
+    },
+    {
+      "phrase": "आती है",
+      "count": 2
+    },
+    {
+      "phrase": "तुम लोगों",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों तक",
+      "count": 2
+    }
+  ],
+  "segment_count": 4
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "y6gziADat3s",
+  "duration_seconds": 49,
+  "wps": 3.33,
+  "total_words": 163,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 712
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Look at this expensive crystal deal. The only ingredient, potassium alum. The same stuff that you can buy for pennies."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "your fancy bathroom. That's actually smart. Subscribe for more."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "so",
+      "count": 4
+    },
+    {
+      "word": "alum",
+      "count": 3
+    },
+    {
+      "word": "not",
+      "count": 3
+    },
+    {
+      "word": "wet",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "they",
+      "count": 2
+    },
+    {
+      "word": "slips",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "rock",
+      "count": 2
+    },
+    {
+      "word": "leave",
+      "count": 2
+    },
+    {
+      "word": "dry",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "paying for",
+      "count": 2
+    },
+    {
+      "phrase": "for the",
+      "count": 2
+    },
+    {
+      "phrase": "look at",
+      "count": 1
+    },
+    {
+      "phrase": "at this",
+      "count": 1
+    },
+    {
+      "phrase": "this expensive",
+      "count": 1
+    },
+    {
+      "phrase": "expensive crystal",
+      "count": 1
+    },
+    {
+      "phrase": "crystal deal",
+      "count": 1
+    },
+    {
+      "phrase": "deal the",
+      "count": 1
+    },
+    {
+      "phrase": "the only",
+      "count": 1
+    },
+    {
+      "phrase": "only ingredient",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "hEaOqxSciGs",
+  "duration_seconds": 56,
+  "wps": 3.36,
+  "total_words": 188,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 796
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Let's say you get a call and you're invited to a party and your social anxiety starts to take over because you have had 20 past experiences where"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "you're going to feel good. But what it fails to understand it's only going to be shortlived."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 11
+    },
+    {
+      "word": "to",
+      "count": 9
+    },
+    {
+      "word": "you",
+      "count": 7
+    },
+    {
+      "word": "of",
+      "count": 5
+    },
+    {
+      "word": "your",
+      "count": 4
+    },
+    {
+      "word": "what",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "have",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "feel",
+      "count": 3
+    },
+    {
+      "word": "sense",
+      "count": 3
+    },
+    {
+      "word": "relief",
+      "count": 3
+    },
+    {
+      "word": "again",
+      "count": 3
+    },
+    {
+      "word": "say",
+      "count": 2
+    },
+    {
+      "word": "get",
+      "count": 2
+    },
+    {
+      "word": "you're",
+      "count": 2
+    },
+    {
+      "word": "party",
+      "count": 2
+    },
+    {
+      "word": "experiences",
+      "count": 2
+    },
+    {
+      "word": "you've",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "sense of",
+      "count": 3
+    },
+    {
+      "phrase": "a party",
+      "count": 2
+    },
+    {
+      "phrase": "party and",
+      "count": 2
+    },
+    {
+      "phrase": "you have",
+      "count": 2
+    },
+    {
+      "phrase": "already been",
+      "count": 2
+    },
+    {
+      "phrase": "and withdraw",
+      "count": 2
+    },
+    {
+      "phrase": "you might",
+      "count": 2
+    },
+    {
+      "phrase": "might feel",
+      "count": 2
+    },
+    {
+      "phrase": "5 minutes",
+      "count": 2
+    },
+    {
+      "phrase": "of relief",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

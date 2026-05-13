@@ -1,0 +1,148 @@
+{
+  "video_id": "Eql7pOJWh-8",
+  "duration_seconds": 71,
+  "wps": 3.85,
+  "total_words": 273,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 1087
+  },
+  "hook": {
+    "type": "question",
+    "text": "बिना एग्जाम के भी गवर्नमेंट जॉब मिल जाती है। आपको पता है? बहुत सारे लोगों को नहीं पता होगा कि बिना एग्जाम दिए भी गवर्नमेंट जॉब मिल जाती है। सो इस वीडियो में मैं"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "एक्टिव रहना। सो, वीडियो पसंद आई तो ज्यादा से ज्यादा लोगों के साथ शेयर कर देना, एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "आपको",
+      "count": 14
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "पे",
+      "count": 9
+    },
+    {
+      "word": "यहां",
+      "count": 7
+    },
+    {
+      "word": "पर",
+      "count": 7
+    },
+    {
+      "word": "जॉब्स",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 5
+    },
+    {
+      "word": "मिल",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "अप्लाई",
+      "count": 4
+    },
+    {
+      "word": "एग्जाम",
+      "count": 3
+    },
+    {
+      "word": "जॉब",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पे आपको",
+      "count": 8
+    },
+    {
+      "phrase": "यहां पे",
+      "count": 6
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "गवर्नमेंट जॉब्स",
+      "count": 3
+    },
+    {
+      "phrase": "बिना एग्जाम",
+      "count": 2
+    },
+    {
+      "phrase": "भी गवर्नमेंट",
+      "count": 2
+    },
+    {
+      "phrase": "गवर्नमेंट जॉब",
+      "count": 2
+    },
+    {
+      "phrase": "जॉब मिल",
+      "count": 2
+    },
+    {
+      "phrase": "मिल जाती",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

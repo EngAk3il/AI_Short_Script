@@ -1,0 +1,148 @@
+{
+  "video_id": "5Wx8qjjbgJM",
+  "duration_seconds": 54,
+  "wps": 3.26,
+  "total_words": 176,
+  "language_mix": {
+    "hindi": 96.0,
+    "english": 4.0,
+    "total_chars": 703
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैं पेट्रोल पंप से फ्री में पेट्रोल भराती हूं क्योंकि मैं स्मार्ट हूं और जो लोग स्मार्ट होते हैं वो कैश या यूपीआई से पेमेंट नहीं करते पेट्रोल की। क्योंकि"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "डीएम में भेज दूंगी। एंड ऐसे ही अपडेटेड रहने के लिए पिनहेली को फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "पेट्रोल",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "क्रेडिट",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "कार्ड",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "फ्यूल",
+      "count": 4
+    },
+    {
+      "word": "कार्ड्स",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "क्योंकि",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "महीने",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "फ्री",
+      "count": 2
+    },
+    {
+      "word": "हूं",
+      "count": 2
+    },
+    {
+      "word": "स्मार्ट",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "क्रेडिट कार्ड",
+      "count": 3
+    },
+    {
+      "phrase": "फ्यूल क्रेडिट",
+      "count": 2
+    },
+    {
+      "phrase": "क्रेडिट कार्ड्स",
+      "count": 2
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 2
+    },
+    {
+      "phrase": "का पेट्रोल",
+      "count": 2
+    },
+    {
+      "phrase": "हो तो",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "मैं पेट्रोल",
+      "count": 1
+    },
+    {
+      "phrase": "पेट्रोल पंप",
+      "count": 1
+    },
+    {
+      "phrase": "पंप से",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "xoN8g7VugpM",
+  "duration_seconds": 55,
+  "wps": 3.36,
+  "total_words": 185,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 618
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हमें लगता है सक्सेस का ग्राफ ऐसा है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इयर्स अहेड ऑफ़ एवरी बडी एल्स"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 8
+    },
+    {
+      "word": "इज",
+      "count": 6
+    },
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "इट",
+      "count": 6
+    },
+    {
+      "word": "दैट",
+      "count": 6
+    },
+    {
+      "word": "ऑफ",
+      "count": 5
+    },
+    {
+      "word": "इन",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "पुटिंग",
+      "count": 4
+    },
+    {
+      "word": "बट",
+      "count": 4
+    },
+    {
+      "word": "10",
+      "count": 4
+    },
+    {
+      "word": "इयर्स",
+      "count": 4
+    },
+    {
+      "word": "टू",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "गोना",
+      "count": 3
+    },
+    {
+      "word": "सक्सेस",
+      "count": 2
+    },
+    {
+      "word": "दिस",
+      "count": 2
+    },
+    {
+      "word": "टाइम",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर रहे",
+      "count": 4
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 4
+    },
+    {
+      "phrase": "पुटिंग इन",
+      "count": 4
+    },
+    {
+      "phrase": "10 इयर्स",
+      "count": 4
+    },
+    {
+      "phrase": "हो कर",
+      "count": 3
+    },
+    {
+      "phrase": "ऑफ टाइम",
+      "count": 2
+    },
+    {
+      "phrase": "यू पुटिंग",
+      "count": 2
+    },
+    {
+      "phrase": "यू आर",
+      "count": 2
+    },
+    {
+      "phrase": "आफ्टर दैट",
+      "count": 2
+    },
+    {
+      "phrase": "इट टेक्स",
+      "count": 2
+    }
+  ],
+  "segment_count": 21
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "rz_mp3l9ikE",
+  "duration_seconds": 36,
+  "wps": 3.58,
+  "total_words": 129,
+  "language_mix": {
+    "hindi": 98.5,
+    "english": 1.5,
+    "total_chars": 523
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या आपको पता है सेटो डॉट कुक्कर और अंकल चिप्स एक ही कंपनी के प्रोडक्ट्स हैं एवं लेस कुरकुरे लिप्टन accofeno और ट्रॉपिकना भी इसी कंपनी के प्रोडक्ट्स हैं और वो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आधे से ज्यादा रेवेन्यू आता"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "पेप्सी",
+      "count": 5
+    },
+    {
+      "word": "कंपनी",
+      "count": 4
+    },
+    {
+      "word": "सॉफ्ट",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "प्रोडक्ट्स",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "ड्रिंक",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "फूड",
+      "count": 2
+    },
+    {
+      "word": "ड्रिंक्स",
+      "count": 2
+    },
+    {
+      "word": "स्नैक्स",
+      "count": 2
+    },
+    {
+      "word": "बिजनेस",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कंपनी के",
+      "count": 2
+    },
+    {
+      "phrase": "के प्रोडक्ट्स",
+      "count": 2
+    },
+    {
+      "phrase": "प्रोडक्ट्स हैं",
+      "count": 2
+    },
+    {
+      "phrase": "सॉफ्ट ड्रिंक",
+      "count": 2
+    },
+    {
+      "phrase": "सॉफ्ट ड्रिंक्स",
+      "count": 2
+    },
+    {
+      "phrase": "से पेप्सी",
+      "count": 2
+    },
+    {
+      "phrase": "स्नैक्स बिजनेस",
+      "count": 2
+    },
+    {
+      "phrase": "क्या आपको",
+      "count": 1
+    },
+    {
+      "phrase": "आपको पता",
+      "count": 1
+    },
+    {
+      "phrase": "पता है",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

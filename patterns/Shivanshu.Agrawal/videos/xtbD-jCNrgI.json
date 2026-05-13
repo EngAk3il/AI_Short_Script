@@ -1,0 +1,148 @@
+{
+  "video_id": "xtbD-jCNrgI",
+  "duration_seconds": 67,
+  "wps": 3.46,
+  "total_words": 232,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 948
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "विराट कोहली का यह बैंड उनका सीक्रेट वेपन है। इसे बनाया है वूप कंपनी ने जिसकी वैल्यू्यूएशन आज 300 करोड़ हो गई है। वप"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रिकवरी बहुत अच्छी है और आज एथलीट को हार्ड ट्रेनिंग करनी चाहिए। इस बैंड के सारे इंसाइड्स केवल ऐप में दिखते हैं। खुद की कोई स्क्रीन नहीं है ताकि यह हल्की"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "रिकवरी",
+      "count": 4
+    },
+    {
+      "word": "बॉडी",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "बैंड",
+      "count": 3
+    },
+    {
+      "word": "वूप",
+      "count": 3
+    },
+    {
+      "word": "आज",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "ट्रेनिंग",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हार्ट रेट",
+      "count": 2
+    },
+    {
+      "phrase": "से भी",
+      "count": 2
+    },
+    {
+      "phrase": "भी ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    },
+    {
+      "phrase": "करने पर",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "फुल्ली रिकवर्ड",
+      "count": 2
+    },
+    {
+      "phrase": "विराट कोहली",
+      "count": 1
+    },
+    {
+      "phrase": "कोहली का",
+      "count": 1
+    },
+    {
+      "phrase": "का यह",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

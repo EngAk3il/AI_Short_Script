@@ -1,0 +1,148 @@
+{
+  "video_id": "n61uZDqxyEA",
+  "duration_seconds": 62,
+  "wps": 2.39,
+  "total_words": 148,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 818
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Big news for [music] Indian"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "rewarding."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 9
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "companies",
+      "count": 4
+    },
+    {
+      "word": "are",
+      "count": 4
+    },
+    {
+      "word": "manufacturing",
+      "count": 3
+    },
+    {
+      "word": "pmi",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "india",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "rising",
+      "count": 2
+    },
+    {
+      "word": "global",
+      "count": 2
+    },
+    {
+      "word": "products",
+      "count": 2
+    },
+    {
+      "word": "big",
+      "count": 1
+    },
+    {
+      "word": "news",
+      "count": 1
+    },
+    {
+      "word": "indian",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "companies are",
+      "count": 2
+    },
+    {
+      "phrase": "big news",
+      "count": 1
+    },
+    {
+      "phrase": "news for",
+      "count": 1
+    },
+    {
+      "phrase": "for music",
+      "count": 1
+    },
+    {
+      "phrase": "music indian",
+      "count": 1
+    },
+    {
+      "phrase": "indian entrepreneurs",
+      "count": 1
+    },
+    {
+      "phrase": "entrepreneurs india",
+      "count": 1
+    },
+    {
+      "phrase": "india just",
+      "count": 1
+    },
+    {
+      "phrase": "just recorded",
+      "count": 1
+    },
+    {
+      "phrase": "recorded its",
+      "count": 1
+    }
+  ],
+  "segment_count": 29
+}

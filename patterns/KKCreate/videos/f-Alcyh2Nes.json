@@ -1,0 +1,148 @@
+{
+  "video_id": "f-Alcyh2Nes",
+  "duration_seconds": 55,
+  "wps": 1.45,
+  "total_words": 80,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 290
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह पहाड़ हैं साउथ इंडिया के।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मुन्नार"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "चाय",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "लीव्स",
+      "count": 3
+    },
+    {
+      "word": "पहाड़",
+      "count": 2
+    },
+    {
+      "word": "यहीं",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 1
+    },
+    {
+      "word": "साउथ",
+      "count": 1
+    },
+    {
+      "word": "इंडिया",
+      "count": 1
+    },
+    {
+      "word": "के",
+      "count": 1
+    },
+    {
+      "word": "होती",
+      "count": 1
+    },
+    {
+      "word": "दुनिया",
+      "count": 1
+    },
+    {
+      "word": "हाईएस्ट",
+      "count": 1
+    },
+    {
+      "word": "खेती",
+      "count": 1
+    },
+    {
+      "word": "पूरे",
+      "count": 1
+    },
+    {
+      "word": "टी",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "चाय की",
+      "count": 2
+    },
+    {
+      "phrase": "लीव्स से",
+      "count": 2
+    },
+    {
+      "phrase": "यह पहाड़",
+      "count": 1
+    },
+    {
+      "phrase": "पहाड़ हैं",
+      "count": 1
+    },
+    {
+      "phrase": "हैं साउथ",
+      "count": 1
+    },
+    {
+      "phrase": "साउथ इंडिया",
+      "count": 1
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 1
+    },
+    {
+      "phrase": "के यहीं",
+      "count": 1
+    },
+    {
+      "phrase": "यहीं होती",
+      "count": 1
+    },
+    {
+      "phrase": "होती है",
+      "count": 1
+    }
+  ],
+  "segment_count": 14
+}

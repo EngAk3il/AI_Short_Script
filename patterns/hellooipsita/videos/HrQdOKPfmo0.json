@@ -1,0 +1,148 @@
+{
+  "video_id": "HrQdOKPfmo0",
+  "duration_seconds": 48,
+  "wps": 2.17,
+  "total_words": 104,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 357
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "और वाचिंग स्टोरीज फर्स्ट थिंग इन द मॉर्निंग इज लाइक अलाइन 50 पीपल इन टू योर रूम इन टू योर बेडरूम बिकॉज दिस स्टोरीज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ओवर दैट"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "इन",
+      "count": 8
+    },
+    {
+      "word": "यू",
+      "count": 7
+    },
+    {
+      "word": "टू",
+      "count": 6
+    },
+    {
+      "word": "मॉर्निंग",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "योर",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "स्टोरीज",
+      "count": 2
+    },
+    {
+      "word": "लाइक",
+      "count": 2
+    },
+    {
+      "word": "दिस",
+      "count": 2
+    },
+    {
+      "word": "ऑर्डर",
+      "count": 2
+    },
+    {
+      "word": "नॉट",
+      "count": 2
+    },
+    {
+      "word": "मे",
+      "count": 2
+    },
+    {
+      "word": "बी",
+      "count": 2
+    },
+    {
+      "word": "सी",
+      "count": 2
+    },
+    {
+      "word": "समथिंग",
+      "count": 2
+    },
+    {
+      "word": "डोंट",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 1
+    },
+    {
+      "word": "वाचिंग",
+      "count": 1
+    },
+    {
+      "word": "फर्स्ट",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इन द",
+      "count": 3
+    },
+    {
+      "phrase": "द मॉर्निंग",
+      "count": 3
+    },
+    {
+      "phrase": "इन टू",
+      "count": 2
+    },
+    {
+      "phrase": "टू योर",
+      "count": 2
+    },
+    {
+      "phrase": "इन ऑर्डर",
+      "count": 2
+    },
+    {
+      "phrase": "ऑर्डर टू",
+      "count": 2
+    },
+    {
+      "phrase": "मे बी",
+      "count": 2
+    },
+    {
+      "phrase": "बी यू",
+      "count": 2
+    },
+    {
+      "phrase": "यू सी",
+      "count": 2
+    },
+    {
+      "phrase": "सी समथिंग",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

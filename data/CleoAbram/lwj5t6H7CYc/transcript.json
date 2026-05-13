@@ -1,0 +1,37 @@
+{
+  "video_id": "lwj5t6H7CYc",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 7,
+      "text": "This tiny device is changing how we navigate the world using quantum physics rather than GPS. And one day you might"
+    },
+    {
+      "start": 7,
+      "duration": 8,
+      "text": "fly in a plane that uses this. With normal GPS, a pilot needs four separate satellites to figure out exactly where they are in the sky. But this device"
+    },
+    {
+      "start": 15,
+      "duration": 11,
+      "text": "works all on its own. It's filled with atoms that act like compass needles, and they're all sensitive to Earth's magnetic field. And Earth's magnetic field is slightly different everywhere."
+    },
+    {
+      "start": 26,
+      "duration": 8,
+      "text": "So it acts like a fingerprint for a specific location. So, as the plane flies over an area, the device measures how much the atoms move, recording the"
+    },
+    {
+      "start": 34,
+      "duration": 7,
+      "text": "magnetic fingerprint and comparing it to maps that we already have of Earth's magnetic field to determine exactly where the plane is. No satellites"
+    },
+    {
+      "start": 41,
+      "duration": 3.0,
+      "text": "necessary. So for more optimistic science and tech stories, subscribe."
+    }
+  ]
+}

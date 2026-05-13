@@ -1,0 +1,148 @@
+{
+  "video_id": "Fjb2_nmckTc",
+  "duration_seconds": 104,
+  "wps": 3.43,
+  "total_words": 357,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 1397
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एफ 222-23, यू आर जेनेटिंग अ रेवेन्यू ऑफ़ 600 करोड़, एंड फ्रॉम 600 करोड़, यू वेंट डाउन आल द वे टू ज़ीरो, एंड यू हैव टू शट डाउन द कंपनी। उस टाइम तो मैं घोड़े पे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आपके फैमिली ने कैसे रियेक्ट किया? आपके दोस्तों ने कैसे रिएक्ट किया और आपके इन्वेस्टर्स ने कैसे रिएक्ट किया?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "टू",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "आई",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "हैव",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "यूनिकॉर्न",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "सर",
+      "count": 4
+    },
+    {
+      "word": "काम",
+      "count": 4
+    },
+    {
+      "word": "कैसे",
+      "count": 4
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हैव टू",
+      "count": 3
+    },
+    {
+      "phrase": "के साथ",
+      "count": 3
+    },
+    {
+      "phrase": "काम करा",
+      "count": 3
+    },
+    {
+      "phrase": "ने कैसे",
+      "count": 3
+    },
+    {
+      "phrase": "600 करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "बिकम द",
+      "count": 2
+    },
+    {
+      "phrase": "ब्यूटी यूनिकॉर्न",
+      "count": 2
+    },
+    {
+      "phrase": "7000 करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "इस एपिसोड",
+      "count": 2
+    },
+    {
+      "phrase": "आई हैव",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

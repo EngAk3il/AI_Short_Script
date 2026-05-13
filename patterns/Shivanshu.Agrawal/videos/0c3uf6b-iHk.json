@@ -1,0 +1,148 @@
+{
+  "video_id": "0c3uf6b-iHk",
+  "duration_seconds": 61,
+  "wps": 3.72,
+  "total_words": 227,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 874
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "क्रेडिट कार्ड के बारे में तीन कमल के फैक्ट्स नंबर वैन आपके क्रेडिट कार्ड नंबर की पहली डिजिटल बताती है की आपका कार्ड किस टाइप के इंस्टीट्यूशन ने इशू किया है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पेमेंट बाद में कर सा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "क्रेडिट",
+      "count": 7
+    },
+    {
+      "word": "कार्ड",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "किया",
+      "count": 5
+    },
+    {
+      "word": "नंबर",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "इशू",
+      "count": 4
+    },
+    {
+      "word": "या",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "दे",
+      "count": 3
+    },
+    {
+      "word": "बिल",
+      "count": 3
+    },
+    {
+      "word": "वैन",
+      "count": 2
+    },
+    {
+      "word": "डिजिटल",
+      "count": 2
+    },
+    {
+      "word": "तू",
+      "count": 2
+    },
+    {
+      "word": "थ्री",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "क्रेडिट कार्ड",
+      "count": 5
+    },
+    {
+      "phrase": "ने इशू",
+      "count": 4
+    },
+    {
+      "phrase": "इशू किया",
+      "count": 4
+    },
+    {
+      "phrase": "किया है",
+      "count": 4
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "तो किसी",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "है नंबर",
+      "count": 2
+    },
+    {
+      "phrase": "दे के",
+      "count": 2
+    },
+    {
+      "phrase": "टाइम पे",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

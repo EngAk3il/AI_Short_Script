@@ -1,0 +1,149 @@
+{
+  "video_id": "oUK-kJEPjR0",
+  "duration_seconds": 44,
+  "wps": 4.23,
+  "total_words": 186,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 677
+  },
+  "hook": {
+    "type": "statement",
+    "text": "स्वेचा वगैरह पसंद ऑलमोस्ट सबको होता है पर इसको बनाते कैसे कभी सोचा आपने चलो देखते हैं एक बार ये रहा बाबा आदम के जमाने का मिक्सर ग्राइंडर इसने सोए को पीस दिया अपने प्यारे प्यारे हाथ यूज करें फिर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सच में तमाशा कर रही है हमारे परिवार की सेहत हमारे सेहत के साथ सच में तमाशा हो रहा है डिटेल डॉक्यूमेंट्री बनाई मैंने अभी"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "ये",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "रहा",
+      "count": 5
+    },
+    {
+      "word": "सोया",
+      "count": 5
+    },
+    {
+      "word": "चाप",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "सारा",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    },
+    {
+      "word": "सेहत",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "सोए",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "प्यारे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "और ये",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "सोया चाप",
+      "count": 3
+    },
+    {
+      "phrase": "के साथ",
+      "count": 3
+    },
+    {
+      "phrase": "ये रहा",
+      "count": 2
+    },
+    {
+      "phrase": "सोए को",
+      "count": 2
+    },
+    {
+      "phrase": "हाथ यूज",
+      "count": 2
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "सारा सोया",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

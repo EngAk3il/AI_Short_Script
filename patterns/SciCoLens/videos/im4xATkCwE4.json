@@ -1,0 +1,148 @@
+{
+  "video_id": "im4xATkCwE4",
+  "duration_seconds": 84,
+  "wps": 3.81,
+  "total_words": 320,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1223
+  },
+  "hook": {
+    "type": "question",
+    "text": "स्क्रीनंस है उसमें से बहुत ज्यादा हार्मफुल ब्लू लाइट निकलता है। तो यह आइज को कैसे इफेक्ट?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हैज़ नो रोल। ओवर पब्लिसाइज करके, ओवर एडवरटाइज करके एक जबरदस्ती का प्रॉब्लम क्रिएट करा गया है जो एक्चुअली एक्सिस्ट ही नहीं करता है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "ब्लू",
+      "count": 13
+    },
+    {
+      "word": "लाइट",
+      "count": 13
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "वो",
+      "count": 7
+    },
+    {
+      "word": "पे",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "नहीं",
+      "count": 6
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "फिल्टर",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "मसल्स",
+      "count": 4
+    },
+    {
+      "word": "इज़",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "रही",
+      "count": 3
+    },
+    {
+      "word": "क्या",
+      "count": 3
+    },
+    {
+      "word": "कंप्यूटर",
+      "count": 3
+    },
+    {
+      "word": "स्ट्रेन",
+      "count": 3
+    },
+    {
+      "word": "जब",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ब्लू लाइट",
+      "count": 13
+    },
+    {
+      "phrase": "लाइट फिल्टर",
+      "count": 5
+    },
+    {
+      "phrase": "है वो",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "कंप्यूटर पे",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "आइज को",
+      "count": 2
+    },
+    {
+      "phrase": "से निकल",
+      "count": 2
+    },
+    {
+      "phrase": "निकल रही",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

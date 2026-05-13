@@ -1,0 +1,148 @@
+{
+  "video_id": "KVAFwmZskH4",
+  "duration_seconds": 77,
+  "wps": 3.19,
+  "total_words": 246,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 1008
+  },
+  "hook": {
+    "type": "statement",
+    "text": "फोन का ब्लूटूथ एक ऐसे राजा से इंस्पायर्ड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के ब्लूटूथ का लोगो।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 12
+    },
+    {
+      "word": "एक",
+      "count": 10
+    },
+    {
+      "word": "था",
+      "count": 9
+    },
+    {
+      "word": "ब्लूटूथ",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "राजा",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "नाम",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "हराल्ड",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "इसीलिए",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "टेक्नोलॉजी",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "इन्हें",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हराल्ड ब्लूटूथ",
+      "count": 3
+    },
+    {
+      "phrase": "राजा से",
+      "count": 2
+    },
+    {
+      "phrase": "वायरलेस टेक्नोलॉजी",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "जिम कार्डेक",
+      "count": 2
+    },
+    {
+      "phrase": "ब्लूटूथ के",
+      "count": 2
+    },
+    {
+      "phrase": "को यूनाइट",
+      "count": 2
+    },
+    {
+      "phrase": "ब्लूटूथ का",
+      "count": 2
+    },
+    {
+      "phrase": "का लोगो",
+      "count": 2
+    },
+    {
+      "phrase": "वाइकिंग रूंस",
+      "count": 2
+    }
+  ],
+  "segment_count": 33
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "C79RmKseccE",
+  "duration_seconds": 58,
+  "wps": 3.09,
+  "total_words": 179,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 690
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सर रतन टाटा 165 करोड़ का हॉस्पिटल बना रहे हैं एनिमल्स के लिए कई साल पहले सर रतन टाटा के पेट डॉग को एक इंजरी के चलते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जरूरी है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "हॉस्पिटल",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "सर",
+      "count": 4
+    },
+    {
+      "word": "रतन",
+      "count": 4
+    },
+    {
+      "word": "टाटा",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "जॉइंट",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "उन्हें",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "एनिमल्स",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "पेट",
+      "count": 2
+    },
+    {
+      "word": "डॉग",
+      "count": 2
+    },
+    {
+      "word": "थी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सर रतन",
+      "count": 4
+    },
+    {
+      "phrase": "रतन टाटा",
+      "count": 4
+    },
+    {
+      "phrase": "डॉग को",
+      "count": 2
+    },
+    {
+      "phrase": "को एक",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 2
+    },
+    {
+      "phrase": "में एक",
+      "count": 2
+    },
+    {
+      "phrase": "जॉइंट को",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "टाटा 165",
+      "count": 1
+    },
+    {
+      "phrase": "165 करोड़",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

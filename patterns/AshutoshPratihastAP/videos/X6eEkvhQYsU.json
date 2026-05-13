@@ -1,0 +1,148 @@
+{
+  "video_id": "X6eEkvhQYsU",
+  "duration_seconds": 63,
+  "wps": 3.57,
+  "total_words": 225,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 874
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक कम्युनिटी सैकड़ो ट्रेडीशंस और लाखों"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जरूर करना जय हिंद"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "धारावी",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "लोगों",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "पहुंच",
+      "count": 3
+    },
+    {
+      "word": "सब",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "धारा",
+      "count": 2
+    },
+    {
+      "word": "सबसे",
+      "count": 2
+    },
+    {
+      "word": "हुए",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "धारावी के",
+      "count": 3
+    },
+    {
+      "phrase": "धारा भी",
+      "count": 2
+    },
+    {
+      "phrase": "धारावी में",
+      "count": 2
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "धारावी से",
+      "count": 2
+    },
+    {
+      "phrase": "और ये",
+      "count": 2
+    },
+    {
+      "phrase": "वो अपनी",
+      "count": 2
+    },
+    {
+      "phrase": "ये सब",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों के",
+      "count": 2
+    }
+  ],
+  "segment_count": 29
+}

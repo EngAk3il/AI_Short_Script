@@ -1,0 +1,148 @@
+{
+  "video_id": "oCp0fJ624so",
+  "duration_seconds": 57,
+  "wps": 3.33,
+  "total_words": 190,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 757
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हाउ डू यू मेक योर प्लेस वर्थदीर्थी इनफ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "क्रिएटिव पीपल एंजॉय दट लैक ऑफ़ फ्रेमवर्क।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 10
+    },
+    {
+      "word": "टू",
+      "count": 7
+    },
+    {
+      "word": "एंड",
+      "count": 7
+    },
+    {
+      "word": "ऑफ़",
+      "count": 7
+    },
+    {
+      "word": "राइट",
+      "count": 5
+    },
+    {
+      "word": "पर",
+      "count": 5
+    },
+    {
+      "word": "पीपल",
+      "count": 4
+    },
+    {
+      "word": "फ्रीडम",
+      "count": 4
+    },
+    {
+      "word": "वर्क",
+      "count": 3
+    },
+    {
+      "word": "वेयर",
+      "count": 3
+    },
+    {
+      "word": "जहां",
+      "count": 3
+    },
+    {
+      "word": "बी",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "हैव",
+      "count": 2
+    },
+    {
+      "word": "स्पेस",
+      "count": 2
+    },
+    {
+      "word": "क्रिएटिव",
+      "count": 2
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "लैक",
+      "count": 2
+    },
+    {
+      "word": "थॉट",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू यू",
+      "count": 6
+    },
+    {
+      "phrase": "जहां पर",
+      "count": 3
+    },
+    {
+      "phrase": "लैक ऑफ़",
+      "count": 2
+    },
+    {
+      "phrase": "फ्रीडम ऑफ़",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ़ थॉट",
+      "count": 2
+    },
+    {
+      "phrase": "आर वैरी",
+      "count": 2
+    },
+    {
+      "phrase": "देख लो",
+      "count": 2
+    },
+    {
+      "phrase": "वहां पर",
+      "count": 2
+    },
+    {
+      "phrase": "द वर्क",
+      "count": 2
+    },
+    {
+      "phrase": "विल बी",
+      "count": 2
+    }
+  ],
+  "segment_count": 25
+}

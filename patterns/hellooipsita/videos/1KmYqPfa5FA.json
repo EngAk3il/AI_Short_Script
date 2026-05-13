@@ -1,0 +1,148 @@
+{
+  "video_id": "1KmYqPfa5FA",
+  "duration_seconds": 14,
+  "wps": 2.64,
+  "total_words": 37,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 146
+  },
+  "hook": {
+    "type": "question",
+    "text": "it is okay to have a weakness what makes a difference is being consciously aware of it and recognizing the different ways"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "in which it is a hurdle to the kind of life you want to live"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "okay",
+      "count": 1
+    },
+    {
+      "word": "have",
+      "count": 1
+    },
+    {
+      "word": "weakness",
+      "count": 1
+    },
+    {
+      "word": "what",
+      "count": 1
+    },
+    {
+      "word": "makes",
+      "count": 1
+    },
+    {
+      "word": "difference",
+      "count": 1
+    },
+    {
+      "word": "being",
+      "count": 1
+    },
+    {
+      "word": "consciously",
+      "count": 1
+    },
+    {
+      "word": "aware",
+      "count": 1
+    },
+    {
+      "word": "and",
+      "count": 1
+    },
+    {
+      "word": "recognizing",
+      "count": 1
+    },
+    {
+      "word": "different",
+      "count": 1
+    },
+    {
+      "word": "ways",
+      "count": 1
+    },
+    {
+      "word": "in",
+      "count": 1
+    },
+    {
+      "word": "which",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "it is",
+      "count": 2
+    },
+    {
+      "phrase": "is okay",
+      "count": 1
+    },
+    {
+      "phrase": "okay to",
+      "count": 1
+    },
+    {
+      "phrase": "to have",
+      "count": 1
+    },
+    {
+      "phrase": "have a",
+      "count": 1
+    },
+    {
+      "phrase": "a weakness",
+      "count": 1
+    },
+    {
+      "phrase": "weakness what",
+      "count": 1
+    },
+    {
+      "phrase": "what makes",
+      "count": 1
+    },
+    {
+      "phrase": "makes a",
+      "count": 1
+    },
+    {
+      "phrase": "a difference",
+      "count": 1
+    }
+  ],
+  "segment_count": 2
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "GBtQnM9Wzvg",
+  "duration_seconds": 102,
+  "wps": 3.22,
+  "total_words": 328,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1263
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इंडिया में 80% ज्यादा फैमिली बिज़नेसेस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फायर फॉर शो?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "यू",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "टू",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "बिज़नेस",
+      "count": 5
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "व्हाट",
+      "count": 4
+    },
+    {
+      "word": "शुड",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "सैलरी",
+      "count": 4
+    },
+    {
+      "word": "बिज़नेसेस",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "बी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "व्हाट काइंड",
+      "count": 3
+    },
+    {
+      "phrase": "काइंड ऑफ",
+      "count": 3
+    },
+    {
+      "phrase": "ऑफ पीपल",
+      "count": 3
+    },
+    {
+      "phrase": "पीपल शुड",
+      "count": 3
+    },
+    {
+      "phrase": "शुड यू",
+      "count": 3
+    },
+    {
+      "phrase": "फैमिली बिज़नेसेस",
+      "count": 2
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "के बारे",
+      "count": 2
+    }
+  ],
+  "segment_count": 48
+}

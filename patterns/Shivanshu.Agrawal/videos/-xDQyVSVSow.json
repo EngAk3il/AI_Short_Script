@@ -1,0 +1,148 @@
+{
+  "video_id": "-xDQyVSVSow",
+  "duration_seconds": 66,
+  "wps": 3.3,
+  "total_words": 218,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 830
+  },
+  "hook": {
+    "type": "statement",
+    "text": "क्रिकेट का बैट शुरुआत में ऐसा नहीं बल्कि ऐसा दिखता था। बिल्कुल एक हॉकी स्टिक की तरह। एक्चुअली 16-20 में जब क्रिकेट की"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "गया। उन्हें थोड़ा हल्का बनाया गया और इवेंचुअली आज के बैट्स की चौड़ाई ऊपर से लेकर नीचे तक एक जैसी हो"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "बैट",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "बॉलिंग",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "ऐसा",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "ऊपर",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "बॉल",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "यूज",
+      "count": 3
+    },
+    {
+      "word": "होती",
+      "count": 3
+    },
+    {
+      "word": "आर्म",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बैट का",
+      "count": 4
+    },
+    {
+      "phrase": "बॉल को",
+      "count": 2
+    },
+    {
+      "phrase": "यूज किया",
+      "count": 2
+    },
+    {
+      "phrase": "अभी भी",
+      "count": 2
+    },
+    {
+      "phrase": "अंडर आर्म",
+      "count": 2
+    },
+    {
+      "phrase": "होती थी",
+      "count": 2
+    },
+    {
+      "phrase": "किया जा",
+      "count": 2
+    },
+    {
+      "phrase": "होने लगी",
+      "count": 2
+    },
+    {
+      "phrase": "आर्म बॉलिंग",
+      "count": 2
+    },
+    {
+      "phrase": "के चलते",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

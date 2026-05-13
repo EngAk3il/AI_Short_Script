@@ -1,0 +1,150 @@
+{
+  "video_id": "gpYyeBIA38A",
+  "duration_seconds": 60,
+  "wps": 4.48,
+  "total_words": 269,
+  "language_mix": {
+    "hindi": 95.9,
+    "english": 4.1,
+    "total_chars": 972
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भाई ग्रोसरी ऑर्डर करनी हो या फिर कैब बुक करनी हो हर काम के लिए ना इन तीन से चार एप्स के बीच में शफल करके ना प्राइस को कंपेयर करना पड़ता है क्योंकि कभी किसी ऐप"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "लिंक तुम्हें मेरे बायो के अंदर मिल जाएगा।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "आपको",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "एप्स",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "स्मार्ट",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "ग्रोसरी",
+      "count": 3
+    },
+    {
+      "word": "कैब",
+      "count": 3
+    },
+    {
+      "word": "बुक",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "कंपेयर",
+      "count": 3
+    },
+    {
+      "word": "ऐप",
+      "count": 3
+    },
+    {
+      "word": "ऊपर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ऐप के",
+      "count": 3
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 3
+    },
+    {
+      "phrase": "होता है",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "आपको एक",
+      "count": 3
+    },
+    {
+      "phrase": "करनी हो",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 2
+    },
+    {
+      "phrase": "कभी किसी",
+      "count": 2
+    },
+    {
+      "phrase": "किसी ऐप",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

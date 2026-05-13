@@ -1,0 +1,148 @@
+{
+  "video_id": "DfalmzBOoUg",
+  "duration_seconds": 61,
+  "wps": 3.38,
+  "total_words": 206,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 723
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जब आपने यह स्क्रैप का बिज़नेस शुरू करा,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पास भी कुछ पैसे हो गए थे। तो फैक्ट्री हमने ले ली।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "था",
+      "count": 6
+    },
+    {
+      "word": "फैक्ट्री",
+      "count": 5
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "उस",
+      "count": 5
+    },
+    {
+      "word": "आपने",
+      "count": 4
+    },
+    {
+      "word": "ले",
+      "count": 4
+    },
+    {
+      "word": "जाता",
+      "count": 4
+    },
+    {
+      "word": "लाख",
+      "count": 3
+    },
+    {
+      "word": "कंपनी",
+      "count": 3
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "गई",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "खरीदा",
+      "count": 3
+    },
+    {
+      "word": "मैंने",
+      "count": 3
+    },
+    {
+      "word": "हमारे",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "उनके",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जाता था",
+      "count": 4
+    },
+    {
+      "phrase": "गई थी",
+      "count": 2
+    },
+    {
+      "phrase": "हो गई",
+      "count": 2
+    },
+    {
+      "phrase": "उस कंपनी",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनी को",
+      "count": 2
+    },
+    {
+      "phrase": "आपने उस",
+      "count": 2
+    },
+    {
+      "phrase": "खरीद लिया",
+      "count": 2
+    },
+    {
+      "phrase": "ले जाता",
+      "count": 2
+    },
+    {
+      "phrase": "उस फैक्ट्री",
+      "count": 2
+    },
+    {
+      "phrase": "फैक्ट्री को",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

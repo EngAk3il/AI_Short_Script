@@ -1,0 +1,150 @@
+{
+  "video_id": "QvwfoIRPkmg",
+  "duration_seconds": 65,
+  "wps": 4.09,
+  "total_words": 266,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 1003
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये ब्रांड लिटरली मैगडी की मोनोपोली को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक्सपीरियंस करके जरूर देखना"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 13
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "ऑर्डर",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "आपको",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "अंदर",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "जाएगा",
+      "count": 4
+    },
+    {
+      "word": "मैगडी",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "सकते",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "एक्सपीरियंस",
+      "count": 3
+    },
+    {
+      "word": "आपके",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 5
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 4
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "आपके ऑर्डर",
+      "count": 2
+    },
+    {
+      "phrase": "टेबल के",
+      "count": 2
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "मिल जाएगा",
+      "count": 2
+    },
+    {
+      "phrase": "ये ब्रांड",
+      "count": 1
+    },
+    {
+      "phrase": "ब्रांड लिटरली",
+      "count": 1
+    }
+  ],
+  "segment_count": 33
+}

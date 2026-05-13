@@ -1,0 +1,148 @@
+{
+  "video_id": "ccNhoaNrqRk",
+  "duration_seconds": 42,
+  "wps": 2.81,
+  "total_words": 118,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 551
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "whenever you feel fear it is an"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "practice and develop those social skills"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 8
+    },
+    {
+      "word": "to",
+      "count": 8
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "you're",
+      "count": 4
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "whenever",
+      "count": 2
+    },
+    {
+      "word": "feel",
+      "count": 2
+    },
+    {
+      "word": "fear",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "be",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "have",
+      "count": 2
+    },
+    {
+      "word": "move",
+      "count": 2
+    },
+    {
+      "word": "go",
+      "count": 2
+    },
+    {
+      "word": "uncomfortable",
+      "count": 2
+    },
+    {
+      "word": "conversations",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "whenever you",
+      "count": 2
+    },
+    {
+      "phrase": "you feel",
+      "count": 2
+    },
+    {
+      "phrase": "feel fear",
+      "count": 2
+    },
+    {
+      "phrase": "for you",
+      "count": 2
+    },
+    {
+      "phrase": "to move",
+      "count": 2
+    },
+    {
+      "phrase": "fear it",
+      "count": 1
+    },
+    {
+      "phrase": "it is",
+      "count": 1
+    },
+    {
+      "phrase": "is an",
+      "count": 1
+    },
+    {
+      "phrase": "an indication",
+      "count": 1
+    },
+    {
+      "phrase": "indication that",
+      "count": 1
+    }
+  ],
+  "segment_count": 18
+}

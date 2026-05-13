@@ -1,0 +1,148 @@
+{
+  "video_id": "fs6izlNJmyI",
+  "duration_seconds": 77,
+  "wps": 3.3,
+  "total_words": 254,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1021
+  },
+  "hook": {
+    "type": "question",
+    "text": "कैसे किया इस ब्रांड ने 2.5 लाख से 250 करोड़ तक का सफर? ना कोई शो और ना कोई शो ऑफ। सिर्फ एक क्लियर विज़न था। एक ऐसे"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "लूं? बस बोलना जस्ट गो वि द फ्लो। लिंक मेरे चैनल के डिस्क्रिप्शन में है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "मैट्रेस",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "फ्लो",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "तक",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "इस",
+      "count": 2
+    },
+    {
+      "word": "ब्रांड",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "लाख",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फ्लो मैट्रेस",
+      "count": 3
+    },
+    {
+      "phrase": "लाख से",
+      "count": 2
+    },
+    {
+      "phrase": "ना कोई",
+      "count": 2
+    },
+    {
+      "phrase": "कोई शो",
+      "count": 2
+    },
+    {
+      "phrase": "भारत के",
+      "count": 2
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 2
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "कैसे किया",
+      "count": 1
+    },
+    {
+      "phrase": "किया इस",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

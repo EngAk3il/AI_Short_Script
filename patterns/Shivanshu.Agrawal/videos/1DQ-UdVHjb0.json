@@ -1,0 +1,148 @@
+{
+  "video_id": "1DQ-UdVHjb0",
+  "duration_seconds": 58,
+  "wps": 3.4,
+  "total_words": 197,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 856
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया का एक ऐसा फ्यूचर है स्टिक गांव जो डेवलपमेंट में बड़े-बड़े शेरों से भी आगे अहमदाबाद से 90 किलोमीटर दूर एक गांव है कुंसारी यहां पांच प्राइमरी स्कूल है जहां"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रिवॉल्यूशन लाया और इसी के चलते 2014"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "गांव",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "पूरे",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "होता",
+      "count": 2
+    },
+    {
+      "word": "लगाएं",
+      "count": 2
+    },
+    {
+      "word": "गए",
+      "count": 2
+    },
+    {
+      "word": "जगह-जगह",
+      "count": 2
+    },
+    {
+      "word": "इंश्योरेंस",
+      "count": 2
+    },
+    {
+      "word": "प्रोवाइड",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "पूरे गांव",
+      "count": 3
+    },
+    {
+      "phrase": "गांव में",
+      "count": 3
+    },
+    {
+      "phrase": "भी है",
+      "count": 3
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "लगाएं गए",
+      "count": 2
+    },
+    {
+      "phrase": "गए हैं",
+      "count": 2
+    },
+    {
+      "phrase": "ड्रिंकिंग वाटर",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया का",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

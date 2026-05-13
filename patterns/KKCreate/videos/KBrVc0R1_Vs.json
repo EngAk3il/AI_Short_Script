@@ -1,0 +1,148 @@
+{
+  "video_id": "KBrVc0R1_Vs",
+  "duration_seconds": 55,
+  "wps": 2.64,
+  "total_words": 145,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 583
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जिस दिन जीसस को बेरहमी से मारा, उसे गुड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंसाफ के साथ खड़े रहना।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "दिन",
+      "count": 3
+    },
+    {
+      "word": "जीसस",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "गुड",
+      "count": 3
+    },
+    {
+      "word": "फ्राइडे",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "कहते",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "क्रॉस",
+      "count": 2
+    },
+    {
+      "word": "उन्होंने",
+      "count": 2
+    },
+    {
+      "word": "प्रेम",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "उस",
+      "count": 2
+    },
+    {
+      "word": "अपनी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जीसस को",
+      "count": 2
+    },
+    {
+      "phrase": "जिस दिन",
+      "count": 1
+    },
+    {
+      "phrase": "दिन जीसस",
+      "count": 1
+    },
+    {
+      "phrase": "को बेरहमी",
+      "count": 1
+    },
+    {
+      "phrase": "बेरहमी से",
+      "count": 1
+    },
+    {
+      "phrase": "से मारा",
+      "count": 1
+    },
+    {
+      "phrase": "मारा उसे",
+      "count": 1
+    },
+    {
+      "phrase": "उसे गुड",
+      "count": 1
+    },
+    {
+      "phrase": "गुड क्यों",
+      "count": 1
+    },
+    {
+      "phrase": "क्यों कहते",
+      "count": 1
+    }
+  ],
+  "segment_count": 20
+}

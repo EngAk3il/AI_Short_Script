@@ -1,0 +1,148 @@
+{
+  "video_id": "IzA4iDxg-Iw",
+  "duration_seconds": 58,
+  "wps": 3.93,
+  "total_words": 228,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 928
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मैंने कौन-कौन से म्युचुअल फंड में कितना पैसा इन्वेस्ट किया है ये जानने के लिए इस वीडियो को एंड तक देखो तो मेरे पुट वॉल्यूम में टोटल चार फंड्स हैं पहला फंडा"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "रीजन और पोर्टफोलियो को बटोर बनाने की ऑपच्यरुनिटीज भी पता चल जाए लिंक इन डी प्रिंट कमेंट एंड चेक योर पोर्टफोलियो हेल्थ राइट"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "पोर्टफोलियो",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "फंड",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "टोटल",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "अपने",
+      "count": 4
+    },
+    {
+      "word": "म्युचुअल",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "मेरे",
+      "count": 3
+    },
+    {
+      "word": "फंड्स",
+      "count": 3
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "इन्वेस्ट",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "इस",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पोर्टफोलियो का",
+      "count": 4
+    },
+    {
+      "phrase": "अपने पोर्टफोलियो",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "में टोटल",
+      "count": 2
+    },
+    {
+      "phrase": "फंड जो",
+      "count": 2
+    },
+    {
+      "phrase": "जो मेरे",
+      "count": 2
+    },
+    {
+      "phrase": "मेरे टोटल",
+      "count": 2
+    },
+    {
+      "phrase": "टोटल पोर्टफोलियो",
+      "count": 2
+    },
+    {
+      "phrase": "फंड है",
+      "count": 2
+    },
+    {
+      "phrase": "है एक्सेस",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

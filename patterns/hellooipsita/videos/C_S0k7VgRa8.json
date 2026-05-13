@@ -1,0 +1,148 @@
+{
+  "video_id": "C_S0k7VgRa8",
+  "duration_seconds": 84,
+  "wps": 2.73,
+  "total_words": 229,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 923
+  },
+  "hook": {
+    "type": "question",
+    "text": "हाय। तुम आज भी लेट हो गए। आधे घंटे से वेट कर रही हूं मैं तुम्हारा। कितनी बार समझाना पड़ेगा यार? एंड आई गो थ्रू दिस ए्री"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बिफोर, इट्स टू लेट। डोंट ब्रेक इट जस्ट फिक्स इट।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "हूं",
+      "count": 7
+    },
+    {
+      "word": "इट",
+      "count": 7
+    },
+    {
+      "word": "एंड",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "इट्स",
+      "count": 5
+    },
+    {
+      "word": "मैं",
+      "count": 4
+    },
+    {
+      "word": "फ्री",
+      "count": 3
+    },
+    {
+      "word": "व्हाट",
+      "count": 3
+    },
+    {
+      "word": "लेट्स",
+      "count": 3
+    },
+    {
+      "word": "नॉट",
+      "count": 3
+    },
+    {
+      "word": "दे",
+      "count": 3
+    },
+    {
+      "word": "डोंट",
+      "count": 3
+    },
+    {
+      "word": "ब्रेक",
+      "count": 3
+    },
+    {
+      "word": "अप",
+      "count": 3
+    },
+    {
+      "word": "वन",
+      "count": 3
+    },
+    {
+      "word": "लेट",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "रही",
+      "count": 2
+    },
+    {
+      "word": "बार",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर रही",
+      "count": 2
+    },
+    {
+      "phrase": "रही हूं",
+      "count": 2
+    },
+    {
+      "phrase": "हूं मैं",
+      "count": 2
+    },
+    {
+      "phrase": "लेट्स सेंड",
+      "count": 2
+    },
+    {
+      "phrase": "थैंक यू",
+      "count": 2
+    },
+    {
+      "phrase": "डोंट ब्रेक",
+      "count": 2
+    },
+    {
+      "phrase": "ब्रेक अप",
+      "count": 2
+    },
+    {
+      "phrase": "अप बिकॉज़",
+      "count": 2
+    },
+    {
+      "phrase": "वन बिग",
+      "count": 2
+    },
+    {
+      "phrase": "वेयर टू",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

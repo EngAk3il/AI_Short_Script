@@ -1,0 +1,148 @@
+{
+  "video_id": "BkhK5Gdb7ZA",
+  "duration_seconds": 26,
+  "wps": 2.19,
+  "total_words": 57,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 198
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या चीज आपको सबसे ज्यादा जरूरी लगती है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बड़ा डॉक्टर बनने का सपना देखती"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "आदमी",
+      "count": 2
+    },
+    {
+      "word": "बड़ा",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 1
+    },
+    {
+      "word": "चीज",
+      "count": 1
+    },
+    {
+      "word": "आपको",
+      "count": 1
+    },
+    {
+      "word": "सबसे",
+      "count": 1
+    },
+    {
+      "word": "ज्यादा",
+      "count": 1
+    },
+    {
+      "word": "जरूरी",
+      "count": 1
+    },
+    {
+      "word": "लगती",
+      "count": 1
+    },
+    {
+      "word": "जीवन",
+      "count": 1
+    },
+    {
+      "word": "में",
+      "count": 1
+    },
+    {
+      "word": "क्यों",
+      "count": 1
+    },
+    {
+      "word": "रही",
+      "count": 1
+    },
+    {
+      "word": "आप",
+      "count": 1
+    },
+    {
+      "word": "कैसे",
+      "count": 1
+    },
+    {
+      "word": "बनाएगा",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "क्या चीज",
+      "count": 1
+    },
+    {
+      "phrase": "चीज आपको",
+      "count": 1
+    },
+    {
+      "phrase": "आपको सबसे",
+      "count": 1
+    },
+    {
+      "phrase": "सबसे ज्यादा",
+      "count": 1
+    },
+    {
+      "phrase": "ज्यादा जरूरी",
+      "count": 1
+    },
+    {
+      "phrase": "जरूरी लगती",
+      "count": 1
+    },
+    {
+      "phrase": "लगती है",
+      "count": 1
+    },
+    {
+      "phrase": "है जीवन",
+      "count": 1
+    },
+    {
+      "phrase": "जीवन में",
+      "count": 1
+    },
+    {
+      "phrase": "में क्यों",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

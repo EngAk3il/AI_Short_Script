@@ -1,0 +1,148 @@
+{
+  "video_id": "Vq2VheK0xjQ",
+  "duration_seconds": 68,
+  "wps": 3.57,
+  "total_words": 243,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 921
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर इंडियंस का सिविक सेंस इंप्रूव करना है तो जापान से सीखना पड़ेगा। इंडिया में हम सड़कों में कूड़ा फेंकते हैं। जगह-जगह गुटखा स्पिट करते हैं और पब्लिक प्लेसेस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "दूसरों की केयर करने का कल्चर। फिर 1945 के बाद बचपन से ही सिविक सेंस सिखाने के लिए स्कूल्स में स्टूडेंट्स के लिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 13
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "कोई",
+      "count": 5
+    },
+    {
+      "word": "अगर",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "जापान",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "थी",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "बाद",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "कल्चर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के बाद",
+      "count": 3
+    },
+    {
+      "phrase": "सिविक सेंस",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "में कोई",
+      "count": 2
+    },
+    {
+      "phrase": "सकती थी",
+      "count": 2
+    },
+    {
+      "phrase": "करने का",
+      "count": 2
+    },
+    {
+      "phrase": "का कल्चर",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "अगर इंडियंस",
+      "count": 1
+    },
+    {
+      "phrase": "इंडियंस का",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

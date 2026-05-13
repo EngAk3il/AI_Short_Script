@@ -1,0 +1,149 @@
+{
+  "video_id": "4_BFiHfB8kI",
+  "duration_seconds": 30,
+  "wps": 3.7,
+  "total_words": 111,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 483
+  },
+  "hook": {
+    "type": "question",
+    "text": "you've reached your friendship test unpopular opinion your true friends are not only those who stick with you in difficult times it's easy to support"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "them close because they are rare and you if your friend sent you this real they want to let you know that they are very grateful for the day that they met you"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 10
+    },
+    {
+      "word": "they",
+      "count": 5
+    },
+    {
+      "word": "your",
+      "count": 4
+    },
+    {
+      "word": "are",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "can",
+      "count": 3
+    },
+    {
+      "word": "them",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "friends",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "tell",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "you've",
+      "count": 1
+    },
+    {
+      "word": "reached",
+      "count": 1
+    },
+    {
+      "word": "friendship",
+      "count": 1
+    },
+    {
+      "word": "test",
+      "count": 1
+    },
+    {
+      "word": "unpopular",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "with you",
+      "count": 2
+    },
+    {
+      "phrase": "can you",
+      "count": 2
+    },
+    {
+      "phrase": "you tell",
+      "count": 2
+    },
+    {
+      "phrase": "tell them",
+      "count": 2
+    },
+    {
+      "phrase": "they are",
+      "count": 2
+    },
+    {
+      "phrase": "that they",
+      "count": 2
+    },
+    {
+      "phrase": "you've reached",
+      "count": 1
+    },
+    {
+      "phrase": "reached your",
+      "count": 1
+    },
+    {
+      "phrase": "your friendship",
+      "count": 1
+    },
+    {
+      "phrase": "friendship test",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

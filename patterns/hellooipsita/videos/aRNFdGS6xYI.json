@@ -1,0 +1,148 @@
+{
+  "video_id": "aRNFdGS6xYI",
+  "duration_seconds": 68,
+  "wps": 3.13,
+  "total_words": 213,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 795
+  },
+  "hook": {
+    "type": "question",
+    "text": "Have you ever fought with a loved one of"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "me, too."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": ">>",
+      "count": 11
+    },
+    {
+      "word": "you",
+      "count": 8
+    },
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "to",
+      "count": 6
+    },
+    {
+      "word": "with",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "have",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "cards",
+      "count": 4
+    },
+    {
+      "word": "me",
+      "count": 4
+    },
+    {
+      "word": "these",
+      "count": 4
+    },
+    {
+      "word": "relationship",
+      "count": 3
+    },
+    {
+      "word": "fights",
+      "count": 3
+    },
+    {
+      "word": "resolve",
+      "count": 3
+    },
+    {
+      "word": "way",
+      "count": 3
+    },
+    {
+      "word": "they",
+      "count": 3
+    },
+    {
+      "word": "know",
+      "count": 3
+    },
+    {
+      "word": "fought",
+      "count": 2
+    },
+    {
+      "word": "been",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "i have",
+      "count": 3
+    },
+    {
+      "phrase": "these cards",
+      "count": 3
+    },
+    {
+      "phrase": "have been",
+      "count": 2
+    },
+    {
+      "phrase": "in a",
+      "count": 2
+    },
+    {
+      "phrase": "relationship i",
+      "count": 2
+    },
+    {
+      "phrase": "with the",
+      "count": 2
+    },
+    {
+      "phrase": ">> and",
+      "count": 2
+    },
+    {
+      "phrase": "those fights",
+      "count": 2
+    },
+    {
+      "phrase": "a good",
+      "count": 2
+    },
+    {
+      "phrase": "let's fix",
+      "count": 2
+    }
+  ],
+  "segment_count": 35
+}

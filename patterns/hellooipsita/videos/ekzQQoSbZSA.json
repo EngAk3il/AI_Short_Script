@@ -1,0 +1,148 @@
+{
+  "video_id": "ekzQQoSbZSA",
+  "duration_seconds": 51,
+  "wps": 3.78,
+  "total_words": 193,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 665
+  },
+  "hook": {
+    "type": "question",
+    "text": "हिंदी में कोट था कल मैंने सुना अगर आपके लिए रिश्ता जरूरी है तो बात को भूल ओ और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "दैट यू हैव समथिंग टू से दैट यू आर नॉट सेइंग"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "अगर",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "चीज",
+      "count": 3
+    },
+    {
+      "word": "हैव",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "दिन",
+      "count": 3
+    },
+    {
+      "word": "आपके",
+      "count": 2
+    },
+    {
+      "word": "रिश्ता",
+      "count": 2
+    },
+    {
+      "word": "जरूरी",
+      "count": 2
+    },
+    {
+      "word": "बात",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू हैव",
+      "count": 3
+    },
+    {
+      "phrase": "दैट यू",
+      "count": 3
+    },
+    {
+      "phrase": "अगर आपके",
+      "count": 2
+    },
+    {
+      "phrase": "जरूरी है",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "हैव टू",
+      "count": 2
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 2
+    },
+    {
+      "phrase": "सामने से",
+      "count": 2
+    },
+    {
+      "phrase": "अगर मैं",
+      "count": 2
+    },
+    {
+      "phrase": "मैं इतने",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

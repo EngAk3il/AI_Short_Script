@@ -1,0 +1,148 @@
+{
+  "video_id": "kxq51_dNyrU",
+  "duration_seconds": 54,
+  "wps": 3.31,
+  "total_words": 179,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 762
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आसाम का यह नया एयरपोर्ट आपको सरप्राइज़ कर देगा। रिसेंटली पीएम मोदी ने गुवाहाटी के लोकप्रिय गोपीनाथ बोडलोई इंटरनेशनल एयरपोर्ट का नया टर्मिनल इनोगेट किया और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जाएंगी। बैगेज डिले होने पर स्टाफ को अलर्ट चला जाएगा और सभी के सभी एयरलाइंस,"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "एयरपोर्ट",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "चेक",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "ऑटोमेटिकली",
+      "count": 3
+    },
+    {
+      "word": "नया",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "टर्मिनल",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "मतलब",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "चेक इन",
+      "count": 2
+    },
+    {
+      "phrase": "मतलब अब",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "होने पर",
+      "count": 2
+    },
+    {
+      "phrase": "आसाम का",
+      "count": 1
+    },
+    {
+      "phrase": "का यह",
+      "count": 1
+    },
+    {
+      "phrase": "यह नया",
+      "count": 1
+    },
+    {
+      "phrase": "नया एयरपोर्ट",
+      "count": 1
+    },
+    {
+      "phrase": "एयरपोर्ट आपको",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

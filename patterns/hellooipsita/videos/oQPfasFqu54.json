@@ -1,0 +1,148 @@
+{
+  "video_id": "oQPfasFqu54",
+  "duration_seconds": 64,
+  "wps": 1.5,
+  "total_words": 96,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 368
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पल भर ठहर जाओ दिल ये वो कहता है ना कि नेवर टेक योर फाइट्स टू"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एट बियों अगर तुम साथ हो"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "फाइट्स",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "आर",
+      "count": 2
+    },
+    {
+      "word": "अंदर",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "फिक्स",
+      "count": 2
+    },
+    {
+      "word": "दोज़",
+      "count": 2
+    },
+    {
+      "word": "पीपल",
+      "count": 2
+    },
+    {
+      "word": "हू",
+      "count": 2
+    },
+    {
+      "word": "इमोशनल",
+      "count": 2
+    },
+    {
+      "word": "पल",
+      "count": 1
+    },
+    {
+      "word": "भर",
+      "count": 1
+    },
+    {
+      "word": "ठहर",
+      "count": 1
+    },
+    {
+      "word": "जाओ",
+      "count": 1
+    },
+    {
+      "word": "दिल",
+      "count": 1
+    },
+    {
+      "word": "ये",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फिक्स इट",
+      "count": 2
+    },
+    {
+      "phrase": "दोज़ पीपल",
+      "count": 2
+    },
+    {
+      "phrase": "पीपल हू",
+      "count": 2
+    },
+    {
+      "phrase": "पल भर",
+      "count": 1
+    },
+    {
+      "phrase": "भर ठहर",
+      "count": 1
+    },
+    {
+      "phrase": "ठहर जाओ",
+      "count": 1
+    },
+    {
+      "phrase": "जाओ दिल",
+      "count": 1
+    },
+    {
+      "phrase": "दिल ये",
+      "count": 1
+    },
+    {
+      "phrase": "ये वो",
+      "count": 1
+    },
+    {
+      "phrase": "वो कहता",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

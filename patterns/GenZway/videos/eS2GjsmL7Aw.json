@@ -1,0 +1,148 @@
+{
+  "video_id": "eS2GjsmL7Aw",
+  "duration_seconds": 27,
+  "wps": 5.33,
+  "total_words": 144,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 538
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये ओरियो वाले ना इंडिया के अंदर काम करने से डरते बहुत है क्योंकि बिस्किट के अलावा ये यहां पे कुछ बना के ही राजी नहीं है। इनको लगा कि चलो भाई आइसक्रीम बना लेते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "और ऐसा नहीं है कि ओरियो वाले कुछ बनाते ही नहीं है। वोल्स हो गए, मिनी ओरियो हो गई। ये सारी चीजें फॉरेन के अंदर बेची जाती है पर कभी इंडिया के अंदर लाई तक नहीं जाती है। क्योंकि शायद इन्होंने"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "बना",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "ओरियो",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "आइसक्रीम",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "इन्होंने",
+      "count": 3
+    },
+    {
+      "word": "वाले",
+      "count": 2
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "क्योंकि",
+      "count": 2
+    },
+    {
+      "word": "कुछ",
+      "count": 2
+    },
+    {
+      "word": "चलो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 3
+    },
+    {
+      "phrase": "बना के",
+      "count": 3
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 3
+    },
+    {
+      "phrase": "ओरियो वाले",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 2
+    },
+    {
+      "phrase": "कि चलो",
+      "count": 2
+    },
+    {
+      "phrase": "लेते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "जाती है",
+      "count": 2
+    },
+    {
+      "phrase": "ये ओरियो",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

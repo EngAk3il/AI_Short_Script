@@ -1,0 +1,148 @@
+{
+  "video_id": "CCY5S_uZkrg",
+  "duration_seconds": 57,
+  "wps": 3.35,
+  "total_words": 191,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 737
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "टाटा नामक ने इस तरह से अपने कंपटीशन को कल किया टाटा ने देखा की ज्यादातर इंडिया में सॉल्ट बिना किसी ब्रांडिंग और बिना किसी पैकेजिंग के बेचा था अलसो सॉल्ट को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "प्रोडक्ट खरीद रहे और इनडायरेक्टली देश के लिए कंट्रीब्यूट कर रहे हैं और इन स्ट्रेटजी से टाटा सॉल्ट बना देश का नंबर वैन"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "टाटा",
+      "count": 8
+    },
+    {
+      "word": "देश",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "नामक",
+      "count": 6
+    },
+    {
+      "word": "ने",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "सॉल्ट",
+      "count": 6
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "अपने",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "सबसे",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "तरह",
+      "count": 2
+    },
+    {
+      "word": "देखा",
+      "count": 2
+    },
+    {
+      "word": "बिना",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "टाटा ने",
+      "count": 4
+    },
+    {
+      "phrase": "टाटा नामक",
+      "count": 3
+    },
+    {
+      "phrase": "ने अपने",
+      "count": 3
+    },
+    {
+      "phrase": "देश का",
+      "count": 3
+    },
+    {
+      "phrase": "देश की",
+      "count": 3
+    },
+    {
+      "phrase": "बिना किसी",
+      "count": 2
+    },
+    {
+      "phrase": "सॉल्ट को",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "दिया टाटा",
+      "count": 2
+    },
+    {
+      "phrase": "नामक देश",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

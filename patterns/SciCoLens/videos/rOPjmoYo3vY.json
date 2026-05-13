@@ -1,0 +1,148 @@
+{
+  "video_id": "rOPjmoYo3vY",
+  "duration_seconds": 82,
+  "wps": 3.41,
+  "total_words": 280,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1055
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या होगा अगर कोई एस्ट्रोनॉट अंतरिक्ष में खो जाए तो? यह एक ऐसा थॉट है जिसके बारे में सिर्फ सोच कर कई एस्ट्रोनॉट्स भी घबरा जाते हैं। वेल जब भी कोई एस्ट्रोनॉट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जाएगा। हैट्स ऑफ फॉर द रिस्ट एस्ट्रो नॉट स्टेक।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "वो",
+      "count": 6
+    },
+    {
+      "word": "जाएगा",
+      "count": 6
+    },
+    {
+      "word": "अगर",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "उसका",
+      "count": 5
+    },
+    {
+      "word": "स्पेस",
+      "count": 5
+    },
+    {
+      "word": "अपने",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "एस्ट्रोनॉट",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "एस्ट्रोनॉट्स",
+      "count": 3
+    },
+    {
+      "word": "स्पेसक्राफ्ट",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "कोई एस्ट्रोनॉट",
+      "count": 2
+    },
+    {
+      "phrase": "जाए तो",
+      "count": 2
+    },
+    {
+      "phrase": "बारे में",
+      "count": 2
+    },
+    {
+      "phrase": "अपने स्पेसक्राफ्ट",
+      "count": 2
+    },
+    {
+      "phrase": "स्पेसक्राफ्ट से",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "बट अगर",
+      "count": 2
+    },
+    {
+      "phrase": "की तरह",
+      "count": 2
+    },
+    {
+      "phrase": "में वो",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

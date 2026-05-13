@@ -1,0 +1,148 @@
+{
+  "video_id": "8Mpwirtw01g",
+  "duration_seconds": 52,
+  "wps": 2.04,
+  "total_words": 106,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 387
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मणिपुर में है पूरी दुनिया का सबसे बड़ा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आप गए हो ऐसे किसी यूनिक मार्केट"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "यहां",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "बेच",
+      "count": 3
+    },
+    {
+      "word": "रही",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "थैंक",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "मार्केट",
+      "count": 2
+    },
+    {
+      "word": "सकता",
+      "count": 2
+    },
+    {
+      "word": "हमारा",
+      "count": 2
+    },
+    {
+      "word": "सामान",
+      "count": 2
+    },
+    {
+      "word": "गिफ्ट",
+      "count": 2
+    },
+    {
+      "word": "देगा",
+      "count": 2
+    },
+    {
+      "word": "उसी",
+      "count": 2
+    },
+    {
+      "word": "सिस्टर",
+      "count": 2
+    },
+    {
+      "word": "मणिपुर",
+      "count": 1
+    },
+    {
+      "word": "पूरी",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यहां पे",
+      "count": 3
+    },
+    {
+      "phrase": "थैंक यू",
+      "count": 3
+    },
+    {
+      "phrase": "सकता है",
+      "count": 2
+    },
+    {
+      "phrase": "बेच रही",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "गिफ्ट देगा",
+      "count": 2
+    },
+    {
+      "phrase": "उसी का",
+      "count": 2
+    },
+    {
+      "phrase": "यू सिस्टर",
+      "count": 2
+    },
+    {
+      "phrase": "मणिपुर में",
+      "count": 1
+    },
+    {
+      "phrase": "में है",
+      "count": 1
+    }
+  ],
+  "segment_count": 19
+}

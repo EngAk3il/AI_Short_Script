@@ -1,0 +1,42 @@
+{
+  "video_id": "g8XOORokKyg",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 4,
+      "text": "The popular Affinity app from Canva is now free forever. Affinity Designer,"
+    },
+    {
+      "start": 4,
+      "duration": 4,
+      "text": "Affinity Photo, and Affinity Publisher are no longer three separate paid apps."
+    },
+    {
+      "start": 8,
+      "duration": 8,
+      "text": "They've been merged into one unified desktop app, and the full professional tool set is now free for everyone on Windows and Mac. You just need a free"
+    },
+    {
+      "start": 16,
+      "duration": 8,
+      "text": "Canva account to use it. This isn't a limited trial or a stripped down version. Affinity's pixel editing, vector illustration, and layout tools,"
+    },
+    {
+      "start": 24,
+      "duration": 10,
+      "text": "the same ones used by professional designers are now completely free. For users who want AI features, Canva has plucked in its AI studio, giving premium subscribers access to generative fill,"
+    },
+    {
+      "start": 34,
+      "duration": 9,
+      "text": "background removal, and smart cleanup directly inside the Affinity app. But the core toolkit remains 100% free. This makes Affinity an alternative to"
+    },
+    {
+      "start": 43,
+      "duration": 3.0,
+      "text": "Photoshop, Illustrator, and Inesign in one place. Subscribe to full disclosure for more such"
+    }
+  ]
+}

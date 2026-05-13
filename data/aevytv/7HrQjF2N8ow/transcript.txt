@@ -1,0 +1,8 @@
+[00:00] This is a pretty big deal. Google just made building apps stupidly easy with AI. So, they just dropped a tool called Stitch, and it basically lets anyone design an app by just talking to it.
+[00:10] Yep, they're calling it wide design. You don't even need to know design. You don't even need Figma. You basically just describe what you want your app to
+[00:17] feel like. Don't even look like, just feel like, and it generates real highfidelity screens in front of you in real time. You can then stitch those
+[00:26] screens together, hit play, and suddenly you're clicking through an actual working prototype. You know, the AI even predicts what the next screen could be
+[00:33] based on your flow. You can literally speak to the canvas, say, "Show me this in three different color palettes, and it just updates like that. And when
+[00:41] you're done, it exports as actual working code." You know, I started my career doing UIUX design, so trust me when I say this, being able to just talk and design and build apps, that is wild.
+[00:53] Also unrelated, but this app has sent waves through the industry cuz Figma shares just plummeted by 8% right after
+[01:00] stitch dropped. So go check it out. It's free right now. And if you want to stay on top of what is happening with the tech industry, follow me for more such stories.

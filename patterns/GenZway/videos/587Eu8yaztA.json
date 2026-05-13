@@ -1,0 +1,148 @@
+{
+  "video_id": "587Eu8yaztA",
+  "duration_seconds": 43,
+  "wps": 4.47,
+  "total_words": 192,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 709
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये फुकरा इंसान की कॉपी करके करण ओजला भाई"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कैंपस से खेलो ना। 20 30 का मिलता है यह।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "फोकस",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "इन्होंने",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "फुकरा",
+      "count": 2
+    },
+    {
+      "word": "इंसान",
+      "count": 2
+    },
+    {
+      "word": "कॉपी",
+      "count": 2
+    },
+    {
+      "word": "करके",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे हैं",
+      "count": 3
+    },
+    {
+      "phrase": "फुकरा इंसान",
+      "count": 2
+    },
+    {
+      "phrase": "इंसान की",
+      "count": 2
+    },
+    {
+      "phrase": "जो डाउनफॉल",
+      "count": 2
+    },
+    {
+      "phrase": "डाउनफॉल फेस",
+      "count": 2
+    },
+    {
+      "phrase": "फेस कर",
+      "count": 2
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    }
+  ],
+  "segment_count": 24
+}

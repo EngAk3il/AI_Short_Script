@@ -1,0 +1,148 @@
+{
+  "video_id": "jVmuQoYruIo",
+  "duration_seconds": 21,
+  "wps": 3.33,
+  "total_words": 70,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 224
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "बट आई वांट यू टू थिंक अबाउट दिस एज़ अ टेबल इन फ्रंट ऑफ़ यू एंड यू आई वांटेड टू इमेजिन युर सेल्फ एंड अदर पीपल ऑन द सेम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "थिंक ऑफ इट एस अ कोलैबोरेटिव चश्मा।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "थिंक",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "टेबल",
+      "count": 2
+    },
+    {
+      "word": "ऑफ़",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "अदर",
+      "count": 2
+    },
+    {
+      "word": "पीपल",
+      "count": 2
+    },
+    {
+      "word": "ऑफ",
+      "count": 2
+    },
+    {
+      "word": "इट",
+      "count": 2
+    },
+    {
+      "word": "कोलैबोरेटिव",
+      "count": 2
+    },
+    {
+      "word": "लेंस",
+      "count": 2
+    },
+    {
+      "word": "वे",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "वी",
+      "count": 2
+    },
+    {
+      "word": "चश्मा",
+      "count": 2
+    },
+    {
+      "word": "बट",
+      "count": 1
+    },
+    {
+      "word": "वांट",
+      "count": 1
+    },
+    {
+      "word": "अबाउट",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अदर पीपल",
+      "count": 2
+    },
+    {
+      "phrase": "थिंक ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ इट",
+      "count": 2
+    },
+    {
+      "phrase": "अ कोलैबोरेटिव",
+      "count": 2
+    },
+    {
+      "phrase": "द वे",
+      "count": 2
+    },
+    {
+      "phrase": "वे दैट",
+      "count": 2
+    },
+    {
+      "phrase": "दैट वी",
+      "count": 2
+    },
+    {
+      "phrase": "बट आई",
+      "count": 1
+    },
+    {
+      "phrase": "आई वांट",
+      "count": 1
+    },
+    {
+      "phrase": "वांट यू",
+      "count": 1
+    }
+  ],
+  "segment_count": 3
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "UlXRzMvL1ss",
+  "duration_seconds": 29,
+  "wps": 4.38,
+  "total_words": 127,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 460
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एयरपोर्ट के ऊपर वाटर फाउंटेंस लगे होते हैं फ्री के अंदर पानी पिलाने के लिए और ये सारा तामझाम सिर्फ इसलिए किया जाता है क्योंकि सरकार को पागल बनाया जा सके। देखो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "का फायदा हो और फिर वह दुकान प्रॉफिट करके एयरपोर्ट के हैवी रेंटल्स को अफोर्ड कर पाए।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "एयरपोर्ट",
+      "count": 4
+    },
+    {
+      "word": "पानी",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "फ्री",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "ऊपर",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "जाता",
+      "count": 2
+    },
+    {
+      "word": "सरकार",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "देना",
+      "count": 2
+    },
+    {
+      "word": "पी",
+      "count": 2
+    },
+    {
+      "word": "पाए",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एयरपोर्ट के",
+      "count": 3
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "ने एक",
+      "count": 2
+    },
+    {
+      "phrase": "पी ही",
+      "count": 2
+    },
+    {
+      "phrase": "ऊपर वाटर",
+      "count": 1
+    },
+    {
+      "phrase": "वाटर फाउंटेंस",
+      "count": 1
+    },
+    {
+      "phrase": "फाउंटेंस लगे",
+      "count": 1
+    },
+    {
+      "phrase": "लगे होते",
+      "count": 1
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

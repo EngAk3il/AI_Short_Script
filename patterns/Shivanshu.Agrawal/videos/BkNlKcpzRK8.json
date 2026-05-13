@@ -1,0 +1,148 @@
+{
+  "video_id": "BkNlKcpzRK8",
+  "duration_seconds": 65,
+  "wps": 3.28,
+  "total_words": 213,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 892
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "क्रॉक्स का डिजाइन एक्चुअली क्रोकोडाइल के सर से कॉपी किया गया है। ना केवल इनका नाम क्रॉस क्रोकोडाइल का शॉर्ट फॉर्म है बल्कि इनका लोगो और इवन इनके शू का शेप भी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रेवेन्यू कमाने वाला ब्रांड बन चुका"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "क्रोकोडाइल",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "वाटर",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "क्रॉक्स",
+      "count": 3
+    },
+    {
+      "word": "सर",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "मटेरियल",
+      "count": 3
+    },
+    {
+      "word": "शूज",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "गया",
+      "count": 2
+    },
+    {
+      "word": "केवल",
+      "count": 2
+    },
+    {
+      "word": "इनका",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "क्रोकोडाइल के",
+      "count": 3
+    },
+    {
+      "phrase": "के सर",
+      "count": 3
+    },
+    {
+      "phrase": "और वाटर",
+      "count": 3
+    },
+    {
+      "phrase": "किया गया",
+      "count": 2
+    },
+    {
+      "phrase": "बिल्कुल क्रोकोडाइल",
+      "count": 2
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "लैंड और",
+      "count": 2
+    },
+    {
+      "phrase": "वाटर दोनों",
+      "count": 2
+    },
+    {
+      "phrase": "दोनों में",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "zAQWxlWj9zk",
+  "duration_seconds": 62,
+  "wps": 4.1,
+  "total_words": 254,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 989
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "I'll show you five creative ways in which you can also make use of Google's new nano baranana tool. First, you can use it for trying on clothes. I always"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "took this photo. I know haters will say it is fake but see you in the next video. If you want more amazing design content, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 11
+    },
+    {
+      "word": "to",
+      "count": 9
+    },
+    {
+      "word": "it",
+      "count": 8
+    },
+    {
+      "word": "but",
+      "count": 8
+    },
+    {
+      "word": "want",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "image",
+      "count": 5
+    },
+    {
+      "word": "can",
+      "count": 4
+    },
+    {
+      "word": "on",
+      "count": 4
+    },
+    {
+      "word": "will",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "now",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "shirt",
+      "count": 4
+    },
+    {
+      "word": "just",
+      "count": 4
+    },
+    {
+      "word": "say",
+      "count": 4
+    },
+    {
+      "word": "use",
+      "count": 3
+    },
+    {
+      "word": "nano",
+      "count": 3
+    },
+    {
+      "word": "or",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you can",
+      "count": 4
+    },
+    {
+      "phrase": "i want",
+      "count": 3
+    },
+    {
+      "phrase": "want to",
+      "count": 3
+    },
+    {
+      "phrase": "you want",
+      "count": 3
+    },
+    {
+      "phrase": "but i",
+      "count": 2
+    },
+    {
+      "phrase": "will look",
+      "count": 2
+    },
+    {
+      "phrase": "on me",
+      "count": 2
+    },
+    {
+      "phrase": "now i",
+      "count": 2
+    },
+    {
+      "phrase": "this photo",
+      "count": 2
+    },
+    {
+      "phrase": "shirt and",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

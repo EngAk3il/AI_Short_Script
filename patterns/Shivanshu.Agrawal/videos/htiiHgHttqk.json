@@ -1,0 +1,148 @@
+{
+  "video_id": "htiiHgHttqk",
+  "duration_seconds": 62,
+  "wps": 2.95,
+  "total_words": 183,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 767
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अभी शार्क टैंक प जाने का मौका मिले तो ये"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "माय बायो एंड ट्राई ू राइट नाउ"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "जैसे",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "करना",
+      "count": 3
+    },
+    {
+      "word": "इंपॉर्टेंट",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "थ्रू",
+      "count": 3
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 3
+    },
+    {
+      "word": "शार्क",
+      "count": 2
+    },
+    {
+      "word": "टैंक",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "एंटरप्रेन्योर",
+      "count": 2
+    },
+    {
+      "word": "कॉस्ट",
+      "count": 2
+    },
+    {
+      "word": "एंटरप्रेन्र्दे",
+      "count": 2
+    },
+    {
+      "word": "ओडू",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के थ्रू",
+      "count": 3
+    },
+    {
+      "phrase": "शार्क टैंक",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "u के",
+      "count": 2
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "करना है",
+      "count": 2
+    },
+    {
+      "phrase": "अभी शार्क",
+      "count": 1
+    },
+    {
+      "phrase": "टैंक प",
+      "count": 1
+    },
+    {
+      "phrase": "प जाने",
+      "count": 1
+    }
+  ],
+  "segment_count": 27
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "DSLrSLhWMec",
+  "duration_seconds": 31,
+  "wps": 3.65,
+  "total_words": 113,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 437
+  },
+  "hook": {
+    "type": "statement",
+    "text": "दुबई लिटरली एक सोने की सड़क बना रहा है।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ज्यादा बढ़े।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "दुबई",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "सोने",
+      "count": 3
+    },
+    {
+      "word": "बना",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "सड़क",
+      "count": 2
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    },
+    {
+      "word": "मार्केटिंग",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "सिर्फ",
+      "count": 2
+    },
+    {
+      "word": "सोना",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "ज्यादा",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "वहां",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सोने की",
+      "count": 3
+    },
+    {
+      "phrase": "सड़क बना",
+      "count": 2
+    },
+    {
+      "phrase": "बना रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "वहां पे",
+      "count": 2
+    },
+    {
+      "phrase": "दुबई लिटरली",
+      "count": 1
+    },
+    {
+      "phrase": "लिटरली एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक सोने",
+      "count": 1
+    },
+    {
+      "phrase": "की सड़क",
+      "count": 1
+    },
+    {
+      "phrase": "बना रहा",
+      "count": 1
+    }
+  ],
+  "segment_count": 15
+}

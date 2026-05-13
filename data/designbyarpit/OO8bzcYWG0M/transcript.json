@@ -1,0 +1,32 @@
+{
+  "video_id": "OO8bzcYWG0M",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 7,
+      "text": "Apple just unveiled a design bombshell across everything. They call it liquid glass, a 3D transparent vision OS"
+    },
+    {
+      "start": 7,
+      "duration": 8,
+      "text": "inspired interface. It unifies Apple's entire ecosystem. The icons and backgrounds now shimmer with light,"
+    },
+    {
+      "start": 15,
+      "duration": 2,
+      "text": "depth, and even the content beneath it."
+    },
+    {
+      "start": 17,
+      "duration": 9,
+      "text": "This is undeniably futuristic. But here's my question. Is it actually very futuristic or is it a overengineered masterpiece that is just putting"
+    },
+    {
+      "start": 26,
+      "duration": 3.0,
+      "text": "excessive drain on the"
+    }
+  ]
+}

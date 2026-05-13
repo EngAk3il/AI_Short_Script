@@ -1,0 +1,148 @@
+{
+  "video_id": "N1VxEP9uqY4",
+  "duration_seconds": 60,
+  "wps": 3.47,
+  "total_words": 208,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 824
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एप्पल के इस मैजिकल डिवाइस ने पुरी दुनिया को शौक कर दिया है ये है एप्पल विजन प्रो इससे पहना ही आपकी सराउंडिंग्स एक 3d"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "प्राइस है करीब 3 लाख रुपए ऐसे और वीडियो के लिए चैनल को सब्सक्राइब करें"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "करके",
+      "count": 6
+    },
+    {
+      "word": "डिवाइस",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "उसे",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "पाएंगे",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "सकते",
+      "count": 3
+    },
+    {
+      "word": "बाहर",
+      "count": 3
+    },
+    {
+      "word": "एप्पल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "उसे करके",
+      "count": 4
+    },
+    {
+      "phrase": "का उसे",
+      "count": 3
+    },
+    {
+      "phrase": "कर पाएंगे",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 3
+    },
+    {
+      "phrase": "डिवाइस के",
+      "count": 3
+    },
+    {
+      "phrase": "इस डिवाइस",
+      "count": 2
+    },
+    {
+      "phrase": "बाहर के",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "स्क्रीन्स में",
+      "count": 2
+    },
+    {
+      "phrase": "के सेंसर",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

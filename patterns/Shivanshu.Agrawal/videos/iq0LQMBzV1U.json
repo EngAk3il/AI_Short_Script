@@ -1,0 +1,148 @@
+{
+  "video_id": "iq0LQMBzV1U",
+  "duration_seconds": 61,
+  "wps": 3.49,
+  "total_words": 213,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 822
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जोशीमठ की जमीन दास रही है पर क्यों एक्चुअली जोशीमठ की जमीन पहले जो लैंडस्लाइड हुई होंगी उनसे इकट्ठा हुए मलबे पे बनी है मतलब जोशीमठ की जमीन किसी"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "में कारण क्या है मुझे कमेंट सेक्शन में बताइए"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "जोशीमठ",
+      "count": 5
+    },
+    {
+      "word": "जमीन",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "कारण",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "रही",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "बनी",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "लेकिन",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "लोकेशन",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जोशीमठ की",
+      "count": 4
+    },
+    {
+      "phrase": "की जमीन",
+      "count": 4
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "बनी है",
+      "count": 2
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 2
+    },
+    {
+      "phrase": "होने के",
+      "count": 2
+    },
+    {
+      "phrase": "के कारण",
+      "count": 2
+    },
+    {
+      "phrase": "है जिससे",
+      "count": 2
+    },
+    {
+      "phrase": "इस डिजास्टर",
+      "count": 2
+    },
+    {
+      "phrase": "डिजास्टर का",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

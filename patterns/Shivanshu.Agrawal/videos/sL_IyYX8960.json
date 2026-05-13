@@ -1,0 +1,148 @@
+{
+  "video_id": "sL_IyYX8960",
+  "duration_seconds": 54,
+  "wps": 3.09,
+  "total_words": 167,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 628
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "धीरूभाई अंबानी ने सिक्कों को मेल्ट करके लाखों कमाए 1950 में 22 साल के धीरू भा अंबानी एडन में जॉब कर रहे थे वहां की"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हो गया और धीरू भाई ने यह स्कीम रोक दी"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "थे",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "कॉइंस",
+      "count": 5
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "करके",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "धीरू",
+      "count": 4
+    },
+    {
+      "word": "रियाल",
+      "count": 4
+    },
+    {
+      "word": "सिल्वर",
+      "count": 4
+    },
+    {
+      "word": "पाउंड्स",
+      "count": 4
+    },
+    {
+      "word": "मेल्ट",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "भाई",
+      "count": 3
+    },
+    {
+      "word": "ज्यादा",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "100",
+      "count": 3
+    },
+    {
+      "word": "अंबानी",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "कमाए",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मेल्ट करके",
+      "count": 3
+    },
+    {
+      "phrase": "धीरू भाई",
+      "count": 3
+    },
+    {
+      "phrase": "को मेल्ट",
+      "count": 2
+    },
+    {
+      "phrase": "भाई ने",
+      "count": 2
+    },
+    {
+      "phrase": "ने देखा",
+      "count": 2
+    },
+    {
+      "phrase": "देखा कि",
+      "count": 2
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "रियाल कॉइंस",
+      "count": 2
+    },
+    {
+      "phrase": "ब्रिटिश पाउंड्स",
+      "count": 2
+    },
+    {
+      "phrase": "लेते थे",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

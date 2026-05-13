@@ -1,0 +1,148 @@
+{
+  "video_id": "zs2k4v8yV-Q",
+  "duration_seconds": 47,
+  "wps": 2.87,
+  "total_words": 135,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 646
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Our biggest daily packaging problems,"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Subscribe for more amazing design content."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "no",
+      "count": 6
+    },
+    {
+      "word": "design",
+      "count": 5
+    },
+    {
+      "word": "from",
+      "count": 3
+    },
+    {
+      "word": "lids",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "cold",
+      "count": 2
+    },
+    {
+      "word": "food",
+      "count": 2
+    },
+    {
+      "word": "sticky",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "lunch",
+      "count": 2
+    },
+    {
+      "word": "perfectly",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "redesigned",
+      "count": 2
+    },
+    {
+      "word": "means",
+      "count": 2
+    },
+    {
+      "word": "more",
+      "count": 2
+    },
+    {
+      "word": "they",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "and the",
+      "count": 2
+    },
+    {
+      "phrase": "this design",
+      "count": 2
+    },
+    {
+      "phrase": "our biggest",
+      "count": 1
+    },
+    {
+      "phrase": "biggest daily",
+      "count": 1
+    },
+    {
+      "phrase": "daily packaging",
+      "count": 1
+    },
+    {
+      "phrase": "packaging problems",
+      "count": 1
+    },
+    {
+      "phrase": "problems japan",
+      "count": 1
+    },
+    {
+      "phrase": "japan has",
+      "count": 1
+    },
+    {
+      "phrase": "has already",
+      "count": 1
+    },
+    {
+      "phrase": "already solved",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

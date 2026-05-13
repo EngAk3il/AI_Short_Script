@@ -1,0 +1,148 @@
+{
+  "video_id": "7VspyGk_3Io",
+  "duration_seconds": 36,
+  "wps": 3.72,
+  "total_words": 134,
+  "language_mix": {
+    "hindi": 95.0,
+    "english": 5.0,
+    "total_chars": 562
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अमेज़न आपको इस तरह से ट्रिक करता है अमेज़न आपके माइंड में ये परसेप्शन बैठना चाहता है की उनकी वेबसाइट में प्रोडक्ट सबसे सस्ते प्राइस में मिलते हैं इसीलिए अमेज़न अपनी वेबसाइट डाटा को उसे करके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "समझे हाई प्राइस पे कर देते हैं"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "अमेज़न",
+      "count": 6
+    },
+    {
+      "word": "प्राइस",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "आइटम्स",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "केवल",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "करता",
+      "count": 2
+    },
+    {
+      "word": "प्रोडक्ट",
+      "count": 2
+    },
+    {
+      "word": "सबसे",
+      "count": 2
+    },
+    {
+      "word": "सस्ते",
+      "count": 2
+    },
+    {
+      "word": "अपनी",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "में प्रोडक्ट",
+      "count": 2
+    },
+    {
+      "phrase": "सबसे सस्ते",
+      "count": 2
+    },
+    {
+      "phrase": "अपनी वेबसाइट",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "देता है",
+      "count": 2
+    },
+    {
+      "phrase": "पॉप्युलर आइटम्स",
+      "count": 2
+    },
+    {
+      "phrase": "अमेज़न आपको",
+      "count": 1
+    },
+    {
+      "phrase": "आपको इस",
+      "count": 1
+    },
+    {
+      "phrase": "इस तरह",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

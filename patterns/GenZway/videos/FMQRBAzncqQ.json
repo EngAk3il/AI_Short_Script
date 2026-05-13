@@ -1,0 +1,148 @@
+{
+  "video_id": "FMQRBAzncqQ",
+  "duration_seconds": 36,
+  "wps": 4.56,
+  "total_words": 164,
+  "language_mix": {
+    "hindi": 98.5,
+    "english": 1.5,
+    "total_chars": 596
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये हमारे अंबानी साहब की Jio को देख के ना अभी यूटर्स लोग भी खुद की मोबाइल सिम की कंपनियां बना रहे हैं। मिस्टर बीस्टन ने एक इन्वेस्टमेंट प्लान लीक हुआ है जिसके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तो प्रॉफिटेबल लग रहा है। बाकी जब बनेगी तब देख लेंगे।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "सिम",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "रहा",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "लोग",
+      "count": 4
+    },
+    {
+      "word": "बना",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "अंदर",
+      "count": 4
+    },
+    {
+      "word": "jio",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "खुद",
+      "count": 3
+    },
+    {
+      "word": "मोबाइल",
+      "count": 3
+    },
+    {
+      "word": "मिस्टर",
+      "count": 3
+    },
+    {
+      "word": "जिसके",
+      "count": 3
+    },
+    {
+      "word": "इंटरनेट",
+      "count": 3
+    },
+    {
+      "word": "बीच",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 5
+    },
+    {
+      "phrase": "बना रहे",
+      "count": 4
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 4
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 3
+    },
+    {
+      "phrase": "मोबाइल सिम",
+      "count": 2
+    },
+    {
+      "phrase": "है जिसके",
+      "count": 2
+    },
+    {
+      "phrase": "जिसके अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "ना ही",
+      "count": 2
+    },
+    {
+      "phrase": "ही ये",
+      "count": 2
+    },
+    {
+      "phrase": "लोग खुद",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "IkPcVOZTkwU",
+  "duration_seconds": 53,
+  "wps": 3.77,
+  "total_words": 200,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 754
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पहली बार एक ब्लैक होल से कोई चीज बचकर बाहर निकली है जिन ब्लैक होल से फोटॉन भी बाहर नहीं निकल सके। हाल ही में साइंटिस्टों को एक ऐसा ब्लैक होल मिला"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "वो 3 साल पुराना है? कमेंट्स में बताना एंड फॉलो तो।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "ब्लैक",
+      "count": 7
+    },
+    {
+      "word": "होल",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "मैटर",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "बाहर",
+      "count": 5
+    },
+    {
+      "word": "उसके",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "साल",
+      "count": 3
+    },
+    {
+      "word": "डिस्क",
+      "count": 3
+    },
+    {
+      "word": "इवेंट",
+      "count": 3
+    },
+    {
+      "word": "होराइजन",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "प्लेन",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ब्लैक होल",
+      "count": 7
+    },
+    {
+      "phrase": "3 साल",
+      "count": 3
+    },
+    {
+      "phrase": "होल के",
+      "count": 3
+    },
+    {
+      "phrase": "इवेंट होराइजन",
+      "count": 3
+    },
+    {
+      "phrase": "होल से",
+      "count": 2
+    },
+    {
+      "phrase": "होराइजन तक",
+      "count": 2
+    },
+    {
+      "phrase": "प्लेन में",
+      "count": 2
+    },
+    {
+      "phrase": "के अराउंड",
+      "count": 2
+    },
+    {
+      "phrase": "मैटर बाहर",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

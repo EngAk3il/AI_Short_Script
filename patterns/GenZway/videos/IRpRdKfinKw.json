@@ -1,0 +1,148 @@
+{
+  "video_id": "IRpRdKfinKw",
+  "duration_seconds": 33,
+  "wps": 4.18,
+  "total_words": 138,
+  "language_mix": {
+    "hindi": 98.1,
+    "english": 1.9,
+    "total_chars": 465
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "लोग ₹1 लाख लेके जा रहे हैं और उससे ₹6"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नोट लेकर वापस भी आ जाती होगी। होगी।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "रहे",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "ओपनली",
+      "count": 3
+    },
+    {
+      "word": "नोट",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "होगी",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "लाख",
+      "count": 2
+    },
+    {
+      "word": "जा",
+      "count": 2
+    },
+    {
+      "word": "वापस",
+      "count": 2
+    },
+    {
+      "word": "ऊपर",
+      "count": 2
+    },
+    {
+      "word": "नकली",
+      "count": 2
+    },
+    {
+      "word": "अंदर",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे हैं",
+      "count": 5
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "नकली नोट",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "में भी",
+      "count": 2
+    },
+    {
+      "phrase": "भी पास",
+      "count": 2
+    },
+    {
+      "phrase": "पास हो",
+      "count": 2
+    },
+    {
+      "phrase": "हो जाएंगे",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "जाती होगी",
+      "count": 2
+    }
+  ],
+  "segment_count": 16
+}

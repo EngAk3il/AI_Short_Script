@@ -1,0 +1,71 @@
+{
+  "creator": "designbyarpit",
+  "total_videos_analyzed": 81,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 62,
+      "avg_wps": 3.316342433074875,
+      "avg_duration": 54.983870967741936,
+      "common_hook_patterns": [
+        "like a",
+        "it looks",
+        "it was",
+        "but this",
+        "you have",
+        "you see",
+        "this is",
+        "but the",
+        "just a",
+        "and it",
+        "in the",
+        "look at",
+        "was just",
+        "millions of",
+        "is the"
+      ],
+      "sample_hooks": [
+        "This lamp has no sensors and no batteries. Yet, [music] it knows exactly when to refill itself. You ",
+        "Why does every hospital in the world use this weird bean-shaped tray? It looks",
+        "Venice is technically impossible, but you still have massive stone places floating on a mud of swam."
+      ]
+    },
+    "fast_facts": {
+      "count": 17,
+      "avg_wps": 3.422157698499093,
+      "avg_duration": 41.94117647058823,
+      "common_hook_patterns": [
+        "it is",
+        "and it",
+        "but it",
+        "it was",
+        "look at",
+        "is a",
+        "was not",
+        "in the",
+        "looks like",
+        "like a",
+        "why is",
+        "are not",
+        "not made",
+        "of paper",
+        "the problem"
+      ],
+      "sample_hooks": [
+        "These are not made of paper and definitely not plastic. It is actually made from the exact same thin",
+        "This is a $5,000 Rolex and it is covered in vomit. But it was not an accident. A street art group di",
+        "Normal money is just boring paper. But these three countries completely broke the rules. First, look"
+      ]
+    },
+    "other": {
+      "count": 2,
+      "avg_wps": 2.8720930232558137,
+      "avg_duration": 39.0,
+      "common_hook_patterns": [],
+      "sample_hooks": [
+        "I was traveling recently and the bus driver gave me this bottle. It's square.",
+        "These black containers are poisoning you. It sounds crazy, but it's true. This is not normal plastic"
+      ]
+    }
+  },
+  "overall_avg_wps": 3.3275814539708453
+}

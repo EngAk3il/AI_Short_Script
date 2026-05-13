@@ -1,0 +1,149 @@
+{
+  "video_id": "2JQ9u4RQotA",
+  "duration_seconds": 43,
+  "wps": 4.47,
+  "total_words": 192,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 703
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हमारे देश के अंदर सामान बनाया नहीं जाता। सुमड़ी में दूसरे देश से चुरा के उठाया जाता है। तुम लोग स्टिंग का एग्जांपल उठा लो। पीछे स्टिंग का एक नया वर्जन आया था"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ट्रेंड पे राइड करोगे तो एक बढ़िया ब्रांड बना जाओगे और वो भी सस्ते के अंदर।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "अंदर",
+      "count": 7
+    },
+    {
+      "word": "फ्लेवर",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "स्टिंग",
+      "count": 3
+    },
+    {
+      "word": "नया",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "लोगों",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "देश",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "जाता",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 6
+    },
+    {
+      "phrase": "एक नया",
+      "count": 3
+    },
+    {
+      "phrase": "स्टिंग का",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 2
+    },
+    {
+      "phrase": "नया फ्लेवर",
+      "count": 2
+    },
+    {
+      "phrase": "और वो",
+      "count": 2
+    },
+    {
+      "phrase": "है पर",
+      "count": 2
+    },
+    {
+      "phrase": "पॉइंट ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ व्यू",
+      "count": 2
+    },
+    {
+      "phrase": "व्यू से",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

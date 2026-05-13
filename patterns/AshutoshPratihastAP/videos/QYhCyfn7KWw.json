@@ -1,0 +1,148 @@
+{
+  "video_id": "QYhCyfn7KWw",
+  "duration_seconds": 61,
+  "wps": 3.48,
+  "total_words": 212,
+  "language_mix": {
+    "hindi": 97.3,
+    "english": 2.7,
+    "total_chars": 818
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक अलग ही नस्ल को परेशान कर रहा था कि"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "विडियो आयेगी और मैं तो आपको इस वीडियो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "करें",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "वाले",
+      "count": 2
+    },
+    {
+      "word": "लाख",
+      "count": 2
+    },
+    {
+      "word": "करोड़",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "वाली",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लाख करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "हैं जो",
+      "count": 2
+    },
+    {
+      "phrase": "एक अलग",
+      "count": 1
+    },
+    {
+      "phrase": "अलग ही",
+      "count": 1
+    },
+    {
+      "phrase": "ही नस्ल",
+      "count": 1
+    },
+    {
+      "phrase": "नस्ल को",
+      "count": 1
+    },
+    {
+      "phrase": "को परेशान",
+      "count": 1
+    },
+    {
+      "phrase": "परेशान कर",
+      "count": 1
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 1
+    },
+    {
+      "phrase": "रहा था",
+      "count": 1
+    }
+  ],
+  "segment_count": 27
+}

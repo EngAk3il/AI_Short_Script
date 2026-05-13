@@ -1,0 +1,149 @@
+{
+  "video_id": "s5BiED__VM8",
+  "duration_seconds": 49,
+  "wps": 2.67,
+  "total_words": 131,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 580
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Five hidden messages that you have probably never noticed. In tostitos, the two T's are actually people sharing"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 12
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "that's",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "have",
+      "count": 2
+    },
+    {
+      "word": "two",
+      "count": 2
+    },
+    {
+      "word": "actually",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "dot",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "hides",
+      "count": 2
+    },
+    {
+      "word": "letters",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "five",
+      "count": 1
+    },
+    {
+      "word": "hidden",
+      "count": 1
+    },
+    {
+      "word": "messages",
+      "count": 1
+    },
+    {
+      "word": "that",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the letters",
+      "count": 2
+    },
+    {
+      "phrase": "that's the",
+      "count": 2
+    },
+    {
+      "phrase": "five hidden",
+      "count": 1
+    },
+    {
+      "phrase": "hidden messages",
+      "count": 1
+    },
+    {
+      "phrase": "messages that",
+      "count": 1
+    },
+    {
+      "phrase": "that you",
+      "count": 1
+    },
+    {
+      "phrase": "you have",
+      "count": 1
+    },
+    {
+      "phrase": "have probably",
+      "count": 1
+    },
+    {
+      "phrase": "probably never",
+      "count": 1
+    },
+    {
+      "phrase": "never noticed",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

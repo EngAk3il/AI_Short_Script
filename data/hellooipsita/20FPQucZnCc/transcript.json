@@ -1,0 +1,32 @@
+{
+  "video_id": "20FPQucZnCc",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 6,
+      "text": "By not trying at all, by giving into hopelessness, I'm even robbing myself of that opportunity that's possible."
+    },
+    {
+      "start": 6,
+      "duration": 9,
+      "text": "Imagine there's a dart board target on the wall. If I shoot 20 darts, I might hit one. But if I just shoot one dart, I"
+    },
+    {
+      "start": 15,
+      "duration": 8,
+      "text": "might hit it or more chances are I might miss it. It is in my own favor and best possibility being that I hit as many"
+    },
+    {
+      "start": 23,
+      "duration": 8,
+      "text": "dots as I can in this duration. So that at least if there is one chance, one out of 20 chance of a dart hitting the aim,"
+    },
+    {
+      "start": 31,
+      "duration": 3.0,
+      "text": "at least I take that"
+    }
+  ]
+}

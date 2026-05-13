@@ -1,0 +1,148 @@
+{
+  "video_id": "wPUF7P1Pu6E",
+  "duration_seconds": 51,
+  "wps": 1.57,
+  "total_words": 80,
+  "language_mix": {
+    "hindi": 95.9,
+    "english": 4.1,
+    "total_chars": 291
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आखिर कैसे honda's के लिए"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "प्लास्टिक बॉडी की जगह मेटल बॉडी दी और ज्यादा स्टोरेज स्पेस दी जो इंडियंस को बहुत पसंद आई फाइनली"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "honda's",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "किमी",
+      "count": 2
+    },
+    {
+      "word": "माइलेज",
+      "count": 2
+    },
+    {
+      "word": "बॉडी",
+      "count": 2
+    },
+    {
+      "word": "दी",
+      "count": 2
+    },
+    {
+      "word": "आखिर",
+      "count": 1
+    },
+    {
+      "word": "कैसे",
+      "count": 1
+    },
+    {
+      "word": "होने",
+      "count": 1
+    },
+    {
+      "word": "कारण",
+      "count": 1
+    },
+    {
+      "word": "इसे",
+      "count": 1
+    },
+    {
+      "word": "मिडिल",
+      "count": 1
+    },
+    {
+      "word": "एज",
+      "count": 1
+    },
+    {
+      "word": "लोग",
+      "count": 1
+    },
+    {
+      "word": "भी",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "आखिर कैसे",
+      "count": 1
+    },
+    {
+      "phrase": "कैसे honda's",
+      "count": 1
+    },
+    {
+      "phrase": "honda's के",
+      "count": 1
+    },
+    {
+      "phrase": "लिए होने",
+      "count": 1
+    },
+    {
+      "phrase": "होने के",
+      "count": 1
+    },
+    {
+      "phrase": "के कारण",
+      "count": 1
+    },
+    {
+      "phrase": "कारण इसे",
+      "count": 1
+    },
+    {
+      "phrase": "इसे मिडिल",
+      "count": 1
+    },
+    {
+      "phrase": "मिडिल एज",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

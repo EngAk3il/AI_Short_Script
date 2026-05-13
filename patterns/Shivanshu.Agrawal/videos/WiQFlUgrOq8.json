@@ -1,0 +1,148 @@
+{
+  "video_id": "WiQFlUgrOq8",
+  "duration_seconds": 63,
+  "wps": 3.24,
+  "total_words": 204,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 829
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक छोटे से ट्यूशन टीचर ने कोटा को इंडिया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हो गया"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "कोटा",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "बंसल",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "कोचिंग",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "बच्चों",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "कैपिटल",
+      "count": 2
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    },
+    {
+      "word": "अपनी",
+      "count": 2
+    },
+    {
+      "word": "इंजीनियरिंग",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कोचिंग कैपिटल",
+      "count": 2
+    },
+    {
+      "phrase": "कोटा में",
+      "count": 2
+    },
+    {
+      "phrase": "नाम की",
+      "count": 2
+    },
+    {
+      "phrase": "में उन्होंने",
+      "count": 2
+    },
+    {
+      "phrase": "बच्चों को",
+      "count": 2
+    },
+    {
+      "phrase": "हो गया",
+      "count": 2
+    },
+    {
+      "phrase": "बंसल क्लासेस",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "खुलने लगी",
+      "count": 2
+    },
+    {
+      "phrase": "एक छोटे",
+      "count": 1
+    }
+  ],
+  "segment_count": 28
+}

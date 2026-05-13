@@ -1,0 +1,149 @@
+{
+  "video_id": "KHC_dNTOb8M",
+  "duration_seconds": 54,
+  "wps": 3.63,
+  "total_words": 196,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 842
+  },
+  "hook": {
+    "type": "statement",
+    "text": "You see this back pockets every day, but they are not just for storage. They influence how your body looks. See, most people buy the wrong jeans and then they"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "High and tight for lift, low and wide for flat. It's not the price, it's the placement. Just check your pockets before you make your next purchase. For more hidden design secrets, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 11
+    },
+    {
+      "word": "you",
+      "count": 8
+    },
+    {
+      "word": "for",
+      "count": 7
+    },
+    {
+      "word": "this",
+      "count": 6
+    },
+    {
+      "word": "pockets",
+      "count": 5
+    },
+    {
+      "word": "they",
+      "count": 5
+    },
+    {
+      "word": "your",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "look",
+      "count": 5
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "see",
+      "count": 3
+    },
+    {
+      "word": "jeans",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "body",
+      "count": 2
+    },
+    {
+      "word": "most",
+      "count": 2
+    },
+    {
+      "word": "wrong",
+      "count": 2
+    },
+    {
+      "word": "flat",
+      "count": 2
+    },
+    {
+      "word": "check",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you see",
+      "count": 2
+    },
+    {
+      "phrase": "your body",
+      "count": 2
+    },
+    {
+      "phrase": "pockets placed",
+      "count": 2
+    },
+    {
+      "phrase": "see this",
+      "count": 1
+    },
+    {
+      "phrase": "this back",
+      "count": 1
+    },
+    {
+      "phrase": "back pockets",
+      "count": 1
+    },
+    {
+      "phrase": "pockets every",
+      "count": 1
+    },
+    {
+      "phrase": "every day",
+      "count": 1
+    },
+    {
+      "phrase": "day but",
+      "count": 1
+    },
+    {
+      "phrase": "but they",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

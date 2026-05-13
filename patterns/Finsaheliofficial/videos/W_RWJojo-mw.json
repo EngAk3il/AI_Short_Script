@@ -1,0 +1,148 @@
+{
+  "video_id": "W_RWJojo-mw",
+  "duration_seconds": 95,
+  "wps": 3.01,
+  "total_words": 286,
+  "language_mix": {
+    "hindi": 97.9,
+    "english": 2.1,
+    "total_chars": 1161
+  },
+  "hook": {
+    "type": "question",
+    "text": "बेस्ट क्रेडिट कार्ड्स फॉर ईच कैटेगरी। सबसे पहली कैटेगरी फ्यूल। अगर आप महीने में 10,000 से ज्यादा फ्यूल पर स्पेंड कर"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "रीलर मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "कार्ड",
+      "count": 9
+    },
+    {
+      "word": "आपको",
+      "count": 9
+    },
+    {
+      "word": "कैटेगरी",
+      "count": 7
+    },
+    {
+      "word": "आप",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 7
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "मिलता",
+      "count": 4
+    },
+    {
+      "word": "कैशबैक",
+      "count": 4
+    },
+    {
+      "word": "नेक्स्ट",
+      "count": 4
+    },
+    {
+      "word": "सकते",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "बिल्स",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "क्रेडिट",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मिलता है",
+      "count": 4
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 4
+    },
+    {
+      "phrase": "हो तो",
+      "count": 3
+    },
+    {
+      "phrase": "कार्ड पे",
+      "count": 3
+    },
+    {
+      "phrase": "का कैशबैक",
+      "count": 3
+    },
+    {
+      "phrase": "नेक्स्ट कैटेगरी",
+      "count": 3
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 2
+    },
+    {
+      "phrase": "क्रेडिट कार्ड",
+      "count": 2
+    },
+    {
+      "phrase": "इस कार्ड",
+      "count": 2
+    },
+    {
+      "phrase": "पे आपको",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

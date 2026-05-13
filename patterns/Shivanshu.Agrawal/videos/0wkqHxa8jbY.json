@@ -1,0 +1,148 @@
+{
+  "video_id": "0wkqHxa8jbY",
+  "duration_seconds": 61,
+  "wps": 3.31,
+  "total_words": 202,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 741
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया की सबसे बड़ी मिस्ट्रीज में से एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लेयर बना"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "से",
+      "count": 9
+    },
+    {
+      "word": "आयरन",
+      "count": 7
+    },
+    {
+      "word": "पिलर",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "लेयर",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "रस्ट",
+      "count": 3
+    },
+    {
+      "word": "मिस्त्री",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "इसे",
+      "count": 2
+    },
+    {
+      "word": "1600",
+      "count": 2
+    },
+    {
+      "word": "साल",
+      "count": 2
+    },
+    {
+      "word": "बना",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आयरन पिलर",
+      "count": 4
+    },
+    {
+      "phrase": "है जो",
+      "count": 2
+    },
+    {
+      "phrase": "जो इसे",
+      "count": 2
+    },
+    {
+      "phrase": "1600 साल",
+      "count": 2
+    },
+    {
+      "phrase": "रस्ट होने",
+      "count": 2
+    },
+    {
+      "phrase": "इस आयरन",
+      "count": 2
+    },
+    {
+      "phrase": "पिलर में",
+      "count": 2
+    },
+    {
+      "phrase": "पाया की",
+      "count": 2
+    },
+    {
+      "phrase": "पिलर के",
+      "count": 2
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    }
+  ],
+  "segment_count": 26
+}

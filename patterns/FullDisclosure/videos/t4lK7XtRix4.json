@@ -1,0 +1,148 @@
+{
+  "video_id": "t4lK7XtRix4",
+  "duration_seconds": 55,
+  "wps": 2.95,
+  "total_words": 162,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 767
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "For over 100 years, Disney protected its characters like nuclear codes. Now, it's handed them to an AI company. Disney just invested $1 billion in open air."
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "learner. Comment the character you try first and subscribe to full disclosure for what comes"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "disney",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "it's",
+      "count": 4
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "over",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "characters",
+      "count": 2
+    },
+    {
+      "word": "first",
+      "count": 2
+    },
+    {
+      "word": "fans",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "isn't",
+      "count": 2
+    },
+    {
+      "word": "about",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this isn't",
+      "count": 2
+    },
+    {
+      "phrase": "to the",
+      "count": 2
+    },
+    {
+      "phrase": "for over",
+      "count": 1
+    },
+    {
+      "phrase": "over 100",
+      "count": 1
+    },
+    {
+      "phrase": "100 years",
+      "count": 1
+    },
+    {
+      "phrase": "years disney",
+      "count": 1
+    },
+    {
+      "phrase": "disney protected",
+      "count": 1
+    },
+    {
+      "phrase": "protected its",
+      "count": 1
+    },
+    {
+      "phrase": "its characters",
+      "count": 1
+    },
+    {
+      "phrase": "characters like",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "93QFciNSO7o",
+  "duration_seconds": 49,
+  "wps": 3.02,
+  "total_words": 148,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 612
+  },
+  "hook": {
+    "type": "imagination",
+    "text": "imagine you went to a movie theater to"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "anxiety think about it"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 14
+    },
+    {
+      "word": "the",
+      "count": 11
+    },
+    {
+      "word": "to",
+      "count": 10
+    },
+    {
+      "word": "in",
+      "count": 6
+    },
+    {
+      "word": "movie",
+      "count": 4
+    },
+    {
+      "word": "do",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "allow",
+      "count": 4
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "show",
+      "count": 3
+    },
+    {
+      "word": "experience",
+      "count": 3
+    },
+    {
+      "word": "social",
+      "count": 3
+    },
+    {
+      "word": "theater",
+      "count": 2
+    },
+    {
+      "word": "story",
+      "count": 2
+    },
+    {
+      "word": "line",
+      "count": 2
+    },
+    {
+      "word": "mind",
+      "count": 2
+    },
+    {
+      "word": "go",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    },
+    {
+      "word": "itself",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "allow the",
+      "count": 4
+    },
+    {
+      "phrase": "you allow",
+      "count": 3
+    },
+    {
+      "phrase": "to show",
+      "count": 3
+    },
+    {
+      "phrase": "the experience",
+      "count": 3
+    },
+    {
+      "phrase": "a movie",
+      "count": 2
+    },
+    {
+      "phrase": "the story",
+      "count": 2
+    },
+    {
+      "phrase": "story line",
+      "count": 2
+    },
+    {
+      "phrase": "you go",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "the movie",
+      "count": 2
+    }
+  ],
+  "segment_count": 20
+}

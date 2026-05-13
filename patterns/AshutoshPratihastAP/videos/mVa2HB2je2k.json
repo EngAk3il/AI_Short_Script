@@ -1,0 +1,148 @@
+{
+  "video_id": "mVa2HB2je2k",
+  "duration_seconds": 37,
+  "wps": 4.05,
+  "total_words": 150,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 511
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हमें जिंदगी में आपको या मुझे हर एक इंसान को जिंदगी में उतना ही मिलता है जितना हम डिजर्व करते हैं जितने के लायक हम हैं आज से 5 साल पहले जो आशुतोष था ना उसको उतना"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जितनी मेहनत कारी उतना ही मिलेगा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "उतना",
+      "count": 6
+    },
+    {
+      "word": "ही",
+      "count": 6
+    },
+    {
+      "word": "डिजर्व",
+      "count": 6
+    },
+    {
+      "word": "जितनी",
+      "count": 6
+    },
+    {
+      "word": "जितना",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "उसकी",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "आज",
+      "count": 3
+    },
+    {
+      "word": "नॉलेज",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "जिंदगी",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "मुझे",
+      "count": 2
+    },
+    {
+      "word": "मिलता",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "उतना ही",
+      "count": 6
+    },
+    {
+      "phrase": "जितनी उसकी",
+      "count": 4
+    },
+    {
+      "phrase": "जिंदगी में",
+      "count": 2
+    },
+    {
+      "phrase": "ही मिलता",
+      "count": 2
+    },
+    {
+      "phrase": "है जितना",
+      "count": 2
+    },
+    {
+      "phrase": "डिजर्व करते",
+      "count": 2
+    },
+    {
+      "phrase": "5 साल",
+      "count": 2
+    },
+    {
+      "phrase": "जो आशुतोष",
+      "count": 2
+    },
+    {
+      "phrase": "उसकी बुद्धि",
+      "count": 2
+    },
+    {
+      "phrase": "ही पैसा",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

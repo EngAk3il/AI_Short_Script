@@ -1,0 +1,148 @@
+{
+  "video_id": "ObuY4ZuF12g",
+  "duration_seconds": 48,
+  "wps": 2.92,
+  "total_words": 140,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 582
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "I start watching I start learning and I"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "on the go"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "be",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "start",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "learn",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "project",
+      "count": 3
+    },
+    {
+      "word": "watching",
+      "count": 2
+    },
+    {
+      "word": "learning",
+      "count": 2
+    },
+    {
+      "word": "consuming",
+      "count": 2
+    },
+    {
+      "word": "information",
+      "count": 2
+    },
+    {
+      "word": "feel",
+      "count": 2
+    },
+    {
+      "word": "really",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "i'm",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "be it",
+      "count": 4
+    },
+    {
+      "phrase": "i start",
+      "count": 2
+    },
+    {
+      "phrase": "that project",
+      "count": 2
+    },
+    {
+      "phrase": "start watching",
+      "count": 1
+    },
+    {
+      "phrase": "watching i",
+      "count": 1
+    },
+    {
+      "phrase": "start learning",
+      "count": 1
+    },
+    {
+      "phrase": "learning and",
+      "count": 1
+    },
+    {
+      "phrase": "and i",
+      "count": 1
+    },
+    {
+      "phrase": "i keep",
+      "count": 1
+    },
+    {
+      "phrase": "keep consuming",
+      "count": 1
+    }
+  ],
+  "segment_count": 20
+}

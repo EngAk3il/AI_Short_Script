@@ -1,0 +1,148 @@
+{
+  "video_id": "UTpokVDQlEc",
+  "duration_seconds": 53,
+  "wps": 3.62,
+  "total_words": 192,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 732
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "और अंबुजा सीमेंट कोशिश कर लिया अदानी ने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "प्लेबैक पागल है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "करना",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "सीमेंट",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "चाहिए",
+      "count": 4
+    },
+    {
+      "word": "अंबुजा",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "वाली",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "होगा",
+      "count": 3
+    },
+    {
+      "word": "अभी",
+      "count": 2
+    },
+    {
+      "word": "करोड़",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करना चाहिए",
+      "count": 4
+    },
+    {
+      "phrase": "अंबुजा सीमेंट",
+      "count": 3
+    },
+    {
+      "phrase": "सीमेंट के",
+      "count": 2
+    },
+    {
+      "phrase": "प्राइस में",
+      "count": 2
+    },
+    {
+      "phrase": "में भी",
+      "count": 2
+    },
+    {
+      "phrase": "भी बहुत",
+      "count": 2
+    },
+    {
+      "phrase": "वाली है",
+      "count": 2
+    },
+    {
+      "phrase": "निवेश करना",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "होगा तो",
+      "count": 2
+    }
+  ],
+  "segment_count": 25
+}

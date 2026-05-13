@@ -1,0 +1,148 @@
+{
+  "video_id": "m8PUJLBUVLs",
+  "duration_seconds": 43,
+  "wps": 3.86,
+  "total_words": 166,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 580
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या रामायण की वानर सी सच में बंदर थे चलिए देखते हैं वानर शब्द संस्कृत से उठाया गया जिसे तोड़ने पर दो शब्द निकलते"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "हमारे ग को फिक्शन का के नकारा ही है आपको क्या लगता है लेट मी नो इन डी कमेंट क्षेत्र"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "थे",
+      "count": 8
+    },
+    {
+      "word": "वानर",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "क्या",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "बंदर",
+      "count": 3
+    },
+    {
+      "word": "मतलब",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "इंसान",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "सच",
+      "count": 2
+    },
+    {
+      "word": "देखते",
+      "count": 2
+    },
+    {
+      "word": "शब्द",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "की वानर",
+      "count": 4
+    },
+    {
+      "phrase": "देखते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "मतलब की",
+      "count": 2
+    },
+    {
+      "phrase": "जो की",
+      "count": 2
+    },
+    {
+      "phrase": "में रहते",
+      "count": 2
+    },
+    {
+      "phrase": "रहते थे",
+      "count": 2
+    },
+    {
+      "phrase": "थे और",
+      "count": 2
+    },
+    {
+      "phrase": "क्या रामायण",
+      "count": 1
+    },
+    {
+      "phrase": "रामायण की",
+      "count": 1
+    },
+    {
+      "phrase": "वानर सी",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

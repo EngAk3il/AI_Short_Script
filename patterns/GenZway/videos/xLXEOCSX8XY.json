@@ -1,0 +1,150 @@
+{
+  "video_id": "xLXEOCSX8XY",
+  "duration_seconds": 59,
+  "wps": 4.41,
+  "total_words": 260,
+  "language_mix": {
+    "hindi": 99.0,
+    "english": 1.0,
+    "total_chars": 893
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Zomatolid वाले सारे राइडर आज की डेट में स्ट्राइक के ऊपर गए हुए थे और उनकी पूरी यूनिटी को तोड़ने के लिए बस ₹10 एक्स्ट्रा पैक के मारे और सारे के सारे लाइन में लग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "होता है| ये सारे के सारे गरीब लोग"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "सारे",
+      "count": 5
+    },
+    {
+      "word": "आज",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "खुद",
+      "count": 4
+    },
+    {
+      "word": "डेट",
+      "count": 3
+    },
+    {
+      "word": "यूनिटी",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "₹10",
+      "count": 3
+    },
+    {
+      "word": "एक्स्ट्रा",
+      "count": 3
+    },
+    {
+      "word": "पहले",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आज की",
+      "count": 3
+    },
+    {
+      "phrase": "की डेट",
+      "count": 3
+    },
+    {
+      "phrase": "डेट में",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "₹10 एक्स्ट्रा",
+      "count": 3
+    },
+    {
+      "phrase": "में स्ट्राइक",
+      "count": 2
+    },
+    {
+      "phrase": "सारे के",
+      "count": 2
+    },
+    {
+      "phrase": "के सारे",
+      "count": 2
+    },
+    {
+      "phrase": "मिल रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

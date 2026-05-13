@@ -1,0 +1,148 @@
+{
+  "video_id": "fChVsr1qZX0",
+  "duration_seconds": 67,
+  "wps": 3.24,
+  "total_words": 217,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 918
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आखिर कैसे बालाजी वेफर्स ने अपने कंपटीशन को डिस्ट्रॉय किया इन्होंने देखा कि लेस जैसे ब्रांड्स के पैकेट्स में चिप से ज्यादा तो हवा थी जिस कारण मिडिल क्लास और"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "चलते इनकी सेल्स 5000 करोड़ से भी ज्यादा है ऐसी और वीडियोस के लिए मुझे फॉलो करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "लिए",
+      "count": 6
+    },
+    {
+      "word": "वेफर्स",
+      "count": 5
+    },
+    {
+      "word": "इन्होंने",
+      "count": 5
+    },
+    {
+      "word": "जैसे",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "बालाजी",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "ज्यादा",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "मिडिल",
+      "count": 3
+    },
+    {
+      "word": "क्लास",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "स्नैक्स",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "देखा",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "बालाजी वेफर्स",
+      "count": 4
+    },
+    {
+      "phrase": "वेफर्स ने",
+      "count": 3
+    },
+    {
+      "phrase": "मिडिल क्लास",
+      "count": 3
+    },
+    {
+      "phrase": "देखा कि",
+      "count": 2
+    },
+    {
+      "phrase": "जिस कारण",
+      "count": 2
+    },
+    {
+      "phrase": "और स्नैक्स",
+      "count": 2
+    },
+    {
+      "phrase": "स्नैक्स जैसे",
+      "count": 2
+    },
+    {
+      "phrase": "भी लॉन्च",
+      "count": 2
+    },
+    {
+      "phrase": "लॉन्च कर",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

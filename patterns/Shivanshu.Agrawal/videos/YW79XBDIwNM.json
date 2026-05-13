@@ -1,0 +1,148 @@
+{
+  "video_id": "YW79XBDIwNM",
+  "duration_seconds": 44,
+  "wps": 3.98,
+  "total_words": 175,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 659
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इस 22 साल के लड़के ने $0 मार्केटिंग स्ट्रेटजी उसे करके करोड़ की चाय बेची अनुभव दुबे चाहे सत्ता मार के को फाउंडर हैं और उन्होंने अपनी एक स्पीच में बताया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक बर्फ क्रिएट हो जाए"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "चाय",
+      "count": 3
+    },
+    {
+      "word": "चाहे",
+      "count": 3
+    },
+    {
+      "word": "उन्होंने",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "कारण",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "भीड़",
+      "count": 3
+    },
+    {
+      "word": "वहां",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "मार्केटिंग",
+      "count": 2
+    },
+    {
+      "word": "करोड़",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "उनकी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करोड़ की",
+      "count": 2
+    },
+    {
+      "phrase": "कारण उनकी",
+      "count": 2
+    },
+    {
+      "phrase": "उनकी शॉप",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत भीड़",
+      "count": 2
+    },
+    {
+      "phrase": "गई और",
+      "count": 2
+    },
+    {
+      "phrase": "वहां से",
+      "count": 2
+    },
+    {
+      "phrase": "में एक",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हो जाए",
+      "count": 2
+    },
+    {
+      "phrase": "इस 22",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "5usp9ptrf6Q",
+  "duration_seconds": 46,
+  "wps": 3.33,
+  "total_words": 153,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 724
+  },
+  "hook": {
+    "type": "question",
+    "text": "Do you know this girl is 60 years old and it beats milliondoll marketing campaigns every single day. When this Amul girl was created in 1966, she was"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "what's the most iconic Amulad you remember? Tell me in the comments."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "she",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 3
+    },
+    {
+      "word": "butter",
+      "count": 3
+    },
+    {
+      "word": "music",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "girl",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "amul",
+      "count": 2
+    },
+    {
+      "word": "was",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    },
+    {
+      "word": "survive",
+      "count": 2
+    },
+    {
+      "word": "cute",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "just a",
+      "count": 2
+    },
+    {
+      "phrase": "do you",
+      "count": 1
+    },
+    {
+      "phrase": "you know",
+      "count": 1
+    },
+    {
+      "phrase": "know this",
+      "count": 1
+    },
+    {
+      "phrase": "this girl",
+      "count": 1
+    },
+    {
+      "phrase": "girl is",
+      "count": 1
+    },
+    {
+      "phrase": "is 60",
+      "count": 1
+    },
+    {
+      "phrase": "60 years",
+      "count": 1
+    },
+    {
+      "phrase": "years old",
+      "count": 1
+    },
+    {
+      "phrase": "old and",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

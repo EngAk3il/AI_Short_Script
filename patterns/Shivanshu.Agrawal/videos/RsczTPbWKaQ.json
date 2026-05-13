@@ -1,0 +1,148 @@
+{
+  "video_id": "RsczTPbWKaQ",
+  "duration_seconds": 54,
+  "wps": 3.67,
+  "total_words": 198,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 794
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर आप एक ऐसा ई-कॉमर्स बिजनेस स्टार्ट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ड्रैग एंड ड्रॉप एंड दैट्ची"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "आप",
+      "count": 5
+    },
+    {
+      "word": "ई-कॉमर्स",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 4
+    },
+    {
+      "word": "सकते",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "करना",
+      "count": 3
+    },
+    {
+      "word": "फ्री",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "सिंपली",
+      "count": 3
+    },
+    {
+      "word": "सिलेक्ट",
+      "count": 3
+    },
+    {
+      "word": "पेज",
+      "count": 3
+    },
+    {
+      "word": "ऐड",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सकते हो",
+      "count": 4
+    },
+    {
+      "phrase": "ई-कॉमर्स वेबसाइट",
+      "count": 3
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 3
+    },
+    {
+      "phrase": "आप एक",
+      "count": 2
+    },
+    {
+      "phrase": "u के",
+      "count": 2
+    },
+    {
+      "phrase": "पे जाके",
+      "count": 2
+    },
+    {
+      "phrase": "सिलेक्ट कर",
+      "count": 2
+    },
+    {
+      "phrase": "करना है",
+      "count": 2
+    },
+    {
+      "phrase": "ऐड कर",
+      "count": 2
+    },
+    {
+      "phrase": "पेज पे",
+      "count": 2
+    }
+  ],
+  "segment_count": 26
+}

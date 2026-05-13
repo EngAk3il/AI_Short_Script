@@ -1,0 +1,148 @@
+{
+  "video_id": "rESXaaeJzoM",
+  "duration_seconds": 81,
+  "wps": 3.14,
+  "total_words": 254,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1058
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रिसेंटली शुभांशु शुक्ला इंटरनेशनल स्पेस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नहीं बन पाते"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 12
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "स्पेस",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "अर्थ",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "ग्रेविटी",
+      "count": 4
+    },
+    {
+      "word": "एक्सपेरिमेंट्स",
+      "count": 4
+    },
+    {
+      "word": "स्टेशन",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "इसका",
+      "count": 3
+    },
+    {
+      "word": "करीब",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "इंटरनेशनल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हैं और",
+      "count": 4
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "इंटरनेशनल स्पेस",
+      "count": 2
+    },
+    {
+      "phrase": "स्पेस स्टेशन",
+      "count": 2
+    },
+    {
+      "phrase": "स्पेस में",
+      "count": 2
+    },
+    {
+      "phrase": "अर्थ के",
+      "count": 2
+    },
+    {
+      "phrase": "और इसका",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "यह अर्थ",
+      "count": 2
+    },
+    {
+      "phrase": "अर्थ से",
+      "count": 2
+    }
+  ],
+  "segment_count": 36
+}

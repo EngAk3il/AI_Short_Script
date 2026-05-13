@@ -1,0 +1,148 @@
+{
+  "video_id": "yWZ-RVnauVs",
+  "duration_seconds": 60,
+  "wps": 3.18,
+  "total_words": 191,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 705
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इटली में एक बहुत बड़ा क्राइसिस चल रहा है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पॉवर्टी में शार्प राइज हो रहा है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "इटली",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "पॉपुलेशन",
+      "count": 4
+    },
+    {
+      "word": "कमी",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "बिजनेसेस",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "ऑफ",
+      "count": 2
+    },
+    {
+      "word": "काफी",
+      "count": 2
+    },
+    {
+      "word": "कारण",
+      "count": 2
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "जा",
+      "count": 2
+    },
+    {
+      "word": "मतलब",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इटली में",
+      "count": 5
+    },
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "की कमी",
+      "count": 3
+    },
+    {
+      "phrase": "कमी है",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "जा रहा",
+      "count": 2
+    },
+    {
+      "phrase": "मतलब इटली",
+      "count": 2
+    },
+    {
+      "phrase": "है साथ",
+      "count": 2
+    },
+    {
+      "phrase": "साथ में",
+      "count": 2
+    }
+  ],
+  "segment_count": 24
+}

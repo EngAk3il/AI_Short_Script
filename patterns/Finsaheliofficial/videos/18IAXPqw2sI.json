@@ -1,0 +1,148 @@
+{
+  "video_id": "18IAXPqw2sI",
+  "duration_seconds": 45,
+  "wps": 4.0,
+  "total_words": 180,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 715
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्रिकेटर चहल ने भी अपनी शादी से पहले पांच चीजें की थी जिससे डिवोर्स के बाद उसको अपनी वाइफ को कोई भी प्रॉपर्टी या एसेट नहीं देने पड़े। तो अगर आप भी चाहते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के साथ जिससे आगे जाके सब ट्रांसपेरेंट बना रहता है। को अपने उन दोस्तों के साथ तो जरूर शेयर करना जो हर वक्त अपने गर्लफ्रेंड और बीवी का नाम लेते रहते"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "अगर",
+      "count": 4
+    },
+    {
+      "word": "अपनी",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "प्रॉपर्टी",
+      "count": 3
+    },
+    {
+      "word": "एसेट",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "नाम",
+      "count": 3
+    },
+    {
+      "word": "करना",
+      "count": 3
+    },
+    {
+      "word": "शादी",
+      "count": 2
+    },
+    {
+      "word": "पहले",
+      "count": 2
+    },
+    {
+      "word": "चीजें",
+      "count": 2
+    },
+    {
+      "word": "जिससे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कोई भी",
+      "count": 3
+    },
+    {
+      "phrase": "शादी से",
+      "count": 2
+    },
+    {
+      "phrase": "से पहले",
+      "count": 2
+    },
+    {
+      "phrase": "तो अगर",
+      "count": 2
+    },
+    {
+      "phrase": "आप भी",
+      "count": 2
+    },
+    {
+      "phrase": "आगे जाके",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "के साथ",
+      "count": 2
+    },
+    {
+      "phrase": "क्रिकेटर चहल",
+      "count": 1
+    },
+    {
+      "phrase": "चहल ने",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

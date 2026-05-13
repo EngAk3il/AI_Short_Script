@@ -1,0 +1,148 @@
+{
+  "video_id": "Zwk99XGU1QI",
+  "duration_seconds": 37,
+  "wps": 4.03,
+  "total_words": 149,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 630
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "कम प्राइस में बटोर क्वालिटी देने के कारण सनफीस्ट के बिस्किट्स फैल हो गई पर कैसे कंफ्यूज ने अपनी मारी लाइट बिस्कुट को ₹25 में प्राइस किया जबकि ज्यादातर कंपीटीटर्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्वीट बनाया और प्राइस भी ₹30 कर दिया और इन सभी चेंज के बाद उनकी बिस्कुट को काफी अच्छा रिस्पांस मिला"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "प्राइस",
+      "count": 5
+    },
+    {
+      "word": "बिस्कुट",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "क्वालिटी",
+      "count": 3
+    },
+    {
+      "word": "बिस्किट्स",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "अपनी",
+      "count": 3
+    },
+    {
+      "word": "कारण",
+      "count": 2
+    },
+    {
+      "word": "सनफीस्ट",
+      "count": 2
+    },
+    {
+      "word": "फैल",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "गई",
+      "count": 2
+    },
+    {
+      "word": "मारी",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "₹30",
+      "count": 2
+    },
+    {
+      "word": "इसके",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बिस्कुट को",
+      "count": 3
+    },
+    {
+      "phrase": "के कारण",
+      "count": 2
+    },
+    {
+      "phrase": "फैल हो",
+      "count": 2
+    },
+    {
+      "phrase": "हो गई",
+      "count": 2
+    },
+    {
+      "phrase": "ने अपनी",
+      "count": 2
+    },
+    {
+      "phrase": "अपनी मारी",
+      "count": 2
+    },
+    {
+      "phrase": "इसके अलावा",
+      "count": 2
+    },
+    {
+      "phrase": "प्राइस और",
+      "count": 2
+    },
+    {
+      "phrase": "क्वालिटी के",
+      "count": 2
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

@@ -1,0 +1,62 @@
+{
+  "video_id": "QhE_WX7Obok",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 9,
+      "text": "Take a Chinese [music] vacuum cleaner clawed and a PlayStation controller. And apparently you can see inside 7,000 homes in 24 countries. [music]"
+    },
+    {
+      "start": 9,
+      "duration": 8,
+      "text": "Yep, this is exactly what happened and by accident. So Sammy, a software engineer, bought this DJI robot vacuum and all he wanted to do was control it"
+    },
+    {
+      "start": 17,
+      "duration": 9,
+      "text": "with his PlayStation controller. So he uses claw to figure out how to connect to his vacuum through DJI servers and it works. But then he notices that he's"
+    },
+    {
+      "start": 26,
+      "duration": 9,
+      "text": "able to control 7,000 other vacuums. He was able to access live camera recordings, microphones, and locations for people's homes worldwide. It's kind"
+    },
+    {
+      "start": 35,
+      "duration": 6,
+      "text": "of like you check into a hotel, but then you realize your key opens every single room on every single floor, but nobody"
+    },
+    {
+      "start": 41,
+      "duration": 8,
+      "text": "at the hotel notices. Similarly, DTS servers never checked if Sammi's key was only for his vacuum. They just saw that"
+    },
+    {
+      "start": 49,
+      "duration": 8,
+      "text": "it was a valid key and said, \"Come on in into [music] every single room or every single vacuum.\" But the craziest part is he didn't break a single rule. In fact,"
+    },
+    {
+      "start": 57,
+      "duration": 4,
+      "text": "he reported it to DJI and DJI fixed [music] this bug. He's an outlier,"
+    },
+    {
+      "start": 61,
+      "duration": 9,
+      "text": "though. There are many, many bad actors out there. There are hackers who have beat security cameras, smart locks, baby monitors, all sorts of smart devices."
+    },
+    {
+      "start": 70,
+      "duration": 9,
+      "text": "So, if you're somebody who has a smart device at home, please change the default passwords and check what permissions it has. [music] If it does not need camera and microphone access,"
+    },
+    {
+      "start": 79,
+      "duration": 3.0,
+      "text": "disable it right now and share the story with everybody so people realize how easy it is to hack into smart devices."
+    }
+  ]
+}

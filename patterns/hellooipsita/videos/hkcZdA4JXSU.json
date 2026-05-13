@@ -1,0 +1,148 @@
+{
+  "video_id": "hkcZdA4JXSU",
+  "duration_seconds": 12,
+  "wps": 3.5,
+  "total_words": 42,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 160
+  },
+  "hook": {
+    "type": "statement",
+    "text": "I can't make a decision and I feel stuck the first step is to know and understand your why very well I read this quote"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "somewhere that said you can almost always bear the how as long as you know your why"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "know",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "why",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "as",
+      "count": 2
+    },
+    {
+      "word": "can't",
+      "count": 1
+    },
+    {
+      "word": "make",
+      "count": 1
+    },
+    {
+      "word": "decision",
+      "count": 1
+    },
+    {
+      "word": "feel",
+      "count": 1
+    },
+    {
+      "word": "stuck",
+      "count": 1
+    },
+    {
+      "word": "first",
+      "count": 1
+    },
+    {
+      "word": "step",
+      "count": 1
+    },
+    {
+      "word": "is",
+      "count": 1
+    },
+    {
+      "word": "to",
+      "count": 1
+    },
+    {
+      "word": "understand",
+      "count": 1
+    },
+    {
+      "word": "very",
+      "count": 1
+    },
+    {
+      "word": "well",
+      "count": 1
+    },
+    {
+      "word": "read",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "your why",
+      "count": 2
+    },
+    {
+      "phrase": "i can't",
+      "count": 1
+    },
+    {
+      "phrase": "can't make",
+      "count": 1
+    },
+    {
+      "phrase": "make a",
+      "count": 1
+    },
+    {
+      "phrase": "a decision",
+      "count": 1
+    },
+    {
+      "phrase": "decision and",
+      "count": 1
+    },
+    {
+      "phrase": "and i",
+      "count": 1
+    },
+    {
+      "phrase": "i feel",
+      "count": 1
+    },
+    {
+      "phrase": "feel stuck",
+      "count": 1
+    },
+    {
+      "phrase": "stuck the",
+      "count": 1
+    }
+  ],
+  "segment_count": 2
+}

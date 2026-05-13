@@ -1,0 +1,148 @@
+{
+  "video_id": "Xz0Qr8q_Xm0",
+  "duration_seconds": 45,
+  "wps": 3.18,
+  "total_words": 143,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 627
+  },
+  "hook": {
+    "type": "statement",
+    "text": "I recently saw this design and it honestly blew my mind. It looks like a simple tube, but it saves your biggest headache with the sushi. See, sushi has a usability problem. It is messy. It"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Brilliant design. Subscribe for more."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 9
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "just",
+      "count": 4
+    },
+    {
+      "word": "sushi",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "tube",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "no",
+      "count": 2
+    },
+    {
+      "word": "food",
+      "count": 2
+    },
+    {
+      "word": "making",
+      "count": 2
+    },
+    {
+      "word": "they",
+      "count": 2
+    },
+    {
+      "word": "recently",
+      "count": 1
+    },
+    {
+      "word": "saw",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "it is",
+      "count": 2
+    },
+    {
+      "phrase": "i recently",
+      "count": 1
+    },
+    {
+      "phrase": "recently saw",
+      "count": 1
+    },
+    {
+      "phrase": "saw this",
+      "count": 1
+    },
+    {
+      "phrase": "this design",
+      "count": 1
+    },
+    {
+      "phrase": "design and",
+      "count": 1
+    },
+    {
+      "phrase": "and it",
+      "count": 1
+    },
+    {
+      "phrase": "it honestly",
+      "count": 1
+    },
+    {
+      "phrase": "honestly blew",
+      "count": 1
+    },
+    {
+      "phrase": "blew my",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

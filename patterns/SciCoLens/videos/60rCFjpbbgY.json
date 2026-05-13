@@ -1,0 +1,148 @@
+{
+  "video_id": "60rCFjpbbgY",
+  "duration_seconds": 70,
+  "wps": 3.8,
+  "total_words": 266,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 995
+  },
+  "hook": {
+    "type": "question",
+    "text": "जैसे अगर हम देखते हैं सेलिब्रिटीज वगैरह तो अपने आई की ट्रीटमेंट कराने के लिए यूके, यूएस वैसे कंट्रीज को ज्यादा प्रेफर करते हैं। तो क्या वहां पे इंफ्रास्ट्रक्चर या टेक्नोलॉजी इंडिया से"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हमारे मन में कांसेप्ट चल रहा है कि गोरी खाल वाले ज्यादा अच्छा काम करते हैं।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 21
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "वहां",
+      "count": 5
+    },
+    {
+      "word": "रहा",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "टेक्नोलॉजी",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "हम",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "ज्यादा",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "आती",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "वहां पे",
+      "count": 3
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "उठ के",
+      "count": 3
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 2
+    },
+    {
+      "phrase": "आती है",
+      "count": 2
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 2
+    },
+    {
+      "phrase": "एक दिन",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

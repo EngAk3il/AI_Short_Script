@@ -1,0 +1,148 @@
+{
+  "video_id": "soUuJ9KmthY",
+  "duration_seconds": 63,
+  "wps": 3.44,
+  "total_words": 217,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 852
+  },
+  "hook": {
+    "type": "statement",
+    "text": "चंद्रयान के बाद अब इंडिया गगन यान लॉन्च करने वाला है ये इंडिया का पहला ऐसा मिशन है जिसमें हम इंसानों को ना केवल स्पेस में भेजने वाले हैं बल्कि उन्हें सेफली"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 12
+    },
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "मिशन",
+      "count": 7
+    },
+    {
+      "word": "बाद",
+      "count": 6
+    },
+    {
+      "word": "इंडिया",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "स्पेस",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "जाएगा",
+      "count": 4
+    },
+    {
+      "word": "वाले",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "टेस्ट",
+      "count": 3
+    },
+    {
+      "word": "गगन",
+      "count": 2
+    },
+    {
+      "word": "यान",
+      "count": 2
+    },
+    {
+      "word": "लॉन्च",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "ऐसा",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के बाद",
+      "count": 5
+    },
+    {
+      "phrase": "स्पेस में",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "गगन यान",
+      "count": 2
+    },
+    {
+      "phrase": "में भेजने",
+      "count": 2
+    },
+    {
+      "phrase": "वाले हैं",
+      "count": 2
+    },
+    {
+      "phrase": "उन्हें सेफली",
+      "count": 2
+    },
+    {
+      "phrase": "इस मिशन",
+      "count": 2
+    },
+    {
+      "phrase": "मिशन के",
+      "count": 2
+    },
+    {
+      "phrase": "बाद इंडिया",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

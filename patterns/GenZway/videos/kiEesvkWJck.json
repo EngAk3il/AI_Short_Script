@@ -1,0 +1,149 @@
+{
+  "video_id": "kiEesvkWJck",
+  "duration_seconds": 39,
+  "wps": 5.18,
+  "total_words": 202,
+  "language_mix": {
+    "hindi": 98.7,
+    "english": 1.3,
+    "total_chars": 717
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Dar को हराने के लिए Swiggy वाले अपने खुद के ऑफलाइन स्टोर डालने का नाटक बहुत बढ़िया कर रहे हैं। अभी मैं इसको नाटक इसलिए बोल रहा हूं क्योंकि दूर से देख के लगता है कि भैया 4/4 का एक छोटी सी दुकान"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रेंट भी कम है। दोनों मान लिया। वहां पे नेटवर्क ही नहीं आता। आप लोग शॉपिंग कर लेते हो। उसके बाद उनका वाई-फाई कनेक्ट करना पड़ता है सिर्फ पेमेंट करने के"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "दुकान",
+      "count": 5
+    },
+    {
+      "word": "लोग",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "भैया",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "रेंट",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "स्टोर",
+      "count": 2
+    },
+    {
+      "word": "नाटक",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 3
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "दुकान है",
+      "count": 2
+    },
+    {
+      "phrase": "है पर",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "dar को",
+      "count": 1
+    },
+    {
+      "phrase": "को हराने",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

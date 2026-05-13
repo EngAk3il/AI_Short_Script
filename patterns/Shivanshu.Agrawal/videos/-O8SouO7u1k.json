@@ -1,0 +1,148 @@
+{
+  "video_id": "-O8SouO7u1k",
+  "duration_seconds": 62,
+  "wps": 3.18,
+  "total_words": 197,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 713
+  },
+  "hook": {
+    "type": "question",
+    "text": "2 लाख लोग भूखे रह जाएंगे अगर मुंबई के डब्बा वालास ना हो इनका मिशन है डिलीवर फूड ऑन टाइम एवरी टाइम और इसके लिए डब्बा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "खाली डब्बे 6:00 बजे तक घर पहुंच जाते हैं"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "डब्बा",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "वाला",
+      "count": 4
+    },
+    {
+      "word": "टाइम",
+      "count": 3
+    },
+    {
+      "word": "डब्बे",
+      "count": 3
+    },
+    {
+      "word": "पिक",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "डब्बो",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "ट्रेन",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "डिलीवर",
+      "count": 2
+    },
+    {
+      "word": "करीब",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "डब्बा वाला",
+      "count": 4
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "डब्बो को",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "जाती है",
+      "count": 2
+    },
+    {
+      "phrase": "फाइनल डिलीवरी",
+      "count": 2
+    },
+    {
+      "phrase": "ट्रेन में",
+      "count": 2
+    },
+    {
+      "phrase": "में चढ़ाया",
+      "count": 2
+    },
+    {
+      "phrase": "2 लाख",
+      "count": 1
+    },
+    {
+      "phrase": "लाख लोग",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "JwdYM_9z0fo",
+  "duration_seconds": 34,
+  "wps": 3.44,
+  "total_words": 117,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 471
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "नेवर ओवरकमिट एंड अंडर डिलीवर। इवन इफ इट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रेटिंग्स एंड रिव्यूज।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "प्रोडक्ट",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "ऑलवेज",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "रेटिंग्स",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "अंडर",
+      "count": 2
+    },
+    {
+      "word": "डिलीवर",
+      "count": 2
+    },
+    {
+      "word": "इफ",
+      "count": 2
+    },
+    {
+      "word": "कमिट",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "बट",
+      "count": 2
+    },
+    {
+      "word": "मीट",
+      "count": 2
+    },
+    {
+      "word": "एक्सपेक्टेशन",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "महीना",
+      "count": 2
+    },
+    {
+      "word": "बेच",
+      "count": 2
+    },
+    {
+      "word": "दोगे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रेटिंग्स एंड",
+      "count": 3
+    },
+    {
+      "phrase": "बेच दोगे",
+      "count": 2
+    },
+    {
+      "phrase": "विल ऑलवेज",
+      "count": 2
+    },
+    {
+      "phrase": "एंड रिव्यूज",
+      "count": 2
+    },
+    {
+      "phrase": "बिल्ड करने",
+      "count": 2
+    },
+    {
+      "phrase": "नेवर ओवरकमिट",
+      "count": 1
+    },
+    {
+      "phrase": "ओवरकमिट एंड",
+      "count": 1
+    },
+    {
+      "phrase": "एंड अंडर",
+      "count": 1
+    },
+    {
+      "phrase": "अंडर डिलीवर",
+      "count": 1
+    },
+    {
+      "phrase": "डिलीवर इवन",
+      "count": 1
+    }
+  ],
+  "segment_count": 16
+}

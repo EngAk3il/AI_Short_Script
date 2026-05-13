@@ -1,0 +1,148 @@
+{
+  "video_id": "jGC66uXBl3U",
+  "duration_seconds": 68,
+  "wps": 2.44,
+  "total_words": 166,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 686
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "खेती सिर्फ मर्दों का काम है। ऐसा बोला"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "देश का विकास"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "सिर्फ",
+      "count": 2
+    },
+    {
+      "word": "मर्दों",
+      "count": 2
+    },
+    {
+      "word": "महाराष्ट्र",
+      "count": 2
+    },
+    {
+      "word": "गांव",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    },
+    {
+      "word": "जब",
+      "count": 2
+    },
+    {
+      "word": "फार्मर्स",
+      "count": 2
+    },
+    {
+      "word": "गई",
+      "count": 2
+    },
+    {
+      "word": "प्रॉफिट",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पर जब",
+      "count": 2
+    },
+    {
+      "phrase": "पानी फाउंडेशन",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "खेती सिर्फ",
+      "count": 1
+    },
+    {
+      "phrase": "सिर्फ मर्दों",
+      "count": 1
+    },
+    {
+      "phrase": "मर्दों का",
+      "count": 1
+    },
+    {
+      "phrase": "का काम",
+      "count": 1
+    },
+    {
+      "phrase": "काम है",
+      "count": 1
+    },
+    {
+      "phrase": "है ऐसा",
+      "count": 1
+    },
+    {
+      "phrase": "ऐसा बोला",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

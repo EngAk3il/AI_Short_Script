@@ -1,0 +1,148 @@
+{
+  "video_id": "sWxt3TjjzLw",
+  "duration_seconds": 44,
+  "wps": 4.36,
+  "total_words": 192,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 722
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "नेपाल के राइट्स के अंदर भी सिर्फ और सिर्फ पैसों का ही हाथ है क्योंकि वहां का करप्शन बहुत क्रेजी लेवल पे बढ़ रहा था और वहां का यूथ सोशल मीडिया के ऊपर इसके बारे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भी फेवर नहीं करते ज्यादा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "ने",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "सोशल",
+      "count": 4
+    },
+    {
+      "word": "मीडिया",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "क्योंकि",
+      "count": 3
+    },
+    {
+      "word": "वहां",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "सरकार",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "चीज",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सोशल मीडिया",
+      "count": 4
+    },
+    {
+      "phrase": "सरकार ने",
+      "count": 3
+    },
+    {
+      "phrase": "बैन कर",
+      "count": 3
+    },
+    {
+      "phrase": "वहां का",
+      "count": 2
+    },
+    {
+      "phrase": "रहा था",
+      "count": 2
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "ये चीज",
+      "count": 2
+    },
+    {
+      "phrase": "मीडिया प्लेटफॉर्म्स",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "लग रहा",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

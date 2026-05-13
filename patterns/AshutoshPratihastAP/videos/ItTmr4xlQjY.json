@@ -1,0 +1,148 @@
+{
+  "video_id": "ItTmr4xlQjY",
+  "duration_seconds": 45,
+  "wps": 2.84,
+  "total_words": 128,
+  "language_mix": {
+    "hindi": 98.1,
+    "english": 1.9,
+    "total_chars": 529
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मिनट यूनिवर्सिटी बाय टाइम्स ग्रुप ने रिसेंटली होस्ट किया अपना पहला एंटरप्रेन्योरशिप सबमिट बेनोवित 2022 और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के मिशन के साथ बढ़ते जा रहे हैं मिस्टर आशुतोष प्रति हस्त और आईडी डिजिटल प्रणय सी आर अलसो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "सबमिट",
+      "count": 2
+    },
+    {
+      "word": "इसी",
+      "count": 2
+    },
+    {
+      "word": "डिजिटल",
+      "count": 2
+    },
+    {
+      "word": "आशुतोष",
+      "count": 2
+    },
+    {
+      "word": "गाइडेंस",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "सही",
+      "count": 2
+    },
+    {
+      "word": "डायरेक्शन",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "मिनट",
+      "count": 1
+    },
+    {
+      "word": "यूनिवर्सिटी",
+      "count": 1
+    },
+    {
+      "word": "बाय",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "और इसी",
+      "count": 2
+    },
+    {
+      "phrase": "करने का",
+      "count": 2
+    },
+    {
+      "phrase": "सही डायरेक्शन",
+      "count": 2
+    },
+    {
+      "phrase": "मिनट यूनिवर्सिटी",
+      "count": 1
+    },
+    {
+      "phrase": "यूनिवर्सिटी बाय",
+      "count": 1
+    },
+    {
+      "phrase": "बाय टाइम्स",
+      "count": 1
+    },
+    {
+      "phrase": "टाइम्स ग्रुप",
+      "count": 1
+    },
+    {
+      "phrase": "ग्रुप ने",
+      "count": 1
+    },
+    {
+      "phrase": "ने रिसेंटली",
+      "count": 1
+    },
+    {
+      "phrase": "रिसेंटली होस्ट",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

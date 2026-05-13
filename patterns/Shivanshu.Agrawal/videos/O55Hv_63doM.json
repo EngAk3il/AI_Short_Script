@@ -1,0 +1,148 @@
+{
+  "video_id": "O55Hv_63doM",
+  "duration_seconds": 52,
+  "wps": 3.5,
+  "total_words": 182,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 656
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "उड़ीसा का ट्रैजिक ट्रेन एक्सीडेंट आखिर हुआ कैसे एक्सीडेंट का स्पॉट बहन का बाजार स्टेशन से थोड़ा पहले है यहां पे कर रेलवे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हो गए इस भयानक हादसे में करीब 300 लोगों की जान चली गई और 800 से ज्यादा लोग घायल हो गए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "लाइन",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "गए",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "जाति",
+      "count": 3
+    },
+    {
+      "word": "हुई",
+      "count": 3
+    },
+    {
+      "word": "एक्सप्रेस",
+      "count": 3
+    },
+    {
+      "word": "गई",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "ट्रेन",
+      "count": 2
+    },
+    {
+      "word": "एक्सीडेंट",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "थी",
+      "count": 2
+    },
+    {
+      "word": "चेन्नई",
+      "count": 2
+    },
+    {
+      "word": "अप",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "की और",
+      "count": 3
+    },
+    {
+      "phrase": "जाति हुई",
+      "count": 3
+    },
+    {
+      "phrase": "चेन्नई की",
+      "count": 2
+    },
+    {
+      "phrase": "और जाति",
+      "count": 2
+    },
+    {
+      "phrase": "अप में",
+      "count": 2
+    },
+    {
+      "phrase": "में लाइन",
+      "count": 2
+    },
+    {
+      "phrase": "लूप लाइन",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "गई और",
+      "count": 2
+    },
+    {
+      "phrase": "यशवंतपुर एक्सप्रेस",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

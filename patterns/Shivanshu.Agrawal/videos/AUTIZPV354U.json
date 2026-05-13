@@ -1,0 +1,148 @@
+{
+  "video_id": "AUTIZPV354U",
+  "duration_seconds": 63,
+  "wps": 3.57,
+  "total_words": 225,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 874
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कुरकुरे इस तरह से इंडिया में सुपर हिट बना पेप्सी को ने देखा की इंडिया में साल्ट स्नैक्स मेजर्ली दो कैटिगरीज में डिवाइड है बड़ों के लिए नमकीन और छोटों के"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "लिए चैनल को सब्सक्राइब"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "लिए",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "कुरकुरे",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "इसीलिए",
+      "count": 3
+    },
+    {
+      "word": "जगह",
+      "count": 3
+    },
+    {
+      "word": "इसका",
+      "count": 3
+    },
+    {
+      "word": "लेकर",
+      "count": 3
+    },
+    {
+      "word": "इन्होंने",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "सुपर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "से लेकर",
+      "count": 3
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 2
+    },
+    {
+      "phrase": "कुरकुरे को",
+      "count": 2
+    },
+    {
+      "phrase": "रखना के",
+      "count": 2
+    },
+    {
+      "phrase": "कुरकुरे इस",
+      "count": 1
+    },
+    {
+      "phrase": "इस तरह",
+      "count": 1
+    },
+    {
+      "phrase": "तरह से",
+      "count": 1
+    },
+    {
+      "phrase": "से इंडिया",
+      "count": 1
+    },
+    {
+      "phrase": "में सुपर",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

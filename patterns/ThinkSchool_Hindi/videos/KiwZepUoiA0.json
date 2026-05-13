@@ -1,0 +1,148 @@
+{
+  "video_id": "KiwZepUoiA0",
+  "duration_seconds": 60,
+  "wps": 3.72,
+  "total_words": 223,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 771
+  },
+  "hook": {
+    "type": "question",
+    "text": "मेकअप में क्या होता है सर? आपने एक लिपस्टिक निकाली बट वो एक लिपस्टिक नहीं है। वो 50 शेड है। सी स्किन केयर में आपने एक क्रीम निकाली वो एक ही एसके यू है। एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बेस्ट। इन दिस इट्स नॉट अबाउट द फिट इट्स अबाउट द शेड।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "शेड",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "यू",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "लिपस्टिक",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "इट्स",
+      "count": 5
+    },
+    {
+      "word": "मेकअप",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "50",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "शेड्स",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "होते",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "आपने",
+      "count": 2
+    },
+    {
+      "word": "निकाली",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "शेड है",
+      "count": 3
+    },
+    {
+      "phrase": "शेड होते",
+      "count": 3
+    },
+    {
+      "phrase": "होते थे",
+      "count": 3
+    },
+    {
+      "phrase": "मेकअप में",
+      "count": 2
+    },
+    {
+      "phrase": "आपने एक",
+      "count": 2
+    },
+    {
+      "phrase": "एक लिपस्टिक",
+      "count": 2
+    },
+    {
+      "phrase": "वो एक",
+      "count": 2
+    },
+    {
+      "phrase": "50 शेड",
+      "count": 2
+    },
+    {
+      "phrase": "एक ही",
+      "count": 2
+    },
+    {
+      "phrase": "वांट अ",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

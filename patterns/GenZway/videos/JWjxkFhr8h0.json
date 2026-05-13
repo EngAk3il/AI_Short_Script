@@ -1,0 +1,148 @@
+{
+  "video_id": "JWjxkFhr8h0",
+  "duration_seconds": 36,
+  "wps": 4.03,
+  "total_words": 145,
+  "language_mix": {
+    "hindi": 98.8,
+    "english": 1.2,
+    "total_chars": 512
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Ola के फाउंडर ने मार्केट में झूठ बोल के ₹335 करोड़ का स्कैम कर दिया है। इनकी कंपनी ऑलमोस्ट ऑल टाइम लो जा रही थी। इनकी स्कूटी गोवा के अंदर बिकनी बैन हो चुकी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चुके हैं।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "हैं",
+      "count": 8
+    },
+    {
+      "word": "करोड़",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "बेच",
+      "count": 4
+    },
+    {
+      "word": "फाउंडर",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "दिन",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "भैया",
+      "count": 3
+    },
+    {
+      "word": "कर्जा",
+      "count": 3
+    },
+    {
+      "word": "दोबारा",
+      "count": 3
+    },
+    {
+      "word": "ola",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "इनकी",
+      "count": 2
+    },
+    {
+      "word": "कंपनी",
+      "count": 2
+    },
+    {
+      "word": "टाइम",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करोड़ का",
+      "count": 3
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 3
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 3
+    },
+    {
+      "phrase": "ola के",
+      "count": 2
+    },
+    {
+      "phrase": "के फाउंडर",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 2
+    },
+    {
+      "phrase": "बोलते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 2
+    },
+    {
+      "phrase": "का कर्जा",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "hT_QIoQrRVE",
+  "duration_seconds": 59,
+  "wps": 2.95,
+  "total_words": 174,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 691
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पीएम मोदी चाहते हैं कि मेक इन इंडिया के बाद वेड इन इंडिया का कैंपेन चलाया जाए मेक इन इंडिया जैसे है ना वैसे ही एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "इंडिया",
+      "count": 13
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "इन",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "वेडिंग",
+      "count": 3
+    },
+    {
+      "word": "इंडस्ट्री",
+      "count": 3
+    },
+    {
+      "word": "पीएम",
+      "count": 2
+    },
+    {
+      "word": "चाहते",
+      "count": 2
+    },
+    {
+      "word": "मेक",
+      "count": 2
+    },
+    {
+      "word": "वेड",
+      "count": 2
+    },
+    {
+      "word": "कैंपेन",
+      "count": 2
+    },
+    {
+      "word": "चलाया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इन इंडिया",
+      "count": 4
+    },
+    {
+      "phrase": "इंडिया की",
+      "count": 4
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 3
+    },
+    {
+      "phrase": "चाहते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "मेक इन",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "वेड इन",
+      "count": 2
+    },
+    {
+      "phrase": "कैंपेन चलाया",
+      "count": 2
+    },
+    {
+      "phrase": "चलाया जाए",
+      "count": 2
+    },
+    {
+      "phrase": "वेडिंग इंडस्ट्री",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

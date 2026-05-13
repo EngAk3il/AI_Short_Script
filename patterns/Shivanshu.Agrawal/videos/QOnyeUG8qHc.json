@@ -1,0 +1,148 @@
+{
+  "video_id": "QOnyeUG8qHc",
+  "duration_seconds": 62,
+  "wps": 3.23,
+  "total_words": 200,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 782
+  },
+  "hook": {
+    "type": "statement",
+    "text": "न a ने आखिर सै ऑल्टमैन को फायर क्यों किया कंपनी के एक इंटरनल सोर्स के अकॉर्डिंग सैम ऑल्टमैन और कंपनी के बोर्ड ऑफ डायरेक्टर्स के बीच में मेजर"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "वाली है ऐसी और वीडियोस के लिए चैनल को सब्सक्राइब करें"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "थे",
+      "count": 7
+    },
+    {
+      "word": "कंपनी",
+      "count": 6
+    },
+    {
+      "word": "एआई",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "ऑल्टमैन",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "बोर्ड",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "चाहते",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "लेकिन",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "सैम",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कंपनी के",
+      "count": 4
+    },
+    {
+      "phrase": "चाहते थे",
+      "count": 4
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "सैम ऑल्टमैन",
+      "count": 2
+    },
+    {
+      "phrase": "और कंपनी",
+      "count": 2
+    },
+    {
+      "phrase": "थे लेकिन",
+      "count": 2
+    },
+    {
+      "phrase": "लेकिन बोर्ड",
+      "count": 2
+    },
+    {
+      "phrase": "बोर्ड मेंबर्स",
+      "count": 2
+    },
+    {
+      "phrase": "थे कि",
+      "count": 2
+    },
+    {
+      "phrase": "ओपन एआई",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

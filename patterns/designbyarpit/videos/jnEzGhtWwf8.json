@@ -1,0 +1,149 @@
+{
+  "video_id": "jnEzGhtWwf8",
+  "duration_seconds": 60,
+  "wps": 3.12,
+  "total_words": 187,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 801
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Only in Mumbai can a highway forget its own blueprint. This is officially the eighth wonder of the world. But it's actually a glitch in the matrix. From a distance, it looks like a masterpiece."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "want"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "this",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "you're",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "actually",
+      "count": 2
+    },
+    {
+      "word": "glitch",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "see",
+      "count": 2
+    },
+    {
+      "word": "four",
+      "count": 2
+    },
+    {
+      "word": "lanes",
+      "count": 2
+    },
+    {
+      "word": "concrete",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "finally",
+      "count": 2
+    },
+    {
+      "word": "feel",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 3
+    },
+    {
+      "phrase": "you feel",
+      "count": 2
+    },
+    {
+      "phrase": "into a",
+      "count": 2
+    },
+    {
+      "phrase": "only in",
+      "count": 1
+    },
+    {
+      "phrase": "in mumbai",
+      "count": 1
+    },
+    {
+      "phrase": "mumbai can",
+      "count": 1
+    },
+    {
+      "phrase": "can a",
+      "count": 1
+    },
+    {
+      "phrase": "a highway",
+      "count": 1
+    },
+    {
+      "phrase": "highway forget",
+      "count": 1
+    },
+    {
+      "phrase": "forget its",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

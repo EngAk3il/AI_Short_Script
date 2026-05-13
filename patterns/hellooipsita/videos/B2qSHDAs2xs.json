@@ -1,0 +1,148 @@
+{
+  "video_id": "B2qSHDAs2xs",
+  "duration_seconds": 31,
+  "wps": 2.68,
+  "total_words": 83,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 365
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "i blow up every time something bad"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "almost always a two-way street"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "bad",
+      "count": 2
+    },
+    {
+      "word": "control",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "taking",
+      "count": 2
+    },
+    {
+      "word": "blow",
+      "count": 1
+    },
+    {
+      "word": "up",
+      "count": 1
+    },
+    {
+      "word": "every",
+      "count": 1
+    },
+    {
+      "word": "time",
+      "count": 1
+    },
+    {
+      "word": "something",
+      "count": 1
+    },
+    {
+      "word": "happens",
+      "count": 1
+    },
+    {
+      "word": "me",
+      "count": 1
+    },
+    {
+      "word": "can't",
+      "count": 1
+    },
+    {
+      "word": "it",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "i blow",
+      "count": 1
+    },
+    {
+      "phrase": "blow up",
+      "count": 1
+    },
+    {
+      "phrase": "up every",
+      "count": 1
+    },
+    {
+      "phrase": "every time",
+      "count": 1
+    },
+    {
+      "phrase": "time something",
+      "count": 1
+    },
+    {
+      "phrase": "something bad",
+      "count": 1
+    },
+    {
+      "phrase": "bad happens",
+      "count": 1
+    },
+    {
+      "phrase": "happens to",
+      "count": 1
+    },
+    {
+      "phrase": "to me",
+      "count": 1
+    },
+    {
+      "phrase": "me and",
+      "count": 1
+    }
+  ],
+  "segment_count": 12
+}

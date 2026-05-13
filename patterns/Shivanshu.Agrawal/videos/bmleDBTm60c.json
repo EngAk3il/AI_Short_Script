@@ -1,0 +1,148 @@
+{
+  "video_id": "bmleDBTm60c",
+  "duration_seconds": 55,
+  "wps": 2.85,
+  "total_words": 157,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 667
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जडियो ने इस तरह से अपने कंपटीशन को किल किया जडियो ने देखा कि इंडिया के यंगस्टर्स ट्रेंडी और फैशनेबल क्लोथ्स पहनना चाहते हैं लेकिन वो जरा और एचएम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्ट्रेटजी से उनका रेवेन्यू 3000 करोड़ से भी ज्यादा है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "जयो",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "क्लोथ्स",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "फैशन",
+      "count": 3
+    },
+    {
+      "word": "जडियो",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "ट्रेंडी",
+      "count": 2
+    },
+    {
+      "word": "एक्सपेंसिव",
+      "count": 2
+    },
+    {
+      "word": "फास्ट",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "कॉस्ट",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जडियो ने",
+      "count": 2
+    },
+    {
+      "phrase": "फास्ट फैशन",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "काफी कम",
+      "count": 2
+    },
+    {
+      "phrase": "कम हो",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "ने इस",
+      "count": 1
+    },
+    {
+      "phrase": "इस तरह",
+      "count": 1
+    },
+    {
+      "phrase": "तरह से",
+      "count": 1
+    },
+    {
+      "phrase": "से अपने",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

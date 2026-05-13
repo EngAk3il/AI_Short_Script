@@ -1,0 +1,148 @@
+{
+  "video_id": "bv4z9StHMsY",
+  "duration_seconds": 43,
+  "wps": 3.95,
+  "total_words": 170,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 656
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया में कोलगेट की सक्सेस का एक बहुत बड़ा राज है स्कूल स्टूडेंट्स पर कैसे यह बात है अराउंड 2004 की कोलगेट को मालूम था की उनके टूथपेस्ट का सबसे बड़ा एडवांटेज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लगने पर उनमें से कई लोग कोलगेट के रेगुलर कस्टमर बन जाते द"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "कोलगेट",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "इंडिया",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "टूथपेस्ट",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "इसीलिए",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "बच्चे",
+      "count": 3
+    },
+    {
+      "word": "फ्री",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "बड़ा",
+      "count": 2
+    },
+    {
+      "word": "स्कूल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया में",
+      "count": 2
+    },
+    {
+      "phrase": "में कोलगेट",
+      "count": 2
+    },
+    {
+      "phrase": "था की",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "को फ्री",
+      "count": 2
+    },
+    {
+      "phrase": "फ्री में",
+      "count": 2
+    },
+    {
+      "phrase": "द और",
+      "count": 2
+    },
+    {
+      "phrase": "जाते द",
+      "count": 2
+    },
+    {
+      "phrase": "कोलगेट की",
+      "count": 1
+    },
+    {
+      "phrase": "की सक्सेस",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

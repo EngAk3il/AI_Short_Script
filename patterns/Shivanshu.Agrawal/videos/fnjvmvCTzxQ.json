@@ -1,0 +1,148 @@
+{
+  "video_id": "fnjvmvCTzxQ",
+  "duration_seconds": 100,
+  "wps": 3.36,
+  "total_words": 336,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 1314
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इंडियंस फॉरेन जाके अनजाने में अपना करोड़ों का नुकसान करवा रहे हैं। इस रिपोर्ट को देखिए। इंडियन ट्रेवलर्स ने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Neo कॉइंस अर्न कीजिए जिसे आप फ्लाइट्स और वीजा पेमेंट्स पर रिडीम कर सकते है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 12
+    },
+    {
+      "word": "हैं",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "फीस",
+      "count": 6
+    },
+    {
+      "word": "आप",
+      "count": 6
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "सकते",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "neo",
+      "count": 5
+    },
+    {
+      "word": "करने",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "करते",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "कार्ड",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "फॉरेक्स",
+      "count": 4
+    },
+    {
+      "word": "मार्कअप",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर सकते",
+      "count": 6
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 5
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "फॉरेक्स मार्कअप",
+      "count": 4
+    },
+    {
+      "phrase": "करने के",
+      "count": 3
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "मार्कअप फीस",
+      "count": 3
+    },
+    {
+      "phrase": "में ही",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "हैं तो",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

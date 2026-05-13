@@ -1,0 +1,148 @@
+{
+  "video_id": "jNTbBzT40Fg",
+  "duration_seconds": 13,
+  "wps": 4.0,
+  "total_words": 52,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 188
+  },
+  "hook": {
+    "type": "question",
+    "text": "second step is something i like to call the yes or no rule whenever you're trying to make a decision big or small ask yourself if i'm saying yes to this"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "what am i saying no to hear what your mind has to tell you then decide if it is worth it"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "yes",
+      "count": 2
+    },
+    {
+      "word": "or",
+      "count": 2
+    },
+    {
+      "word": "no",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "saying",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "second",
+      "count": 1
+    },
+    {
+      "word": "step",
+      "count": 1
+    },
+    {
+      "word": "something",
+      "count": 1
+    },
+    {
+      "word": "like",
+      "count": 1
+    },
+    {
+      "word": "call",
+      "count": 1
+    },
+    {
+      "word": "the",
+      "count": 1
+    },
+    {
+      "word": "rule",
+      "count": 1
+    },
+    {
+      "word": "whenever",
+      "count": 1
+    },
+    {
+      "word": "you're",
+      "count": 1
+    },
+    {
+      "word": "trying",
+      "count": 1
+    },
+    {
+      "word": "make",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "second step",
+      "count": 1
+    },
+    {
+      "phrase": "step is",
+      "count": 1
+    },
+    {
+      "phrase": "is something",
+      "count": 1
+    },
+    {
+      "phrase": "something i",
+      "count": 1
+    },
+    {
+      "phrase": "i like",
+      "count": 1
+    },
+    {
+      "phrase": "like to",
+      "count": 1
+    },
+    {
+      "phrase": "to call",
+      "count": 1
+    },
+    {
+      "phrase": "call the",
+      "count": 1
+    },
+    {
+      "phrase": "the yes",
+      "count": 1
+    },
+    {
+      "phrase": "yes or",
+      "count": 1
+    }
+  ],
+  "segment_count": 2
+}

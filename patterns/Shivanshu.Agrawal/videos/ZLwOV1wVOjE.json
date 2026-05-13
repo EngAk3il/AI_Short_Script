@@ -1,0 +1,148 @@
+{
+  "video_id": "ZLwOV1wVOjE",
+  "duration_seconds": 58,
+  "wps": 3.66,
+  "total_words": 212,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 807
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "पाकिस्तान से भाग कर आए दो भाइयों ने इंडिया गेट बासमती राइस की शुरुआत की 188 में दो भाई खुशीराम और बिहारी लाल ने मिलके अनडिसाइडेड इंडिया के लालपुर में"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "चुका है और इसी के चलते आज उनकी कंपनी की वैल्यूएशन अराउंड 9000 करोड़ है ऐसी और वीडियोस के लिए चैनल को सब्सक्राइब करिए"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "की",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "इंडिया",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "करते",
+      "count": 6
+    },
+    {
+      "word": "राइस",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "बासमती",
+      "count": 3
+    },
+    {
+      "word": "बिजनेस",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "दो",
+      "count": 2
+    },
+    {
+      "word": "भाइयों",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "गेट",
+      "count": 2
+    },
+    {
+      "word": "शुरुआत",
+      "count": 2
+    },
+    {
+      "word": "कॉटन",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करते हैं",
+      "count": 6
+    },
+    {
+      "phrase": "हैं और",
+      "count": 3
+    },
+    {
+      "phrase": "इंडिया गेट",
+      "count": 2
+    },
+    {
+      "phrase": "बासमती राइस",
+      "count": 2
+    },
+    {
+      "phrase": "की शुरुआत",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "पाकिस्तान से",
+      "count": 1
+    },
+    {
+      "phrase": "से भाग",
+      "count": 1
+    },
+    {
+      "phrase": "भाग कर",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

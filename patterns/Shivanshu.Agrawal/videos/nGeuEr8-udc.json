@@ -1,0 +1,148 @@
+{
+  "video_id": "nGeuEr8-udc",
+  "duration_seconds": 101,
+  "wps": 3.01,
+  "total_words": 304,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 1227
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आखिर कैसे दो भाइयों की लड़ाई से जन्म हुआ एडीदास और प्यूमा का। 1920 में जर्मनी में एडोल्फ और रुडोल्फ डासलर नाम के दो भाई"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कॉम्पिटिटर्स"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "ने",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "एडोल्फ",
+      "count": 4
+    },
+    {
+      "word": "रुडोल्फ",
+      "count": 4
+    },
+    {
+      "word": "नाम",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "शूज",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "प्यूमा",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "अलग-अलग",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "दोनों",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "भाइयों की",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "दूसरी तरफ",
+      "count": 2
+    },
+    {
+      "phrase": "लिया और",
+      "count": 2
+    },
+    {
+      "phrase": "एडोल्फ ने",
+      "count": 2
+    },
+    {
+      "phrase": "ने अपने",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "ब्रांड का",
+      "count": 2
+    },
+    {
+      "phrase": "का नाम",
+      "count": 2
+    },
+    {
+      "phrase": "दोनों ब्रांड्स",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

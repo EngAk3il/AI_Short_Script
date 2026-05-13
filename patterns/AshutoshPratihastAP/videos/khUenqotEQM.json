@@ -1,0 +1,148 @@
+{
+  "video_id": "khUenqotEQM",
+  "duration_seconds": 51,
+  "wps": 4.88,
+  "total_words": 249,
+  "language_mix": {
+    "hindi": 99.2,
+    "english": 0.8,
+    "total_chars": 844
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "स्टॉक मार्केट गहरा कुआं तो है पूरे देश के पैसे की प्यास भी बुझा सकता है पर इसी गहरे कुएं में कई लोग डूब के बर्बाद भी होते हैं और कई तो मर भी जाते हैं वैसे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तारीफ की है उन्हीं तारीफों के दम पे मैं डंके की चोट पे बोल पाया कि लिटरली दैट्ची ऑन"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "स्टॉक",
+      "count": 4
+    },
+    {
+      "word": "मार्केट",
+      "count": 4
+    },
+    {
+      "word": "लोग",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "कभी",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "ट्राई",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "वीडियो",
+      "count": 3
+    },
+    {
+      "word": "ऑन",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "स्टॉक मार्केट",
+      "count": 4
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "है यार",
+      "count": 2
+    },
+    {
+      "phrase": "यार अब",
+      "count": 2
+    },
+    {
+      "phrase": "कुछ लोग",
+      "count": 2
+    },
+    {
+      "phrase": "वीडियो ऑन",
+      "count": 2
+    },
+    {
+      "phrase": "की है",
+      "count": 2
+    },
+    {
+      "phrase": "मार्केट गहरा",
+      "count": 1
+    },
+    {
+      "phrase": "गहरा कुआं",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

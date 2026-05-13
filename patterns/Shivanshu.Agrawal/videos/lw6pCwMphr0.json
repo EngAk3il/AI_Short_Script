@@ -1,0 +1,148 @@
+{
+  "video_id": "lw6pCwMphr0",
+  "duration_seconds": 60,
+  "wps": 3.58,
+  "total_words": 215,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 921
+  },
+  "hook": {
+    "type": "statement",
+    "text": "वॉटर प्यूरीफायर कंपनीज डेलिबरेशन अपने प्यूरीफायर्स में खराब फिल्टर्स लगाती हैं ये कंपनीज अपने प्यूरीफायर्स को हैवी डिस्काउंट्स में और कई बार बिना किसी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फिल्टर्स ऑटो क्लीन हो जाते हैं मतलब लॉन्ग रन में ये सबसे ज्यादा वैल्यू फॉर मनी आरो है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "प्यूरीफायर",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "सर्विसिंग",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "फिल्टर्स",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "कंपनीज",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "प्यूरीफायर्स",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "ज्यादा",
+      "count": 3
+    },
+    {
+      "word": "वॉटर",
+      "count": 2
+    },
+    {
+      "word": "डेलिबरेशन",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "बार",
+      "count": 2
+    },
+    {
+      "word": "बिना",
+      "count": 2
+    },
+    {
+      "word": "प्रॉफिट्स",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वॉटर प्यूरीफायर",
+      "count": 2
+    },
+    {
+      "phrase": "अपने प्यूरीफायर्स",
+      "count": 2
+    },
+    {
+      "phrase": "प्यूरीफायर्स में",
+      "count": 2
+    },
+    {
+      "phrase": "ये कंपनीज",
+      "count": 2
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "चुका है",
+      "count": 2
+    },
+    {
+      "phrase": "प्यूरीफायर कंपनीज",
+      "count": 1
+    },
+    {
+      "phrase": "कंपनीज डेलिबरेशन",
+      "count": 1
+    },
+    {
+      "phrase": "डेलिबरेशन अपने",
+      "count": 1
+    },
+    {
+      "phrase": "में खराब",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

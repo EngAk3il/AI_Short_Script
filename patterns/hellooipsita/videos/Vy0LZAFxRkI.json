@@ -1,0 +1,148 @@
+{
+  "video_id": "Vy0LZAFxRkI",
+  "duration_seconds": 28,
+  "wps": 2.64,
+  "total_words": 74,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 323
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "व्हाट हपेंस इफ यू आर नॉट एबल टू फॉरगिर सेल्फ फॉर समथिंग। दैट नंबर वन इट चेंजेस योर कैपासिटी फॉर जॉय। इट चेंजेस योर कैपासिटी फॉर एंजॉयंग द वर्ल्ड। नंबर टू,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "विथ योरसेल्फ।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "इट",
+      "count": 5
+    },
+    {
+      "word": "चेंजेस",
+      "count": 5
+    },
+    {
+      "word": "योर",
+      "count": 4
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "नंबर",
+      "count": 2
+    },
+    {
+      "word": "कैपासिटी",
+      "count": 2
+    },
+    {
+      "word": "विथ",
+      "count": 2
+    },
+    {
+      "word": "मोस्ट",
+      "count": 2
+    },
+    {
+      "word": "इंपोर्टेंट",
+      "count": 2
+    },
+    {
+      "word": "व्हाट",
+      "count": 1
+    },
+    {
+      "word": "हपेंस",
+      "count": 1
+    },
+    {
+      "word": "इफ",
+      "count": 1
+    },
+    {
+      "word": "आर",
+      "count": 1
+    },
+    {
+      "word": "नॉट",
+      "count": 1
+    },
+    {
+      "word": "एबल",
+      "count": 1
+    },
+    {
+      "word": "फॉरगिर",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इट चेंजेस",
+      "count": 5
+    },
+    {
+      "phrase": "चेंजेस योर",
+      "count": 4
+    },
+    {
+      "phrase": "द वर्ल्ड",
+      "count": 3
+    },
+    {
+      "phrase": "योर कैपासिटी",
+      "count": 2
+    },
+    {
+      "phrase": "कैपासिटी फॉर",
+      "count": 2
+    },
+    {
+      "phrase": "व्हाट हपेंस",
+      "count": 1
+    },
+    {
+      "phrase": "हपेंस इफ",
+      "count": 1
+    },
+    {
+      "phrase": "इफ यू",
+      "count": 1
+    },
+    {
+      "phrase": "यू आर",
+      "count": 1
+    },
+    {
+      "phrase": "आर नॉट",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

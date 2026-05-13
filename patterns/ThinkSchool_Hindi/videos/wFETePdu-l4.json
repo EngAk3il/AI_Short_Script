@@ -1,0 +1,148 @@
+{
+  "video_id": "wFETePdu-l4",
+  "duration_seconds": 42,
+  "wps": 3.45,
+  "total_words": 145,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 576
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "वी डिड अ फेक न्यूज़ अरेस्ट कैंपेन ऑफ़"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हमने कीड़ा कैंपेन करे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "सोनाक्षी",
+      "count": 6
+    },
+    {
+      "word": "वी",
+      "count": 5
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "कैंपेन",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "वाज़",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "न्यूज़",
+      "count": 2
+    },
+    {
+      "word": "अरेस्ट",
+      "count": 2
+    },
+    {
+      "word": "इट",
+      "count": 2
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "वायरल",
+      "count": 2
+    },
+    {
+      "word": "गई",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "सिन्हा",
+      "count": 2
+    },
+    {
+      "word": "अरेस्टेड",
+      "count": 2
+    },
+    {
+      "word": "गॉट",
+      "count": 2
+    },
+    {
+      "word": "राइट",
+      "count": 2
+    },
+    {
+      "word": "फोटो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वायरल हो",
+      "count": 2
+    },
+    {
+      "phrase": "हो गई",
+      "count": 2
+    },
+    {
+      "phrase": "सोनाक्षी सिन्हा",
+      "count": 2
+    },
+    {
+      "phrase": "विथ दैट",
+      "count": 2
+    },
+    {
+      "phrase": "वी डिड",
+      "count": 1
+    },
+    {
+      "phrase": "डिड अ",
+      "count": 1
+    },
+    {
+      "phrase": "अ फेक",
+      "count": 1
+    },
+    {
+      "phrase": "फेक न्यूज़",
+      "count": 1
+    },
+    {
+      "phrase": "न्यूज़ अरेस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "अरेस्ट कैंपेन",
+      "count": 1
+    }
+  ],
+  "segment_count": 19
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "NSMwwVq5rQw",
+  "duration_seconds": 90,
+  "wps": 3.71,
+  "total_words": 334,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 1262
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आजकल हर कोई प्रोडक्टिविटी के चक्कर में"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "लिंक मेरे चैनल के डिस्क्रिप्शन में है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "मुझे",
+      "count": 5
+    },
+    {
+      "word": "अगर",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "ट्राई",
+      "count": 4
+    },
+    {
+      "word": "सेकंड",
+      "count": 4
+    },
+    {
+      "word": "मैट्रेस",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "मैंने",
+      "count": 4
+    },
+    {
+      "word": "मेरी",
+      "count": 4
+    },
+    {
+      "word": "स्लीप",
+      "count": 3
+    },
+    {
+      "word": "नींद",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के बाद",
+      "count": 3
+    },
+    {
+      "phrase": "हो तो",
+      "count": 2
+    },
+    {
+      "phrase": "अगर आपको",
+      "count": 2
+    },
+    {
+      "phrase": "राइट मैट्रेस",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत सारे",
+      "count": 2
+    },
+    {
+      "phrase": "हैक्स ट्राई",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "बाद मुझे",
+      "count": 2
+    },
+    {
+      "phrase": "भी काफी",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    }
+  ],
+  "segment_count": 42
+}

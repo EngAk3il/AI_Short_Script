@@ -1,0 +1,149 @@
+{
+  "video_id": "fZqHeLTm6oA",
+  "duration_seconds": 54,
+  "wps": 4.48,
+  "total_words": 242,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 842
+  },
+  "hook": {
+    "type": "question",
+    "text": "एरिस्टोटल एक ग्रीक फिलोसोफर था उससे किसी इंसान ने पूछा कि मुझे कामयाबी कैसे मिल सकती है उस इंसान ने बोला कि कल सुबह-सुबह 5:00 बजे आ जाना समुंदर के किनारे मैं आपको बताऊंगा कामयाबी का सीक्रेट क्या है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जिस तरह से तुम्हें पानी के अंदर हवा चाहिए थी इस दुनिया का कोई इंसान नहीं रोक पाएगा तुम्हें कामयाबी से"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "से",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "रहा",
+      "count": 6
+    },
+    {
+      "word": "चाहिए",
+      "count": 6
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "कामयाबी",
+      "count": 4
+    },
+    {
+      "word": "क्या",
+      "count": 4
+    },
+    {
+      "word": "पानी",
+      "count": 4
+    },
+    {
+      "word": "उसके",
+      "count": 4
+    },
+    {
+      "word": "तरह",
+      "count": 4
+    },
+    {
+      "word": "इंसान",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "मुझे",
+      "count": 3
+    },
+    {
+      "word": "सुकरात",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "बढ़",
+      "count": 3
+    },
+    {
+      "word": "बाद",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 6
+    },
+    {
+      "phrase": "तरह से",
+      "count": 4
+    },
+    {
+      "phrase": "बढ़ रहा",
+      "count": 3
+    },
+    {
+      "phrase": "इंसान ने",
+      "count": 2
+    },
+    {
+      "phrase": "है बढ़",
+      "count": 2
+    },
+    {
+      "phrase": "उसके बाद",
+      "count": 2
+    },
+    {
+      "phrase": "क्या किया",
+      "count": 2
+    },
+    {
+      "phrase": "गले को",
+      "count": 2
+    },
+    {
+      "phrase": "को पकड़ा",
+      "count": 2
+    },
+    {
+      "phrase": "पानी के",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

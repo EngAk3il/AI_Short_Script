@@ -1,0 +1,148 @@
+{
+  "video_id": "sdNC766Hsf0",
+  "duration_seconds": 48,
+  "wps": 2.92,
+  "total_words": 140,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 483
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या आप इंडिया की टॉप फाइव सिटीज में एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आपको करीब 2.9 करोड़ देने होंगे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "फीट",
+      "count": 6
+    },
+    {
+      "word": "प्राइस",
+      "count": 6
+    },
+    {
+      "word": "पर",
+      "count": 5
+    },
+    {
+      "word": "स्क्वायर",
+      "count": 5
+    },
+    {
+      "word": "बीएच",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "कोलकाता",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "करीब",
+      "count": 3
+    },
+    {
+      "word": "करोड़",
+      "count": 3
+    },
+    {
+      "word": "फाइव",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "आपको",
+      "count": 2
+    },
+    {
+      "word": "बीएचके",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "लाख",
+      "count": 2
+    },
+    {
+      "word": "देने",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "में पर",
+      "count": 5
+    },
+    {
+      "phrase": "पर स्क्वायर",
+      "count": 5
+    },
+    {
+      "phrase": "स्क्वायर फीट",
+      "count": 5
+    },
+    {
+      "phrase": "फीट प्राइस",
+      "count": 5
+    },
+    {
+      "phrase": "प्राइस है",
+      "count": 5
+    },
+    {
+      "phrase": "2 बीएच",
+      "count": 4
+    },
+    {
+      "phrase": "बीएच के",
+      "count": 4
+    },
+    {
+      "phrase": "एक 2",
+      "count": 2
+    },
+    {
+      "phrase": "कोलकाता में",
+      "count": 2
+    },
+    {
+      "phrase": "2 बीएचके",
+      "count": 2
+    }
+  ],
+  "segment_count": 19
+}

@@ -1,0 +1,31 @@
+{
+  "creator": "KKCreate",
+  "last_updated": "2026-05-12T16:43:55.949534",
+  "pacing": {
+    "avg_wps": 2.574441525754853,
+    "clusters": {
+      "story_deep_dive": {
+        "wps": 2.556086328062843,
+        "duration": 55.47826086956522
+      },
+      "fast_facts": {
+        "wps": 3.1904761904761907,
+        "duration": 42.0
+      },
+      "other": {
+        "wps": 2.50981981981982,
+        "duration": 34.0
+      }
+    }
+  },
+  "signature_hooks": [
+    "का यह डांस",
+    "का यह",
+    "झंडा है",
+    "यह डांस"
+  ],
+  "uniqueness_traits": [
+    "Calm / Explanatory",
+    "Storytelling Specialist"
+  ]
+}

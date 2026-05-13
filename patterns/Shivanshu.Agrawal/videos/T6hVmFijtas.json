@@ -1,0 +1,148 @@
+{
+  "video_id": "T6hVmFijtas",
+  "duration_seconds": 58,
+  "wps": 3.31,
+  "total_words": 192,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 711
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक होटल के क्लर्क ने 11000 करोड़ की होटल चेन बनाई मोहन सिंह केवल छह महीने के थे जब उनके फादर की डेथ हो गई 24 साल की आगे"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "वीडियो के लिए चैनल को सब्सक्राइब करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "होटल",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "मोहन",
+      "count": 6
+    },
+    {
+      "word": "सिंह",
+      "count": 6
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "क्लर्क",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "अपनी",
+      "count": 3
+    },
+    {
+      "word": "नाम",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "बाद",
+      "count": 3
+    },
+    {
+      "word": "कंपनी",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "कम",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मोहन सिंह",
+      "count": 5
+    },
+    {
+      "phrase": "होटल के",
+      "count": 2
+    },
+    {
+      "phrase": "सेसिल होटल",
+      "count": 2
+    },
+    {
+      "phrase": "एक होटल",
+      "count": 1
+    },
+    {
+      "phrase": "के क्लर्क",
+      "count": 1
+    },
+    {
+      "phrase": "क्लर्क ने",
+      "count": 1
+    },
+    {
+      "phrase": "ने 11000",
+      "count": 1
+    },
+    {
+      "phrase": "11000 करोड़",
+      "count": 1
+    },
+    {
+      "phrase": "करोड़ की",
+      "count": 1
+    },
+    {
+      "phrase": "की होटल",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

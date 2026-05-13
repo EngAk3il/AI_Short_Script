@@ -1,0 +1,148 @@
+{
+  "video_id": "9iFBNVnfzhw",
+  "duration_seconds": 56,
+  "wps": 3.16,
+  "total_words": 177,
+  "language_mix": {
+    "hindi": 97.8,
+    "english": 2.2,
+    "total_chars": 744
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दीज़ आर सम ऑफ़ द मोस्ट पॉपुलर ब्रांड्स इन इंडिया। बट यू नो दे ऑल आर द कॉपीज़ ऑफ़ फॉरेन ब्रांड्स। ईच कॉपी बिकम बिगर देन द ओरिजिनल। बट द फाइनल वन इज़ गोइंग टू शॉक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मेड 15 करोड़ इन जस्ट 60 डेज बाई कॉपिंग एन नी फॉरेन रैट। अमेजिंग।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "बट",
+      "count": 7
+    },
+    {
+      "word": "सेम",
+      "count": 7
+    },
+    {
+      "word": "इन",
+      "count": 5
+    },
+    {
+      "word": "दे",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "कॉपी",
+      "count": 3
+    },
+    {
+      "word": "हाइड्रोक्स",
+      "count": 3
+    },
+    {
+      "word": "कॉपीड",
+      "count": 3
+    },
+    {
+      "word": "कॉपिंग",
+      "count": 3
+    },
+    {
+      "word": "आर",
+      "count": 2
+    },
+    {
+      "word": "ऑफ़",
+      "count": 2
+    },
+    {
+      "word": "ब्रांड्स",
+      "count": 2
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "ऑल",
+      "count": 2
+    },
+    {
+      "word": "फॉरेन",
+      "count": 2
+    },
+    {
+      "word": "बिकम",
+      "count": 2
+    },
+    {
+      "word": "देन",
+      "count": 2
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "बॉटल्स",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इन इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "बॉटल्स सेम",
+      "count": 2
+    },
+    {
+      "phrase": "दे मेड",
+      "count": 2
+    },
+    {
+      "phrase": "बट दिस",
+      "count": 2
+    },
+    {
+      "phrase": "स्टिल स्माल",
+      "count": 2
+    },
+    {
+      "phrase": "दीज़ आर",
+      "count": 1
+    },
+    {
+      "phrase": "आर सम",
+      "count": 1
+    },
+    {
+      "phrase": "सम ऑफ़",
+      "count": 1
+    },
+    {
+      "phrase": "ऑफ़ द",
+      "count": 1
+    },
+    {
+      "phrase": "द मोस्ट",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "c4HmNoQF6Xk",
+  "duration_seconds": 47,
+  "wps": 2.98,
+  "total_words": 140,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 702
+  },
+  "hook": {
+    "type": "question",
+    "text": "Look at this. So for the most beautiful vitamin I've ever seen, but fancy medicine. Is it even practical? It turns out the beauty is actually the function."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "trust this more. To see more amazing products, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "this",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "your",
+      "count": 3
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "actually",
+      "count": 2
+    },
+    {
+      "word": "standard",
+      "count": 2
+    },
+    {
+      "word": "vitamins",
+      "count": 2
+    },
+    {
+      "word": "they",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "acid",
+      "count": 2
+    },
+    {
+      "word": "nutrients",
+      "count": 2
+    },
+    {
+      "word": "beads",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "more",
+      "count": 2
+    },
+    {
+      "word": "look",
+      "count": 1
+    },
+    {
+      "word": "at",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "standard vitamins",
+      "count": 2
+    },
+    {
+      "phrase": "in your",
+      "count": 2
+    },
+    {
+      "phrase": "the nutrients",
+      "count": 2
+    },
+    {
+      "phrase": "look at",
+      "count": 1
+    },
+    {
+      "phrase": "at this",
+      "count": 1
+    },
+    {
+      "phrase": "this so",
+      "count": 1
+    },
+    {
+      "phrase": "so for",
+      "count": 1
+    },
+    {
+      "phrase": "for the",
+      "count": 1
+    },
+    {
+      "phrase": "the most",
+      "count": 1
+    },
+    {
+      "phrase": "most beautiful",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

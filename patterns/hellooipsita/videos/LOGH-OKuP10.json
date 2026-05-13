@@ -1,0 +1,149 @@
+{
+  "video_id": "LOGH-OKuP10",
+  "duration_seconds": 92,
+  "wps": 2.87,
+  "total_words": 264,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 1141
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "In the 1970s, crime was at an all-time"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "big changes in your behavior."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 11
+    },
+    {
+      "word": "and",
+      "count": 10
+    },
+    {
+      "word": "the",
+      "count": 9
+    },
+    {
+      "word": "that",
+      "count": 9
+    },
+    {
+      "word": "is",
+      "count": 8
+    },
+    {
+      "word": "in",
+      "count": 7
+    },
+    {
+      "word": "to",
+      "count": 7
+    },
+    {
+      "word": "was",
+      "count": 5
+    },
+    {
+      "word": "one",
+      "count": 5
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "crime",
+      "count": 4
+    },
+    {
+      "word": "what",
+      "count": 4
+    },
+    {
+      "word": "changes",
+      "count": 4
+    },
+    {
+      "word": "broken",
+      "count": 4
+    },
+    {
+      "word": "were",
+      "count": 3
+    },
+    {
+      "word": "two",
+      "count": 3
+    },
+    {
+      "word": "there's",
+      "count": 3
+    },
+    {
+      "word": "if",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "going",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 3
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "the 1970s",
+      "count": 2
+    },
+    {
+      "phrase": "in new",
+      "count": 2
+    },
+    {
+      "phrase": "new york",
+      "count": 2
+    },
+    {
+      "phrase": "york city",
+      "count": 2
+    },
+    {
+      "phrase": "what was",
+      "count": 2
+    },
+    {
+      "phrase": "the crime",
+      "count": 2
+    },
+    {
+      "phrase": "went down",
+      "count": 2
+    },
+    {
+      "phrase": "down drastically",
+      "count": 2
+    }
+  ],
+  "segment_count": 40
+}

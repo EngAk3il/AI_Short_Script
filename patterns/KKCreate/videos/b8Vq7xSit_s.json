@@ -1,0 +1,148 @@
+{
+  "video_id": "b8Vq7xSit_s",
+  "duration_seconds": 47,
+  "wps": 2.89,
+  "total_words": 136,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 521
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यहां माएं अपना यूटेरस निकालती ताकि"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "का त्याग जिम्मेदारी कहकर छुपा दिया जाता"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "लिए",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "काम",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "ताकि",
+      "count": 2
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "मां",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    },
+    {
+      "word": "इज्जत",
+      "count": 2
+    },
+    {
+      "word": "देते",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "महिलाओं",
+      "count": 2
+    },
+    {
+      "word": "पड़ता",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "एक मां",
+      "count": 2
+    },
+    {
+      "phrase": "इज्जत देते",
+      "count": 2
+    },
+    {
+      "phrase": "यहां माएं",
+      "count": 1
+    },
+    {
+      "phrase": "माएं अपना",
+      "count": 1
+    },
+    {
+      "phrase": "अपना यूटेरस",
+      "count": 1
+    },
+    {
+      "phrase": "यूटेरस निकालती",
+      "count": 1
+    },
+    {
+      "phrase": "निकालती ताकि",
+      "count": 1
+    },
+    {
+      "phrase": "ताकि पीरियड",
+      "count": 1
+    }
+  ],
+  "segment_count": 18
+}

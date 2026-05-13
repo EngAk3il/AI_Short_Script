@@ -1,0 +1,52 @@
+{
+  "video_id": "7Au_5mGjcBg",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 5,
+      "text": "okay"
+    },
+    {
+      "start": 5,
+      "duration": 0,
+      "text": "[Applause]"
+    },
+    {
+      "start": 5,
+      "duration": 4,
+      "text": "[Music]"
+    },
+    {
+      "start": 9,
+      "duration": 1,
+      "text": "[Applause]"
+    },
+    {
+      "start": 10,
+      "duration": 1,
+      "text": "[Music]"
+    },
+    {
+      "start": 11,
+      "duration": 4,
+      "text": "[Applause]"
+    },
+    {
+      "start": 15,
+      "duration": 23,
+      "text": "[Music]"
+    },
+    {
+      "start": 38,
+      "duration": 17,
+      "text": "all right"
+    },
+    {
+      "start": 55,
+      "duration": 3.0,
+      "text": "guys"
+    }
+  ]
+}

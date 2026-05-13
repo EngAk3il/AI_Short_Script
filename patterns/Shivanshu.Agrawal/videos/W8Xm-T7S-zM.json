@@ -1,0 +1,148 @@
+{
+  "video_id": "W8Xm-T7S-zM",
+  "duration_seconds": 92,
+  "wps": 3.07,
+  "total_words": 282,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 1129
+  },
+  "hook": {
+    "type": "statement",
+    "text": "डोरेमोनॉन की कहानी गलती से बन गई थी। 1969 में फूजी नाम के एक जैपनीज़ राइटर अपनी नई मांगा सीरीज के लिए आइडियाज ढूंढ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डोरेमोन की।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "उन्होंने",
+      "count": 6
+    },
+    {
+      "word": "डोरेमोनॉन",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "129.3",
+      "count": 5
+    },
+    {
+      "word": "थी",
+      "count": 4
+    },
+    {
+      "word": "नाम",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "इसीलिए",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "जैपनीज़",
+      "count": 3
+    },
+    {
+      "word": "आइडियाज",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "कैरेक्टर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "129.3 सें.मी",
+      "count": 3
+    },
+    {
+      "phrase": "डोरेमोनॉन की",
+      "count": 2
+    },
+    {
+      "phrase": "एक जैपनीज़",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 2
+    },
+    {
+      "phrase": "एक ऐसा",
+      "count": 2
+    },
+    {
+      "phrase": "ऐसा रोबोट",
+      "count": 2
+    },
+    {
+      "phrase": "उसी दिन",
+      "count": 2
+    },
+    {
+      "phrase": "रोली पोली",
+      "count": 2
+    },
+    {
+      "phrase": "पोली टॉय",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

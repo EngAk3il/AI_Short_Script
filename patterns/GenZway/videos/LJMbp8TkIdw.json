@@ -1,0 +1,149 @@
+{
+  "video_id": "LJMbp8TkIdw",
+  "duration_seconds": 35,
+  "wps": 4.2,
+  "total_words": 147,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 551
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये जेप्टो वाले अपने छोटे-छोटे कांडों की वजह से ना रोज गाली खाते हैं। फिर भी आप लोगों को सामान बेच के चले जाते हैं क्योंकि इनकी मार्केटिंग बहुत सॉलिड है।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इनका ब्रांड याद रह जाता है। ये जितने मर्जी हिडन चार्जेस लगा ले।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "सामान",
+      "count": 3
+    },
+    {
+      "word": "ऑर्डर",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "वजह",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "फिर",
+      "count": 2
+    },
+    {
+      "word": "लोगों",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "इनसे",
+      "count": 2
+    },
+    {
+      "word": "साथ",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "की वजह",
+      "count": 2
+    },
+    {
+      "phrase": "वजह से",
+      "count": 2
+    },
+    {
+      "phrase": "से ना",
+      "count": 2
+    },
+    {
+      "phrase": "आप लोगों",
+      "count": 2
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 2
+    },
+    {
+      "phrase": "इनसे सामान",
+      "count": 2
+    },
+    {
+      "phrase": "सामान ऑर्डर",
+      "count": 2
+    },
+    {
+      "phrase": "तो ये",
+      "count": 2
+    },
+    {
+      "phrase": "ये जेप्टो",
+      "count": 1
+    },
+    {
+      "phrase": "जेप्टो वाले",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

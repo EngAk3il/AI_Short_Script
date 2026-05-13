@@ -1,0 +1,149 @@
+{
+  "video_id": "ZDCrA1srA10",
+  "duration_seconds": 37,
+  "wps": 4.16,
+  "total_words": 154,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 529
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये सामान मेरे घर पे 10 मिनट में आ तो सकता है पर 10 मिनट में आ जाऊंगा। ये चीज मुझे बता नहीं सकता है और ये चीज आज के बाद से कानून है और ये कानून लाया गया था"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टीशर्ट और बैग्स के ऊपर 10 मिनट की डिलीवरी लिखी हुई"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "10",
+      "count": 5
+    },
+    {
+      "word": "मिनट",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "सामान",
+      "count": 3
+    },
+    {
+      "word": "घर",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "क्योंकि",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "सकता",
+      "count": 2
+    },
+    {
+      "word": "चीज",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "आज",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "कानून",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "10 मिनट",
+      "count": 5
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 3
+    },
+    {
+      "phrase": "घर पे",
+      "count": 2
+    },
+    {
+      "phrase": "मिनट में",
+      "count": 2
+    },
+    {
+      "phrase": "में आ",
+      "count": 2
+    },
+    {
+      "phrase": "सकता है",
+      "count": 2
+    },
+    {
+      "phrase": "ये चीज",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "और ये",
+      "count": 2
+    },
+    {
+      "phrase": "वाला है",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

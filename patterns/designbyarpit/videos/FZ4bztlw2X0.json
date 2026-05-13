@@ -1,0 +1,148 @@
+{
+  "video_id": "FZ4bztlw2X0",
+  "duration_seconds": 63,
+  "wps": 3.27,
+  "total_words": 206,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 888
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Most people think a mouse is just a mouse. But this one, it's a productivity cheat code. This is Logitech Master 3S."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "subscribe."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 8
+    },
+    {
+      "word": "mouse",
+      "count": 6
+    },
+    {
+      "word": "your",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "it's",
+      "count": 5
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "not",
+      "count": 4
+    },
+    {
+      "word": "just",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "hand",
+      "count": 3
+    },
+    {
+      "word": "think",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "has",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "right",
+      "count": 2
+    },
+    {
+      "word": "wheel",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "a mouse",
+      "count": 3
+    },
+    {
+      "phrase": "your hand",
+      "count": 3
+    },
+    {
+      "phrase": "mouse is",
+      "count": 2
+    },
+    {
+      "phrase": "just a",
+      "count": 2
+    },
+    {
+      "phrase": "this mouse",
+      "count": 2
+    },
+    {
+      "phrase": "a second",
+      "count": 2
+    },
+    {
+      "phrase": "is not",
+      "count": 2
+    },
+    {
+      "phrase": "not just",
+      "count": 2
+    },
+    {
+      "phrase": "most people",
+      "count": 1
+    },
+    {
+      "phrase": "people think",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

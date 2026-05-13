@@ -1,0 +1,148 @@
+{
+  "video_id": "sIFNTonb1KY",
+  "duration_seconds": 52,
+  "wps": 3.62,
+  "total_words": 188,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 682
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इस मिनी ट्रक ने टा मोटर्स को फेल होने से बचा लिया अर्ली 2000 में टा मोटर्स को कई 100 करोड़ का लॉस हो रहा था और उन्हें"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ऑटो से बहुत ज्यादा थी इन एडवांटेजेस के चलते 2005 में लॉन्च होते ही ए ने मार्केट को डिसर पट कर दिया"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "था",
+      "count": 6
+    },
+    {
+      "word": "टा",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "हैवी",
+      "count": 4
+    },
+    {
+      "word": "ट्रक्स",
+      "count": 4
+    },
+    {
+      "word": "कार्गो",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "ऑटो",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    },
+    {
+      "word": "मिनी",
+      "count": 2
+    },
+    {
+      "word": "ट्रक",
+      "count": 2
+    },
+    {
+      "word": "मोटर्स",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हैवी ट्रक्स",
+      "count": 4
+    },
+    {
+      "phrase": "कार्गो ऑटो",
+      "count": 3
+    },
+    {
+      "phrase": "मिनी ट्रक",
+      "count": 2
+    },
+    {
+      "phrase": "टा मोटर्स",
+      "count": 2
+    },
+    {
+      "phrase": "मोटर्स को",
+      "count": 2
+    },
+    {
+      "phrase": "ट्रक्स की",
+      "count": 2
+    },
+    {
+      "phrase": "टा ए",
+      "count": 2
+    },
+    {
+      "phrase": "की तरह",
+      "count": 2
+    },
+    {
+      "phrase": "ही साथ",
+      "count": 2
+    },
+    {
+      "phrase": "इस मिनी",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

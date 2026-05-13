@@ -1,0 +1,148 @@
+{
+  "video_id": "cIM5ZTAUH40",
+  "duration_seconds": 69,
+  "wps": 1.77,
+  "total_words": 122,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 545
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "[Music]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "the India background and India lens"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 9
+    },
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "toothpick",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "trend",
+      "count": 3
+    },
+    {
+      "word": "indian",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "india",
+      "count": 3
+    },
+    {
+      "word": "music",
+      "count": 2
+    },
+    {
+      "word": "mcdonald's",
+      "count": 2
+    },
+    {
+      "word": "right",
+      "count": 2
+    },
+    {
+      "word": "way",
+      "count": 2
+    },
+    {
+      "word": "spot",
+      "count": 2
+    },
+    {
+      "word": "or",
+      "count": 2
+    },
+    {
+      "word": "lens",
+      "count": 2
+    },
+    {
+      "word": "school",
+      "count": 2
+    },
+    {
+      "word": "pitch",
+      "count": 2
+    },
+    {
+      "word": "such",
+      "count": 2
+    },
+    {
+      "word": "concept",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "way to",
+      "count": 2
+    },
+    {
+      "phrase": "indian concept",
+      "count": 2
+    },
+    {
+      "phrase": "the toothpick",
+      "count": 2
+    },
+    {
+      "phrase": "the india",
+      "count": 2
+    },
+    {
+      "phrase": "music mcdonald's",
+      "count": 1
+    },
+    {
+      "phrase": "mcdonald's filio",
+      "count": 1
+    },
+    {
+      "phrase": "filio fish",
+      "count": 1
+    },
+    {
+      "phrase": "fish mcdonald's",
+      "count": 1
+    },
+    {
+      "phrase": "mcdonald's cheeseburg",
+      "count": 1
+    },
+    {
+      "phrase": "cheeseburg that",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

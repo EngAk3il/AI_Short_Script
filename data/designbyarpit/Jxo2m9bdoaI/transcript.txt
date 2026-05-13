@@ -1,0 +1,10 @@
+[00:00] Your iPhone Air looks normal from the front, but flip it over and the entire computer is contained into this tiny camera bump. So basically everything,
+[00:08] the processor, antenna, modem, and even the camera. They squeezed everything onto that tiny plateau. But why was it designed this way when most phones spread components everywhere?
+[00:17] Traditional phones scatter their parts throughout their body. Makes sense. More space, easier cooling. But Apple wanted something different. They wanted to
+[00:25] break a record. They aimed for the thinnest phone ever, just 5.6 mm thick.
+[00:29] But this thing created an impossible engineering problem. At 5.6 mm, even the physical SIM card could not fit anymore.
+[00:36] So, Apple had to kill the SIM card tray and entirely go eSIM. And that also on a worldwide level. Their solution pack everything into what they call the
+[00:45] camera plate too. But here's the genius part most people will miss. They created a sandwiched motherboard with components on both sides. And the A19 chip was actually fitting inside the camera bump.
+[00:55] The rest of the logic board has to share that ultra thin body with the battery.
+[00:59] But somehow it still delivers a all day battery life. So Apple turned their biggest constraint into their biggest innovation. The camera bump isn't the compromise. It's actually the entire
+[01:08] computer. To know more why behind design subscribe.

@@ -1,0 +1,148 @@
+{
+  "video_id": "P10FJ4QqC3U",
+  "duration_seconds": 62,
+  "wps": 2.55,
+  "total_words": 158,
+  "language_mix": {
+    "hindi": 98.4,
+    "english": 1.6,
+    "total_chars": 901
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अटेंशन ऑल इंडियन प्रोफेशनल्स एंड एस्पायरिंग एमबीए स्टूडेंट्स आई एम अहमदाबाद जस्ट अनाउंस a monumal launch इंडियास फर्स्ट टू ईयर ब्लेंडेड एमबीए इन"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "ट्रांसफॉर्मेशन। विजिट द आईआईएमए वेबसाइट फॉर एलिजिबिलिटी क्राइटेरिया एंड सब्सक्राइब टू फुल डिस्क्लोज़र फॉर मोर।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 7
+    },
+    {
+      "word": "फॉर",
+      "count": 4
+    },
+    {
+      "word": "एआई",
+      "count": 4
+    },
+    {
+      "word": "प्रोफेशनल्स",
+      "count": 3
+    },
+    {
+      "word": "अहमदाबाद",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "बिज़नेस",
+      "count": 3
+    },
+    {
+      "word": "एनालिटिक्स",
+      "count": 3
+    },
+    {
+      "word": "विथ",
+      "count": 3
+    },
+    {
+      "word": "एमबीए",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "मैनेजमेंट",
+      "count": 2
+    },
+    {
+      "word": "एडवांस्ड",
+      "count": 2
+    },
+    {
+      "word": "कैंपस",
+      "count": 2
+    },
+    {
+      "word": "अटेंशन",
+      "count": 1
+    },
+    {
+      "word": "ऑल",
+      "count": 1
+    },
+    {
+      "word": "इंडियन",
+      "count": 1
+    },
+    {
+      "word": "एस्पायरिंग",
+      "count": 1
+    },
+    {
+      "word": "स्टूडेंट्स",
+      "count": 1
+    },
+    {
+      "word": "आई",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "प्रोफेशनल्स एंड",
+      "count": 2
+    },
+    {
+      "phrase": "एनालिटिक्स एंड",
+      "count": 2
+    },
+    {
+      "phrase": "अटेंशन ऑल",
+      "count": 1
+    },
+    {
+      "phrase": "ऑल इंडियन",
+      "count": 1
+    },
+    {
+      "phrase": "इंडियन प्रोफेशनल्स",
+      "count": 1
+    },
+    {
+      "phrase": "एंड एस्पायरिंग",
+      "count": 1
+    },
+    {
+      "phrase": "एस्पायरिंग एमबीए",
+      "count": 1
+    },
+    {
+      "phrase": "एमबीए स्टूडेंट्स",
+      "count": 1
+    },
+    {
+      "phrase": "स्टूडेंट्स आई",
+      "count": 1
+    },
+    {
+      "phrase": "आई एम",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

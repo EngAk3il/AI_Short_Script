@@ -1,0 +1,148 @@
+{
+  "video_id": "fDvukgF66g8",
+  "duration_seconds": 43,
+  "wps": 3.6,
+  "total_words": 155,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 547
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अमेरिकन एयरलाइंस को उनके एक कस्टमर के कारण 150 करोड़ का लॉस हुआ 1980 में अमेरिकन एयरलाइंस में एक ऑफर निकाला जिसमें लोग 3 करोड़ देके एक ऐसा पास खरीद"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के पास के बदले 150 करोड़ का लॉस हो चुका"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "था",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "करोड़",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "अमेरिकन",
+      "count": 4
+    },
+    {
+      "word": "एयरलाइंस",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "पास",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "स्टीवन",
+      "count": 3
+    },
+    {
+      "word": "चुका",
+      "count": 3
+    },
+    {
+      "word": "बार",
+      "count": 3
+    },
+    {
+      "word": "150",
+      "count": 2
+    },
+    {
+      "word": "लॉस",
+      "count": 2
+    },
+    {
+      "word": "ऑफर",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "देके",
+      "count": 2
+    },
+    {
+      "word": "सकते",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अमेरिकन एयरलाइंस",
+      "count": 4
+    },
+    {
+      "phrase": "एयरलाइंस को",
+      "count": 2
+    },
+    {
+      "phrase": "150 करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ का",
+      "count": 2
+    },
+    {
+      "phrase": "का लॉस",
+      "count": 2
+    },
+    {
+      "phrase": "में अमेरिकन",
+      "count": 2
+    },
+    {
+      "phrase": "सकते द",
+      "count": 2
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "चुका था",
+      "count": 2
+    },
+    {
+      "phrase": "था और",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

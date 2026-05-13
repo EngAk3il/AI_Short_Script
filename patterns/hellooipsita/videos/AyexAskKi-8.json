@@ -1,0 +1,148 @@
+{
+  "video_id": "AyexAskKi-8",
+  "duration_seconds": 25,
+  "wps": 2.12,
+  "total_words": 53,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 229
+  },
+  "hook": {
+    "type": "question",
+    "text": "hurt people hurt people so if somebody"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Applause]"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "hurt",
+      "count": 3
+    },
+    {
+      "word": "if",
+      "count": 3
+    },
+    {
+      "word": "somebody",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "did",
+      "count": 2
+    },
+    {
+      "word": "something",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "was",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 1
+    },
+    {
+      "word": "um",
+      "count": 1
+    },
+    {
+      "word": "for",
+      "count": 1
+    },
+    {
+      "word": "whatever",
+      "count": 1
+    },
+    {
+      "word": "reason",
+      "count": 1
+    },
+    {
+      "word": "rude",
+      "count": 1
+    },
+    {
+      "word": "uh",
+      "count": 1
+    },
+    {
+      "word": "mean",
+      "count": 1
+    },
+    {
+      "word": "instead",
+      "count": 1
+    },
+    {
+      "word": "of",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "hurt people",
+      "count": 2
+    },
+    {
+      "phrase": "if somebody",
+      "count": 2
+    },
+    {
+      "phrase": "did something",
+      "count": 2
+    },
+    {
+      "phrase": "somebody was",
+      "count": 2
+    },
+    {
+      "phrase": "to you",
+      "count": 2
+    },
+    {
+      "phrase": "people hurt",
+      "count": 1
+    },
+    {
+      "phrase": "people so",
+      "count": 1
+    },
+    {
+      "phrase": "so if",
+      "count": 1
+    },
+    {
+      "phrase": "somebody did",
+      "count": 1
+    },
+    {
+      "phrase": "something um",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

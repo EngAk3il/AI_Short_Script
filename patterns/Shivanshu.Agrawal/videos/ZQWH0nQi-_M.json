@@ -1,0 +1,148 @@
+{
+  "video_id": "ZQWH0nQi-_M",
+  "duration_seconds": 62,
+  "wps": 3.15,
+  "total_words": 195,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 808
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यूएस प्रेसिडेंट का वाइट हाउस दुनिया की सबसे सेफेस्ट बिल्डिंग है इसके चारों तरफ 13 फीट ऊंची स्टील की फेंस है जिस पे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डॉग्स भी हैं"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "वाइट",
+      "count": 5
+    },
+    {
+      "word": "हाउस",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "इसके",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "प्रेसिडेंट",
+      "count": 2
+    },
+    {
+      "word": "चारों",
+      "count": 2
+    },
+    {
+      "word": "सेंसर्स",
+      "count": 2
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "कोई",
+      "count": 2
+    },
+    {
+      "word": "करता",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वाइट हाउस",
+      "count": 5
+    },
+    {
+      "phrase": "है इसके",
+      "count": 2
+    },
+    {
+      "phrase": "अगर कोई",
+      "count": 2
+    },
+    {
+      "phrase": "कोई भी",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "तुरंत सिक्योरिटी",
+      "count": 2
+    },
+    {
+      "phrase": "इसके अलावा",
+      "count": 2
+    },
+    {
+      "phrase": "अलावा वाइट",
+      "count": 2
+    },
+    {
+      "phrase": "हाउस के",
+      "count": 2
+    },
+    {
+      "phrase": "भी है",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

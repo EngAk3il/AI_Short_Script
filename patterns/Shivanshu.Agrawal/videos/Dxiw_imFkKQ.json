@@ -1,0 +1,148 @@
+{
+  "video_id": "Dxiw_imFkKQ",
+  "duration_seconds": 110,
+  "wps": 3.42,
+  "total_words": 376,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1564
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "रिसेंटली जापान में इन्वेंट हुआ यह पर्पल ब्लड लाखों लोगों की जान बचा सकता है। हर साल 20 लाख लोग ब्लड लॉस से अपनी जान गवा"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "से शुरू हो जाते हैं। आल्सो हेल्थ इंश्योरेंस ऑनलाइन लेने पर अप टू 25% का डिस्काउंट भी मिल सकता है। बायो में मैंने इसका लिंक दिया है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "में",
+      "count": 15
+    },
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "हैं",
+      "count": 10
+    },
+    {
+      "word": "ब्लड",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "यह",
+      "count": 7
+    },
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "रियल",
+      "count": 4
+    },
+    {
+      "word": "तक",
+      "count": 4
+    },
+    {
+      "word": "मेडिकल",
+      "count": 4
+    },
+    {
+      "word": "हॉस्पिटल",
+      "count": 4
+    },
+    {
+      "word": "हेल्थ",
+      "count": 4
+    },
+    {
+      "word": "लाखों",
+      "count": 3
+    },
+    {
+      "word": "अपनी",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हैं और",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "हेल्थ इंश्योरेंस",
+      "count": 3
+    },
+    {
+      "phrase": "सकता है",
+      "count": 2
+    },
+    {
+      "phrase": "हर साल",
+      "count": 2
+    },
+    {
+      "phrase": "डोनेटेड ब्लड",
+      "count": 2
+    },
+    {
+      "phrase": "बॉडी में",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "रियल ब्लड",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

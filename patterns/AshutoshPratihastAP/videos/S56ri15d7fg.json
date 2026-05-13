@@ -1,0 +1,148 @@
+{
+  "video_id": "S56ri15d7fg",
+  "duration_seconds": 43,
+  "wps": 1.86,
+  "total_words": 80,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 273
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हम फॉक्स रहते हैं अपने करियर को लेकर या फिर किसी फील्ड में और जो भी रिलेशंस हैं या फ्रेंडशिप है समझ रहा हूं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नहीं होने वाला कभी नहीं होने वाला कितना ही प्यार हो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "फिर",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "करियर",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "या",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "समझ",
+      "count": 2
+    },
+    {
+      "word": "रहा",
+      "count": 2
+    },
+    {
+      "word": "हूं",
+      "count": 2
+    },
+    {
+      "word": "समझा",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "कभी",
+      "count": 2
+    },
+    {
+      "word": "होने",
+      "count": 2
+    },
+    {
+      "word": "वाला",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 1
+    },
+    {
+      "word": "फॉक्स",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा हूं",
+      "count": 2
+    },
+    {
+      "phrase": "कभी नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं होने",
+      "count": 2
+    },
+    {
+      "phrase": "होने वाला",
+      "count": 2
+    },
+    {
+      "phrase": "हम फॉक्स",
+      "count": 1
+    },
+    {
+      "phrase": "फॉक्स रहते",
+      "count": 1
+    },
+    {
+      "phrase": "रहते हैं",
+      "count": 1
+    },
+    {
+      "phrase": "हैं अपने",
+      "count": 1
+    },
+    {
+      "phrase": "अपने करियर",
+      "count": 1
+    },
+    {
+      "phrase": "करियर को",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

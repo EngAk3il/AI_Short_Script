@@ -1,0 +1,148 @@
+{
+  "video_id": "MCtyGaB6RaA",
+  "duration_seconds": 28,
+  "wps": 4.54,
+  "total_words": 127,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 483
+  },
+  "hook": {
+    "type": "statement",
+    "text": "यूट्यूब एक ऑनलाइन डेटिंग साइट की तरह स्टार्ट हुआ था 2005 में तीन दोस्तों ने यूट्यूब नाम की एक वेबसाइट बनाई एक ऐसी वेबसाइट जहां लोग खुद को इंट्रोड्यूस करते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "गरज में स्टार्ट हुआ था वो 1 साल में इतना सक्सेसफुल हो गया की उसे गूगल ने 12 1/2 हजार करोड़ रुपए में खरीद लिया"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "यूट्यूब",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "वीडियो",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "तरह",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "स्टार्ट",
+      "count": 2
+    },
+    {
+      "word": "हुआ",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "सकते",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "जिसके",
+      "count": 2
+    },
+    {
+      "word": "बाद",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "स्टार्ट हुआ",
+      "count": 2
+    },
+    {
+      "phrase": "हुआ था",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हो गया",
+      "count": 2
+    },
+    {
+      "phrase": "जिसके बाद",
+      "count": 2
+    },
+    {
+      "phrase": "बाद यूट्यूब",
+      "count": 2
+    },
+    {
+      "phrase": "यूट्यूब एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक ऑनलाइन",
+      "count": 1
+    },
+    {
+      "phrase": "ऑनलाइन डेटिंग",
+      "count": 1
+    },
+    {
+      "phrase": "डेटिंग साइट",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

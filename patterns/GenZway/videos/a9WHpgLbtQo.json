@@ -1,0 +1,149 @@
+{
+  "video_id": "a9WHpgLbtQo",
+  "duration_seconds": 35,
+  "wps": 4.91,
+  "total_words": 172,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 616
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रतन टाटा सर के जाने के बाद रोज कोई ना कोई ऐसी न्यूज़ निकल के आ जाती है जिससे टाटा ग्रुप की बेइज्जती होना पक्का है। पहले एयर इंडिया का क्रैश हुआ और एयर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एटिकेट सिखाए जा रहे हैं। इनकी पूरी इंटरनल मैनेजमेंट के अंदर कॉन्फ्लिक्ट चल रहा है। इनके सारे ऑनलाइन प्लेटफार्म लॉसेस के अंदर चल रहे हैं। तुम्हें क्या लगता है कि आगे क्या"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "अंदर",
+      "count": 5
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "टाटा",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "पूरी",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "जा",
+      "count": 3
+    },
+    {
+      "word": "पहले",
+      "count": 2
+    },
+    {
+      "word": "एयर",
+      "count": 2
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "जहां",
+      "count": 2
+    },
+    {
+      "word": "जॉब",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "आज",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 5
+    },
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "जाता था",
+      "count": 3
+    },
+    {
+      "phrase": "एयर इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "आज की",
+      "count": 2
+    },
+    {
+      "phrase": "की डेट",
+      "count": 2
+    },
+    {
+      "phrase": "डेट में",
+      "count": 2
+    },
+    {
+      "phrase": "ताज होटल",
+      "count": 2
+    },
+    {
+      "phrase": "होटल के",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

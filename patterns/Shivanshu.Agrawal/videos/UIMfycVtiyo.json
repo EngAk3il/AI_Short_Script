@@ -1,0 +1,148 @@
+{
+  "video_id": "UIMfycVtiyo",
+  "duration_seconds": 62,
+  "wps": 3.76,
+  "total_words": 233,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 862
+  },
+  "hook": {
+    "type": "statement",
+    "text": "चेस के गेम वाली ये क्वीन एक्चुअली इस रियल क्वीन से इंस्पायर्ड है करीब 1500 साल पहले इंडिया में चेस का ओरिजिनल वर्जन इन्वेंट हुआ था जिसमें क्वीन या रानी नाम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डायगोनल कितने भी स्क्वायर्स तक मूव कर सकता है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "क्वीन",
+      "count": 9
+    },
+    {
+      "word": "चेस",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "पीस",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "थी",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "मूव",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "फर्ज",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "चेस का",
+      "count": 4
+    },
+    {
+      "phrase": "मूव कर",
+      "count": 3
+    },
+    {
+      "phrase": "क्वीन से",
+      "count": 2
+    },
+    {
+      "phrase": "जिसमें क्वीन",
+      "count": 2
+    },
+    {
+      "phrase": "केवल एक",
+      "count": 2
+    },
+    {
+      "phrase": "कर सकता",
+      "count": 2
+    },
+    {
+      "phrase": "होते थे",
+      "count": 2
+    },
+    {
+      "phrase": "चेस के",
+      "count": 1
+    },
+    {
+      "phrase": "के गेम",
+      "count": 1
+    },
+    {
+      "phrase": "गेम वाली",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

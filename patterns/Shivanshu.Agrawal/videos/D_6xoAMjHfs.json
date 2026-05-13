@@ -1,0 +1,148 @@
+{
+  "video_id": "D_6xoAMjHfs",
+  "duration_seconds": 62,
+  "wps": 3.48,
+  "total_words": 216,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 849
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अमेरिका की करीब 50 पर किराना स्टोर्स को गुजराती ओन करते हैं 1960 में कई गुजराती लोग अपना करियर बनाने के लिए अमेरिका जाने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कन्वीनियंस स्टोर्स के ओनर्स गुजराती है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "स्टोर्स",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "थे",
+      "count": 5
+    },
+    {
+      "word": "गुजराती",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "अमेरिका",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "बिजनेस",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "करीब",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "किराना स्टोर्स",
+      "count": 2
+    },
+    {
+      "phrase": "स्टोर्स को",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "कन्वीनियंस स्टोर्स",
+      "count": 2
+    },
+    {
+      "phrase": "ये उसे",
+      "count": 2
+    },
+    {
+      "phrase": "थे और",
+      "count": 2
+    },
+    {
+      "phrase": "में काम",
+      "count": 2
+    },
+    {
+      "phrase": "करते थे",
+      "count": 2
+    },
+    {
+      "phrase": "अमेरिका की",
+      "count": 1
+    },
+    {
+      "phrase": "की करीब",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

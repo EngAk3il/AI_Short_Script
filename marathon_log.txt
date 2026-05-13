@@ -1,0 +1,1403 @@
+🕯️  Marathon mode active: Delays increased (15s/30s)
+🚀 YouTube Shorts Transcript Ingestion (Interleaved)
+   Creators: 16
+   Limit: all
+   Force: False
+
+📡 Scanning all active channels...
+   -> Shivanshu.Agrawal [Dir: data]... 97 new / 314 total
+   -> AshutoshPratihastAP [Dir: data]... 2 new / 104 total
+   -> hellooipsita [Dir: data]... 2 new / 90 total
+   -> designbyarpit [Dir: data]... 9 new / 188 total
+   -> ThinkSchool_Hindi [Dir: data]... 54 new / 165 total
+   -> openletteryt [Dir: data]... 0 new / 20 total
+   -> Finsaheliofficial [Dir: data]... 44 new / 154 total
+   -> FullDisclosure [Dir: data]... 299 new / 406 total
+   -> GenZway [Dir: data]... 873 new / 965 total
+   -> SciCoLens [Dir: data]... 219 new / 305 total
+   -> CleoAbram [Dir: data]... 429 new / 460 total
+   -> aevytv [Dir: data]... 651 new / 661 total
+   -> MattGray [Dir: strategy_data]... 932 new / 932 total
+   -> AlexHormozi [Dir: strategy_data]... 4204 new / 4205 total
+   -> TubeBuddy [Dir: strategy_data]... 343 new / 343 total
+   -> EthanShaw [Dir: strategy_data]...17:46:46 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+17:46:46 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+17:51:10 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+17:51:10 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+17:54:49 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+17:54:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+17:58:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+17:58:36 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:03:19 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:03:20 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:07:24 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:07:25 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:12:01 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:12:02 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:15:30 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:15:31 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:19:05 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:19:05 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:23:02 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:26:41 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:26:42 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:29:54 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:33:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:38:05 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:42:21 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:47:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:47:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:47:31 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:47:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:50:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:50:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:52:52 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:52:52 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:56:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+18:56:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:00:13 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:00:13 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:02:53 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:02:53 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:06:31 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:06:31 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:09:48 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:09:49 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:13:24 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:15:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:15:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:16:44 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:18:23 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:20:02 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:21:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:23:19 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:23:19 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:25:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:25:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:26:40 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:26:40 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:28:22 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:28:23 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:30:10 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:30:11 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:31:58 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:31:58 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:33:40 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:33:41 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:35:20 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:36:58 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:36:59 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:38:38 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:40:17 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:41:54 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:43:33 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:45:11 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:45:12 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:46:53 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:46:54 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:48:38 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:48:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:50:21 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:50:22 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:52:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:52:05 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:53:49 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:53:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:55:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:55:40 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:57:26 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+ 463 new / 468 total
+
+📦 Starting interleaved ingestion of 8621 videos...
+
+[1/8621] Creator: Shivanshu.Agrawal
+
+   -> _qMa4i47o8U — Zomato’s CRAZY Strategy 🔥
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[2/8621] Creator: AshutoshPratihastAP
+
+   -> _4vxkQFE6-Y — #PublicSpeakingWorkshop | Just 1 Day To Go | Visit
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[3/8621] Creator: hellooipsita
+
+   -> __1dzqvjty0 — What’s your Personality Color?! #shorts
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[4/8621] Creator: designbyarpit
+
+   -> _9ByIe95KIc — Puma's Genius Bag (That Failed) 🤫
+       ✅ ok | 10 segments | lang=unknown | via=chrome-headless
+
+[5/8621] Creator: ThinkSchool_Hindi
+
+   -> vuAa8e_tc7g — Boring Business make most Money!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[6/8621] Creator: Finsaheliofficial
+
+   -> _B1iRanldPg — Silver & Important Metals for 2026 #silver #copper
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[7/8621] Creator: FullDisclosure
+
+   -> _ZPGAbmsUkg — IIM Bangalore Is Offering Free Courses (No Exam)
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[8/8621] Creator: GenZway
+
+   -> _qNYsva5wSE — 40 Rs ki Coca cola mai marketing scam
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[9/8621] Creator: SciCoLens
+
+   -> _j7CQBUiRLI — ⚠️Why Women are Filing Divorces?
+       ✅ ok | 5 segments | lang=unknown | via=chrome-headless
+
+[10/8621] Creator: CleoAbram
+
+   -> _HLoaFmyXZQ — They’re Putting Diamonds Inside Phones
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[11/8621] Creator: aevytv
+
+   -> H1w-1F-hor4 — Was pokémon go spying on us?!
+       ✅ ok | 10 segments | lang=unknown | via=chrome-headless
+
+[12/8621] Creator: MattGray
+
+   -> jiU8-AW_q-g — You're not broke because you don't have followers
+       ✅ ok | 9 segments | lang=unknown | via=chrome-headless
+
+[13/8621] Creator: AlexHormozi
+
+   -> rAuID8zcRB0 — The Future Of The Job Market
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[14/8621] Creator: TubeBuddy
+
+   -> pZzsqCphP9w — How to Do SEO for YouTube Shorts
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[15/8621] Creator: EthanShaw
+
+   -> O8G0lVKmWcs — i’m retiring. (here’s what’s next)
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[16/8621] Creator: Shivanshu.Agrawal
+
+   -> _-H8E9qfk28 — 🤯 WW2 Incredible Strategy #shorts
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[17/8621] Creator: AshutoshPratihastAP
+
+   -> _YqQsOcIBLc — Information About Today’s Mega Event | #BadaKhelte
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[18/8621] Creator: hellooipsita
+
+   -> _ovpuWxuil8 — Increase your Emotional Intelligence with THIS tim
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[19/8621] Creator: designbyarpit
+
+   -> _ai3kwute_k — Why Apple Maps Looks This Good
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[20/8621] Creator: ThinkSchool_Hindi
+
+   -> s1WDgGh27qE — Biggest Hiring Mistake
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[21/8621] Creator: Finsaheliofficial
+
+   -> DRApQReqMe4 — Business Loan Collateral Free from Gov. #businessl
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[22/8621] Creator: FullDisclosure
+
+   -> f2BUNzBRmSU — Join The GenC School!
+       ✅ ok | 9 segments | lang=unknown | via=chrome-headless
+
+[23/8621] Creator: GenZway
+
+   -> _q8WfhWA6ws — Shah Rukh Khan, Salman Khan, Aamir Khan tino eak s
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[24/8621] Creator: SciCoLens
+
+   -> _KginLmHjBY — ⚠️Good Food vs. Bad Food
+       ✅ ok | 11 segments | lang=unknown | via=chrome-headless
+
+[25/8621] Creator: CleoAbram
+
+   -> _MHfbf9QXoE — What's Hidden Under This Mountain?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[26/8621] Creator: aevytv
+
+   -> PP4yn7fXmEI — This spray can stop bleeding in 1 SECOND!!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[27/8621] Creator: MattGray
+
+   -> vtnNLXnaC8o — pick the wrong niche and you'll burn out before yo
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[28/8621] Creator: AlexHormozi
+
+   -> 9Lc-0KfxnsE — "How Can We Charge $50K For AI Ads?"
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[29/8621] Creator: TubeBuddy
+
+   -> gBX5TxvaKDg — How to Pick YouTube Video Topics People Are Search
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[30/8621] Creator: EthanShaw
+
+   -> 77cyWIUFTVM — How to create your own viral attention plan in 202
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[31/8621] Creator: Shivanshu.Agrawal
+
+   -> SpZdJLIHjDo — How DUBAI became rich?? 🤑 #shorts #dubai
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[32/8621] Creator: designbyarpit
+
+   -> _09QnjTjTNI — This city has Smart Buildings
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[33/8621] Creator: ThinkSchool_Hindi
+
+   -> rh16ydBtiac — Startups vs MSMEs
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[34/8621] Creator: Finsaheliofficial
+
+   -> JZiQmKG69Ao — 3 Hidden Google Tricks #google #googletricks #tric
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[35/8621] Creator: FullDisclosure
+
+   -> 5h2sqqya_hU — 100X Engineers AI Automation Masterclass
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[36/8621] Creator: GenZway
+
+   -> _FfpSuKzBa8 — Ambani Jio vs PM Modi monopoly fight 😨😨￼
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[37/8621] Creator: SciCoLens
+
+   -> MbH31zKJ6n0 — The Oldest Computer Ever!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[38/8621] Creator: CleoAbram
+
+   -> jPebDvUOwsU — The Way We Search for Aliens Is Insane
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[39/8621] Creator: aevytv
+
+   -> VPVaNybNDns — Wait…AI could pay for you now?! #ad
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[40/8621] Creator: MattGray
+
+   -> ZyknZsnx9ww — going viral is like training martial arts
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[41/8621] Creator: AlexHormozi
+
+   -> Z1Cl4BHqgow — The Lambo Only Impresses Poor People
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[42/8621] Creator: TubeBuddy
+
+   -> 84QI_SW7dXU — Download FREE Music for YouTube (No Copyright)
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[43/8621] Creator: EthanShaw
+
+   -> lAjvr0K0QfM — How to never burn out when posting content #person
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[44/8621] Creator: Shivanshu.Agrawal
+
+   -> o1cAGH-o_mk — Indians Tricked Britishers 🤩| Anecdotal Story | #s
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[45/8621] Creator: designbyarpit
+
+   -> _PGVCoiMcdc — Hidden Words in Apple Wallpapers #design
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[46/8621] Creator: ThinkSchool_Hindi
+
+   -> 8-VRS_LojkI — Fire these Employees Today!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[47/8621] Creator: Finsaheliofficial
+
+   -> NaGmSYkeXMQ — How much SIP to get Rs. 1 CRORE #sip #mutualfunds 
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[48/8621] Creator: FullDisclosure
+
+   -> hMq6Hr4dZ3g — HUGE Relief for US Students!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[49/8621] Creator: GenZway
+
+   -> NDUxo47HFQw — Amul 10Rs se 85Lakh Income reality 😨😨
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[50/8621] Creator: SciCoLens
+
+   -> y7I2c8J4hqA — ⚠️We are Funding our own Death
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[51/8621] Creator: CleoAbram
+
+   -> 8JLPn7M8mpA — What Happens When Two Stars Collide?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[52/8621] Creator: aevytv
+
+   -> 2I79E4_ornA — This INDIAN Airport Has No Network! Here's Why.19:59:10 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+19:59:11 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:00:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:02:29 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:04:08 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:05:46 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:07:24 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:07:25 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:09:57 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:09:58 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:13:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:13:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:18:11 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:18:12 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:21:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:21:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:25:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:25:51 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:29:43 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:29:44 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:32:13 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:32:41 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:32:41 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:35:36 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:38:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:41:20 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:44:05 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:46:44 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:46:44 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:50:05 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:50:05 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:53:59 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:53:59 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:57:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+20:57:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:01:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:01:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:05:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:05:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:08:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:08:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:11:54 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:14:44 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:14:44 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:17:19 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:19:51 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:22:15 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:24:58 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:27:47 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:27:47 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:30:23 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:30:24 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:32:52 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:32:53 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:35:41 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:35:42 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:38:22 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:38:23 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:40:53 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:40:53 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:43:29 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:43:29 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:46:01 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:49:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:49:05 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:51:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:54:14 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:56:49 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+21:59:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:02:19 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:02:19 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:05:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:05:01 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:07:38 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:07:38 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:10:29 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:10:30 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:12:55 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:12:55 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:15:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:15:33 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:18:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:18:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:20:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[53/8621] Creator: MattGray
+
+   -> MEdXrXaABsk — here’s why 90% of creators burn out and what the 1
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[54/8621] Creator: AlexHormozi
+
+   -> uUN1FDC_yi4 — The Best Time to Start A Business
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[55/8621] Creator: TubeBuddy
+
+   -> 1UrcqNx8p2I — How to Upload in Full Quality From Your Phone
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[56/8621] Creator: EthanShaw
+
+   -> AxBTI4CZj6M — How to get clear audio in your content (do this no
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[57/8621] Creator: Shivanshu.Agrawal
+
+   -> JhZUYdbBVLk — Ferrari Unusual Marketing Strategy 🤔 #shorts
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[58/8621] Creator: designbyarpit
+
+   -> b8ASOhyIeVA — Law of Proximity
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[59/8621] Creator: ThinkSchool_Hindi
+
+   -> hXpMdnPH5gM — Lala business trap!
+       ✅ ok | 9 segments | lang=unknown | via=chrome-headless
+
+[60/8621] Creator: Finsaheliofficial
+
+   -> VFP6ZFRw4FE — PF Balance in 10 second #epfo #savings #job #pfbal
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[61/8621] Creator: FullDisclosure
+
+   -> tdM4uCH9gLQ — 95% of AI Investments are FAILING!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[62/8621] Creator: GenZway
+
+   -> R5gkRc4Q4XY — Bisleri Rs 20 Ki bottle Rs100 mai income reality
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[63/8621] Creator: SciCoLens
+
+   -> ZTE50KopLUU — Ideal Diet for Everyone?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[64/8621] Creator: CleoAbram
+
+   -> youk4y1FR04 — Which Animal is the Most Efficient Traveler?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[65/8621] Creator: aevytv
+
+   -> a8Uw0X-H9Qk — Your phone is making you DUMBER! Here’s proof #ad
+       ✅ ok | 11 segments | lang=unknown | via=chrome-headless
+
+[66/8621] Creator: MattGray
+
+   -> sTylc9lg7gc — you don’t need to hustle your way to success
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[67/8621] Creator: AlexHormozi
+
+   -> BuJF2VGDA4I — "I Don't Want to Leave Money On The Table"
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[68/8621] Creator: TubeBuddy
+
+   -> S2fuDOA5jb4 — How to Collab on YouTube So Your Video Shows on Bo
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[69/8621] Creator: EthanShaw
+
+   -> lkozzJoPsh8 — How I grew 100K followers on youtube in 3 months (
+       ✅ ok | 13 segments | lang=unknown | via=chrome-headless
+
+[70/8621] Creator: Shivanshu.Agrawal
+
+   -> GxEcq-uWb9o — Elon Musk Twitter Deal is a Mistake? #shorts #elon
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[71/8621] Creator: designbyarpit
+
+   -> 4cVrtlrFxIE — Biggest Logo fails
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[72/8621] Creator: ThinkSchool_Hindi
+
+   -> _nYSgy-rE0U — Stop Listening. Start Watching
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[73/8621] Creator: Finsaheliofficial
+
+   -> 3i4seMlE-cE — Bank lockers are not safe ? 😱 #bank #banking #gold
+       ✅ ok | 11 segments | lang=unknown | via=chrome-headless
+
+[74/8621] Creator: FullDisclosure
+
+   -> aLd-S_uxMm4 — TCS Bets $7 BILLION on AI
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[75/8621] Creator: GenZway
+
+   -> Cdli4Rllw3I — Oreo Rs 10 to 150 fake product income reality 😨😨
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[76/8621] Creator: SciCoLens
+
+   -> b9X1v8h_8SM — Ideal DIET SPLIT - Science
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[77/8621] Creator: CleoAbram
+
+   -> 5YPw4w0Pr34 — This New Material Can Camouflage Itself
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[78/8621] Creator: aevytv
+
+   -> UuScbFkUXUg — Restaurants across India are shutting down!  ⚠️
+       ✅ ok | 10 segments | lang=unknown | via=chrome-headless
+
+[79/8621] Creator: MattGray
+
+   -> CV3tDpuHw90 — the only way to go viral is to create bad content
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[80/8621] Creator: AlexHormozi
+
+   -> 72JbgfIPgF4 — Do So Much You Can't Suck
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[81/8621] Creator: TubeBuddy
+
+   -> WjJ2x7Xi1aA — Free Music for YouTube Videos (No Copyright Claims
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[82/8621] Creator: EthanShaw
+
+   -> AakKPNK518U — How to stop procrastinating (don’t use discipline)
+       ✅ ok | 51 segments | lang=unknown | via=chrome-headless
+
+[83/8621] Creator: Shivanshu.Agrawal
+
+   -> ISER-WJ4iO8 — Facebook paid 1500 Crore to a painter 🤯 #shorts
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[84/8621] Creator: designbyarpit
+
+   -> K1SxT5tbej8 — Which coffe is stronger? #design
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[85/8621] Creator: ThinkSchool_Hindi
+
+   -> fcxwzHFeY4Q — The FASTEST Way to Get Client Testimonials
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[86/8621] Creator: Finsaheliofficial
+
+   -> vUwr4-Tg81g — Extra Salary for Salaried Employees #government #l
+       ✅ ok | 9 segments | lang=unknown | via=chrome-headless
+
+[87/8621] Creator: FullDisclosure
+
+   -> keXHsKH3rZU — Anthropic is Coming to Bengaluru!
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[88/8621] Creator: GenZway
+
+   -> GmigsHfxm-o — 700Rs se 7000Rs private school income reality
+       ✅ ok | 5 segments | lang=unknown | via=chrome-headless
+
+[89/8621] Creator: SciCoLens
+
+   -> EpKXiiWoFZw — ⚠️Brutal Reality of Life
+       ✅ ok | 5 segments | lang=unknown | via=chrome-headless
+
+[90/8621] Creator: CleoAbram
+
+   -> Ig_6dlHKO-U — They're Doing Brain Surgery on Monarch Butterflies
+       ✅ ok | 28 segments | lang=unknown | via=chrome-headless
+
+[91/8621] Creator: aevytv
+
+   -> bv4Gn-4eKD4 — You could be filmed WITHOUT knowing it!
+       ✅ ok | 11 segments | lang=unknown | via=chrome-headless
+
+[92/8621] Creator: MattGray
+
+   -> eqHdxYmKFIQ — if you want to be as  successful as Steve Jobs
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[93/8621] Creator: AlexHormozi
+
+   -> C2zRFh1NdXs — Lessons I Wish I Knew At 21
+       ✅ ok | 3 segments | lang=unknown | via=chrome-headless
+
+[94/8621] Creator: TubeBuddy
+
+   -> nYPEjYjPGpc — How Often to Upload Shorts to Grow on YouTube
+       ✅ ok | 25 segments | lang=unknown | via=chrome-headless
+
+[95/8621] Creator: EthanShaw
+
+   -> HzWklEOqcJQ — How to create the most realistic AI content (simpl
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[96/8621] Creator: Shivanshu.Agrawal
+
+   -> WjC9LBIZVp4 — Mukesh Ambani’s Toy Company | Marketing Strategy #
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[97/8621] Creator: designbyarpit
+
+   -> o9mCE-tROYs — Red color makes you Hungry. #colorpsychology
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[98/8621] Creator: ThinkSchool_Hindi
+
+   -> D1GkTDssVfE — The Shortcut to Premium Clients
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[99/8621] Creator: Finsaheliofficial
+
+   -> A4Fv-0A2r_o — Registry ke baad bhi ap owner nahi ho 😳 #mutation 
+       ✅ ok | 10 segments | lang=unknown | via=chrome-headless
+
+[100/8621] Creator: FullDisclosure
+
+   -> VtWb9dCFLzM — Stop Writing Bad ChatGPT Prompts!
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[101/8621] Creator: GenZway
+
+   -> 7oyzXhSbNOA — Amul wale dhaba khol rhe hai😨😨
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[102/8621] Creator: SciCoLens
+
+   -> H6yyRKcnnbY — Eye-Color Change Surgery
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[103/8621] Creator: CleoAbram
+
+   -> 8PLk4cdJX0E — The $1.5B Experiment In These Huge Concrete Tubes
+       ✅ ok | 23 segments | lang=unknown | via=chrome-headless22:23:21 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:23:22 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:26:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:28:38 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:31:15 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:34:10 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:36:55 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:36:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:39:36 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:39:37 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:42:02 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:42:02 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:44:33 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:44:33 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:47:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:47:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:49:45 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+22:49:45 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:01:03 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:01:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:18:14 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:19:53 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:19:54 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:21:31 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:23:09 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:24:46 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:26:25 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:28:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:28:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:29:42 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:29:43 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:31:23 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:31:23 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:33:03 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:33:03 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:34:41 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:34:41 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:36:20 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:36:21 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:37:59 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:39:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:39:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:41:15 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:42:54 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:44:34 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:46:12 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:47:51 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:47:52 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:49:27 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:49:28 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:51:06 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:51:06 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:52:44 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:52:45 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:54:21 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:54:22 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:55:59 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:56:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:57:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:59:18 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+23:59:18 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:00:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:02:36 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:04:15 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:05:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:07:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:07:36 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:09:13 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:09:13 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:10:50 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:10:51 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:12:30 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:12:30 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:14:08 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:14:08 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:15:46 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:15:47 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:19:17 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:21:57 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:21:57 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:24:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+
+
+[104/8621] Creator: aevytv
+
+   -> cYwcdipq9G0 — He thinks YOU could build a $100 billion company! 
+       ✅ ok | 11 segments | lang=unknown | via=chrome-headless
+
+[105/8621] Creator: MattGray
+
+   -> uhyb_xkHFNI — everyone is obsessed with followers and views
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[106/8621] Creator: AlexHormozi
+
+   -> Q7ZHqY_Wcvc — "My Churn Is Too High.."
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[107/8621] Creator: TubeBuddy
+
+   -> L8W3XApQYkM — Best Time to Post YouTube Shorts for More Views
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[108/8621] Creator: EthanShaw
+
+   -> iuaktNhjsmg — The 3 types of niches to pick as a creator (and my
+       ✅ ok | 14 segments | lang=unknown | via=chrome-headless
+
+[109/8621] Creator: Shivanshu.Agrawal
+
+   -> TLJL88TW9ac — The Inspiring Story of Honda 🫡 | Business Story #s
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[110/8621] Creator: designbyarpit
+
+   -> OO8bzcYWG0M — Apple's WWDC Updates
+       ✅ ok | 5 segments | lang=unknown | via=chrome-headless
+
+[111/8621] Creator: ThinkSchool_Hindi
+
+   -> vw_GQ5uPv2Y — The Ultimate Freelance Blueprint
+       ✅ ok | 15 segments | lang=unknown | via=chrome-headless
+
+[112/8621] Creator: Finsaheliofficial
+
+   -> OboRjso1OZk — Aapke ghar ka bhi ab Adhar card #adharcard #modi #
+       ✅ ok | 12 segments | lang=unknown | via=chrome-headless
+
+[113/8621] Creator: FullDisclosure
+
+   -> uk9DwGoNvFs — The 9-to-5 is DEAD. What's Next?
+       ✅ ok | 24 segments | lang=unknown | via=chrome-headless
+
+[114/8621] Creator: GenZway
+
+   -> g1k6D9lS5-k — Zomato delivery guy scammed me ₹500  😨😨￼
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[115/8621] Creator: SciCoLens
+
+   -> R8O_Pza3y6Q — Best Sunglass for Eyes!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[116/8621] Creator: CleoAbram
+
+   -> Lwp_vrIPKdM — The Deadliest Ocean Crossing Actually Protects You
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[117/8621] Creator: aevytv
+
+   -> FiDhlCqbxh4 — Karnataka BANS social media for kids under 16!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[118/8621] Creator: MattGray
+
+   -> i4g1HsrkjNY — everyone is obsessed with followers and views
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[119/8621] Creator: AlexHormozi
+
+   -> PrhetpSezHI — "I Want To 20X My Business"
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[120/8621] Creator: TubeBuddy
+
+   -> RNqjITJDim0 — How To Use YouTube Tags To Get More Views in 2026
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[121/8621] Creator: EthanShaw
+
+   -> PVGEnjWntMc — The most common mistake when picking content ideas
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[122/8621] Creator: Shivanshu.Agrawal
+
+   -> huV20lZ4Xqs — Pepsi’s Biggest Mistake 😰 | #shorts
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[123/8621] Creator: ThinkSchool_Hindi
+
+   -> Pa20Mx9eUz0 — Truth About Product Development?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[124/8621] Creator: Finsaheliofficial
+
+   -> 2gQj8J1Cxu8 — Earn from these govt. Apps😍 #govtschemes #earnmone
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[125/8621] Creator: FullDisclosure
+
+   -> bLBEElzgwTQ — AI Reaches Human-Level Work!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[126/8621] Creator: GenZway
+
+   -> 79gEWOm2A7c — 5Rs note Vs 500Rs note reality
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[127/8621] Creator: SciCoLens
+
+   -> KAnuMCKs5oQ — ⚠️END of Largest animal ever to FLY
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[128/8621] Creator: CleoAbram
+
+   -> tP_hVKqkcBw — This Is The Largest Chunk Of Mars On Earth
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[129/8621] Creator: aevytv
+
+   -> 3iBcVg8lll4 — Google just made reading optional! Here’s how
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[130/8621] Creator: MattGray
+
+   -> eUzeVMJZxBA — here's what most people don't understand about Ste
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[131/8621] Creator: AlexHormozi
+
+   -> VBZmfKPdN5A — "You Either Sacrifice Profit Or Reputation"
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[132/8621] Creator: TubeBuddy
+
+   -> R0gnJJqNzKM — YouTube Settings I Change On Every New Channel
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[133/8621] Creator: EthanShaw
+
+   -> qbTAzcUFUs0 — How to revamp your content for 2026 #personalbrand
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[134/8621] Creator: Shivanshu.Agrawal
+
+   -> kVAcEOk8sNE — Maggi Comeback Strategy 🤯 | Marketing Case Study #
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[135/8621] Creator: ThinkSchool_Hindi
+
+   -> Db1MqW46ZE4 — Why Perfectionists Can’t Be Entrepreneurs?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[136/8621] Creator: Finsaheliofficial
+
+   -> QGVC551MJCY — Cars at 50% discount😍 #car #discount #carsales #au
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[137/8621] Creator: FullDisclosure
+
+   -> EXKqZrqydLY — Accenture CUTS 11,000 Jobs for AI!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[138/8621] Creator: GenZway
+
+   -> LOhY_GNqafA — Education ke sath 6.5 Lakh income reality 😨😨
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[139/8621] Creator: SciCoLens
+
+   -> b0wGMQhGjyM — ⚠️Pharma Company Scam
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[140/8621] Creator: CleoAbram
+
+   -> u7kCvrCzvQU — No One Knows Why Ice Is Slippery
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[141/8621] Creator: aevytv
+
+   -> 7C4qC5X0YRI — Will South India LOSE power after 2026?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[142/8621] Creator: MattGray
+
+   -> ImFDc-xHu-0 — George Lucas wrote three Star Wars movies before t
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[143/8621] Creator: AlexHormozi
+
+   -> KWk1kzkjHkw — "I Teach Online Piano Courses"
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[144/8621] Creator: TubeBuddy
+
+   -> hjXMit0jkPA — How to Fix a Demonetized YouTube Channel
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[145/8621] Creator: EthanShaw
+
+   -> Hx-OeGPydhw — The best AI content creation software #shorts #ad
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[146/8621] Creator: Shivanshu.Agrawal
+
+   -> FkHVaMyh7U4 — Virtual Influencers Explained 🤯 #shorts
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[147/8621] Creator: ThinkSchool_Hindi
+
+   -> xOZQ2HYFVQk — Red Flag of Entrepreneurs?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[148/8621] Creator: Finsaheliofficial
+
+   -> Ljoe-WWU1rI — Never purchase a car on cash❌ #carloans #car #fina
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[149/8621] Creator: FullDisclosure
+
+   -> qF4jVffa_nE — India’s Newest AI Unicorn!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[150/8621] Creator: GenZway
+
+   -> zqli9VWpdWg — China vs Anand Ambani innovation income reality ￼
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[151/8621] Creator: SciCoLens
+
+   -> f_IRIhBKBZM — ⚠️NANOBOTS are here!
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[152/8621] Creator: CleoAbram
+
+   -> X1CGnpvXtl0 — Do Aliens Know We’re Here?
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[153/8621] Creator: aevytv
+
+   -> ZofkLxV9oLY — AI in war: Where does this end?!
+       ✅ ok | 10 segments | lang=unknown | via=chrome-headless
+
+[154/8621] Creator: MattGray
+
+   -> qfpgs-_AZv4 — Jay Z went from the streets to a billion dollar em
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[155/8621] Creator: AlexHormozi
+
+   -> QtwWGn_np38 — "I Want To Scale To $50M"00:27:11 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:30:01 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:32:43 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:35:31 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:35:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:38:01 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:38:01 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:40:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:40:33 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:43:02 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:43:03 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:45:31 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:45:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:48:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:48:01 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:50:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:53:08 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:53:08 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:55:34 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+00:57:51 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:00:20 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:02:55 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:05:38 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:05:39 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:08:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:08:08 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:10:48 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:10:49 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:13:27 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:13:27 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:15:55 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:15:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:18:28 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:18:29 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:21:02 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:23:23 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:23:24 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:25:47 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:28:10 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:30:44 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:33:23 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:36:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:36:08 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:38:33 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:38:34 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:41:10 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:41:11 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:43:38 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:43:38 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:46:07 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:46:08 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:48:34 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:48:34 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:51:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:53:27 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:53:28 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:55:56 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+01:58:21 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:00:53 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:03:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:05:57 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:05:58 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:08:33 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:08:33 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:11:10 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:11:11 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:13:34 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:13:35 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:16:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:16:04 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:18:29 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:18:30 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:21:02 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:23:24 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:23:25 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+02:49:09 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+03:06:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+03:08:18 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[156/8621] Creator: TubeBuddy
+
+   -> X3Dbaviv7mI — Why Your YouTube Shorts Stopped Getting Views (Fix
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[157/8621] Creator: EthanShaw
+
+   -> KTNoSzSA3Vo — How to use AI to write viral content foe your bran
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[158/8621] Creator: Shivanshu.Agrawal
+
+   -> wqTFDVyflEs — Nestle Marketing Strategy (EXPOSED) #shorts
+       ✅ ok | 5 segments | lang=unknown | via=chrome-headless
+
+[159/8621] Creator: ThinkSchool_Hindi
+
+   -> a27o_AHNz-8 — Story of Inshorts to Shark?
+       ✅ ok | 14 segments | lang=unknown | via=chrome-headless
+
+[160/8621] Creator: Finsaheliofficial
+
+   -> aa1ZHp4NZ6k — Best Finance courses 😍 #finance #onlinecourses #yt
+       ✅ ok | 5 segments | lang=unknown | via=chrome-headless
+
+[161/8621] Creator: FullDisclosure
+
+   -> L99wIQES9P4 — The Ultimate College HACK is Here!
+       ✅ ok | 5 segments | lang=unknown | via=chrome-headless
+
+[162/8621] Creator: GenZway
+
+   -> qItGxAFnjUM — Cute video vs ULLU income reality
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[163/8621] Creator: SciCoLens
+
+   -> RCm_BIDnaoQ — ⚠️Risk with Sunscreens
+       ✅ ok | 11 segments | lang=unknown | via=chrome-headless
+
+[164/8621] Creator: CleoAbram
+
+   -> P88f_qMCgOw — We Discovered A New Fire Creature
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[165/8621] Creator: aevytv
+
+   -> QhE_WX7Obok — Someone could be watching you through THIS device!
+       ✅ ok | 11 segments | lang=unknown | via=chrome-headless
+
+[166/8621] Creator: MattGray
+
+   -> YBZUk-Wfal4 — every time Elon Musk walks into a room
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[167/8621] Creator: AlexHormozi
+
+   -> aKA8bEiygpA — It's Okay to Work Weekends
+       ✅ ok | 3 segments | lang=unknown | via=chrome-headless
+
+[168/8621] Creator: TubeBuddy
+
+   -> Vt3WW4RDYnk — How to Get 4000 Watch Hours on YouTube Fast
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[169/8621] Creator: EthanShaw
+
+   -> jOBDAPUOXSo — How to guarantee your success as a creator #conten
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[170/8621] Creator: Shivanshu.Agrawal
+
+   -> BdUn1WpqtTU — Maggi Emotional Marketing Strategy | Case Study #s
+       ✅ ok | 22 segments | lang=unknown | via=chrome-headless
+
+[171/8621] Creator: ThinkSchool_Hindi
+
+   -> gUy1Pwt9U6Q — Strategy to get more customers?
+       ✅ ok | 20 segments | lang=unknown | via=chrome-headless
+
+[172/8621] Creator: Finsaheliofficial
+
+   -> nW39QbvGR3s — Ab aapke sath scam nahi ho payega 😯 #privacyfirst 
+       ✅ ok | 10 segments | lang=unknown | via=chrome-headless
+
+[173/8621] Creator: FullDisclosure
+
+   -> QkNqQTDUShc — Masters program for Indians in Austria
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[174/8621] Creator: GenZway
+
+   -> gcw5IxdmMT8 — Why Zudio not online income reality 😨😨
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[175/8621] Creator: SciCoLens
+
+   -> Hci4mQpU5P8 — R&AW 🗿 vs. IB 🔥 (Who is BETTER?)
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[176/8621] Creator: CleoAbram
+
+   -> lwj5t6H7CYc — This New Device Uses a QUANTUM GPS
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[177/8621] Creator: aevytv
+
+   -> kRa1hr4POng — He’s literally BREAKING BONES to look better?!
+       ✅ ok | 12 segments | lang=unknown | via=chrome-headless
+
+[178/8621] Creator: MattGray
+
+   -> LLXptAZd7-E — the richest man in Europe bought a company everyon
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[179/8621] Creator: AlexHormozi
+
+   -> LweLAWEJWu4 — How to Stay Poor
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[180/8621] Creator: TubeBuddy
+
+   -> lB7xnI3LQao — how to get monetized on youtube in 2026 (step by s
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[181/8621] Creator: EthanShaw
+
+   -> mMUtM6MfXMY — How to build a brand from 0 #personalbrand #shorts
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[182/8621] Creator: Shivanshu.Agrawal
+
+   -> n86bHvXTjSI — Ratan Tata’s New Startup 🫡 | Business Case Study #
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[183/8621] Creator: ThinkSchool_Hindi
+
+   -> 6_pL3pfr_q8 — Reality of Quick Commerce?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[184/8621] Creator: Finsaheliofficial
+
+   -> Dd6EpTkxd0E — Farmhouse Tax Hack 🤔😨 #farmhouse #agriculture #tax
+       ✅ ok | 11 segments | lang=unknown | via=chrome-headless
+
+[185/8621] Creator: FullDisclosure
+
+   -> u9OFchOM73E — Shell Internship For Indian Students!
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[186/8621] Creator: GenZway
+
+   -> kfeAEdBOgQM — D-mart And Jio Mart Rs 80 ki to 105 income reality
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[187/8621] Creator: SciCoLens
+
+   -> bQnS5f3Pr4M — 8th Continent Discovered?
+       ✅ ok | 7 segments | lang=unknown | via=chrome-headless
+
+[188/8621] Creator: CleoAbram
+
+   -> PtYh9fzT_sM — These Shoes Aim To Alter Your Brain
+       ✅ ok | 9 segments | lang=unknown | via=chrome-headless
+
+[189/8621] Creator: aevytv
+
+   -> pumkp_iop_c — How to Build 10 Ad Variations Without Reshooting #
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[190/8621] Creator: MattGray
+
+   -> H68q_PklJa4 — 95% of creators fail because they rely on motivati
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[191/8621] Creator: AlexHormozi
+
+   -> AVkFWdBCoS8 — The Truth About Starting A Business
+       ✅ ok | 6 segments | lang=unknown | via=chrome-headless
+
+[192/8621] Creator: TubeBuddy
+
+   -> _WGg2kioqwY — How To Make A YouTube Channel (2026)
+       ✅ ok | 22 segments | lang=unknown | via=chrome-headless
+
+[193/8621] Creator: EthanShaw
+
+   -> i76G9A9WrmE — The tiniest 4k I ever used #insta360 #shorts
+       ✅ ok | 9 segments | lang=unknown | via=chrome-headless
+
+[194/8621] Creator: Shivanshu.Agrawal
+
+   -> LSJzyVpuzv8 — Zara Marketing Strategy | Case Study #shorts
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[195/8621] Creator: ThinkSchool_Hindi
+
+   -> X6W6ZeaztKU — How Naturals Tricks you?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[196/8621] Creator: Finsaheliofficial
+
+   -> pIfMQFfWma0 — 3 saal tak ab aapko tax ni dena hoga😱 #ytshorts #g
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[197/8621] Creator: FullDisclosure
+
+   -> nWhzfCwzUvc — Trump’s New $100k H-1B Fee!
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[198/8621] Creator: GenZway
+
+   -> 3QQR9r-rWzg — 12 lakh ki TATA ki Car Rs 2 Lakh mai income realit
+       ✅ ok | 4 segments | lang=unknown | via=chrome-headless
+
+[199/8621] Creator: SciCoLens
+
+   -> jB2UdNw_tNs — ⚠️How Women S*X TRAP Men
+       ✅ ok | 8 segments | lang=unknown | via=chrome-headless
+
+[200/8621] Creator: CleoAbram
+
+   -> vQK6ifCaXec — What Is 3I/ATLAS Actually Made Of?
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[201/8621] Creator: aevytv
+
+   -> zZO2CT3VZ4I — Technology is RACIST! Here’s why
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[202/8621] Creator: MattGray
+
+   -> 0YzSggcijII — everyone asks: "how did you actually make money fr
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[203/8621] Creator: AlexHormozi
+
+   -> X9OQvuQ8gtY — Consistent People
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[204/8621] Creator: TubeBuddy
+
+   -> zz7B27yInFA — How To Grow A Channel In 2026 (Beginner Tips)
+       ❌ no_transcript | 0 segments | lang=None | via=None
+
+[205/8621] Creator: EthanShaw
+
+   -> kU0Eq6WjD2U — This is your sign to start posting. #shorts
+       ✅ ok | 67 segments | lang=English (auto-generated) | via=youtube-transcript-api
+
+[206/8621] Creator: Shivanshu.Agrawal
+
+   -> bcil7PlLzHs — Rishi Sunak Biography in 1 Minute | Who is Rishi S03:18:59 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+03:19:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+03:55:00 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+03:55:01 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+ERROR: [youtube] 6oppxSuytDo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+04:12:37 [lib.transcript] WARNING: [6oppxSuytDo] Metadata fetch failed: ERROR: [youtube] 6oppxSuytDo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+04:12:40 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+04:12:40 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+04:14:24 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+04:14:25 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+04:38:47 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+04:38:47 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+04:54:21 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+04:54:21 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+04:59:24 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+05:15:28 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+05:15:28 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+05:36:47 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+05:53:30 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+06:16:34 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests
+06:26:32 [lib.transcript] WARNING: json3 parse failed: HTTP Error 429: Too Many Requests

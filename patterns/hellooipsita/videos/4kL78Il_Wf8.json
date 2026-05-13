@@ -1,0 +1,149 @@
+{
+  "video_id": "4kL78Il_Wf8",
+  "duration_seconds": 52,
+  "wps": 3.6,
+  "total_words": 187,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 779
+  },
+  "hook": {
+    "type": "question",
+    "text": "three books I'm obsessed with and why number one don't sweat the small stuff it allows you to learn different ways to"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "to that problem in this book and you will find a fresh perspective of how to look at the same problem in this book try it out"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 10
+    },
+    {
+      "word": "to",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "book",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "long",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "number",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "life",
+      "count": 3
+    },
+    {
+      "word": "somebody",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "will",
+      "count": 3
+    },
+    {
+      "word": "problem",
+      "count": 3
+    },
+    {
+      "word": "three",
+      "count": 2
+    },
+    {
+      "word": "don't",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this book",
+      "count": 3
+    },
+    {
+      "phrase": "the small",
+      "count": 2
+    },
+    {
+      "phrase": "long long",
+      "count": 2
+    },
+    {
+      "phrase": "you will",
+      "count": 2
+    },
+    {
+      "phrase": "will find",
+      "count": 2
+    },
+    {
+      "phrase": "problem in",
+      "count": 2
+    },
+    {
+      "phrase": "in this",
+      "count": 2
+    },
+    {
+      "phrase": "three books",
+      "count": 1
+    },
+    {
+      "phrase": "books i'm",
+      "count": 1
+    },
+    {
+      "phrase": "i'm obsessed",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

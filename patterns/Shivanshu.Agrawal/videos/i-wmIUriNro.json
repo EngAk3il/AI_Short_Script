@@ -1,0 +1,148 @@
+{
+  "video_id": "i-wmIUriNro",
+  "duration_seconds": 61,
+  "wps": 3.3,
+  "total_words": 201,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 784
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इंडियन मिलिट्री को दुनिया का सबसे खतरनाक ड्रोन मिलने वाला है करीब 25000 करोड़ की डील में इंडिया उस से 30 प्रेडेटर बी"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "स्ट्रीक्स करने में भी हेल्प करेंगे ऐसी और वीडियो के लिए चैनल को सब्सक्राइब करें"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "सकते",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "इंडियन",
+      "count": 3
+    },
+    {
+      "word": "ड्रोन",
+      "count": 3
+    },
+    {
+      "word": "फिट",
+      "count": 3
+    },
+    {
+      "word": "ड्रोनेस",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "मिलिट्री",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "वाला",
+      "count": 2
+    },
+    {
+      "word": "करीब",
+      "count": 2
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सकते हैं",
+      "count": 6
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 5
+    },
+    {
+      "phrase": "वाला है",
+      "count": 2
+    },
+    {
+      "phrase": "है करीब",
+      "count": 2
+    },
+    {
+      "phrase": "इन ड्रोनेस",
+      "count": 2
+    },
+    {
+      "phrase": "हैं जो",
+      "count": 2
+    },
+    {
+      "phrase": "और एवं",
+      "count": 2
+    },
+    {
+      "phrase": "और वीडियो",
+      "count": 2
+    },
+    {
+      "phrase": "सकता है",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

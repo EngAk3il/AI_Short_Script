@@ -1,0 +1,148 @@
+{
+  "video_id": "pDDg2KRG4qA",
+  "duration_seconds": 64,
+  "wps": 3.09,
+  "total_words": 198,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 786
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये कॉल दिखने वाले स्नीकर्स एक्चुअली गारमेंट से बने मुंबई में रहने वाले आश्रय भावे की मदद एक वेस्ट मैनेजमेंट फैसिलिटी"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "वीडियो के लिए मुझे फॉलो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "प्लास्टिक",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "थैली",
+      "count": 4
+    },
+    {
+      "word": "जाता",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "रीसायकल",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "वाले",
+      "count": 2
+    },
+    {
+      "word": "स्नीकर्स",
+      "count": 2
+    },
+    {
+      "word": "आश्रय",
+      "count": 2
+    },
+    {
+      "word": "वेस्ट",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "बैग्स",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जाता है",
+      "count": 4
+    },
+    {
+      "phrase": "थालिया से",
+      "count": 2
+    },
+    {
+      "phrase": "किया जाता",
+      "count": 2
+    },
+    {
+      "phrase": "को रीसायकल",
+      "count": 2
+    },
+    {
+      "phrase": "ये कॉल",
+      "count": 1
+    },
+    {
+      "phrase": "कॉल दिखने",
+      "count": 1
+    },
+    {
+      "phrase": "दिखने वाले",
+      "count": 1
+    },
+    {
+      "phrase": "वाले स्नीकर्स",
+      "count": 1
+    },
+    {
+      "phrase": "स्नीकर्स एक्चुअली",
+      "count": 1
+    },
+    {
+      "phrase": "एक्चुअली गारमेंट",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

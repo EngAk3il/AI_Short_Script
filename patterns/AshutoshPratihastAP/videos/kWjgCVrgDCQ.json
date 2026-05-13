@@ -1,0 +1,148 @@
+{
+  "video_id": "kWjgCVrgDCQ",
+  "duration_seconds": 55,
+  "wps": 3.16,
+  "total_words": 174,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 665
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "देखिए करियर पाथ इज अ वेरी डीप सब्जेक्ट इट इज नॉट अबाउट यू ओपन अ बिजनेस आप ऐसा करो एमएनसी में जॉब कर लो या कहीं भी जॉब"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नेवर बी यूनिडायरेक्शनल इट इज मल्टी डायरेक्शनल पूरा पॉडकास्ट एंजॉय करने के लिए"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "करियर",
+      "count": 7
+    },
+    {
+      "word": "पाथ",
+      "count": 6
+    },
+    {
+      "word": "इट",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "जॉब",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "ओपन",
+      "count": 2
+    },
+    {
+      "word": "लो",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 2
+    },
+    {
+      "word": "मैं",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करियर पाथ",
+      "count": 6
+    },
+    {
+      "phrase": "जॉब कर",
+      "count": 3
+    },
+    {
+      "phrase": "इट इज",
+      "count": 2
+    },
+    {
+      "phrase": "कर लो",
+      "count": 2
+    },
+    {
+      "phrase": "देखिए करियर",
+      "count": 1
+    },
+    {
+      "phrase": "पाथ इज",
+      "count": 1
+    },
+    {
+      "phrase": "इज अ",
+      "count": 1
+    },
+    {
+      "phrase": "अ वेरी",
+      "count": 1
+    },
+    {
+      "phrase": "वेरी डीप",
+      "count": 1
+    },
+    {
+      "phrase": "डीप सब्जेक्ट",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "I6NYaMu37mI",
+  "duration_seconds": 87,
+  "wps": 3.64,
+  "total_words": 317,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1336
+  },
+  "hook": {
+    "type": "statement",
+    "text": "फिल्मी धुरंधर को भूल जाओगे इन रियल लाइफ धुरंधरों की कहानी सुनके। जैसे रविंद्र कौशिक बर्थ हुआ 1952 में एक एयरफोर्स फैमिली में। उनकी बेहतरीन थिएटर और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "प्रेग्नेंट"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 15
+    },
+    {
+      "word": "को",
+      "count": 12
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "किया",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 6
+    },
+    {
+      "word": "उन्होंने",
+      "count": 5
+    },
+    {
+      "word": "इंडिया",
+      "count": 5
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "उन्हें",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "वहां",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "उनके",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "जब",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फैमिली में",
+      "count": 2
+    },
+    {
+      "phrase": "ने उन्हें",
+      "count": 2
+    },
+    {
+      "phrase": "स्टडी किया",
+      "count": 2
+    },
+    {
+      "phrase": "में वो",
+      "count": 2
+    },
+    {
+      "phrase": "पाकिस्तान में",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया को",
+      "count": 2
+    },
+    {
+      "phrase": "न्यूक्लियर प्रोग्राम",
+      "count": 2
+    },
+    {
+      "phrase": "हस्बैंड को",
+      "count": 2
+    },
+    {
+      "phrase": "फिल्मी धुरंधर",
+      "count": 1
+    },
+    {
+      "phrase": "धुरंधर को",
+      "count": 1
+    }
+  ],
+  "segment_count": 11
+}

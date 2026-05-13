@@ -1,0 +1,148 @@
+{
+  "video_id": "KovmOseru_E",
+  "duration_seconds": 44,
+  "wps": 4.48,
+  "total_words": 197,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 654
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये लेस वाले चिप्स के साथ-साथ इज्जत कब बेचने लग गए हमको समझ नहीं आया। लेस ना एक बहुत बड़ी प्रॉब्लम फेस कर रहा था कि भैया उनके जो पैक थे ना वो 15-20 के आते थे और"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चिप्स मिलते हैं और इसकी टोटल कॉस्ट पता है कितनी है? ₹300 से भी ज्यादा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "लेस",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "चिप्स",
+      "count": 5
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "बड़ी",
+      "count": 2
+    },
+    {
+      "word": "प्रॉब्लम",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ना एक",
+      "count": 2
+    },
+    {
+      "phrase": "एक बहुत",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत बड़ी",
+      "count": 2
+    },
+    {
+      "phrase": "बड़ी प्रॉब्लम",
+      "count": 2
+    },
+    {
+      "phrase": "था कि",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "थे और",
+      "count": 2
+    },
+    {
+      "phrase": "लेस के",
+      "count": 2
+    },
+    {
+      "phrase": "के चिप्स",
+      "count": 2
+    },
+    {
+      "phrase": "चिप्स को",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "-8f3QMnycNE",
+  "duration_seconds": 57,
+  "wps": 3.56,
+  "total_words": 203,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 775
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक आर्टिस्ट जिसका पहले ही गाना 500"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पापुलेशन 140 करोड़"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "विलन",
+      "count": 4
+    },
+    {
+      "word": "डी",
+      "count": 4
+    },
+    {
+      "word": "करोड़",
+      "count": 3
+    },
+    {
+      "word": "लोगों",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "आर्टिस्ट",
+      "count": 2
+    },
+    {
+      "word": "पहले",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "140",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पहले ही",
+      "count": 2
+    },
+    {
+      "phrase": "140 करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ लोगों",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों ने",
+      "count": 2
+    },
+    {
+      "phrase": "एक रात",
+      "count": 2
+    },
+    {
+      "phrase": "एक आर्टिस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "आर्टिस्ट जिसका",
+      "count": 1
+    },
+    {
+      "phrase": "जिसका पहले",
+      "count": 1
+    },
+    {
+      "phrase": "ही गाना",
+      "count": 1
+    },
+    {
+      "phrase": "गाना 500",
+      "count": 1
+    }
+  ],
+  "segment_count": 26
+}

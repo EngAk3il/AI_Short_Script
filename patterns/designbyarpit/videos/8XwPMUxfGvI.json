@@ -1,0 +1,149 @@
+{
+  "video_id": "8XwPMUxfGvI",
+  "duration_seconds": 67,
+  "wps": 2.82,
+  "total_words": 189,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 836
+  },
+  "hook": {
+    "type": "question",
+    "text": "If you have seen Japanese sharpeners,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "some cool design."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "you",
+      "count": 7
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "with",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "have",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "sharpening",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "sharpeners",
+      "count": 2
+    },
+    {
+      "word": "no",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "built-in",
+      "count": 2
+    },
+    {
+      "word": "angle",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "lead",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "with a",
+      "count": 3
+    },
+    {
+      "phrase": "a built-in",
+      "count": 2
+    },
+    {
+      "phrase": "the pencil",
+      "count": 2
+    },
+    {
+      "phrase": "if you",
+      "count": 1
+    },
+    {
+      "phrase": "you have",
+      "count": 1
+    },
+    {
+      "phrase": "have seen",
+      "count": 1
+    },
+    {
+      "phrase": "seen japanese",
+      "count": 1
+    },
+    {
+      "phrase": "japanese sharpeners",
+      "count": 1
+    },
+    {
+      "phrase": "sharpeners there",
+      "count": 1
+    },
+    {
+      "phrase": "there is",
+      "count": 1
+    }
+  ],
+  "segment_count": 28
+}

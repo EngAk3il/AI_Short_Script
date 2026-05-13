@@ -1,0 +1,148 @@
+{
+  "video_id": "Rooc1BtAb7Y",
+  "duration_seconds": 53,
+  "wps": 2.79,
+  "total_words": 148,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 576
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "व्हेन यू फील स्कैटर्ड व्हेन योर ब्रेन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फोकस योर कॉग्निटिव।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "फोकस",
+      "count": 13
+    },
+    {
+      "word": "यू",
+      "count": 7
+    },
+    {
+      "word": "योर",
+      "count": 7
+    },
+    {
+      "word": "व्हेन",
+      "count": 5
+    },
+    {
+      "word": "ऑन",
+      "count": 5
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "पॉइंट",
+      "count": 4
+    },
+    {
+      "word": "दैट",
+      "count": 4
+    },
+    {
+      "word": "विल",
+      "count": 4
+    },
+    {
+      "word": "फील",
+      "count": 3
+    },
+    {
+      "word": "स्कैटर्ड",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "विज़न",
+      "count": 3
+    },
+    {
+      "word": "अबाउट",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 2
+    },
+    {
+      "word": "आर्म",
+      "count": 2
+    },
+    {
+      "word": "व्हाटएवर",
+      "count": 2
+    },
+    {
+      "word": "कुड",
+      "count": 2
+    },
+    {
+      "word": "बी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फोकस ऑन",
+      "count": 5
+    },
+    {
+      "phrase": "व्हेन यू",
+      "count": 2
+    },
+    {
+      "phrase": "फील स्कैटर्ड",
+      "count": 2
+    },
+    {
+      "phrase": "योर आर्म",
+      "count": 2
+    },
+    {
+      "phrase": "कुड बी",
+      "count": 2
+    },
+    {
+      "phrase": "बी अ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑन दैट",
+      "count": 2
+    },
+    {
+      "phrase": "दैट पॉइंट",
+      "count": 2
+    },
+    {
+      "phrase": "टू फोकस",
+      "count": 2
+    },
+    {
+      "phrase": "योर विज़न",
+      "count": 2
+    }
+  ],
+  "segment_count": 21
+}

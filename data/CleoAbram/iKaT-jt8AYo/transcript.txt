@@ -1,0 +1,11 @@
+[00:00] There's a microchip in every NFL football. So, why are these people still measuring where the ball goes with two sticks and a chain? The answer says a
+[00:08] lot about robots versus refs across sports. Every NFL football now has a sensor about the size of a squished pee right here between the air bladder and
+[00:16] the leather skin that blinks 10 times a second, sending radio waves that track the speed and the 2D location of the ball. But refs don't usually use it.
+[00:24] It's mostly used for stats like you see on TV and just for decisions on punts and postgame penalties, but why? Well,
+[00:31] 10 times a second sounds like a lot, but the ball is going so fast it can travel over 8 ft between every blink. So, in a
+[00:39] game where a touchdown is decided by a fraction of an inch, an 8 ft blind spot is a massive liability. They could increase that rate, but then the sensors
+[00:47] would get heavier and the ball might feel off. To make things worse, a sensor is just a single point inside the ball.
+[00:53] So, there are times when the sensor doesn't cross the end zone, but the tip might, so it's still a touchdown. But they are using brand new tech this year to make calls more accurate. The
+[01:02] solution isn't inside the ball. It's all around the stadium. The NFL just installed new high-speed cameras that track the ball and 29 specific points on
+[01:11] every player's body at 60 frames per second. This will be the first Super Bowl with this new system. And don't worry, the chain gang is still there to
+[01:19] check. If you want to see more optimistic science and tech stories, subscribe.

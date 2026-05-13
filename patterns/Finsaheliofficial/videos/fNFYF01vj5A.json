@@ -1,0 +1,148 @@
+{
+  "video_id": "fNFYF01vj5A",
+  "duration_seconds": 80,
+  "wps": 3.33,
+  "total_words": 266,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 918
+  },
+  "hook": {
+    "type": "question",
+    "text": "कभी सोचा है बड़े-बड़े बिजनेसमैन अपने पास इतना पैसा होते हुए भी बिजनेस करने के लिए बैंक से लोन क्यों लेते हैं? यह जानकर आप"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "शेयर करना और ऐसे ही रिच माइंडसेट को सीखने के लिए मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "अपने",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "लोन",
+      "count": 4
+    },
+    {
+      "word": "करोड़",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "करोड़",
+      "count": 4
+    },
+    {
+      "word": "पास",
+      "count": 3
+    },
+    {
+      "word": "पैसा",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "बैंक",
+      "count": 3
+    },
+    {
+      "word": "लेते",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "रिच",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "बैंक से",
+      "count": 3
+    },
+    {
+      "phrase": "लेते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "₹1 करोड़",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "1 करोड़",
+      "count": 3
+    },
+    {
+      "phrase": "अपने पास",
+      "count": 2
+    },
+    {
+      "phrase": "होते हुए",
+      "count": 2
+    },
+    {
+      "phrase": "हुए भी",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "BuKaFety0As",
+  "duration_seconds": 117,
+  "wps": 2.97,
+  "total_words": 348,
+  "language_mix": {
+    "hindi": 95.4,
+    "english": 4.6,
+    "total_chars": 1338
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "Vodafone Idea की इस स्ट्रेटजी ने Jio और Airtel को शॉक कर दिया है। इंडिया में 124 करोड़ वायरलेस मोबाइल सब्सक्राइबर्स हैं।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पुराना कंपटीटर कमबैक कर रहा"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "से",
+      "count": 10
+    },
+    {
+      "word": "5g",
+      "count": 9
+    },
+    {
+      "word": "4g",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "पे",
+      "count": 5
+    },
+    {
+      "word": "करोड़",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "इनका",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "इनके",
+      "count": 4
+    },
+    {
+      "word": "मिलियन",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "से बढ़कर",
+      "count": 3
+    },
+    {
+      "phrase": "jio और",
+      "count": 2
+    },
+    {
+      "phrase": "और airtel",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 2
+    },
+    {
+      "phrase": "84 करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "2g 3g",
+      "count": 2
+    },
+    {
+      "phrase": "4g पे",
+      "count": 2
+    },
+    {
+      "phrase": "में से",
+      "count": 2
+    },
+    {
+      "phrase": "हुए हैं",
+      "count": 2
+    },
+    {
+      "phrase": "फ्रीक्वेंसी बैंड्स",
+      "count": 2
+    }
+  ],
+  "segment_count": 15
+}

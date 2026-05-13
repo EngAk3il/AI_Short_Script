@@ -1,0 +1,148 @@
+{
+  "video_id": "Qn0Cd7ahgNU",
+  "duration_seconds": 62,
+  "wps": 3.58,
+  "total_words": 222,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 867
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कैसे टाटा ग्रुप के सुपर कंप्यूटर ने दुनिया को शॉक किया ईयर 2000 तक यूएसए चाइना और जापान जैसी कंट्रीज ने वर्ल्ड क्लास सुपर कंप्यूटर्स बना लिए थे सुपर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंडिया की फर्स्ट फुली एनिमेटेड 3d फीचर"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "कंप्यूटर",
+      "count": 9
+    },
+    {
+      "word": "सुपर",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "ने",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "गया",
+      "count": 5
+    },
+    {
+      "word": "टाटा",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "ग्रुप",
+      "count": 3
+    },
+    {
+      "word": "दुनिया",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "तैयार",
+      "count": 3
+    },
+    {
+      "word": "एका",
+      "count": 3
+    },
+    {
+      "word": "शॉक",
+      "count": 2
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सुपर कंप्यूटर",
+      "count": 7
+    },
+    {
+      "phrase": "में एक",
+      "count": 4
+    },
+    {
+      "phrase": "टाटा ग्रुप",
+      "count": 3
+    },
+    {
+      "phrase": "कंप्यूटर से",
+      "count": 3
+    },
+    {
+      "phrase": "दुनिया को",
+      "count": 2
+    },
+    {
+      "phrase": "को शॉक",
+      "count": 2
+    },
+    {
+      "phrase": "वर्ल्ड क्लास",
+      "count": 2
+    },
+    {
+      "phrase": "क्लास सुपर",
+      "count": 2
+    },
+    {
+      "phrase": "एक नॉर्मल",
+      "count": 2
+    },
+    {
+      "phrase": "नॉर्मल कंप्यूटर",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "VldcmJZiSEw",
+  "duration_seconds": 82,
+  "wps": 2.79,
+  "total_words": 229,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 1025
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "[Music]"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "found this interesting, subscribe for more such amazing design stories."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 16
+    },
+    {
+      "word": "red",
+      "count": 7
+    },
+    {
+      "word": "green",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "signs",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 4
+    },
+    {
+      "word": "see",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "when",
+      "count": 3
+    },
+    {
+      "word": "exit",
+      "count": 3
+    },
+    {
+      "word": "safety",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "people",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "design",
+      "count": 3
+    },
+    {
+      "word": "if",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the signs",
+      "count": 2
+    },
+    {
+      "phrase": "glow green",
+      "count": 2
+    },
+    {
+      "phrase": "when it",
+      "count": 2
+    },
+    {
+      "phrase": "the red",
+      "count": 2
+    },
+    {
+      "phrase": "exit signs",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "music if",
+      "count": 1
+    },
+    {
+      "phrase": "if red",
+      "count": 1
+    },
+    {
+      "phrase": "red means",
+      "count": 1
+    },
+    {
+      "phrase": "means danger",
+      "count": 1
+    }
+  ],
+  "segment_count": 12
+}

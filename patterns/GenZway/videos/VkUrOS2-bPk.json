@@ -1,0 +1,148 @@
+{
+  "video_id": "VkUrOS2-bPk",
+  "duration_seconds": 28,
+  "wps": 4.82,
+  "total_words": 135,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 471
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अमन गुप्ता और उसकी बोट कंपनी लिटरली स्कैम करती हुई पकड़ी गई है। अभी इनकी कंपनी का आईपीओ आने वाला है और आईपीओ आने के जस्ट पहले अमन गुप्ता ने अपनी पोजीशन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कोई और ही नंबर चल रही है। जिसकी वजह से इनको अप्रूवल तो मिल गया था पर स्टिल इनका आईपीओ डिले किया जा रहा"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "कंपनी",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "आईपीओ",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "आने",
+      "count": 3
+    },
+    {
+      "word": "अपनी",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "अमन",
+      "count": 2
+    },
+    {
+      "word": "गुप्ता",
+      "count": 2
+    },
+    {
+      "word": "अभी",
+      "count": 2
+    },
+    {
+      "word": "पहले",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "पोजीशन",
+      "count": 2
+    },
+    {
+      "word": "स्टेप",
+      "count": 2
+    },
+    {
+      "word": "डाउन",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "लिया",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आईपीओ आने",
+      "count": 3
+    },
+    {
+      "phrase": "अमन गुप्ता",
+      "count": 2
+    },
+    {
+      "phrase": "अपनी पोजीशन",
+      "count": 2
+    },
+    {
+      "phrase": "पोजीशन से",
+      "count": 2
+    },
+    {
+      "phrase": "से स्टेप",
+      "count": 2
+    },
+    {
+      "phrase": "स्टेप डाउन",
+      "count": 2
+    },
+    {
+      "phrase": "डाउन कर",
+      "count": 2
+    },
+    {
+      "phrase": "कर लिया",
+      "count": 2
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनी के",
+      "count": 2
+    }
+  ],
+  "segment_count": 4
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "Jx1UJHlOPOg",
+  "duration_seconds": 66,
+  "wps": 3.09,
+  "total_words": 204,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 797
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडियन गवर्नमेंट यहां एक 1400 किमी की दीवार बना रही है लेकिन यह दीवार ईंट और पत्थर की नहीं बल्कि पेड़ों से बनी होगी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रोकेगी बल्कि एयर पोल्यूशन को कम करेगी और ग्राउंड वाटर को भी रिचार्ज करेगी"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "डेजर्ट",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "अरावली",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "किमी",
+      "count": 3
+    },
+    {
+      "word": "रही",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "डस्ट",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "1400",
+      "count": 2
+    },
+    {
+      "word": "दीवार",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "1400 किमी",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "थार डेजर्ट",
+      "count": 2
+    },
+    {
+      "phrase": "इस डेजर्ट",
+      "count": 2
+    },
+    {
+      "phrase": "डेजर्ट को",
+      "count": 2
+    },
+    {
+      "phrase": "अरावली हिल्स",
+      "count": 2
+    },
+    {
+      "phrase": "जाएंगे और",
+      "count": 2
+    },
+    {
+      "phrase": "किया जाएगा",
+      "count": 2
+    },
+    {
+      "phrase": "इंडियन गवर्नमेंट",
+      "count": 1
+    },
+    {
+      "phrase": "गवर्नमेंट यहां",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

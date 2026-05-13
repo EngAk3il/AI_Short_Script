@@ -1,0 +1,150 @@
+{
+  "video_id": "ktZbr0sYxyo",
+  "duration_seconds": 44,
+  "wps": 4.89,
+  "total_words": 215,
+  "language_mix": {
+    "hindi": 98.5,
+    "english": 1.5,
+    "total_chars": 736
+  },
+  "hook": {
+    "type": "question",
+    "text": "तुम्हें ये लोग ना एयरपोर्ट की पार्किंग के एकदम बाहर खड़े मिलेंगे जिनका पूरा एजेंडा है कि भैया अपने धंधे के अंदर स्कैम करना है। अभी एयरपोर्ट पे क्या होता है कि आपको अगर आपकी गाड़ी को पार्क करना"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बोलते हैं भैया हमको तो कोई राइड मिली नहीं हम तो कहीं और घूमने जा रहे हैं राइड ढूंढने के लिए और बाहर जाके बंदा उठाते हैं और उसको घर छोड़ के आ जाते"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "राइड",
+      "count": 5
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "पार्किंग",
+      "count": 4
+    },
+    {
+      "word": "भैया",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "एयरपोर्ट",
+      "count": 3
+    },
+    {
+      "word": "बाहर",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "अभी",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "करना",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "की पार्किंग",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "करना है",
+      "count": 2
+    },
+    {
+      "phrase": "है अभी",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "गाड़ी को",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "पार्किंग फीस",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत ज्यादा",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

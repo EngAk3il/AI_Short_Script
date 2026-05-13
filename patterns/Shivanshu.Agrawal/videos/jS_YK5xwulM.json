@@ -1,0 +1,148 @@
+{
+  "video_id": "jS_YK5xwulM",
+  "duration_seconds": 61,
+  "wps": 3.87,
+  "total_words": 236,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 853
+  },
+  "hook": {
+    "type": "question",
+    "text": "इंडिया के ट्रक और बस ड्राइवर्स के प्रोटेस्ट का आखिर कारण क्या है रिसेंटली गवर्नमेंट ने हिट एंड रन केसेस के लिए नया प्रोविजन लाया था जिसके अकॉर्डिंग अगर"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "लॉ के अगेंस्ट प्रोटेस्ट कर रहे हैं ऐसी इंफॉर्मेशन वीडियोस के लिए चैनल को सब्सक्राइब करें"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "हिट",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "रन",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "साल",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "केसेस",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "या",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "एक्सीडेंट",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "जेल",
+      "count": 3
+    },
+    {
+      "word": "फाइन",
+      "count": 3
+    },
+    {
+      "word": "सजा",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हिट एंड",
+      "count": 4
+    },
+    {
+      "phrase": "एंड रन",
+      "count": 4
+    },
+    {
+      "phrase": "रन केसेस",
+      "count": 3
+    },
+    {
+      "phrase": "साल की",
+      "count": 3
+    },
+    {
+      "phrase": "की जेल",
+      "count": 3
+    },
+    {
+      "phrase": "कहना है",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "10 साल",
+      "count": 2
+    },
+    {
+      "phrase": "7 लाख",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

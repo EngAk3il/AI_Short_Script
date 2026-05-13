@@ -1,0 +1,148 @@
+{
+  "video_id": "4gNT7IEw8P8",
+  "duration_seconds": 37,
+  "wps": 4.16,
+  "total_words": 154,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 534
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक सिंपल फोन कॉल से 2.8 करोड़ का स्कैम हो गया 1 अगस्त को लखनऊ की एक लड़की को कहीं से एक कॉल आती है कॉलर उन्हें बताता है कि उनका नंबर 7 करोड़ के एक मनी लरिंग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जाता कि ये एक स्पैम कॉल है और इसीलिए ऐसे ही केसेस को देखते हुए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "लड़की",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "कॉल",
+      "count": 3
+    },
+    {
+      "word": "करोड़",
+      "count": 3
+    },
+    {
+      "word": "स्कैम",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "उसे",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "फोन",
+      "count": 2
+    },
+    {
+      "word": "2.8",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "उस",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लड़की को",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "2.8 करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ का",
+      "count": 2
+    },
+    {
+      "phrase": "का स्कैम",
+      "count": 2
+    },
+    {
+      "phrase": "स्कैम हो",
+      "count": 2
+    },
+    {
+      "phrase": "है वो",
+      "count": 2
+    },
+    {
+      "phrase": "उस लड़की",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "एक सिंपल",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "9BM77PqRtz8",
+  "duration_seconds": 118,
+  "wps": 3.31,
+  "total_words": 390,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1530
+  },
+  "hook": {
+    "type": "question",
+    "text": "आखिर क्यों अमेरिका ईरान से नफरत करता है?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "की सरकार गिराने के लिए उस पर हमला कर"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "ईरान",
+      "count": 19
+    },
+    {
+      "word": "को",
+      "count": 18
+    },
+    {
+      "word": "और",
+      "count": 17
+    },
+    {
+      "word": "के",
+      "count": 12
+    },
+    {
+      "word": "ने",
+      "count": 12
+    },
+    {
+      "word": "कर",
+      "count": 10
+    },
+    {
+      "word": "दिया",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "अमेरिका",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "ऑयल",
+      "count": 5
+    },
+    {
+      "word": "लेकिन",
+      "count": 5
+    },
+    {
+      "word": "किया",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "डील",
+      "count": 5
+    },
+    {
+      "word": "फिर",
+      "count": 4
+    },
+    {
+      "word": "न्यूक्लियर",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर दिया",
+      "count": 9
+    },
+    {
+      "phrase": "ईरान के",
+      "count": 6
+    },
+    {
+      "phrase": "ने ईरान",
+      "count": 6
+    },
+    {
+      "phrase": "दिया और",
+      "count": 5
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "ईरान को",
+      "count": 3
+    },
+    {
+      "phrase": "लेकिन फिर",
+      "count": 3
+    },
+    {
+      "phrase": "ऑयल का",
+      "count": 3
+    },
+    {
+      "phrase": "अमेरिका ने",
+      "count": 3
+    },
+    {
+      "phrase": "ईरान की",
+      "count": 3
+    }
+  ],
+  "segment_count": 16
+}

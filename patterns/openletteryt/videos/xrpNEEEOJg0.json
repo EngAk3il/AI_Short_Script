@@ -1,0 +1,149 @@
+{
+  "video_id": "xrpNEEEOJg0",
+  "duration_seconds": 64,
+  "wps": 3.72,
+  "total_words": 238,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 821
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पुलिस साहब भाई साहब देखो मारो मतारो। इस आदमी को पिटते हुए देख के आपको बड़ी दया आ रही होगी। मैं एक चीज और बताता हूं कि भैया ऑटो वाले हैं। और थोड़ी सी दया आई"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बिना जाने उस पे रिएक्ट मत करना और उसके बारे में अपना कोई ओपिनियन मत बनाना।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "आपको",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "ऑटो",
+      "count": 6
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "वीडियो",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "वाले",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "देख",
+      "count": 3
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "उस",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ऑटो वाले",
+      "count": 4
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "देख के",
+      "count": 2
+    },
+    {
+      "phrase": "बताता हूं",
+      "count": 2
+    },
+    {
+      "phrase": "में यह",
+      "count": 2
+    },
+    {
+      "phrase": "लड़कियों की",
+      "count": 2
+    },
+    {
+      "phrase": "की वीडियो",
+      "count": 2
+    },
+    {
+      "phrase": "मैंने आपको",
+      "count": 2
+    },
+    {
+      "phrase": "जब मैंने",
+      "count": 2
+    },
+    {
+      "phrase": "और उसके",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "wB6nfkqat-0",
+  "duration_seconds": 66,
+  "wps": 4.24,
+  "total_words": 280,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 989
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "90% बिजनेस पहले 3 साल के अंदर बंद हो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जाएगा। एक बार जाके चेक आउट जरूर करना।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "हो",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "अंदर",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "बिजनेस",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "पता",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "कितनी",
+      "count": 3
+    },
+    {
+      "word": "सेल",
+      "count": 3
+    },
+    {
+      "word": "करोगे",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 6
+    },
+    {
+      "phrase": "कितनी सेल",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "बिजनेस को",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 3
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 2
+    },
+    {
+      "phrase": "पता ही",
+      "count": 2
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "सेल करोगे",
+      "count": 2
+    }
+  ],
+  "segment_count": 33
+}

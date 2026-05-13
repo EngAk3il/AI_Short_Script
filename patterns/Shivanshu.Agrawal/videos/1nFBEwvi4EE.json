@@ -1,0 +1,148 @@
+{
+  "video_id": "1nFBEwvi4EE",
+  "duration_seconds": 57,
+  "wps": 3.28,
+  "total_words": 187,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 779
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया का छोटा भीम अमेरिका में कुछ ऐसा दिखता है। 2016 तक छोटा भीम इंडिया में तो काफी पॉपुलर हो गया था लेकिन अमेरिका जैसी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नहीं। ताकि यह शो बाकी वेस्टर्न शोज़ से डिफरेंट लगे। लेकिन शो की बाकी थीम्स यूनिवर्सल थी। जैसे टॉडलर की शैतानियां और"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "लेकिन",
+      "count": 5
+    },
+    {
+      "word": "डायलॉग्स",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "भीम",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "साल",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "शोज़",
+      "count": 3
+    },
+    {
+      "word": "शो",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "छोटा",
+      "count": 2
+    },
+    {
+      "word": "अमेरिका",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "साल के",
+      "count": 4
+    },
+    {
+      "phrase": "छोटा भीम",
+      "count": 2
+    },
+    {
+      "phrase": "हो गया",
+      "count": 2
+    },
+    {
+      "phrase": "मेकर्स ने",
+      "count": 2
+    },
+    {
+      "phrase": "के बच्चे",
+      "count": 2
+    },
+    {
+      "phrase": "वाले शोज़",
+      "count": 2
+    },
+    {
+      "phrase": "यह शो",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया का",
+      "count": 1
+    },
+    {
+      "phrase": "का छोटा",
+      "count": 1
+    },
+    {
+      "phrase": "भीम अमेरिका",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

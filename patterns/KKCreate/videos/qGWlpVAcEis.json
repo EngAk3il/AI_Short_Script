@@ -1,0 +1,148 @@
+{
+  "video_id": "qGWlpVAcEis",
+  "duration_seconds": 57,
+  "wps": 2.47,
+  "total_words": 141,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 550
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "उड़ीसा का यह डांस पूरे जापान को पसंद है।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "संघर्ष करना पड़ता कुछ चंद पैसों के"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "डांस",
+      "count": 3
+    },
+    {
+      "word": "कला",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "जापान",
+      "count": 2
+    },
+    {
+      "word": "पसंद",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "उड़ीसी",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "फिर",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "कलाकारों",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "आर्टिस्ट",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इस कला",
+      "count": 3
+    },
+    {
+      "phrase": "पर फिर",
+      "count": 2
+    },
+    {
+      "phrase": "फिर भी",
+      "count": 2
+    },
+    {
+      "phrase": "पैसों के",
+      "count": 2
+    },
+    {
+      "phrase": "उड़ीसा का",
+      "count": 1
+    },
+    {
+      "phrase": "का यह",
+      "count": 1
+    },
+    {
+      "phrase": "यह डांस",
+      "count": 1
+    },
+    {
+      "phrase": "डांस पूरे",
+      "count": 1
+    },
+    {
+      "phrase": "पूरे जापान",
+      "count": 1
+    },
+    {
+      "phrase": "जापान को",
+      "count": 1
+    }
+  ],
+  "segment_count": 18
+}

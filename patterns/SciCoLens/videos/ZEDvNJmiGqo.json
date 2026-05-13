@@ -1,0 +1,148 @@
+{
+  "video_id": "ZEDvNJmiGqo",
+  "duration_seconds": 92,
+  "wps": 3.51,
+  "total_words": 323,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1303
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ग्रेविटी का यह एक्सपेरिमेंट गलत है। ग्रेविटी असल में ऐसे काम ही नहीं करती। यह हाफ स्टोरी है जो कई लोगों को कंफ्यूज ज्यादा कर रहा है। इस एक्सपेरिमेंट में यह"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्क्वायर से चारों बाजू"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 18
+    },
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "की",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "अर्थ",
+      "count": 9
+    },
+    {
+      "word": "स्पेस",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "रहा",
+      "count": 7
+    },
+    {
+      "word": "टाइम",
+      "count": 7
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "ग्रेविटी",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "एक्सपेरिमेंट",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "सेंटर",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "स्पेस टाइम",
+      "count": 6
+    },
+    {
+      "phrase": "अर्थ के",
+      "count": 6
+    },
+    {
+      "phrase": "रहा है",
+      "count": 5
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 4
+    },
+    {
+      "phrase": "की वजह",
+      "count": 4
+    },
+    {
+      "phrase": "वजह से",
+      "count": 4
+    },
+    {
+      "phrase": "सेंटर की",
+      "count": 3
+    },
+    {
+      "phrase": "की ओर",
+      "count": 3
+    },
+    {
+      "phrase": "चारों बाजू",
+      "count": 3
+    },
+    {
+      "phrase": "ग्रेविटी का",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

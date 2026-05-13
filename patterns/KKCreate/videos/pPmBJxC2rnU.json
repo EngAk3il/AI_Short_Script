@@ -1,0 +1,148 @@
+{
+  "video_id": "pPmBJxC2rnU",
+  "duration_seconds": 58,
+  "wps": 1.41,
+  "total_words": 82,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 257
+  },
+  "hook": {
+    "type": "question",
+    "text": "कैसा लग रहा है फ्रेम? अभी हम चाय पी रहे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हा"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "घर",
+      "count": 3
+    },
+    {
+      "word": "लग",
+      "count": 2
+    },
+    {
+      "word": "रहा",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 2
+    },
+    {
+      "word": "चाय",
+      "count": 2
+    },
+    {
+      "word": "थैंक",
+      "count": 2
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "काम",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "ओके",
+      "count": 2
+    },
+    {
+      "word": "कैसा",
+      "count": 1
+    },
+    {
+      "word": "फ्रेम",
+      "count": 1
+    },
+    {
+      "word": "अभी",
+      "count": 1
+    },
+    {
+      "word": "पी",
+      "count": 1
+    },
+    {
+      "word": "रहे",
+      "count": 1
+    },
+    {
+      "word": "हैं",
+      "count": 1
+    },
+    {
+      "word": "एक",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "घर है",
+      "count": 3
+    },
+    {
+      "phrase": "लग रहा",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "हम चाय",
+      "count": 2
+    },
+    {
+      "phrase": "थैंक यू",
+      "count": 2
+    },
+    {
+      "phrase": "है ये",
+      "count": 2
+    },
+    {
+      "phrase": "कैसा लग",
+      "count": 1
+    },
+    {
+      "phrase": "है फ्रेम",
+      "count": 1
+    },
+    {
+      "phrase": "फ्रेम अभी",
+      "count": 1
+    },
+    {
+      "phrase": "अभी हम",
+      "count": 1
+    }
+  ],
+  "segment_count": 17
+}

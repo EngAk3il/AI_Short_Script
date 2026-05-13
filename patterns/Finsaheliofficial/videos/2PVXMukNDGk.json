@@ -1,0 +1,148 @@
+{
+  "video_id": "2PVXMukNDGk",
+  "duration_seconds": 60,
+  "wps": 3.63,
+  "total_words": 218,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 843
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "सिर्फ पिंक कलर की वजह से वुमेन ज्यादा पे कर रही है और उन्हें पता भी नहीं है। देखो जहां यह मेन रेजर सिर्फ ₹20 का आता है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "में जरूर बताना और इस रील को अपनी फीमेल फ्रेंड्स के साथ तो जरूर शेयर करना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "यह",
+      "count": 6
+    },
+    {
+      "word": "पे",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "ज्यादा",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "सिर्फ",
+      "count": 3
+    },
+    {
+      "word": "पिंक",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "वुमेन",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "टैक्स",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "शॉट्स",
+      "count": 3
+    },
+    {
+      "word": "भले",
+      "count": 3
+    },
+    {
+      "word": "प्रोडक्ट्स",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के शॉट्स",
+      "count": 3
+    },
+    {
+      "phrase": "भले ही",
+      "count": 3
+    },
+    {
+      "phrase": "प्रोडक्ट्स पे",
+      "count": 3
+    },
+    {
+      "phrase": "ज्यादा पे",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "पिंक टैक्स",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

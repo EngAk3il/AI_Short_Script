@@ -1,0 +1,148 @@
+{
+  "video_id": "ipiD8xnco9E",
+  "duration_seconds": 43,
+  "wps": 3.95,
+  "total_words": 170,
+  "language_mix": {
+    "hindi": 96.8,
+    "english": 3.2,
+    "total_chars": 662
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ईलॉन मस्क की Tesla इंडिया के अंदर आए 4 महीने हो चुके हैं और बहुत ही गंदी तरह फेल हो चुके हैं। मैं तुम लोगों को नंबर्स दिखाता हूं। फिर तुम्हें समझ आएगा। अभी मैं तुम्हें रैंडम नंबर्स दिखाऊं। तुम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अक्टूबर के अंदर। सर।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "अंदर",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "दोनों",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "tesla",
+      "count": 3
+    },
+    {
+      "word": "सेम",
+      "count": 3
+    },
+    {
+      "word": "इन्होंने",
+      "count": 3
+    },
+    {
+      "word": "गाड़ियां",
+      "count": 3
+    },
+    {
+      "word": "बेचीं",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "महीने",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "चुके",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "मैं",
+      "count": 2
+    },
+    {
+      "word": "तुम",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 4
+    },
+    {
+      "phrase": "गाड़ियां बेचीं",
+      "count": 3
+    },
+    {
+      "phrase": "tesla इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "हो चुके",
+      "count": 2
+    },
+    {
+      "phrase": "चुके हैं",
+      "count": 2
+    },
+    {
+      "phrase": "कंपैरिजन के",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "15 जुलाई",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

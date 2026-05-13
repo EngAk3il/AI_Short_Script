@@ -1,0 +1,148 @@
+{
+  "video_id": "csGdMyWPw1k",
+  "duration_seconds": 56,
+  "wps": 2.93,
+  "total_words": 164,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 766
+  },
+  "hook": {
+    "type": "question",
+    "text": "I have a question. How did bullet train go from sounding like explosions to whisper quiet? Each design breakthrough made them faster and quicker. But the final one is going to blow your mind."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "It turns out nature is the best designer. Subscribe for more."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "train",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "bullet",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "faster",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "final",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "was",
+      "count": 2
+    },
+    {
+      "word": "loud",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "engineers",
+      "count": 2
+    },
+    {
+      "word": "nose",
+      "count": 2
+    },
+    {
+      "word": "smooth",
+      "count": 2
+    },
+    {
+      "word": "water",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "bullet train",
+      "count": 2
+    },
+    {
+      "phrase": "the final",
+      "count": 2
+    },
+    {
+      "phrase": "so engineers",
+      "count": 2
+    },
+    {
+      "phrase": "and the",
+      "count": 2
+    },
+    {
+      "phrase": "i have",
+      "count": 1
+    },
+    {
+      "phrase": "have a",
+      "count": 1
+    },
+    {
+      "phrase": "a question",
+      "count": 1
+    },
+    {
+      "phrase": "question how",
+      "count": 1
+    },
+    {
+      "phrase": "how did",
+      "count": 1
+    },
+    {
+      "phrase": "did bullet",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

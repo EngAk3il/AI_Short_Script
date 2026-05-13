@@ -1,0 +1,148 @@
+{
+  "video_id": "3XEQoqR8RcU",
+  "duration_seconds": 70,
+  "wps": 3.2,
+  "total_words": 224,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 882
+  },
+  "hook": {
+    "type": "imagination",
+    "text": "Imagine that you're driving a car in the"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "to give me my answers."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 21
+    },
+    {
+      "word": "we",
+      "count": 10
+    },
+    {
+      "word": "to",
+      "count": 8
+    },
+    {
+      "word": "car",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "of",
+      "count": 5
+    },
+    {
+      "word": "at",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "what",
+      "count": 4
+    },
+    {
+      "word": "do",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "your",
+      "count": 3
+    },
+    {
+      "word": "so",
+      "count": 3
+    },
+    {
+      "word": "look",
+      "count": 3
+    },
+    {
+      "word": "battery",
+      "count": 3
+    },
+    {
+      "word": "when",
+      "count": 3
+    },
+    {
+      "word": "imagine",
+      "count": 2
+    },
+    {
+      "word": "you're",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 3
+    },
+    {
+      "phrase": "the car",
+      "count": 3
+    },
+    {
+      "phrase": "look at",
+      "count": 3
+    },
+    {
+      "phrase": "the battery",
+      "count": 3
+    },
+    {
+      "phrase": "is the",
+      "count": 3
+    },
+    {
+      "phrase": "your car",
+      "count": 2
+    },
+    {
+      "phrase": "do you",
+      "count": 2
+    },
+    {
+      "phrase": "you get",
+      "count": 2
+    },
+    {
+      "phrase": "the tires",
+      "count": 2
+    },
+    {
+      "phrase": "going to",
+      "count": 2
+    }
+  ],
+  "segment_count": 30
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "OhyeSqTDzI8",
+  "duration_seconds": 48,
+  "wps": 3.69,
+  "total_words": 177,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 638
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भारत में हायर एजुकेशन की हालत कचरे जैसी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हैं"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "रही",
+      "count": 3
+    },
+    {
+      "word": "वाले",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "लग",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "वालों",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "रहा",
+      "count": 2
+    },
+    {
+      "word": "साल",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "सॉफ्टवेयर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे हैं",
+      "count": 4
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "वालों को",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "हैं कि",
+      "count": 2
+    },
+    {
+      "phrase": "100% प्लेसमेंट",
+      "count": 2
+    },
+    {
+      "phrase": "भारत में",
+      "count": 1
+    },
+    {
+      "phrase": "में हायर",
+      "count": 1
+    },
+    {
+      "phrase": "हायर एजुकेशन",
+      "count": 1
+    },
+    {
+      "phrase": "एजुकेशन की",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

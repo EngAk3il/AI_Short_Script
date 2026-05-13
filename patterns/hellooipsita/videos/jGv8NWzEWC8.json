@@ -1,0 +1,149 @@
+{
+  "video_id": "jGv8NWzEWC8",
+  "duration_seconds": 73,
+  "wps": 2.88,
+  "total_words": 210,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 786
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "in any human interaction it could be one"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 15
+    },
+    {
+      "word": "to",
+      "count": 9
+    },
+    {
+      "word": "what",
+      "count": 9
+    },
+    {
+      "word": "about",
+      "count": 9
+    },
+    {
+      "word": "we",
+      "count": 7
+    },
+    {
+      "word": "don't",
+      "count": 7
+    },
+    {
+      "word": "that",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "know",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "based",
+      "count": 4
+    },
+    {
+      "word": "on",
+      "count": 4
+    },
+    {
+      "word": "one",
+      "count": 3
+    },
+    {
+      "word": "are",
+      "count": 3
+    },
+    {
+      "word": "treat",
+      "count": 3
+    },
+    {
+      "word": "if",
+      "count": 3
+    },
+    {
+      "word": "think",
+      "count": 3
+    },
+    {
+      "word": "person",
+      "count": 3
+    },
+    {
+      "word": "feel",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "about you",
+      "count": 5
+    },
+    {
+      "phrase": "we don't",
+      "count": 5
+    },
+    {
+      "phrase": "don't know",
+      "count": 5
+    },
+    {
+      "phrase": "what i",
+      "count": 4
+    },
+    {
+      "phrase": "based on",
+      "count": 4
+    },
+    {
+      "phrase": "you based",
+      "count": 3
+    },
+    {
+      "phrase": "know what",
+      "count": 3
+    },
+    {
+      "phrase": "feel about",
+      "count": 3
+    },
+    {
+      "phrase": "it could",
+      "count": 2
+    },
+    {
+      "phrase": "could be",
+      "count": 2
+    }
+  ],
+  "segment_count": 27
+}

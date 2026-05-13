@@ -1,0 +1,148 @@
+{
+  "video_id": "iloMDAOlZxI",
+  "duration_seconds": 54,
+  "wps": 3.7,
+  "total_words": 200,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 807
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मार्बल की बिजनेस स्ट्रीट्स नेक्स्ट लेवल मार्वल ने अपने कैरेक्टर्स को उसे करके एक सिनेमैटिक यूनिवर्स बनाया जिसमें हर सुपर हीरो की अपनी एक स्टोरी है लेकिन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इन्हीं स्ट्रैटेजिस से उनकी हर मूवी के हिट होने के चांसेस बहुत बढ़ जाते हैं"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "हर",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "मार्वल",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "सुपर",
+      "count": 4
+    },
+    {
+      "word": "स्टोरी",
+      "count": 4
+    },
+    {
+      "word": "जाती",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "मूवी",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    },
+    {
+      "word": "नेक्स्ट",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "हीरो",
+      "count": 2
+    },
+    {
+      "word": "लेकिन",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जाती है",
+      "count": 4
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "सुपर हीरो",
+      "count": 2
+    },
+    {
+      "phrase": "हो जाती",
+      "count": 2
+    },
+    {
+      "phrase": "अच्छे से",
+      "count": 2
+    },
+    {
+      "phrase": "ऑर्डिनरी इंसान",
+      "count": 2
+    },
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "हर मूवी",
+      "count": 2
+    },
+    {
+      "phrase": "मूवी के",
+      "count": 2
+    },
+    {
+      "phrase": "मार्बल की",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

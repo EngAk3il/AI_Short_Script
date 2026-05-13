@@ -1,0 +1,148 @@
+{
+  "video_id": "uriHVnZ3nVU",
+  "duration_seconds": 53,
+  "wps": 3.28,
+  "total_words": 174,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 637
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आई गॉट सो मेनी रिप्ला ऑन द स्टोरी ऑफ अ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फॉर द अनप्लेज्ड ऑफ टाइम"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 7
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "सो",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "आर",
+      "count": 4
+    },
+    {
+      "word": "वाटर",
+      "count": 4
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "ऑन",
+      "count": 3
+    },
+    {
+      "word": "वन",
+      "count": 3
+    },
+    {
+      "word": "अबाउट",
+      "count": 3
+    },
+    {
+      "word": "पिंक",
+      "count": 3
+    },
+    {
+      "word": "एलीफेंट",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "देयर",
+      "count": 3
+    },
+    {
+      "word": "फोकस",
+      "count": 3
+    },
+    {
+      "word": "समथिंग",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "फ्रेश",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "दिस",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अबाउट अ",
+      "count": 3
+    },
+    {
+      "phrase": "अ पिंक",
+      "count": 3
+    },
+    {
+      "phrase": "पिंक एलीफेंट",
+      "count": 3
+    },
+    {
+      "phrase": "यू आर",
+      "count": 3
+    },
+    {
+      "phrase": "डोंट थिंक",
+      "count": 2
+    },
+    {
+      "phrase": "थिंक अबाउट",
+      "count": 2
+    },
+    {
+      "phrase": "फोकस योर",
+      "count": 2
+    },
+    {
+      "phrase": "बिल्डिंग समथिंग",
+      "count": 2
+    },
+    {
+      "phrase": "देयर इज",
+      "count": 2
+    },
+    {
+      "phrase": "द टैप",
+      "count": 2
+    }
+  ],
+  "segment_count": 21
+}

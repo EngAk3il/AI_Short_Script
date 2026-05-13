@@ -1,0 +1,149 @@
+{
+  "video_id": "GeRQFDTLhtI",
+  "duration_seconds": 62,
+  "wps": 3.71,
+  "total_words": 230,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 843
+  },
+  "hook": {
+    "type": "question",
+    "text": "भाई जो लोग यह कहते हैं ना कि पैसों के पीछे मत भागो। पैसा क्या ही है एक दिन तुम मर जाओगे सारा पैसा यहीं रह जाएगा। तो भाई यह सब किताबी बातें हैं। अगर तुम्हारे पास"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कमा के? तुम्हारे पास पैसा है तो दुनिया तुम्हारी मुट्ठी में"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "पैसा",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "तुम्हारे",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "पास",
+      "count": 6
+    },
+    {
+      "word": "ना",
+      "count": 5
+    },
+    {
+      "word": "तुम्हारी",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "तुम",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "मत",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "तुम्हें",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "लेकिन",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "तुम्हारे पास",
+      "count": 6
+    },
+    {
+      "phrase": "पास पैसा",
+      "count": 4
+    },
+    {
+      "phrase": "है तो",
+      "count": 4
+    },
+    {
+      "phrase": "जरूरी है",
+      "count": 3
+    },
+    {
+      "phrase": "जो लोग",
+      "count": 2
+    },
+    {
+      "phrase": "हैं ना",
+      "count": 2
+    },
+    {
+      "phrase": "यहीं रह",
+      "count": 2
+    },
+    {
+      "phrase": "अगर तुम्हारे",
+      "count": 2
+    },
+    {
+      "phrase": "ना तो",
+      "count": 2
+    },
+    {
+      "phrase": "कोई तुम्हारी",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

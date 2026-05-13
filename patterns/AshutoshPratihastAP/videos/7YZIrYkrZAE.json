@@ -1,0 +1,148 @@
+{
+  "video_id": "7YZIrYkrZAE",
+  "duration_seconds": 53,
+  "wps": 3.43,
+  "total_words": 182,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 638
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "की राधा कौन थी हमारे यहां वृत्त में राधा रानी स्पष्ट ना के किशोरी जी कहते हैं श्याम जी कहते हैं भगवान ने जब मोहिनी रूप"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करके मैं आपकी पुत्री बन के आऊंगा वही नारायण की शक्ति और राधा रानी बंटी है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "मोहित",
+      "count": 5
+    },
+    {
+      "word": "गए",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "सूर्य",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "राधा",
+      "count": 3
+    },
+    {
+      "word": "मोहिनी",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "देखकर",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "सुंदर",
+      "count": 3
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "आपके",
+      "count": 3
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "रानी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मोहित हो",
+      "count": 4
+    },
+    {
+      "phrase": "हो गए",
+      "count": 3
+    },
+    {
+      "phrase": "राधा रानी",
+      "count": 2
+    },
+    {
+      "phrase": "जी कहते",
+      "count": 2
+    },
+    {
+      "phrase": "कहते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "रूप धरण",
+      "count": 2
+    },
+    {
+      "phrase": "और वो",
+      "count": 2
+    },
+    {
+      "phrase": "मोहिनी को",
+      "count": 2
+    },
+    {
+      "phrase": "को देखकर",
+      "count": 2
+    },
+    {
+      "phrase": "इतनी सुंदर",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

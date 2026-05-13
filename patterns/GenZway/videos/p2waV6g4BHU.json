@@ -1,0 +1,149 @@
+{
+  "video_id": "p2waV6g4BHU",
+  "duration_seconds": 36,
+  "wps": 5.11,
+  "total_words": 184,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 659
+  },
+  "hook": {
+    "type": "question",
+    "text": "अमन गुप्ता ने बोट कंपनी को खुद तो छोड़ दिया पर उनके शेयर ला के तुम लोगों को आईपीओ में चेप रहा है। अभी ना पूरा पूरा सिस्टम समझो चल क्या रहा है। 2021 और 22"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रहते हैं और कंपनी को तुम लोगों को बेच के आईपीओ निकाल देते हैं। एक ही कैटेगरी में फंसे ग्रो नहीं कर पा रहे तो क्या हो गया तुम लोगों को शेयर बेच दो अपनी लायबिलिटी कम कर"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "कंपनी",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "अंदर",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "तुम",
+      "count": 3
+    },
+    {
+      "word": "लोगों",
+      "count": 3
+    },
+    {
+      "word": "क्या",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "फिर",
+      "count": 3
+    },
+    {
+      "word": "इन्होंने",
+      "count": 3
+    },
+    {
+      "word": "देते",
+      "count": 3
+    },
+    {
+      "word": "अमन",
+      "count": 2
+    },
+    {
+      "word": "गुप्ता",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    },
+    {
+      "word": "शेयर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "तुम लोगों",
+      "count": 3
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 3
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 3
+    },
+    {
+      "phrase": "देते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "अमन गुप्ता",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनी को",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "भैया हम",
+      "count": 2
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "LMwm4-lwJME",
+  "duration_seconds": 54,
+  "wps": 3.48,
+  "total_words": 188,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 853
+  },
+  "hook": {
+    "type": "question",
+    "text": "you will never hit rock bottom again after this if you tend to overthink about your future a lot use your ability to look out into the future to your"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "and the urgency of the situation and helps you calm down and take better decisions think about it"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 12
+    },
+    {
+      "word": "the",
+      "count": 9
+    },
+    {
+      "word": "this",
+      "count": 8
+    },
+    {
+      "word": "about",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "your",
+      "count": 5
+    },
+    {
+      "word": "you're",
+      "count": 5
+    },
+    {
+      "word": "future",
+      "count": 4
+    },
+    {
+      "word": "interview",
+      "count": 4
+    },
+    {
+      "word": "out",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "yourself",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "strategy",
+      "count": 3
+    },
+    {
+      "word": "situation",
+      "count": 3
+    },
+    {
+      "word": "will",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "lot",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the situation",
+      "count": 3
+    },
+    {
+      "phrase": "your future",
+      "count": 2
+    },
+    {
+      "phrase": "future a",
+      "count": 2
+    },
+    {
+      "phrase": "a lot",
+      "count": 2
+    },
+    {
+      "phrase": "the future",
+      "count": 2
+    },
+    {
+      "phrase": "a job",
+      "count": 2
+    },
+    {
+      "phrase": "think about",
+      "count": 2
+    },
+    {
+      "phrase": "you gave",
+      "count": 2
+    },
+    {
+      "phrase": "and you",
+      "count": 2
+    },
+    {
+      "phrase": "this strategy",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

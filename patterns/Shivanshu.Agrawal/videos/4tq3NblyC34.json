@@ -1,0 +1,148 @@
+{
+  "video_id": "4tq3NblyC34",
+  "duration_seconds": 29,
+  "wps": 3.83,
+  "total_words": 111,
+  "language_mix": {
+    "hindi": 95.2,
+    "english": 4.8,
+    "total_chars": 420
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "महाराणा प्रताप के बारे में दो कमल की बातें नंबर वैन महाराणा प्रताप की कोई भी पिक्चर को देखोगे तो उसमें आपको उनके पास हमेशा दो तलवारे दिखेंगे और ऐसा कहा जाता"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "को बेबी एलिफेंट समझ लेते द और उसे पे instantivali अटैक नहीं करते द जिससे महाराणा को एडवांटेज मिल जाता था"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "महाराणा",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "प्रताप",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "दो",
+      "count": 2
+    },
+    {
+      "word": "नंबर",
+      "count": 2
+    },
+    {
+      "word": "कोई",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "उनके",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "उसे",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "देते",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "महाराणा प्रताप",
+      "count": 3
+    },
+    {
+      "phrase": "जाता था",
+      "count": 2
+    },
+    {
+      "phrase": "देते द",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं करते",
+      "count": 2
+    },
+    {
+      "phrase": "करते द",
+      "count": 2
+    },
+    {
+      "phrase": "प्रताप के",
+      "count": 1
+    },
+    {
+      "phrase": "के बारे",
+      "count": 1
+    },
+    {
+      "phrase": "बारे में",
+      "count": 1
+    },
+    {
+      "phrase": "में दो",
+      "count": 1
+    },
+    {
+      "phrase": "दो कमल",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

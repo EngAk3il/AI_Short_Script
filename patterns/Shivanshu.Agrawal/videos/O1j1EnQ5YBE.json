@@ -1,0 +1,148 @@
+{
+  "video_id": "O1j1EnQ5YBE",
+  "duration_seconds": 55,
+  "wps": 3.2,
+  "total_words": 176,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 693
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दुनिया का सबसे पॉपुलर टॉय रूबिक्स क्यूब गलती से इन्वेंट हुआ था बात है 1974 की जब अर्नो रूबिक्स नाम के आर्किटेक्चर प्रोफेसर अपने स्टूडेंट्स को 3d"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हो गया और जनवरी 2024 तक इसके 50 करोड़ यूनिट्स बिक चुके हैं"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "क्यूब",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "गया",
+      "count": 4
+    },
+    {
+      "word": "करोड़",
+      "count": 4
+    },
+    {
+      "word": "रूबिक्स",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "नाम",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "इसे",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "दुनिया",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "पॉपुलर",
+      "count": 2
+    },
+    {
+      "word": "गलती",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "दुनिया का",
+      "count": 2
+    },
+    {
+      "phrase": "रूबिक्स क्यूब",
+      "count": 2
+    },
+    {
+      "phrase": "गलती से",
+      "count": 2
+    },
+    {
+      "phrase": "स्टूडेंट्स को",
+      "count": 2
+    },
+    {
+      "phrase": "चाहते थे",
+      "count": 2
+    },
+    {
+      "phrase": "क्यूब के",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "में इसे",
+      "count": 2
+    },
+    {
+      "phrase": "बेचा गया",
+      "count": 2
+    },
+    {
+      "phrase": "गया और",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

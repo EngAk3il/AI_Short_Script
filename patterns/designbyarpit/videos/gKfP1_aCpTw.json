@@ -1,0 +1,148 @@
+{
+  "video_id": "gKfP1_aCpTw",
+  "duration_seconds": 51,
+  "wps": 3.24,
+  "total_words": 165,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 757
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Normal mints are 10 to 20 rupees but this one cost 150 rupees. The secret is in the packaging. This is impact mints."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "and the product sold itself. Amazing stuff. Subscribe for more."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "to",
+      "count": 6
+    },
+    {
+      "word": "mints",
+      "count": 5
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "packaging",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "so",
+      "count": 3
+    },
+    {
+      "word": "they",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "metal",
+      "count": 3
+    },
+    {
+      "word": "rupees",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "impact",
+      "count": 2
+    },
+    {
+      "word": "cheap",
+      "count": 2
+    },
+    {
+      "word": "something",
+      "count": 2
+    },
+    {
+      "word": "premium",
+      "count": 2
+    },
+    {
+      "word": "boxes",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "but this",
+      "count": 2
+    },
+    {
+      "phrase": "the packaging",
+      "count": 2
+    },
+    {
+      "phrase": "impact mints",
+      "count": 2
+    },
+    {
+      "phrase": "so they",
+      "count": 2
+    },
+    {
+      "phrase": "that you",
+      "count": 2
+    },
+    {
+      "phrase": "metal box",
+      "count": 2
+    },
+    {
+      "phrase": "normal mints",
+      "count": 1
+    },
+    {
+      "phrase": "mints are",
+      "count": 1
+    },
+    {
+      "phrase": "are 10",
+      "count": 1
+    },
+    {
+      "phrase": "10 to",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

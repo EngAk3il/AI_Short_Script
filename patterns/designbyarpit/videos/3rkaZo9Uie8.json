@@ -1,0 +1,148 @@
+{
+  "video_id": "3rkaZo9Uie8",
+  "duration_seconds": 40,
+  "wps": 3.52,
+  "total_words": 141,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 616
+  },
+  "hook": {
+    "type": "question",
+    "text": "Why are people spending $400 on a perfume? Because of the cap. This brand did not make a product. They engineered an obsession. Most luxury perfumes use boring glass bottles to look premium."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "story, her own secrets. Now you need both. They turned a product into a story you physically collect. And once you're in, you just can't stop."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "they",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "not",
+      "count": 3
+    },
+    {
+      "word": "has",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "you're",
+      "count": 3
+    },
+    {
+      "word": "her",
+      "count": 3
+    },
+    {
+      "word": "own",
+      "count": 3
+    },
+    {
+      "word": "perfume",
+      "count": 2
+    },
+    {
+      "word": "did",
+      "count": 2
+    },
+    {
+      "word": "product",
+      "count": 2
+    },
+    {
+      "word": "obsession",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "animal",
+      "count": 2
+    },
+    {
+      "word": "stag",
+      "count": 2
+    },
+    {
+      "word": "secret",
+      "count": 2
+    },
+    {
+      "word": "lord",
+      "count": 2
+    },
+    {
+      "word": "george",
+      "count": 2
+    },
+    {
+      "word": "story",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "her own",
+      "count": 3
+    },
+    {
+      "phrase": "a product",
+      "count": 2
+    },
+    {
+      "phrase": "has a",
+      "count": 2
+    },
+    {
+      "phrase": "a secret",
+      "count": 2
+    },
+    {
+      "phrase": "lord george",
+      "count": 2
+    },
+    {
+      "phrase": "why are",
+      "count": 1
+    },
+    {
+      "phrase": "are people",
+      "count": 1
+    },
+    {
+      "phrase": "people spending",
+      "count": 1
+    },
+    {
+      "phrase": "spending $400",
+      "count": 1
+    },
+    {
+      "phrase": "$400 on",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

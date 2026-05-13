@@ -1,0 +1,148 @@
+{
+  "video_id": "DcIpAnGx9Ag",
+  "duration_seconds": 61,
+  "wps": 3.46,
+  "total_words": 211,
+  "language_mix": {
+    "hindi": 98.8,
+    "english": 1.2,
+    "total_chars": 771
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "को सुकून से सोने की चैन व उसकी ताकि हम सबमिट करते जानवर टेक्नोलॉजी यूज करना चाहिए खोलो वीडियोस रहे होंगे का गठन व देख सकते हो आप यहां पर म के नीचे ही"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आपके पास नोटिफिकेशन पहुंच जाती है वह ट्रैक्शन है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "पर",
+      "count": 11
+    },
+    {
+      "word": "यहां",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "वह",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 2
+    },
+    {
+      "word": "चाहिए",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "आप",
+      "count": 2
+    },
+    {
+      "word": "नीचे",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "होने",
+      "count": 2
+    },
+    {
+      "word": "मतलब",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यहां पर",
+      "count": 9
+    },
+    {
+      "phrase": "है वह",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "और यहां",
+      "count": 2
+    },
+    {
+      "phrase": "सकता है",
+      "count": 2
+    },
+    {
+      "phrase": "प्रॉब्लम है",
+      "count": 2
+    },
+    {
+      "phrase": "को सुकून",
+      "count": 1
+    },
+    {
+      "phrase": "सुकून से",
+      "count": 1
+    },
+    {
+      "phrase": "से सोने",
+      "count": 1
+    },
+    {
+      "phrase": "सोने की",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

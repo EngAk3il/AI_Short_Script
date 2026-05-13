@@ -1,0 +1,148 @@
+{
+  "video_id": "alxSUpv-_M0",
+  "duration_seconds": 59,
+  "wps": 3.08,
+  "total_words": 182,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 621
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अच्छा आप यह देखो यह वीडियोस कुछ-कुछ वायरल होती हैं आपने देखा होगा कि नागा साधु है है ना ये हिमालय में जो लोग आज भी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बस की तो ये बात ही नहीं है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "वो",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "क्षमता",
+      "count": 5
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "ऐसे",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है ना",
+      "count": 2
+    },
+    {
+      "phrase": "में वो",
+      "count": 2
+    },
+    {
+      "phrase": "झूल रहे",
+      "count": 2
+    },
+    {
+      "phrase": "और इस",
+      "count": 2
+    },
+    {
+      "phrase": "शारीरिक क्षमता",
+      "count": 2
+    },
+    {
+      "phrase": "तक ना",
+      "count": 2
+    },
+    {
+      "phrase": "ना डेवलप",
+      "count": 2
+    },
+    {
+      "phrase": "डेवलप हो",
+      "count": 2
+    },
+    {
+      "phrase": "अच्छा आप",
+      "count": 1
+    },
+    {
+      "phrase": "आप यह",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

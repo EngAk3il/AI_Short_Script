@@ -1,0 +1,148 @@
+{
+  "video_id": "knLbBIdJr3A",
+  "duration_seconds": 34,
+  "wps": 3.47,
+  "total_words": 118,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 440
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जब आदमी आगे बढ़ता है ईश्वर परीक्षा लेता"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नहीं ऐसा ऐसा मैं सोचता हूं।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "देता",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "बनाता",
+      "count": 3
+    },
+    {
+      "word": "तकलीफ",
+      "count": 3
+    },
+    {
+      "word": "जब",
+      "count": 2
+    },
+    {
+      "word": "आदमी",
+      "count": 2
+    },
+    {
+      "word": "आगे",
+      "count": 2
+    },
+    {
+      "word": "ईश्वर",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "क्योंकि",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "जिसको",
+      "count": 2
+    },
+    {
+      "word": "हाथ",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बनाता है",
+      "count": 3
+    },
+    {
+      "phrase": "देता है",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 2
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 2
+    },
+    {
+      "phrase": "है अपने",
+      "count": 2
+    },
+    {
+      "phrase": "अपने हाथ",
+      "count": 2
+    },
+    {
+      "phrase": "हाथ की",
+      "count": 2
+    },
+    {
+      "phrase": "तकलीफ देता",
+      "count": 2
+    },
+    {
+      "phrase": "जब आदमी",
+      "count": 1
+    }
+  ],
+  "segment_count": 16
+}

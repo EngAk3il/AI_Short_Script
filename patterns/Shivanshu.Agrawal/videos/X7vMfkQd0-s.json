@@ -1,0 +1,148 @@
+{
+  "video_id": "X7vMfkQd0-s",
+  "duration_seconds": 78,
+  "wps": 3.76,
+  "total_words": 293,
+  "language_mix": {
+    "hindi": 98.9,
+    "english": 1.1,
+    "total_chars": 1229
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आप सरप्राइज हो जाओगे यह जान के कि बिरला ग्रुप कितना बड़ा है। आपकी शर्ट, आपकी बिल्डिंग का सीमेंट, आपका म्यूच्यूल फंड और आपके घर का पेंट। हो सकता है कि यह सब"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पेंट्स मार्केट और इंदिर लॉन्च करके प्रीमियम ज्वेलरी मार्केट भी डिस्ररप्ट कर रहे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 12
+    },
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "बिरला",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "ग्रुप",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "ब्रांड्स",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "जैसे",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "सीमेंट",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "फिर",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बिरला ग्रुप",
+      "count": 5
+    },
+    {
+      "phrase": "कुमार मंगलम",
+      "count": 2
+    },
+    {
+      "phrase": "मंगलम बिरला",
+      "count": 2
+    },
+    {
+      "phrase": "बिरला ने",
+      "count": 2
+    },
+    {
+      "phrase": "बिजनेस को",
+      "count": 2
+    },
+    {
+      "phrase": "खरीद के",
+      "count": 2
+    },
+    {
+      "phrase": "के अल्ट्राटेक",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "लॉन्च करके",
+      "count": 2
+    },
+    {
+      "phrase": "आप सरप्राइज",
+      "count": 1
+    }
+  ],
+  "segment_count": 11
+}

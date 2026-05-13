@@ -1,0 +1,148 @@
+{
+  "video_id": "-8v1VmAjFN0",
+  "duration_seconds": 34,
+  "wps": 3.03,
+  "total_words": 103,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 485
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "It's probably the hardest it's ever been. We need to guard our creativity,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "pay attention to now will decide what your life looks like in the next few years."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "it's",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "we",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "attention",
+      "count": 3
+    },
+    {
+      "word": "probably",
+      "count": 2
+    },
+    {
+      "word": "hardest",
+      "count": 2
+    },
+    {
+      "word": "ever",
+      "count": 2
+    },
+    {
+      "word": "been",
+      "count": 2
+    },
+    {
+      "word": "our",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "because",
+      "count": 2
+    },
+    {
+      "word": "an",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "different",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "it's probably",
+      "count": 2
+    },
+    {
+      "phrase": "probably the",
+      "count": 2
+    },
+    {
+      "phrase": "the hardest",
+      "count": 2
+    },
+    {
+      "phrase": "hardest it's",
+      "count": 2
+    },
+    {
+      "phrase": "it's ever",
+      "count": 2
+    },
+    {
+      "phrase": "ever been",
+      "count": 2
+    },
+    {
+      "phrase": "in an",
+      "count": 2
+    },
+    {
+      "phrase": "been we",
+      "count": 1
+    },
+    {
+      "phrase": "we need",
+      "count": 1
+    },
+    {
+      "phrase": "need to",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

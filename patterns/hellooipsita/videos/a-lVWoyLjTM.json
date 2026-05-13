@@ -1,0 +1,148 @@
+{
+  "video_id": "a-lVWoyLjTM",
+  "duration_seconds": 30,
+  "wps": 3.23,
+  "total_words": 97,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 383
+  },
+  "hook": {
+    "type": "question",
+    "text": "what's your calling in life you know when you've had a bad night and you wake up the next morning in a shitty mode so here's the test"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "artistic Pursuits make me want to be a better person tell me what's yours"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "your",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "me",
+      "count": 3
+    },
+    {
+      "word": "what's",
+      "count": 2
+    },
+    {
+      "word": "calling",
+      "count": 2
+    },
+    {
+      "word": "next",
+      "count": 2
+    },
+    {
+      "word": "morning",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "life",
+      "count": 1
+    },
+    {
+      "word": "know",
+      "count": 1
+    },
+    {
+      "word": "when",
+      "count": 1
+    },
+    {
+      "word": "you've",
+      "count": 1
+    },
+    {
+      "word": "had",
+      "count": 1
+    },
+    {
+      "word": "bad",
+      "count": 1
+    },
+    {
+      "word": "night",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "your calling",
+      "count": 2
+    },
+    {
+      "phrase": "the next",
+      "count": 2
+    },
+    {
+      "phrase": "next morning",
+      "count": 2
+    },
+    {
+      "phrase": "in a",
+      "count": 2
+    },
+    {
+      "phrase": "what's your",
+      "count": 1
+    },
+    {
+      "phrase": "calling in",
+      "count": 1
+    },
+    {
+      "phrase": "in life",
+      "count": 1
+    },
+    {
+      "phrase": "life you",
+      "count": 1
+    },
+    {
+      "phrase": "you know",
+      "count": 1
+    },
+    {
+      "phrase": "know when",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

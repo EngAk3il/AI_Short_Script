@@ -1,0 +1,148 @@
+{
+  "video_id": "UjYK9vZcpyk",
+  "duration_seconds": 54,
+  "wps": 3.07,
+  "total_words": 166,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 609
+  },
+  "hook": {
+    "type": "question",
+    "text": "एक वॉर इंसान के साथ क्या करती है?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मीडिया ने कहानियों को नहीं बताया?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "संगीत",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "हम",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    },
+    {
+      "word": "क्या",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "वॉर",
+      "count": 2
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "पीपल",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "हुआ",
+      "count": 2
+    },
+    {
+      "word": "सब",
+      "count": 2
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    },
+    {
+      "word": "वहां",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हो गया",
+      "count": 3
+    },
+    {
+      "phrase": "एक वॉर",
+      "count": 2
+    },
+    {
+      "phrase": "के साथ",
+      "count": 2
+    },
+    {
+      "phrase": "साथ क्या",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "हम लोग",
+      "count": 2
+    },
+    {
+      "phrase": "वॉर इंसान",
+      "count": 1
+    },
+    {
+      "phrase": "इंसान के",
+      "count": 1
+    },
+    {
+      "phrase": "क्या करती",
+      "count": 1
+    },
+    {
+      "phrase": "करती है",
+      "count": 1
+    }
+  ],
+  "segment_count": 24
+}

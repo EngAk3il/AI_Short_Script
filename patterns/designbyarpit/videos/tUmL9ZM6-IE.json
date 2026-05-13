@@ -1,0 +1,149 @@
+{
+  "video_id": "tUmL9ZM6-IE",
+  "duration_seconds": 43,
+  "wps": 3.02,
+  "total_words": 130,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 624
+  },
+  "hook": {
+    "type": "question",
+    "text": "Millions of ton of crop waste is set on fire every single year and you all can feel the impacts. But what if that smoke becomes furniture?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "there is a buyback program. Old boards come back, get recycled, and become new ones. sustainable and it will help reducing the pollution."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "pollution",
+      "count": 3
+    },
+    {
+      "word": "into",
+      "count": 3
+    },
+    {
+      "word": "waste",
+      "count": 2
+    },
+    {
+      "word": "single",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "becomes",
+      "count": 2
+    },
+    {
+      "word": "wood",
+      "count": 2
+    },
+    {
+      "word": "something",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "about",
+      "count": 2
+    },
+    {
+      "word": "get",
+      "count": 2
+    },
+    {
+      "word": "boards",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "millions",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "millions of",
+      "count": 1
+    },
+    {
+      "phrase": "of ton",
+      "count": 1
+    },
+    {
+      "phrase": "ton of",
+      "count": 1
+    },
+    {
+      "phrase": "of crop",
+      "count": 1
+    },
+    {
+      "phrase": "crop waste",
+      "count": 1
+    },
+    {
+      "phrase": "waste is",
+      "count": 1
+    },
+    {
+      "phrase": "is set",
+      "count": 1
+    },
+    {
+      "phrase": "set on",
+      "count": 1
+    },
+    {
+      "phrase": "on fire",
+      "count": 1
+    },
+    {
+      "phrase": "fire every",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "wMJze_OLPJs",
+  "duration_seconds": 59,
+  "wps": 3.2,
+  "total_words": 189,
+  "language_mix": {
+    "hindi": 97.3,
+    "english": 2.7,
+    "total_chars": 672
+  },
+  "hook": {
+    "type": "question",
+    "text": "कोई एक Lindin पोस्ट के लिए ₹10,000 क्यों देगा? प्राइस को दिखाने का एक नजरिया है। जैसे Lindin मैनेजमेंट फॉर पीपल तुम 5 से"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक्चुअली वो ₹1.5 लाख पर पोस्ट नहीं है। इतने सारे डिलीवरेबल्स क्या है? गॉट इट।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "पोस्ट",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "प्राइस",
+      "count": 4
+    },
+    {
+      "word": "16",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "lindin",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "₹10,000",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "तुम",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "पोस्ट्स",
+      "count": 3
+    },
+    {
+      "word": "तू",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "प्राइस को",
+      "count": 3
+    },
+    {
+      "phrase": "16 पोस्ट्स",
+      "count": 3
+    },
+    {
+      "phrase": "पर पोस्ट",
+      "count": 3
+    },
+    {
+      "phrase": "कोई एक",
+      "count": 2
+    },
+    {
+      "phrase": "पोस्ट के",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "लिए ₹10,000",
+      "count": 2
+    },
+    {
+      "phrase": "₹10,000 क्यों",
+      "count": 2
+    },
+    {
+      "phrase": "क्यों देगा",
+      "count": 2
+    },
+    {
+      "phrase": "देगा प्राइस",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

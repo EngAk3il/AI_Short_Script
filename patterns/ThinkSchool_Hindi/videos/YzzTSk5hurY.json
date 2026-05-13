@@ -1,0 +1,149 @@
+{
+  "video_id": "YzzTSk5hurY",
+  "duration_seconds": 129,
+  "wps": 2.94,
+  "total_words": 379,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 1403
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सर मेक इन इंडिया का टारगेट ही यह था कि"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हम"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 17
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "कि",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "हिंदुस्तान",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "सर",
+      "count": 4
+    },
+    {
+      "word": "हम",
+      "count": 4
+    },
+    {
+      "word": "कोई",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "आज",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 4
+    },
+    {
+      "phrase": "एट द",
+      "count": 2
+    },
+    {
+      "phrase": "और आज",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 2
+    },
+    {
+      "phrase": "है ये",
+      "count": 2
+    },
+    {
+      "phrase": "2 लाख",
+      "count": 2
+    },
+    {
+      "phrase": "लाख करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ का",
+      "count": 2
+    },
+    {
+      "phrase": "ने इतनी",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनियां ली",
+      "count": 2
+    }
+  ],
+  "segment_count": 52
+}

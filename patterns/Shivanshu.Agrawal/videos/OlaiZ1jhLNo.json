@@ -1,0 +1,148 @@
+{
+  "video_id": "OlaiZ1jhLNo",
+  "duration_seconds": 58,
+  "wps": 3.86,
+  "total_words": 224,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 925
+  },
+  "hook": {
+    "type": "statement",
+    "text": "डॉ मनमोहन सिंह जी की पूरी कहानी एक मिनट में उनका बर्थ 1932 में गाह नाम के गांव में हुआ था जो आज पाकिस्तान में है बचपन में ही उन्होंने अपनी मदर को खो दिया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जीडीपी ग्रोथ रेट अचीव की आज सैडली डॉ मनमोहन सिंह जी हमारे साथ नहीं है लेकिन उनकी ये लेगासी हमेशा रहेगी"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 17
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "उन्होंने",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "अपनी",
+      "count": 3
+    },
+    {
+      "word": "बाद",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "फिर",
+      "count": 3
+    },
+    {
+      "word": "मिनिस्टर",
+      "count": 3
+    },
+    {
+      "word": "डॉ",
+      "count": 2
+    },
+    {
+      "word": "मनमोहन",
+      "count": 2
+    },
+    {
+      "word": "सिंह",
+      "count": 2
+    },
+    {
+      "word": "जी",
+      "count": 2
+    },
+    {
+      "word": "गांव",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "आज",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "डॉ मनमोहन",
+      "count": 2
+    },
+    {
+      "phrase": "मनमोहन सिंह",
+      "count": 2
+    },
+    {
+      "phrase": "सिंह जी",
+      "count": 2
+    },
+    {
+      "phrase": "गांव में",
+      "count": 2
+    },
+    {
+      "phrase": "जिसके बाद",
+      "count": 2
+    },
+    {
+      "phrase": "और फिर",
+      "count": 2
+    },
+    {
+      "phrase": "इकोनॉमिक एडवाइजर",
+      "count": 2
+    },
+    {
+      "phrase": "के तौर",
+      "count": 2
+    },
+    {
+      "phrase": "तौर पे",
+      "count": 2
+    },
+    {
+      "phrase": "पे उन्होंने",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

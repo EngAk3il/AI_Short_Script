@@ -1,0 +1,148 @@
+{
+  "video_id": "ZMmfkpfUFW4",
+  "duration_seconds": 36,
+  "wps": 4.5,
+  "total_words": 162,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 543
+  },
+  "hook": {
+    "type": "statement",
+    "text": "बेलाविटा के आका जी के एक पॉडकास्ट में सुना मैंने कि उन्होंने जो परफ्यूम लांच किए थे वो फोर का पैक ल्च किया और एक प्राइस पॉइंट में लांच किया और उन्होंने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "किसी को मिक्स पसंद है। ₹60 में ट्रायल ले जाएगा। दैट एस विद इन टू इयर्स हैज़ नाउ बिकम अ 2 करोड़ मंथ एस।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "परफ्यूम",
+      "count": 4
+    },
+    {
+      "word": "पसंद",
+      "count": 4
+    },
+    {
+      "word": "मैंगो",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "अचार",
+      "count": 3
+    },
+    {
+      "word": "किसी",
+      "count": 3
+    },
+    {
+      "word": "उन्होंने",
+      "count": 2
+    },
+    {
+      "word": "लांच",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "वैरायटी",
+      "count": 2
+    },
+    {
+      "word": "चार",
+      "count": 2
+    },
+    {
+      "word": "जाएगा",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पसंद है",
+      "count": 4
+    },
+    {
+      "phrase": "किसी को",
+      "count": 3
+    },
+    {
+      "phrase": "किया और",
+      "count": 2
+    },
+    {
+      "phrase": "चार परफ्यूम",
+      "count": 2
+    },
+    {
+      "phrase": "है किसी",
+      "count": 2
+    },
+    {
+      "phrase": "बेलाविटा के",
+      "count": 1
+    },
+    {
+      "phrase": "के आका",
+      "count": 1
+    },
+    {
+      "phrase": "आका जी",
+      "count": 1
+    },
+    {
+      "phrase": "जी के",
+      "count": 1
+    },
+    {
+      "phrase": "के एक",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

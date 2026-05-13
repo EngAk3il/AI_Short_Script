@@ -1,0 +1,120 @@
+{
+  "name": "openletteryt",
+  "url": "https://www.youtube.com/@openletteryt/shorts",
+  "languages": [
+    "hi",
+    "en"
+  ],
+  "last_updated": "2026-03-30T00:44:37.622240+00:00",
+  "total_discovered": 20,
+  "ingestion_stats": {
+    "total": 20,
+    "ok": 11,
+    "low_quality": 0,
+    "no_transcript": 9,
+    "no_speech": 0
+  },
+  "completion_percentage": "100.0%",
+  "videos": [
+    {
+      "video_id": "fs6izlNJmyI",
+      "title": "From ₹2.5 Lakhs to ₹250 Crores - the incredible journey of a mattress brand",
+      "status": "OK"
+    },
+    {
+      "video_id": "NSMwwVq5rQw",
+      "title": "how to sleep instantly.",
+      "status": "OK"
+    },
+    {
+      "video_id": "cqgXBG8BsGc",
+      "title": "Indians Lack Empathy",
+      "status": "OK"
+    },
+    {
+      "video_id": "xrpNEEEOJg0",
+      "title": "What you can't see..",
+      "status": "OK"
+    },
+    {
+      "video_id": "55PjwPsEKu8",
+      "title": "Fake Army Training",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "clOjN2NaQV0",
+      "title": "Mera doodh wala",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "l-7osZrzNtY",
+      "title": "World Hates Indians",
+      "status": "OK"
+    },
+    {
+      "video_id": "993V8DPRFqs",
+      "title": "Stop VIP Darshan",
+      "status": "OK"
+    },
+    {
+      "video_id": "jcK0TZjc1tw",
+      "title": "Stop Ignoring Bihar",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "5UehVUBR8o8",
+      "title": "Drama-E-Ethanol",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "ld88AhXIumU",
+      "title": "Dirty Indian Trains",
+      "status": "OK"
+    },
+    {
+      "video_id": "pT3kUeikvsI",
+      "title": "Rain exposed corruption",
+      "status": "OK"
+    },
+    {
+      "video_id": "o7XjqGZbOTY",
+      "title": "Indian Street Food",
+      "status": "OK"
+    },
+    {
+      "video_id": "cAt02FkGoR4",
+      "title": "Money above everything",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "FvXL5w3qpyo",
+      "title": "Stop Feeding Pigeons",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "XDwZpkifwdU",
+      "title": "stop this cringe bhakti.",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "-sEdspVJInM",
+      "title": "Sleep Investment Plan 🤑",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "lp71MQVDfVA",
+      "title": "Why India has lowest patents?",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "OhyeSqTDzI8",
+      "title": "Why Indian higher education sucks?",
+      "status": "OK"
+    },
+    {
+      "video_id": "Vw0Q3rIL3ro",
+      "title": "Farmer Protest 2.0 is dangerous!",
+      "status": "OK"
+    }
+  ]
+}

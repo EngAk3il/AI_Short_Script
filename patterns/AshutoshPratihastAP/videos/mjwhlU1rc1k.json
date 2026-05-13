@@ -1,0 +1,148 @@
+{
+  "video_id": "mjwhlU1rc1k",
+  "duration_seconds": 57,
+  "wps": 3.61,
+  "total_words": 206,
+  "language_mix": {
+    "hindi": 99.0,
+    "english": 1.0,
+    "total_chars": 699
+  },
+  "hook": {
+    "type": "question",
+    "text": "स्टैग्नेशन किस चीज में आती है फॉलोअर्स एक महीने से इतने नहीं बढ़ रहे फ्रीक्वेंसी क्या है आपकी रो तो थोड़ा सा कम कर दो होता क्या है स्कर सिटी इज आल्सो इंपोर्टेंट और जब लोगों को रोज कोई चीज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रिटेंशन इतना तो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "जब",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "ना",
+      "count": 5
+    },
+    {
+      "word": "सेकंड",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "क्वालिटी",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "लेकिन",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "सकते",
+      "count": 3
+    },
+    {
+      "word": "रिटेंशन",
+      "count": 3
+    },
+    {
+      "word": "चीज",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर सकते",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 3
+    },
+    {
+      "phrase": "क्या है",
+      "count": 2
+    },
+    {
+      "phrase": "और जब",
+      "count": 2
+    },
+    {
+      "phrase": "है ना",
+      "count": 2
+    },
+    {
+      "phrase": "ना तो",
+      "count": 2
+    },
+    {
+      "phrase": "जब आप",
+      "count": 2
+    },
+    {
+      "phrase": "हो ना",
+      "count": 2
+    },
+    {
+      "phrase": "डाल रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

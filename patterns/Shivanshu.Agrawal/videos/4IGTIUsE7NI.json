@@ -1,0 +1,148 @@
+{
+  "video_id": "4IGTIUsE7NI",
+  "duration_seconds": 57,
+  "wps": 3.18,
+  "total_words": 181,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 697
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया मून के बाद अब सन को एक्सप्लोर"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "और वीडियो के लिए चैनल को सब्सक्राइब करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "सन",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "आदित्य",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "मिशन",
+      "count": 3
+    },
+    {
+      "word": "l1",
+      "count": 3
+    },
+    {
+      "word": "स्टडी",
+      "count": 3
+    },
+    {
+      "word": "पॉइंट",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "वाला",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "एल्बम",
+      "count": 2
+    },
+    {
+      "word": "इसीलिए",
+      "count": 2
+    },
+    {
+      "word": "क्योंकि",
+      "count": 2
+    },
+    {
+      "word": "मतलब",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सन को",
+      "count": 4
+    },
+    {
+      "phrase": "को स्टडी",
+      "count": 3
+    },
+    {
+      "phrase": "आदित्य l1",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 2
+    },
+    {
+      "phrase": "का मतलब",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "सन और",
+      "count": 2
+    },
+    {
+      "phrase": "शक्ति है",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया मून",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

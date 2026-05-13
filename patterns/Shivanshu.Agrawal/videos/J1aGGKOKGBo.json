@@ -1,0 +1,148 @@
+{
+  "video_id": "J1aGGKOKGBo",
+  "duration_seconds": 59,
+  "wps": 1.78,
+  "total_words": 105,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 417
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया का फेवरेट स्नैक समोसा एक्चुअली"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "इंडिया",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "समोसे",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "आलू",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "जब",
+      "count": 2
+    },
+    {
+      "word": "थे",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "वाले",
+      "count": 2
+    },
+    {
+      "word": "शंभू",
+      "count": 2
+    },
+    {
+      "word": "साक",
+      "count": 2
+    },
+    {
+      "word": "पसंद",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "फेवरेट",
+      "count": 1
+    },
+    {
+      "word": "स्नैक",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया का",
+      "count": 2
+    },
+    {
+      "phrase": "करते थे",
+      "count": 2
+    },
+    {
+      "phrase": "शंभू साक",
+      "count": 2
+    },
+    {
+      "phrase": "पसंद करते",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 2
+    },
+    {
+      "phrase": "का फेवरेट",
+      "count": 1
+    },
+    {
+      "phrase": "फेवरेट स्नैक",
+      "count": 1
+    },
+    {
+      "phrase": "स्नैक समोसा",
+      "count": 1
+    },
+    {
+      "phrase": "समोसा एक्चुअली",
+      "count": 1
+    },
+    {
+      "phrase": "एक्चुअली इंडिया",
+      "count": 1
+    }
+  ],
+  "segment_count": 17
+}

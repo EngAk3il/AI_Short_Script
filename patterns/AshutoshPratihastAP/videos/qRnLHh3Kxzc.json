@@ -1,0 +1,148 @@
+{
+  "video_id": "qRnLHh3Kxzc",
+  "duration_seconds": 45,
+  "wps": 3.56,
+  "total_words": 160,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 518
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "राक्षस जो थे वो हंट करके खाते थे मार के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पॉडकास्ट एंजॉय करने के लिए"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "जो",
+      "count": 6
+    },
+    {
+      "word": "वो",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "मिल",
+      "count": 3
+    },
+    {
+      "word": "खाते",
+      "count": 2
+    },
+    {
+      "word": "मार",
+      "count": 2
+    },
+    {
+      "word": "अघोरी",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "कांसेप्ट",
+      "count": 2
+    },
+    {
+      "word": "ना",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "जो मिल",
+      "count": 3
+    },
+    {
+      "phrase": "है आप",
+      "count": 3
+    },
+    {
+      "phrase": "खाते थे",
+      "count": 2
+    },
+    {
+      "phrase": "है ना",
+      "count": 2
+    },
+    {
+      "phrase": "है ये",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "खा रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 18
+}

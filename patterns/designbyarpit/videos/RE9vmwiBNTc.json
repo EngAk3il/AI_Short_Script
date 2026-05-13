@@ -1,0 +1,148 @@
+{
+  "video_id": "RE9vmwiBNTc",
+  "duration_seconds": 36,
+  "wps": 2.92,
+  "total_words": 105,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 472
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "I was traveling recently and the bus"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "rotational momentum."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "bus",
+      "count": 2
+    },
+    {
+      "word": "bottle",
+      "count": 2
+    },
+    {
+      "word": "square",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "shape",
+      "count": 2
+    },
+    {
+      "word": "round",
+      "count": 2
+    },
+    {
+      "word": "was",
+      "count": 1
+    },
+    {
+      "word": "traveling",
+      "count": 1
+    },
+    {
+      "word": "recently",
+      "count": 1
+    },
+    {
+      "word": "driver",
+      "count": 1
+    },
+    {
+      "word": "gave",
+      "count": 1
+    },
+    {
+      "word": "me",
+      "count": 1
+    },
+    {
+      "word": "you",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "and it",
+      "count": 2
+    },
+    {
+      "phrase": "in a",
+      "count": 2
+    },
+    {
+      "phrase": "i was",
+      "count": 1
+    },
+    {
+      "phrase": "was traveling",
+      "count": 1
+    },
+    {
+      "phrase": "traveling recently",
+      "count": 1
+    },
+    {
+      "phrase": "recently and",
+      "count": 1
+    },
+    {
+      "phrase": "and the",
+      "count": 1
+    },
+    {
+      "phrase": "the bus",
+      "count": 1
+    },
+    {
+      "phrase": "bus driver",
+      "count": 1
+    },
+    {
+      "phrase": "driver gave",
+      "count": 1
+    }
+  ],
+  "segment_count": 16
+}

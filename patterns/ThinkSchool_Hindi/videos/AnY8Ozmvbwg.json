@@ -1,0 +1,148 @@
+{
+  "video_id": "AnY8Ozmvbwg",
+  "duration_seconds": 49,
+  "wps": 3.47,
+  "total_words": 170,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 658
+  },
+  "hook": {
+    "type": "question",
+    "text": "ऑफलाइन रिटेल बिज़नेस में द पी द प्लेस काइंड ऑफ आल्सो डबल्स अप एज अ प्रमोशन फॉर यू। अगर आपको पवई या बैंडेज जगह पे एक बड़ा बोर्ड मिल रहा है 12 फीट का या 15 फीट का"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ब्यूटीफुल।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "मार्केटिंग",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "एज",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "या",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "प्रमोशन",
+      "count": 2
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "जगह",
+      "count": 2
+    },
+    {
+      "word": "फीट",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "देख",
+      "count": 2
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "सही",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एज अ",
+      "count": 3
+    },
+    {
+      "phrase": "जगह पे",
+      "count": 2
+    },
+    {
+      "phrase": "फीट का",
+      "count": 2
+    },
+    {
+      "phrase": "देख रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "आवर रेवेन्यू",
+      "count": 2
+    },
+    {
+      "phrase": "मार्केटिंग मार्केटिंग",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफलाइन रिटेल",
+      "count": 1
+    },
+    {
+      "phrase": "रिटेल बिज़नेस",
+      "count": 1
+    },
+    {
+      "phrase": "बिज़नेस में",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

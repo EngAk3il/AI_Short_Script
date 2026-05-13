@@ -1,0 +1,148 @@
+{
+  "video_id": "wP7RTYXke1w",
+  "duration_seconds": 60,
+  "wps": 3.1,
+  "total_words": 186,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 700
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रतन टाटा ने इस तरह से इंडिया की सबसे पहले कर बनाई 1990 तक इंडिया स्पेसक्राफ्ट और मिसाइल तो लॉन्च कर चुका था लेकिन"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "टाटा इंडिका ऐसे और वीडियो के लिए चैनल को सब्सक्राइब"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "कर",
+      "count": 10
+    },
+    {
+      "word": "एक",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "टाटा",
+      "count": 5
+    },
+    {
+      "word": "इंडिया",
+      "count": 5
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "थी",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "इसीलिए",
+      "count": 3
+    },
+    {
+      "word": "इंडियन",
+      "count": 3
+    },
+    {
+      "word": "प्लांट",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "रतन",
+      "count": 2
+    },
+    {
+      "word": "इस",
+      "count": 2
+    },
+    {
+      "word": "तक",
+      "count": 2
+    },
+    {
+      "word": "लॉन्च",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "टाटा ने",
+      "count": 3
+    },
+    {
+      "phrase": "रतन टाटा",
+      "count": 2
+    },
+    {
+      "phrase": "इंडियन कर",
+      "count": 2
+    },
+    {
+      "phrase": "गया और",
+      "count": 2
+    },
+    {
+      "phrase": "कर को",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "ने इस",
+      "count": 1
+    },
+    {
+      "phrase": "इस तरह",
+      "count": 1
+    },
+    {
+      "phrase": "तरह से",
+      "count": 1
+    },
+    {
+      "phrase": "से इंडिया",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

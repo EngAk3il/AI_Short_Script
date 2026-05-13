@@ -1,0 +1,148 @@
+{
+  "video_id": "cl8X0q6kZKc",
+  "duration_seconds": 67,
+  "wps": 3.6,
+  "total_words": 241,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 896
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जापान के इस मिस्टीरियस गांव में इंसान नहीं बल्कि डॉल्स रहती हैं। नागोरू नाम के इस जैपनीज गांव में इंसान तो केवल 25 हैं,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के नाम से पॉपुलर हो गया है। लेकिन ये गांव एक डीपर प्रॉब्लम को दर्शाता है क्योंकि नागौरों की ही तरह जापान के करीब 20,000 गांव डीपुलेशन के कारण डिसअपीयर"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "की",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "गांव",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "तरह",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "अपने",
+      "count": 5
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "डॉल्स",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "इंसान",
+      "count": 3
+    },
+    {
+      "word": "नाम",
+      "count": 3
+    },
+    {
+      "word": "लेकिन",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "करीब",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "उन्होंने",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गांव में",
+      "count": 4
+    },
+    {
+      "phrase": "की ही",
+      "count": 3
+    },
+    {
+      "phrase": "ही तरह",
+      "count": 3
+    },
+    {
+      "phrase": "जापान के",
+      "count": 2
+    },
+    {
+      "phrase": "के इस",
+      "count": 2
+    },
+    {
+      "phrase": "में इंसान",
+      "count": 2
+    },
+    {
+      "phrase": "डॉल्स रहती",
+      "count": 2
+    },
+    {
+      "phrase": "रहती हैं",
+      "count": 2
+    },
+    {
+      "phrase": "करीब 350",
+      "count": 2
+    },
+    {
+      "phrase": "इस गांव",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

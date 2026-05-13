@@ -1,0 +1,148 @@
+{
+  "video_id": "4HLsppEwOQU",
+  "duration_seconds": 30,
+  "wps": 4.83,
+  "total_words": 145,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 508
+  },
+  "hook": {
+    "type": "question",
+    "text": "व्हाट इज द बेस्ट एडवाइस नितिन गवत इज़ गिविंग यू? एजुकेट नॉट सेल्फ?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करने का ट्राई नहीं करते। हम कहते हैं भाई यह है। यह इसमें रिटर्न है। यह बॉन्ड है। यह इसमें रिस्क भी है। तो वी टेल द रिस्क ऑफ फ्रंट।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "सेल",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "एजुकेट",
+      "count": 2
+    },
+    {
+      "word": "नॉट",
+      "count": 2
+    },
+    {
+      "word": "सेल्फ",
+      "count": 2
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "मिस",
+      "count": 2
+    },
+    {
+      "word": "वी",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "किया गया",
+      "count": 3
+    },
+    {
+      "phrase": "गया है",
+      "count": 3
+    },
+    {
+      "phrase": "है यह",
+      "count": 3
+    },
+    {
+      "phrase": "एजुकेट नॉट",
+      "count": 2
+    },
+    {
+      "phrase": "नॉट सेल्फ",
+      "count": 2
+    },
+    {
+      "phrase": "ना एक",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "मिस सेल",
+      "count": 2
+    },
+    {
+      "phrase": "सेल किया",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "PJ6qCMgJefg",
+  "duration_seconds": 45,
+  "wps": 3.44,
+  "total_words": 155,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 616
+  },
+  "hook": {
+    "type": "statement",
+    "text": "कभी फूल किया है की हम सोनी ही वाले होते हैं पर एक रियल गलती से भी खुला और उसके बाद तो बस व्हील देखते देखते घंटा कैसे बीट जाते हैं पता भी नहीं चला अभी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एडिक्शन फूल किया"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "की",
+      "count": 9
+    },
+    {
+      "word": "इंस्टाग्राम",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "युटुब",
+      "count": 4
+    },
+    {
+      "word": "कभी",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "कैसे",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "डॉक्युमेंट्री",
+      "count": 3
+    },
+    {
+      "word": "फूल",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "देखते",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "पुरी",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है की",
+      "count": 3
+    },
+    {
+      "phrase": "फूल किया",
+      "count": 2
+    },
+    {
+      "phrase": "से भी",
+      "count": 2
+    },
+    {
+      "phrase": "इंस्टाग्राम की",
+      "count": 2
+    },
+    {
+      "phrase": "कभी फूल",
+      "count": 1
+    },
+    {
+      "phrase": "किया है",
+      "count": 1
+    },
+    {
+      "phrase": "की हम",
+      "count": 1
+    },
+    {
+      "phrase": "हम सोनी",
+      "count": 1
+    },
+    {
+      "phrase": "सोनी ही",
+      "count": 1
+    },
+    {
+      "phrase": "ही वाले",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "FCBLVJQpQu4",
+  "duration_seconds": 59,
+  "wps": 2.85,
+  "total_words": 168,
+  "language_mix": {
+    "hindi": 97.8,
+    "english": 2.2,
+    "total_chars": 738
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इन दो दोस्तों ने अपनी हाई पेइंग जॉब छोड़कर बनाई इंडिया की फास्टेस्ट ग्रोइंग ई-कॉमर्स कंपनी विदिता आत्रे और संजीव बर्नवाल ने देखा कि इंडिया के लाखों बिजनेस ओनर्स और मैन्युफैक्चरर्स या तो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक लौकी प्रॉफिटेबल हॉरिजॉन्टल ई-कॉमर्स कंपनी है 18 लाख से ज्यादा सेलर्स हैं और करीब 12 करोड़ मंथली एक्टिव यूजर्स हैं"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "ने",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "मशो",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "ई-कॉमर्स",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "अपनी",
+      "count": 2
+    },
+    {
+      "word": "कंपनी",
+      "count": 2
+    },
+    {
+      "word": "देखा",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "या",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    },
+    {
+      "word": "कमीशन",
+      "count": 2
+    },
+    {
+      "word": "डिलीवरी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ने अपनी",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया की",
+      "count": 2
+    },
+    {
+      "phrase": "ई-कॉमर्स कंपनी",
+      "count": 2
+    },
+    {
+      "phrase": "देखा कि",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "मशो ने",
+      "count": 2
+    },
+    {
+      "phrase": "ना ही",
+      "count": 2
+    },
+    {
+      "phrase": "इन दो",
+      "count": 1
+    },
+    {
+      "phrase": "दो दोस्तों",
+      "count": 1
+    },
+    {
+      "phrase": "दोस्तों ने",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

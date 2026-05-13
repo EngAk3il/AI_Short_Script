@@ -1,0 +1,148 @@
+{
+  "video_id": "opgxyrwlF1Q",
+  "duration_seconds": 58,
+  "wps": 3.78,
+  "total_words": 219,
+  "language_mix": {
+    "hindi": 97.2,
+    "english": 2.8,
+    "total_chars": 860
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भाई हमको ऐसे लोग पता है जिन्होंने जॉब के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तुम भी एक्चुअली भी ज्यादा एफर्ट करते हो।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "क्लाइंट",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "नो",
+      "count": 4
+    },
+    {
+      "word": "यू",
+      "count": 4
+    },
+    {
+      "word": "तुम",
+      "count": 4
+    },
+    {
+      "word": "भाई",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "आउल",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "पता",
+      "count": 2
+    },
+    {
+      "word": "करा",
+      "count": 2
+    },
+    {
+      "word": "क्वेश्चन",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 2
+    },
+    {
+      "word": "मुझे",
+      "count": 2
+    },
+    {
+      "word": "करता",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पता है",
+      "count": 2
+    },
+    {
+      "phrase": "करा है",
+      "count": 2
+    },
+    {
+      "phrase": "आउल क्या",
+      "count": 2
+    },
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "व्हेन यू",
+      "count": 2
+    },
+    {
+      "phrase": "यू नो",
+      "count": 2
+    },
+    {
+      "phrase": "द क्लाइंट",
+      "count": 2
+    },
+    {
+      "phrase": "खोलना है",
+      "count": 2
+    },
+    {
+      "phrase": "करते हो",
+      "count": 2
+    },
+    {
+      "phrase": "भाई हमको",
+      "count": 1
+    }
+  ],
+  "segment_count": 28
+}

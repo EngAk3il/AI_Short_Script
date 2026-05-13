@@ -1,0 +1,148 @@
+{
+  "video_id": "5I_K61sbK8o",
+  "duration_seconds": 56,
+  "wps": 2.14,
+  "total_words": 120,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 472
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह वायरल डांस।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लोगों का दिल तो कहानियों से जीता जाता"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "दिल",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "बॉलीवुड",
+      "count": 3
+    },
+    {
+      "word": "जब",
+      "count": 2
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    },
+    {
+      "word": "वॉर",
+      "count": 2
+    },
+    {
+      "word": "सोवियत",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "क्योंकि",
+      "count": 2
+    },
+    {
+      "word": "प्यार",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "जीते",
+      "count": 2
+    },
+    {
+      "word": "आवारा",
+      "count": 2
+    },
+    {
+      "word": "हूं",
+      "count": 2
+    },
+    {
+      "word": "कैसे",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "दिल जीते",
+      "count": 2
+    },
+    {
+      "phrase": "आवारा हूं",
+      "count": 2
+    },
+    {
+      "phrase": "यह वायरल",
+      "count": 1
+    },
+    {
+      "phrase": "वायरल डांस",
+      "count": 1
+    },
+    {
+      "phrase": "डांस जब",
+      "count": 1
+    },
+    {
+      "phrase": "जब उज़्बेकिस्तान",
+      "count": 1
+    },
+    {
+      "phrase": "उज़्बेकिस्तान के",
+      "count": 1
+    },
+    {
+      "phrase": "के क्यूट",
+      "count": 1
+    },
+    {
+      "phrase": "क्यूट बच्चे",
+      "count": 1
+    },
+    {
+      "phrase": "बच्चे कर",
+      "count": 1
+    }
+  ],
+  "segment_count": 22
+}

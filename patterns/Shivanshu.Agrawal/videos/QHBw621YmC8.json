@@ -1,0 +1,148 @@
+{
+  "video_id": "QHBw621YmC8",
+  "duration_seconds": 56,
+  "wps": 3.61,
+  "total_words": 202,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 782
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "समोसे बीच के इस कपल ने ₹900 करोड़ की कंपनी बनाई निधि और शिखर सिंह ने देखा की समोसा पूरे इंडिया का सबसे फेवरेट स्नैक्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कढ़ाई पनीर समोसा चिकन सिसवन समोसा और एवं चॉकलेट समोसा और इन्हीं स्ट्रैटेजिस से समोसा सिंह हर दिन 12 लाख के समोसे"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "समोसे",
+      "count": 8
+    },
+    {
+      "word": "समोसा",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "सिंह",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "इन्होंने",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "बीच",
+      "count": 2
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "सबसे",
+      "count": 2
+    },
+    {
+      "word": "करके",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "समोसा सिंह",
+      "count": 3
+    },
+    {
+      "phrase": "बीच के",
+      "count": 2
+    },
+    {
+      "phrase": "सिंह ने",
+      "count": 2
+    },
+    {
+      "phrase": "प्रॉब्लम थी",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "हो जाते",
+      "count": 2
+    },
+    {
+      "phrase": "समोसा और",
+      "count": 2
+    },
+    {
+      "phrase": "समोसे बीच",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

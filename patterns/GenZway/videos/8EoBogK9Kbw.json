@@ -1,0 +1,148 @@
+{
+  "video_id": "8EoBogK9Kbw",
+  "duration_seconds": 33,
+  "wps": 3.61,
+  "total_words": 119,
+  "language_mix": {
+    "hindi": 97.1,
+    "english": 2.9,
+    "total_chars": 443
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये Jio Airtel कोई भी सिम ले लो हर सिम को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मोबाइल ले जाने पे लगेगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "रिचार्ज",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "इंटरनेट",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "सरकार",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "सिम",
+      "count": 2
+    },
+    {
+      "word": "ले",
+      "count": 2
+    },
+    {
+      "word": "हर",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "दो-दो",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "डेली",
+      "count": 2
+    },
+    {
+      "word": "2gb",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कोई भी",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "दो-दो रिचार्ज",
+      "count": 2
+    },
+    {
+      "phrase": "इंटरनेट को",
+      "count": 2
+    },
+    {
+      "phrase": "डेली का",
+      "count": 2
+    },
+    {
+      "phrase": "का 2gb",
+      "count": 2
+    },
+    {
+      "phrase": "2gb इंटरनेट",
+      "count": 2
+    },
+    {
+      "phrase": "देने पड़ेंगे",
+      "count": 2
+    },
+    {
+      "phrase": "ये jio",
+      "count": 1
+    },
+    {
+      "phrase": "jio airtel",
+      "count": 1
+    }
+  ],
+  "segment_count": 15
+}

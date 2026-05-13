@@ -1,0 +1,148 @@
+{
+  "video_id": "2BjZJS4mqgY",
+  "duration_seconds": 57,
+  "wps": 3.47,
+  "total_words": 198,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 768
+  },
+  "hook": {
+    "type": "statement",
+    "text": "लुई विटन का ये बैग ₹ लाख का है पर आखिर लुई टन के बैग्स इतने एक्सपेंसिव क्यों होते हैं पहला कारण है कि इनके सभी बैग्स"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "ये उन्हें खुद ही डिस्ट्रॉय कर देते हैं ताकि इन बैग्स को डिस्काउंट पे ना बेचना पड़े ऐसी और वीडियोस के लिए चैनल को सब्सक्राइब करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "बैग्स",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "इनके",
+      "count": 4
+    },
+    {
+      "word": "लुई",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "होते",
+      "count": 3
+    },
+    {
+      "word": "कारण",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "इन्हें",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "अलग-अलग",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "यूज",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "कारण है",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "किया जाता",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "और इनके",
+      "count": 2
+    },
+    {
+      "phrase": "बैग्स को",
+      "count": 2
+    },
+    {
+      "phrase": "लुई विटन",
+      "count": 1
+    },
+    {
+      "phrase": "विटन का",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

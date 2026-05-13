@@ -1,0 +1,149 @@
+{
+  "video_id": "jbVWd6fQlT0",
+  "duration_seconds": 52,
+  "wps": 3.65,
+  "total_words": 190,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 717
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंसान जिंदगी भर कमाता है अपने 35 40ज में अपने शरीर की बीमारियों को फंड करने के लिए। वेरी वाइस वर्ड्स। वेरी वेरी वाइस वर्ड्स।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बाद। यू हैव टू टेक केयर ऑफ योरसेल्फ। एंड द ओनली वे यू कैन डू दिस इज बाय लर्निंग द साइंस ऑफ़ हाउ टू टेक केयर ऑफ योर बॉडी। राइट राइट राइट।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "आई",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "स्टॉक्स",
+      "count": 4
+    },
+    {
+      "word": "वेरी",
+      "count": 3
+    },
+    {
+      "word": "विल",
+      "count": 3
+    },
+    {
+      "word": "इन्वेस्ट",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "केयर",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "देखभाल",
+      "count": 3
+    },
+    {
+      "word": "आपका",
+      "count": 3
+    },
+    {
+      "word": "राइट",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "वाइस",
+      "count": 2
+    },
+    {
+      "word": "वर्ड्स",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वेरी वाइस",
+      "count": 2
+    },
+    {
+      "phrase": "वाइस वर्ड्स",
+      "count": 2
+    },
+    {
+      "phrase": "खुद का",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "आपका देखभाल",
+      "count": 2
+    },
+    {
+      "phrase": "देखभाल नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं करेगा",
+      "count": 2
+    },
+    {
+      "phrase": "टू टेक",
+      "count": 2
+    },
+    {
+      "phrase": "टेक केयर",
+      "count": 2
+    },
+    {
+      "phrase": "केयर ऑफ",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

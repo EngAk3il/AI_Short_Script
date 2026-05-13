@@ -1,0 +1,148 @@
+{
+  "video_id": "NzEh45PciYY",
+  "duration_seconds": 54,
+  "wps": 3.54,
+  "total_words": 191,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 779
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मोमोज बेच के इस एंटरप्रेन्योर का बिजनेस बनाया सागर दरियानी ने देखा कि अनलाइक पिज़्ज़ा और बर्गर मोमोज का कोई भी बड़ा ब्रांड नहीं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मोमो और इंडिपेंडेंस डे के लिए तिरंगा मोमो भी लॉन्च किया और आज इन्हीं स्ट्रेटजी से ये नंबर वन"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "मोमो",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "इन्होंने",
+      "count": 4
+    },
+    {
+      "word": "मोमोज",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "इसीलिए",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "देखा",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "मॉल",
+      "count": 2
+    },
+    {
+      "word": "लगा",
+      "count": 2
+    },
+    {
+      "word": "लोगों",
+      "count": 2
+    },
+    {
+      "word": "टेस्ट",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है इसीलिए",
+      "count": 3
+    },
+    {
+      "phrase": "देखा कि",
+      "count": 2
+    },
+    {
+      "phrase": "मॉल में",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 2
+    },
+    {
+      "phrase": "लॉन्च किया",
+      "count": 2
+    },
+    {
+      "phrase": "डे के",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "मोमोज बेच",
+      "count": 1
+    },
+    {
+      "phrase": "बेच के",
+      "count": 1
+    },
+    {
+      "phrase": "के इस",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

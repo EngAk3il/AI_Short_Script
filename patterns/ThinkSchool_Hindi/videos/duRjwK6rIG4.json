@@ -1,0 +1,148 @@
+{
+  "video_id": "duRjwK6rIG4",
+  "duration_seconds": 65,
+  "wps": 4.37,
+  "total_words": 284,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 994
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैं ना वेदांत से बात कर रहा था। वेदांत"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करोड़ पे है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "कि",
+      "count": 11
+    },
+    {
+      "word": "हो",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "ने",
+      "count": 6
+    },
+    {
+      "word": "मैं",
+      "count": 5
+    },
+    {
+      "word": "रहा",
+      "count": 5
+    },
+    {
+      "word": "अंकल",
+      "count": 5
+    },
+    {
+      "word": "क्या",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "चीज",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "इतना",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अंकल ने",
+      "count": 5
+    },
+    {
+      "phrase": "कि ये",
+      "count": 4
+    },
+    {
+      "phrase": "का है",
+      "count": 4
+    },
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "हो जाता",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "कहीं पे",
+      "count": 3
+    },
+    {
+      "phrase": "का बिक",
+      "count": 3
+    },
+    {
+      "phrase": "बिक रहा",
+      "count": 3
+    },
+    {
+      "phrase": "इतना अच्छा",
+      "count": 3
+    }
+  ],
+  "segment_count": 35
+}

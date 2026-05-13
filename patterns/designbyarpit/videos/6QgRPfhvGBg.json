@@ -1,0 +1,148 @@
+{
+  "video_id": "6QgRPfhvGBg",
+  "duration_seconds": 47,
+  "wps": 2.79,
+  "total_words": 131,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 637
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Bengaluru is the third slowest city on earth while Hyderabad is 18th. Let's understand why. See, Bengaluru grew explosively fast. But here is what exactly happened. Buildings came first,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "not the other way"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "was",
+      "count": 4
+    },
+    {
+      "word": "land",
+      "count": 3
+    },
+    {
+      "word": "bengaluru",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "hyderabad",
+      "count": 2
+    },
+    {
+      "word": "grew",
+      "count": 2
+    },
+    {
+      "word": "fast",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "came",
+      "count": 2
+    },
+    {
+      "word": "first",
+      "count": 2
+    },
+    {
+      "word": "developers",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "infrastructure",
+      "count": 2
+    },
+    {
+      "word": "they",
+      "count": 2
+    },
+    {
+      "word": "same",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "outer ring",
+      "count": 2
+    },
+    {
+      "phrase": "ring road",
+      "count": 2
+    },
+    {
+      "phrase": "the land",
+      "count": 2
+    },
+    {
+      "phrase": "master plan",
+      "count": 2
+    },
+    {
+      "phrase": "bengaluru is",
+      "count": 1
+    },
+    {
+      "phrase": "is the",
+      "count": 1
+    },
+    {
+      "phrase": "the third",
+      "count": 1
+    },
+    {
+      "phrase": "third slowest",
+      "count": 1
+    },
+    {
+      "phrase": "slowest city",
+      "count": 1
+    },
+    {
+      "phrase": "city on",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "mei-Z5bzEbk",
+  "duration_seconds": 85,
+  "wps": 3.07,
+  "total_words": 261,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1075
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जब सर्दियों में फुटबॉल खेलना इंपॉसिबल हो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पॉपुलर गेम्स में से एक"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "गया",
+      "count": 5
+    },
+    {
+      "word": "ने",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "बास्केटबॉल",
+      "count": 4
+    },
+    {
+      "word": "गेम",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "फुटबॉल",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "जेम्स",
+      "count": 3
+    },
+    {
+      "word": "जिसमें",
+      "count": 3
+    },
+    {
+      "word": "खेला",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "उन्होंने",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हो गया",
+      "count": 2
+    },
+    {
+      "phrase": "स्कूल के",
+      "count": 2
+    },
+    {
+      "phrase": "जेम्स ने",
+      "count": 2
+    },
+    {
+      "phrase": "गया और",
+      "count": 2
+    },
+    {
+      "phrase": "जब सर्दियों",
+      "count": 1
+    },
+    {
+      "phrase": "सर्दियों में",
+      "count": 1
+    },
+    {
+      "phrase": "में फुटबॉल",
+      "count": 1
+    },
+    {
+      "phrase": "फुटबॉल खेलना",
+      "count": 1
+    },
+    {
+      "phrase": "खेलना इंपॉसिबल",
+      "count": 1
+    },
+    {
+      "phrase": "इंपॉसिबल हो",
+      "count": 1
+    }
+  ],
+  "segment_count": 35
+}

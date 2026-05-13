@@ -1,0 +1,148 @@
+{
+  "video_id": "lLbkBKRTXH4",
+  "duration_seconds": 55,
+  "wps": 4.49,
+  "total_words": 247,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 890
+  },
+  "hook": {
+    "type": "question",
+    "text": "सर हाउ इज योर शार्क एक्सपीरियंस? बहुत"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डिस्ट्रीब्यूशन।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "आई",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "बीस्ट",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "पता",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "यार",
+      "count": 3
+    },
+    {
+      "word": "आपने",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "हु",
+      "count": 3
+    },
+    {
+      "word": "व्हाट",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मेरे को",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "आई हैव",
+      "count": 2
+    },
+    {
+      "phrase": "फ्लाइंग बीस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "मैं वो",
+      "count": 2
+    },
+    {
+      "phrase": "वो बंद",
+      "count": 2
+    },
+    {
+      "phrase": "मिली है",
+      "count": 2
+    },
+    {
+      "phrase": "करता था",
+      "count": 2
+    },
+    {
+      "phrase": "बिल्ड दैट",
+      "count": 2
+    },
+    {
+      "phrase": "दैट डिस्ट्रीब्यूशन",
+      "count": 2
+    }
+  ],
+  "segment_count": 31
+}

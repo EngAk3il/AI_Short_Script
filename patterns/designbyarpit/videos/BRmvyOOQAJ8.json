@@ -1,0 +1,149 @@
+{
+  "video_id": "BRmvyOOQAJ8",
+  "duration_seconds": 56,
+  "wps": 2.39,
+  "total_words": 134,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 615
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Picture a logo born in 1366, 660 years ago, and still on every Stella Arttoise"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "still feel instantly familiar. If you like this, follow for more such amazing design content."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "horn",
+      "count": 5
+    },
+    {
+      "word": "years",
+      "count": 3
+    },
+    {
+      "word": "stella",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "logo",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "660",
+      "count": 2
+    },
+    {
+      "word": "still",
+      "count": 2
+    },
+    {
+      "word": "every",
+      "count": 2
+    },
+    {
+      "word": "arttoise",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "kept",
+      "count": 2
+    },
+    {
+      "word": "symbol",
+      "count": 2
+    },
+    {
+      "word": "centuries",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "picture",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "660 years",
+      "count": 2
+    },
+    {
+      "phrase": "and still",
+      "count": 2
+    },
+    {
+      "phrase": "stella arttoise",
+      "count": 2
+    },
+    {
+      "phrase": "horn symbol",
+      "count": 2
+    },
+    {
+      "phrase": "the horn",
+      "count": 2
+    },
+    {
+      "phrase": "picture a",
+      "count": 1
+    },
+    {
+      "phrase": "a logo",
+      "count": 1
+    },
+    {
+      "phrase": "logo born",
+      "count": 1
+    },
+    {
+      "phrase": "born in",
+      "count": 1
+    },
+    {
+      "phrase": "in 1366",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

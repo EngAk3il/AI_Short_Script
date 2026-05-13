@@ -1,0 +1,148 @@
+{
+  "video_id": "yTq90fmya4g",
+  "duration_seconds": 50,
+  "wps": 1.56,
+  "total_words": 78,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 283
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हम आपको दिखाएंगे यहां का लोकल फूड। सबसे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आपके यहां क्या यूनिक खाते हैं?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "यहां",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "लोकल",
+      "count": 2
+    },
+    {
+      "word": "पोर्क",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "राइस",
+      "count": 2
+    },
+    {
+      "word": "पुडिंग",
+      "count": 2
+    },
+    {
+      "word": "डक",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 1
+    },
+    {
+      "word": "आपको",
+      "count": 1
+    },
+    {
+      "word": "दिखाएंगे",
+      "count": 1
+    },
+    {
+      "word": "फूड",
+      "count": 1
+    },
+    {
+      "word": "सबसे",
+      "count": 1
+    },
+    {
+      "word": "पहले",
+      "count": 1
+    },
+    {
+      "word": "तो",
+      "count": 1
+    },
+    {
+      "word": "फ्राइड",
+      "count": 1
+    },
+    {
+      "word": "यह",
+      "count": 1
+    },
+    {
+      "word": "ग्रेवी",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है ये",
+      "count": 4
+    },
+    {
+      "phrase": "राइस पुडिंग",
+      "count": 2
+    },
+    {
+      "phrase": "ये है",
+      "count": 2
+    },
+    {
+      "phrase": "हम आपको",
+      "count": 1
+    },
+    {
+      "phrase": "आपको दिखाएंगे",
+      "count": 1
+    },
+    {
+      "phrase": "दिखाएंगे यहां",
+      "count": 1
+    },
+    {
+      "phrase": "यहां का",
+      "count": 1
+    },
+    {
+      "phrase": "का लोकल",
+      "count": 1
+    },
+    {
+      "phrase": "लोकल फूड",
+      "count": 1
+    },
+    {
+      "phrase": "फूड सबसे",
+      "count": 1
+    }
+  ],
+  "segment_count": 11
+}

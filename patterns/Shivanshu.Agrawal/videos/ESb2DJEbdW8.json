@@ -1,0 +1,148 @@
+{
+  "video_id": "ESb2DJEbdW8",
+  "duration_seconds": 61,
+  "wps": 3.51,
+  "total_words": 214,
+  "language_mix": {
+    "hindi": 98.6,
+    "english": 1.4,
+    "total_chars": 882
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक फिल्म एक्ट्रेस ने फ्रांस को वर्ल्ड वॉर 2 जितने में मदद कारी थी जोसेफ इन बेकार एक डांसर सिंगर और एक्टर थी जिन्हें वर्ल्ड की फर्स्ट ब्लैक सुपरस्टार भी कहा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "गवर्नमेंट से कोई पैसा नहीं लिया"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "थी",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "जर्मन",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 3
+    },
+    {
+      "word": "वॉर",
+      "count": 3
+    },
+    {
+      "word": "फ़्रेंच",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "कारी",
+      "count": 2
+    },
+    {
+      "word": "सुपरस्टार",
+      "count": 2
+    },
+    {
+      "word": "कहा",
+      "count": 2
+    },
+    {
+      "word": "उनके",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वर्ल्ड वॉर",
+      "count": 2
+    },
+    {
+      "phrase": "वॉर 2",
+      "count": 2
+    },
+    {
+      "phrase": "कारी थी",
+      "count": 2
+    },
+    {
+      "phrase": "एक फ़्रेंच",
+      "count": 2
+    },
+    {
+      "phrase": "करने में",
+      "count": 2
+    },
+    {
+      "phrase": "थी और",
+      "count": 2
+    },
+    {
+      "phrase": "कर लेती",
+      "count": 2
+    },
+    {
+      "phrase": "लेती थी",
+      "count": 2
+    },
+    {
+      "phrase": "एक फिल्म",
+      "count": 1
+    },
+    {
+      "phrase": "फिल्म एक्ट्रेस",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

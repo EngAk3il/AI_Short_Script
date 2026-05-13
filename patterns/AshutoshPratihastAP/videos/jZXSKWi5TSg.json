@@ -1,0 +1,148 @@
+{
+  "video_id": "jZXSKWi5TSg",
+  "duration_seconds": 63,
+  "wps": 2.13,
+  "total_words": 134,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 486
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "25 सिंपल स्टेप्स पीड़ितों को फंडामेंटल की लड़ाई करने से पहले अपने दिमाग फॉर इंडक्शन लोकनाटक बच्ची के पिता हो और आपको"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कर दो"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "कितना",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "लेते",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "कम",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "बच्ची",
+      "count": 2
+    },
+    {
+      "word": "आपको",
+      "count": 2
+    },
+    {
+      "word": "कमा",
+      "count": 2
+    },
+    {
+      "word": "बचा",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लेते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "बच्ची के",
+      "count": 2
+    },
+    {
+      "phrase": "कितना कमा",
+      "count": 2
+    },
+    {
+      "phrase": "कमा लेते",
+      "count": 2
+    },
+    {
+      "phrase": "कितना बचा",
+      "count": 2
+    },
+    {
+      "phrase": "कितना है",
+      "count": 2
+    },
+    {
+      "phrase": "कम कर",
+      "count": 2
+    },
+    {
+      "phrase": "25 सिंपल",
+      "count": 1
+    },
+    {
+      "phrase": "सिंपल स्टेप्स",
+      "count": 1
+    },
+    {
+      "phrase": "स्टेप्स पीड़ितों",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

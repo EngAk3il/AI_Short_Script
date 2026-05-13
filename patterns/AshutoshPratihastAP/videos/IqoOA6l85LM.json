@@ -1,0 +1,148 @@
+{
+  "video_id": "IqoOA6l85LM",
+  "duration_seconds": 60,
+  "wps": 3.35,
+  "total_words": 201,
+  "language_mix": {
+    "hindi": 96.3,
+    "english": 3.7,
+    "total_chars": 731
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कि अब इस विडियो से लोगों को बहुत मिनट तक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिलता है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "वह",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "अब",
+      "count": 3
+    },
+    {
+      "word": "लोगों",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "जब",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "हुआ",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "सारे",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "ठीक",
+      "count": 2
+    },
+    {
+      "word": "ऐसा",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ठीक है",
+      "count": 2
+    },
+    {
+      "phrase": "है वह",
+      "count": 2
+    },
+    {
+      "phrase": "लिस्ट हुआ",
+      "count": 2
+    },
+    {
+      "phrase": "हुआ था",
+      "count": 2
+    },
+    {
+      "phrase": "मिलता है",
+      "count": 2
+    },
+    {
+      "phrase": "कि अब",
+      "count": 1
+    },
+    {
+      "phrase": "अब इस",
+      "count": 1
+    },
+    {
+      "phrase": "इस विडियो",
+      "count": 1
+    },
+    {
+      "phrase": "विडियो से",
+      "count": 1
+    },
+    {
+      "phrase": "से लोगों",
+      "count": 1
+    }
+  ],
+  "segment_count": 25
+}

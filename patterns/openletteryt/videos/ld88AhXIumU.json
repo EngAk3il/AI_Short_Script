@@ -1,0 +1,149 @@
+{
+  "video_id": "ld88AhXIumU",
+  "duration_seconds": 111,
+  "wps": 3.5,
+  "total_words": 388,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1417
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैं कुछ संकोच नहीं करूंगा कि हम भारतीय"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "होने वाला है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 24
+    },
+    {
+      "word": "तो",
+      "count": 9
+    },
+    {
+      "word": "साफ",
+      "count": 8
+    },
+    {
+      "word": "कि",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "नहीं",
+      "count": 6
+    },
+    {
+      "word": "यह",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "ट्रेन",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 5
+    },
+    {
+      "word": "दिया",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "हम",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "अब",
+      "count": 4
+    },
+    {
+      "word": "घर",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "दिया है",
+      "count": 3
+    },
+    {
+      "phrase": "है अब",
+      "count": 3
+    },
+    {
+      "phrase": "जा रही",
+      "count": 3
+    },
+    {
+      "phrase": "रही है",
+      "count": 3
+    },
+    {
+      "phrase": "कि हम",
+      "count": 2
+    },
+    {
+      "phrase": "हम भारतीय",
+      "count": 2
+    },
+    {
+      "phrase": "है यह",
+      "count": 2
+    },
+    {
+      "phrase": "ट्रेन चलाई",
+      "count": 2
+    },
+    {
+      "phrase": "गई है",
+      "count": 2
+    },
+    {
+      "phrase": "की जिम्मेदारी",
+      "count": 2
+    }
+  ],
+  "segment_count": 49
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "IhtFVNI4YPY",
+  "duration_seconds": 47,
+  "wps": 3.49,
+  "total_words": 164,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 604
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया का एक ऐसा मिस्टीरियस लेग जिसने नासा के साइंटिस्ट को भी कंफ्यूज कर दिया महाराष्ट्र का लोनार लेक ₹50000 साल पहले"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कहानी नहीं पे जाते इन सभी में स्त्री इसका साइंटिस्ट के पास आज तक कोई जवाब"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "साइंटिस्ट",
+      "count": 3
+    },
+    {
+      "word": "मी",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "इसलिए",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    },
+    {
+      "word": "पानी",
+      "count": 2
+    },
+    {
+      "word": "नेचर",
+      "count": 2
+    },
+    {
+      "word": "कंपास",
+      "count": 2
+    },
+    {
+      "word": "अभी",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "के पानी",
+      "count": 2
+    },
+    {
+      "phrase": "पानी का",
+      "count": 2
+    },
+    {
+      "phrase": "साइंटिस्ट के",
+      "count": 2
+    },
+    {
+      "phrase": "पे जाते",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया का",
+      "count": 1
+    },
+    {
+      "phrase": "का एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक ऐसा",
+      "count": 1
+    },
+    {
+      "phrase": "ऐसा मिस्टीरियस",
+      "count": 1
+    },
+    {
+      "phrase": "मिस्टीरियस लेग",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

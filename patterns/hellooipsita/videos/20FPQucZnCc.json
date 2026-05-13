@@ -1,0 +1,148 @@
+{
+  "video_id": "20FPQucZnCc",
+  "duration_seconds": 36,
+  "wps": 2.83,
+  "total_words": 102,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 371
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "By not trying at all, by giving into hopelessness, I'm even robbing myself of that opportunity that's possible."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "at least I take that"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "one",
+      "count": 4
+    },
+    {
+      "word": "at",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "dart",
+      "count": 3
+    },
+    {
+      "word": "if",
+      "count": 3
+    },
+    {
+      "word": "might",
+      "count": 3
+    },
+    {
+      "word": "hit",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "by",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "shoot",
+      "count": 2
+    },
+    {
+      "word": "20",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "as",
+      "count": 2
+    },
+    {
+      "word": "least",
+      "count": 2
+    },
+    {
+      "word": "chance",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 1
+    },
+    {
+      "word": "trying",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "i might",
+      "count": 3
+    },
+    {
+      "phrase": "a dart",
+      "count": 2
+    },
+    {
+      "phrase": "if i",
+      "count": 2
+    },
+    {
+      "phrase": "might hit",
+      "count": 2
+    },
+    {
+      "phrase": "at least",
+      "count": 2
+    },
+    {
+      "phrase": "by not",
+      "count": 1
+    },
+    {
+      "phrase": "not trying",
+      "count": 1
+    },
+    {
+      "phrase": "trying at",
+      "count": 1
+    },
+    {
+      "phrase": "at all",
+      "count": 1
+    },
+    {
+      "phrase": "all by",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

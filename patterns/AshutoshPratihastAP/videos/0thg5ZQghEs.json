@@ -1,0 +1,104 @@
+{
+  "video_id": "0thg5ZQghEs",
+  "duration_seconds": 35,
+  "wps": 0.51,
+  "total_words": 18,
+  "language_mix": {
+    "hindi": 86.0,
+    "english": 14.0,
+    "total_chars": 57
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "jajbaton को महक लें दे आज पत्ते चक लें दे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[प्रशंसा]"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "दे",
+      "count": 4
+    },
+    {
+      "word": "लें",
+      "count": 3
+    },
+    {
+      "word": "चक",
+      "count": 3
+    },
+    {
+      "word": "आज",
+      "count": 2
+    },
+    {
+      "word": "पत्ते",
+      "count": 2
+    },
+    {
+      "word": "jajbaton",
+      "count": 1
+    },
+    {
+      "word": "को",
+      "count": 1
+    },
+    {
+      "word": "महक",
+      "count": 1
+    },
+    {
+      "word": "प्रशंसा",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लें दे",
+      "count": 3
+    },
+    {
+      "phrase": "दे आज",
+      "count": 2
+    },
+    {
+      "phrase": "आज पत्ते",
+      "count": 2
+    },
+    {
+      "phrase": "पत्ते चक",
+      "count": 2
+    },
+    {
+      "phrase": "चक लें",
+      "count": 2
+    },
+    {
+      "phrase": "jajbaton को",
+      "count": 1
+    },
+    {
+      "phrase": "को महक",
+      "count": 1
+    },
+    {
+      "phrase": "महक लें",
+      "count": 1
+    },
+    {
+      "phrase": "दे चक",
+      "count": 1
+    },
+    {
+      "phrase": "चक दे",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

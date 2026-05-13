@@ -1,0 +1,149 @@
+{
+  "video_id": "bj-eOWsjMe0",
+  "duration_seconds": 91,
+  "wps": 2.98,
+  "total_words": 271,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1051
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मोस्टली लोगों को फ्रीलांसिंग इसलिए शुरू करनी है क्योंकि उन्होंने फैंसी गाड़ी देखी थी। करेक्ट। तो उनको लगता है फटाफट पैसा बटोर लूं फिर तो मैं फोर आवर वर्क"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फोकस करो तो गॉट इट"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "क्लाइंट",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "इज",
+      "count": 6
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "मोर",
+      "count": 4
+    },
+    {
+      "word": "रिटेंशन",
+      "count": 4
+    },
+    {
+      "word": "फिर",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "दैट",
+      "count": 3
+    },
+    {
+      "word": "एज",
+      "count": 3
+    },
+    {
+      "word": "फ्रीलांसर",
+      "count": 3
+    },
+    {
+      "word": "जॉब",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "लॉन्ग",
+      "count": 3
+    },
+    {
+      "word": "टर्म",
+      "count": 3
+    },
+    {
+      "word": "सेलिंग",
+      "count": 3
+    },
+    {
+      "word": "फोकस",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इज अ",
+      "count": 3
+    },
+    {
+      "phrase": "एज अ",
+      "count": 3
+    },
+    {
+      "phrase": "अ फ्रीलांसर",
+      "count": 3
+    },
+    {
+      "phrase": "मच मोर",
+      "count": 2
+    },
+    {
+      "phrase": "लॉन्ग टर्म",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "क्लाइंट को",
+      "count": 2
+    },
+    {
+      "phrase": "मतलब वो",
+      "count": 2
+    },
+    {
+      "phrase": "अ न्यू",
+      "count": 2
+    },
+    {
+      "phrase": "न्यू क्लाइंट",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

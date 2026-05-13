@@ -1,0 +1,149 @@
+{
+  "video_id": "b3_dXe26RFE",
+  "duration_seconds": 28,
+  "wps": 4.96,
+  "total_words": 139,
+  "language_mix": {
+    "hindi": 96.1,
+    "english": 3.9,
+    "total_chars": 483
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भाई अंबानी की चोरी पकड़ी गई और हाईकोर्ट ने ऑर्डर दिया है सीबीआई को कि भैया इनके ऊपर इन्वेस्टिगेट करो। अभी तुम लोग एलगेशन समझो। 2004 से लेके 2014 तक ना Reliance"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "दिया। 2013 के अंदर जाके ओएनgसी वालों ने पकड़ा कि अरे भैया ये तो 10,000 करोड़ से ज्यादा बड़ा स्कैम कर चुके हैं और फिर लोग पूछते हैं कि भैया इतनी बड़ी शादी के पैसे कहां से आए?"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "चोरी",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "गैस",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "भैया",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "वालों",
+      "count": 3
+    },
+    {
+      "word": "ओएनgसी",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "ऊपर",
+      "count": 2
+    },
+    {
+      "word": "अभी",
+      "count": 2
+    },
+    {
+      "word": "तुम",
+      "count": 2
+    },
+    {
+      "word": "समझो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वालों ने",
+      "count": 3
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "तुम लोग",
+      "count": 2
+    },
+    {
+      "phrase": "reliance वालों",
+      "count": 2
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "भाई अंबानी",
+      "count": 1
+    },
+    {
+      "phrase": "अंबानी की",
+      "count": 1
+    },
+    {
+      "phrase": "की चोरी",
+      "count": 1
+    },
+    {
+      "phrase": "चोरी पकड़ी",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

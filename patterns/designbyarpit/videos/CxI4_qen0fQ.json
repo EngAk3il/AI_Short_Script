@@ -1,0 +1,148 @@
+{
+  "video_id": "CxI4_qen0fQ",
+  "duration_seconds": 51,
+  "wps": 2.88,
+  "total_words": 147,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 690
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "You think that their design is random,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "amazing design content."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "but",
+      "count": 6
+    },
+    {
+      "word": "design",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "people",
+      "count": 4
+    },
+    {
+      "word": "think",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "lines",
+      "count": 3
+    },
+    {
+      "word": "so",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "designed",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "happy",
+      "count": 2
+    },
+    {
+      "word": "straight",
+      "count": 2
+    },
+    {
+      "word": "everybody",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "snake",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you think",
+      "count": 2
+    },
+    {
+      "phrase": "design is",
+      "count": 2
+    },
+    {
+      "phrase": "designed to",
+      "count": 2
+    },
+    {
+      "phrase": "and everybody",
+      "count": 2
+    },
+    {
+      "phrase": "snake lines",
+      "count": 2
+    },
+    {
+      "phrase": "think that",
+      "count": 1
+    },
+    {
+      "phrase": "that their",
+      "count": 1
+    },
+    {
+      "phrase": "their design",
+      "count": 1
+    },
+    {
+      "phrase": "is random",
+      "count": 1
+    },
+    {
+      "phrase": "random but",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "ShSdCJYBbp0",
+  "duration_seconds": 22,
+  "wps": 1.86,
+  "total_words": 41,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 194
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "or Melody Wilding a professor of human behavior came up with one primary factor based on which we categorize the three"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "the",
+      "count": 3
+    },
+    {
+      "word": "factor",
+      "count": 2
+    },
+    {
+      "word": "three",
+      "count": 2
+    },
+    {
+      "word": "types",
+      "count": 2
+    },
+    {
+      "word": "overthinking",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "or",
+      "count": 1
+    },
+    {
+      "word": "melody",
+      "count": 1
+    },
+    {
+      "word": "wilding",
+      "count": 1
+    },
+    {
+      "word": "professor",
+      "count": 1
+    },
+    {
+      "word": "human",
+      "count": 1
+    },
+    {
+      "word": "behavior",
+      "count": 1
+    },
+    {
+      "word": "came",
+      "count": 1
+    },
+    {
+      "word": "up",
+      "count": 1
+    },
+    {
+      "word": "with",
+      "count": 1
+    },
+    {
+      "word": "one",
+      "count": 1
+    },
+    {
+      "word": "primary",
+      "count": 1
+    },
+    {
+      "word": "based",
+      "count": 1
+    },
+    {
+      "word": "on",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the three",
+      "count": 2
+    },
+    {
+      "phrase": "three types",
+      "count": 2
+    },
+    {
+      "phrase": "types of",
+      "count": 2
+    },
+    {
+      "phrase": "of overthinking",
+      "count": 2
+    },
+    {
+      "phrase": "or melody",
+      "count": 1
+    },
+    {
+      "phrase": "melody wilding",
+      "count": 1
+    },
+    {
+      "phrase": "wilding a",
+      "count": 1
+    },
+    {
+      "phrase": "a professor",
+      "count": 1
+    },
+    {
+      "phrase": "professor of",
+      "count": 1
+    },
+    {
+      "phrase": "of human",
+      "count": 1
+    }
+  ],
+  "segment_count": 3
+}

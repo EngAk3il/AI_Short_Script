@@ -1,0 +1,148 @@
+{
+  "video_id": "j_pxgvvgtFE",
+  "duration_seconds": 45,
+  "wps": 3.51,
+  "total_words": 158,
+  "language_mix": {
+    "hindi": 95.9,
+    "english": 4.1,
+    "total_chars": 613
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रिच लोग अपना यह सीक्रेट कभी नहीं बताते कि वो एi को कितना स्मार्टली यूज कर रहे हैं। बट आपको इसके बारे में पता ही नहीं है। प्रेजेंटेशन बनाने के लिए वो"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "ऐसी वीडियोस बनाऊं एंड फॉलो फॉर मोर। हम्म।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "नहीं",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "लिए",
+      "count": 7
+    },
+    {
+      "word": "यूज",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "अब",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "वीडियो",
+      "count": 2
+    },
+    {
+      "word": "एडिटिंग",
+      "count": 2
+    },
+    {
+      "word": "ऑप्शन",
+      "count": 2
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 7
+    },
+    {
+      "phrase": "यूज कर",
+      "count": 3
+    },
+    {
+      "phrase": "किया जाता",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "लिए अब",
+      "count": 2
+    },
+    {
+      "phrase": "एडिटिंग के",
+      "count": 2
+    },
+    {
+      "phrase": "यूज किया",
+      "count": 2
+    },
+    {
+      "phrase": "रिच लोग",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

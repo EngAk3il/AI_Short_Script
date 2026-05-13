@@ -1,0 +1,148 @@
+{
+  "video_id": "76g-nUh_xsQ",
+  "duration_seconds": 40,
+  "wps": 2.62,
+  "total_words": 105,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 378
+  },
+  "hook": {
+    "type": "statement",
+    "text": "यह हमारे गुजरात का एक ऐसा पार्ट है जो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के वार्ड में।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "जाते",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "बोतल",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 2
+    },
+    {
+      "word": "खांसी",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "ऊपर",
+      "count": 2
+    },
+    {
+      "word": "₹200",
+      "count": 2
+    },
+    {
+      "word": "हमारे",
+      "count": 1
+    },
+    {
+      "word": "गुजरात",
+      "count": 1
+    },
+    {
+      "word": "एक",
+      "count": 1
+    },
+    {
+      "word": "ऐसा",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है जो",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "है खांसी",
+      "count": 2
+    },
+    {
+      "phrase": "जाते हो",
+      "count": 2
+    },
+    {
+      "phrase": "यह हमारे",
+      "count": 1
+    },
+    {
+      "phrase": "हमारे गुजरात",
+      "count": 1
+    },
+    {
+      "phrase": "गुजरात का",
+      "count": 1
+    },
+    {
+      "phrase": "का एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक ऐसा",
+      "count": 1
+    },
+    {
+      "phrase": "ऐसा पार्ट",
+      "count": 1
+    }
+  ],
+  "segment_count": 19
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "apvAQ1Fudxc",
+  "duration_seconds": 51,
+  "wps": 3.98,
+  "total_words": 203,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 784
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ऐलान मस्क ने ट्विटर को एक बहुत बड़े क्राइसिस में दल दिया है सबसे पहले तो ब्लू टेक 8 डॉलर में मिलने से कई फेक अकाउंट्स ने ब्लू टेक खरीद लिए एवं जीसस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इसीलिए ट्विटर पे हैशटैग ट्विटर और गुडबाय ट्विटर ट्रेंड कर रहा"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "ट्विटर",
+      "count": 9
+    },
+    {
+      "word": "ने",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "फेक",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "एम्पलाइज",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "कंपनी",
+      "count": 3
+    },
+    {
+      "word": "ब्लू",
+      "count": 2
+    },
+    {
+      "word": "टेक",
+      "count": 2
+    },
+    {
+      "word": "अकाउंट्स",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ने ट्विटर",
+      "count": 2
+    },
+    {
+      "phrase": "ट्विटर को",
+      "count": 2
+    },
+    {
+      "phrase": "ब्लू टेक",
+      "count": 2
+    },
+    {
+      "phrase": "फेक अकाउंट्स",
+      "count": 2
+    },
+    {
+      "phrase": "अकाउंट्स ने",
+      "count": 2
+    },
+    {
+      "phrase": "ट्विटर पे",
+      "count": 2
+    },
+    {
+      "phrase": "या तो",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "ऐलान मस्क",
+      "count": 1
+    },
+    {
+      "phrase": "मस्क ने",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

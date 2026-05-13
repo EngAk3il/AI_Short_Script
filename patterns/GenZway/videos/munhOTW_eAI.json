@@ -1,0 +1,148 @@
+{
+  "video_id": "munhOTW_eAI",
+  "duration_seconds": 30,
+  "wps": 4.43,
+  "total_words": 133,
+  "language_mix": {
+    "hindi": 87.8,
+    "english": 12.2,
+    "total_chars": 451
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अंबानी के Jio ने ना BSNL की हालत खराब कर रखी है। BSNL एक ऐसा मसीहा था जो पिछले साल आया था Jio और Airtel से हमें बचाने। जैसे Jio और Airtel वालों ने अपने प्राइस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भैया BSNL तो चलता नहीं है और ये चीज देख के Jio वाले और प्राइस उठा दे रहे हैं।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "bsnl",
+      "count": 7
+    },
+    {
+      "word": "jio",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "airtel",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "वालों",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "प्राइस",
+      "count": 2
+    },
+    {
+      "word": "सारे",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "पास",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 3
+    },
+    {
+      "phrase": "के jio",
+      "count": 2
+    },
+    {
+      "phrase": "jio और",
+      "count": 2
+    },
+    {
+      "phrase": "और airtel",
+      "count": 2
+    },
+    {
+      "phrase": "वालों ने",
+      "count": 2
+    },
+    {
+      "phrase": "लोग bsnl",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं आ",
+      "count": 2
+    },
+    {
+      "phrase": "आ रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "अंबानी के",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

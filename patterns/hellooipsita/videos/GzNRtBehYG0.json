@@ -1,0 +1,148 @@
+{
+  "video_id": "GzNRtBehYG0",
+  "duration_seconds": 58,
+  "wps": 3.38,
+  "total_words": 196,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 689
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कि वी थिंक दैट इट्स फियर ऑफ़ फेलियर बट इट्स नॉट फियर ऑफ फेलियर इट्स द फियर ऑफ बीइंग पर्सीवड एज अ फेलियर आई एम नॉट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हु इज रियली थिंकिंग अबाउट ईच अदर"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "दैट",
+      "count": 11
+    },
+    {
+      "word": "आई",
+      "count": 10
+    },
+    {
+      "word": "इज",
+      "count": 6
+    },
+    {
+      "word": "एम",
+      "count": 5
+    },
+    {
+      "word": "मी",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "इफ",
+      "count": 5
+    },
+    {
+      "word": "थिंकिंग",
+      "count": 5
+    },
+    {
+      "word": "वी",
+      "count": 4
+    },
+    {
+      "word": "इट्स",
+      "count": 4
+    },
+    {
+      "word": "फेलियर",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "अबाउट",
+      "count": 4
+    },
+    {
+      "word": "फियर",
+      "count": 3
+    },
+    {
+      "word": "लाइक",
+      "count": 3
+    },
+    {
+      "word": "आर",
+      "count": 3
+    },
+    {
+      "word": "इगो",
+      "count": 3
+    },
+    {
+      "word": "सेंट्रिक",
+      "count": 3
+    },
+    {
+      "word": "व्हाट",
+      "count": 3
+    },
+    {
+      "word": "हु",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आई एम",
+      "count": 5
+    },
+    {
+      "phrase": "इफ आई",
+      "count": 4
+    },
+    {
+      "phrase": "इगो सेंट्रिक",
+      "count": 3
+    },
+    {
+      "phrase": "हु इज",
+      "count": 3
+    },
+    {
+      "phrase": "थिंकिंग अबाउट",
+      "count": 3
+    },
+    {
+      "phrase": "दैट इट्स",
+      "count": 2
+    },
+    {
+      "phrase": "फियर ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "अ फेलियर",
+      "count": 2
+    },
+    {
+      "phrase": "अफ्रेड दैट",
+      "count": 2
+    },
+    {
+      "phrase": "दैट आई",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

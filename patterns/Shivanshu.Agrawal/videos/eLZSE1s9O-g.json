@@ -1,0 +1,148 @@
+{
+  "video_id": "eLZSE1s9O-g",
+  "duration_seconds": 59,
+  "wps": 3.47,
+  "total_words": 205,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 842
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "चाइना में सीक्रेटली लाखों लोग जमीन के नीचे रहते हैं। एक्चुअली 1960 में चाइना को डर था कि सोवियत यूनियन उनके ऊपर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इन ग्रेजुएट्स को देने लगे। इस अंडरग्राउंड सिटी में रूम्स बेहद छोटे हैं। नेचुरल लाइट जीरो है। 30-30 लोग एक बाथरूम और किचन शेयर करते हैं और फंगस लगी"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "चाइना",
+      "count": 4
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "नीचे",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "शहर",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "अंडरग्राउंड",
+      "count": 3
+    },
+    {
+      "word": "सिटी",
+      "count": 3
+    },
+    {
+      "word": "लाखों",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "सोवियत",
+      "count": 2
+    },
+    {
+      "word": "यूनियन",
+      "count": 2
+    },
+    {
+      "word": "उनके",
+      "count": 2
+    },
+    {
+      "word": "न्यूक्लियर",
+      "count": 2
+    },
+    {
+      "word": "अटैक",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अंडरग्राउंड सिटी",
+      "count": 3
+    },
+    {
+      "phrase": "चाइना में",
+      "count": 2
+    },
+    {
+      "phrase": "के नीचे",
+      "count": 2
+    },
+    {
+      "phrase": "में चाइना",
+      "count": 2
+    },
+    {
+      "phrase": "सोवियत यूनियन",
+      "count": 2
+    },
+    {
+      "phrase": "न्यूक्लियर अटैक",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "बीजिंग शहर",
+      "count": 2
+    },
+    {
+      "phrase": "बॉम्ब शेल्टर्स",
+      "count": 2
+    },
+    {
+      "phrase": "में सीक्रेटली",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "1v3mcRIvOxk",
+  "duration_seconds": 68,
+  "wps": 3.18,
+  "total_words": 216,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 993
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "These are the India's most famous brands, but they might be the total copies of these foreign giants. Each one copied a design, but the last one copied"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "for 3,000. Genius or theft? Subscribe and let me know."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 15
+    },
+    {
+      "word": "but",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "is",
+      "count": 6
+    },
+    {
+      "word": "they",
+      "count": 5
+    },
+    {
+      "word": "one",
+      "count": 5
+    },
+    {
+      "word": "look",
+      "count": 5
+    },
+    {
+      "word": "design",
+      "count": 4
+    },
+    {
+      "word": "their",
+      "count": 4
+    },
+    {
+      "word": "at",
+      "count": 4
+    },
+    {
+      "word": "for",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "wool",
+      "count": 3
+    },
+    {
+      "word": "same",
+      "count": 3
+    },
+    {
+      "word": "these",
+      "count": 2
+    },
+    {
+      "word": "india's",
+      "count": 2
+    },
+    {
+      "word": "famous",
+      "count": 2
+    },
+    {
+      "word": "brands",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "copied",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "one copied",
+      "count": 2
+    },
+    {
+      "phrase": "but the",
+      "count": 2
+    },
+    {
+      "phrase": "one is",
+      "count": 2
+    },
+    {
+      "phrase": "wool shoes",
+      "count": 2
+    },
+    {
+      "phrase": "but look",
+      "count": 2
+    },
+    {
+      "phrase": "look at",
+      "count": 2
+    },
+    {
+      "phrase": "all birds",
+      "count": 2
+    },
+    {
+      "phrase": "these are",
+      "count": 1
+    },
+    {
+      "phrase": "are the",
+      "count": 1
+    },
+    {
+      "phrase": "the india's",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

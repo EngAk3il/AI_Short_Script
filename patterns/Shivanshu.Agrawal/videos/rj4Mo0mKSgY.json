@@ -1,0 +1,148 @@
+{
+  "video_id": "rj4Mo0mKSgY",
+  "duration_seconds": 54,
+  "wps": 3.37,
+  "total_words": 182,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 748
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "स्पैरोज की कमी के करण 3 करोड़ चाइनीस लोग मारे गए थे 1958 में चीन अपने फूड ग्रीन प्रोडक्शन को बहुत तेजी से बढ़ाना चाहता"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करोड़ लोग मारे गए अल्टीमेटली चाइनीस गवर्नमेंट को अपनी गलती रिलाइज हुई और उन्होंने 2.5 लाख स्पैरोज को सोवियत यूनियन से इंपोर्ट करना"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "स्पैरोज",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "चाइनीस",
+      "count": 5
+    },
+    {
+      "word": "करने",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "गए",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "पापुलेशन",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 3
+    },
+    {
+      "word": "इंसेक्ट्स",
+      "count": 3
+    },
+    {
+      "word": "करण",
+      "count": 2
+    },
+    {
+      "word": "करोड़",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "मारे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "स्पैरोज की",
+      "count": 3
+    },
+    {
+      "phrase": "की पापुलेशन",
+      "count": 3
+    },
+    {
+      "phrase": "चाइनीस गवर्नमेंट",
+      "count": 3
+    },
+    {
+      "phrase": "स्पैरोज को",
+      "count": 3
+    },
+    {
+      "phrase": "के करण",
+      "count": 2
+    },
+    {
+      "phrase": "लोग मारे",
+      "count": 2
+    },
+    {
+      "phrase": "मारे गए",
+      "count": 2
+    },
+    {
+      "phrase": "को करने",
+      "count": 2
+    },
+    {
+      "phrase": "करने पर",
+      "count": 2
+    },
+    {
+      "phrase": "और ये",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

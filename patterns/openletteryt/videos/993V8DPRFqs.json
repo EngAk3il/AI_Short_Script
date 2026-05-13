@@ -1,0 +1,149 @@
+{
+  "video_id": "993V8DPRFqs",
+  "duration_seconds": 58,
+  "wps": 4.1,
+  "total_words": 238,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 887
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आजकल मैं देखता हूं वीआईपी दर्शन को लेकर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 17
+    },
+    {
+      "word": "तो",
+      "count": 9
+    },
+    {
+      "word": "दर्शन",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "पेट",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "लोग",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "लाइन",
+      "count": 4
+    },
+    {
+      "word": "लगता",
+      "count": 4
+    },
+    {
+      "word": "कोई",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "मंदिर",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "पैसा",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लगता है",
+      "count": 4
+    },
+    {
+      "phrase": "पेट दर्शन",
+      "count": 3
+    },
+    {
+      "phrase": "दर्शन को",
+      "count": 2
+    },
+    {
+      "phrase": "मंदिर और",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "जो लोग",
+      "count": 2
+    },
+    {
+      "phrase": "दर्शन करने",
+      "count": 2
+    },
+    {
+      "phrase": "हैं वह",
+      "count": 2
+    },
+    {
+      "phrase": "वह लोग",
+      "count": 2
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 2
+    }
+  ],
+  "segment_count": 30
+}

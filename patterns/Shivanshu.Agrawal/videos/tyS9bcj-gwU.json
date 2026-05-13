@@ -1,0 +1,148 @@
+{
+  "video_id": "tyS9bcj-gwU",
+  "duration_seconds": 60,
+  "wps": 3.65,
+  "total_words": 219,
+  "language_mix": {
+    "hindi": 98.8,
+    "english": 1.2,
+    "total_chars": 927
+  },
+  "hook": {
+    "type": "statement",
+    "text": "चाइना यहां एक ऐसा हाईवे बना रहा है जहां इंसानों का गाड़ी चलाना मना है। इन्होंने देखा कि लॉन्ग डिस्टेंस ट्रांसपोर्टेशन में ड्राइवर्स को बीच-बीच में रेस्ट करना"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टेक्नोलॉजी को इंटीग्रेट करना सीखना चाहते हो तो आपको इंडिया के सबसे बड़े टेक एंड बिजनेस इवेंट को अटेंड करना चाहिए। यह है ओडू कम्युनिटी डेज जो 13th और 14th अगस्त"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "यहां",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "हाईवे",
+      "count": 3
+    },
+    {
+      "word": "बना",
+      "count": 3
+    },
+    {
+      "word": "करना",
+      "count": 3
+    },
+    {
+      "word": "टेक्नोलॉजी",
+      "count": 3
+    },
+    {
+      "word": "फैक्ट्री",
+      "count": 3
+    },
+    {
+      "word": "चाइना",
+      "count": 2
+    },
+    {
+      "word": "जहां",
+      "count": 2
+    },
+    {
+      "word": "रेस्ट",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के कारण",
+      "count": 2
+    },
+    {
+      "phrase": "टेक्नोलॉजी का",
+      "count": 2
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 2
+    },
+    {
+      "phrase": "चाइना यहां",
+      "count": 1
+    },
+    {
+      "phrase": "यहां एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक ऐसा",
+      "count": 1
+    },
+    {
+      "phrase": "ऐसा हाईवे",
+      "count": 1
+    },
+    {
+      "phrase": "हाईवे बना",
+      "count": 1
+    },
+    {
+      "phrase": "बना रहा",
+      "count": 1
+    },
+    {
+      "phrase": "रहा है",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

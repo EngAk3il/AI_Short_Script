@@ -1,0 +1,148 @@
+{
+  "video_id": "Bs44y1FZy1g",
+  "duration_seconds": 21,
+  "wps": 4.0,
+  "total_words": 84,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 296
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कभी सोचा है ज्यादातर प्रोडक्ट्स का प्राइस नंबर नाइन पे क्यों एंड होता है साइकोलॉजिकल स्टडीज के हिसाब से लोग किसी भी चीज को लेफ्ट तू राइट पढ़ते हैं तो जैसे ही लोग कोई प्राइस जैसे 199 पढ़ते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "उन्हें यह प्रोडक्ट काफी सस्ते में मिल रहा है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "प्राइस",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "पढ़ते",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "होता",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "जैसे",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "कभी",
+      "count": 1
+    },
+    {
+      "word": "सोचा",
+      "count": 1
+    },
+    {
+      "word": "ज्यादातर",
+      "count": 1
+    },
+    {
+      "word": "प्रोडक्ट्स",
+      "count": 1
+    },
+    {
+      "word": "का",
+      "count": 1
+    },
+    {
+      "word": "नंबर",
+      "count": 1
+    },
+    {
+      "word": "नाइन",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "पढ़ते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं तो",
+      "count": 2
+    },
+    {
+      "phrase": "कभी सोचा",
+      "count": 1
+    },
+    {
+      "phrase": "सोचा है",
+      "count": 1
+    },
+    {
+      "phrase": "है ज्यादातर",
+      "count": 1
+    },
+    {
+      "phrase": "ज्यादातर प्रोडक्ट्स",
+      "count": 1
+    },
+    {
+      "phrase": "प्रोडक्ट्स का",
+      "count": 1
+    },
+    {
+      "phrase": "का प्राइस",
+      "count": 1
+    },
+    {
+      "phrase": "प्राइस नंबर",
+      "count": 1
+    }
+  ],
+  "segment_count": 3
+}

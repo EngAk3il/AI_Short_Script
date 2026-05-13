@@ -1,0 +1,148 @@
+{
+  "video_id": "Iql7LIAWI-8",
+  "duration_seconds": 54,
+  "wps": 3.65,
+  "total_words": 197,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 787
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "डोम्स ने इस तरह से अपने कंपटीशन को किल किया डोम्स ने देखा कि इंडियन मार्केट में जितनी भी पेंसिल्स आती हैं वो या तो हेक्सागोनल शेप की होती हैं या फिर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इन्हीं स्ट्रेटजी से डम्स इंडिया की मोस्ट प्रॉफिटेबल पेंसिल कंपनी है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "ने",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "डोम्स",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "पेंसिल्स",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "थी",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "या",
+      "count": 3
+    },
+    {
+      "word": "शेप",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "इसीलिए",
+      "count": 3
+    },
+    {
+      "word": "निकाली",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "देखा",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "डोम्स ने",
+      "count": 6
+    },
+    {
+      "phrase": "इसीलिए डोम्स",
+      "count": 3
+    },
+    {
+      "phrase": "पेंसिल्स निकाली",
+      "count": 3
+    },
+    {
+      "phrase": "देखा कि",
+      "count": 2
+    },
+    {
+      "phrase": "भी पेंसिल्स",
+      "count": 2
+    },
+    {
+      "phrase": "शेप की",
+      "count": 2
+    },
+    {
+      "phrase": "ट्रायंगुलर शेप",
+      "count": 2
+    },
+    {
+      "phrase": "की पेंसिल्स",
+      "count": 2
+    },
+    {
+      "phrase": "थी और",
+      "count": 2
+    },
+    {
+      "phrase": "के साथ",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

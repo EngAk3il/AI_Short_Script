@@ -1,0 +1,148 @@
+{
+  "video_id": "3NEjXXNnXjM",
+  "duration_seconds": 70,
+  "wps": 3.33,
+  "total_words": 233,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 936
+  },
+  "hook": {
+    "type": "question",
+    "text": "एक खतरनाक क्रैश के बाद भी प्लेन का ब्लैक बॉक्स डिस्ट्रॉय क्यों नहीं होता? इसे कहते ब्लैक बॉक्स है लेकिन ये जनरली ब्राइट ऑरेंज कलर का होता है ताकि क्रैश"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सभी प्लेन क्रैश केसेस को यही ब्लैक बॉक्सेस सॉल्व करते"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "ब्लैक",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "क्रैश",
+      "count": 4
+    },
+    {
+      "word": "फ्लाइट",
+      "count": 4
+    },
+    {
+      "word": "बॉक्सेस",
+      "count": 4
+    },
+    {
+      "word": "जाता",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "होता",
+      "count": 3
+    },
+    {
+      "word": "इसे",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "करता",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "बाद",
+      "count": 2
+    },
+    {
+      "word": "प्लेन",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "जाता है",
+      "count": 4
+    },
+    {
+      "phrase": "क्रैश के",
+      "count": 3
+    },
+    {
+      "phrase": "ब्लैक बॉक्सेस",
+      "count": 3
+    },
+    {
+      "phrase": "करता है",
+      "count": 3
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "ब्लैक बॉक्स",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "है ताकि",
+      "count": 2
+    },
+    {
+      "phrase": "किया जा",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

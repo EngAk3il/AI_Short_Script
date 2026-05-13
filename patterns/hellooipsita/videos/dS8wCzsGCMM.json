@@ -1,0 +1,148 @@
+{
+  "video_id": "dS8wCzsGCMM",
+  "duration_seconds": 39,
+  "wps": 1.9,
+  "total_words": 74,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 274
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "योर इमोशंस एंड योर बिहेवियर डोंट हैव टू"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ड नॉट मीनट आ टू एक्ट अकॉर्डिंग"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "टू",
+      "count": 6
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "योर",
+      "count": 2
+    },
+    {
+      "word": "इमोशंस",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "बिहेवियर",
+      "count": 2
+    },
+    {
+      "word": "हैव",
+      "count": 2
+    },
+    {
+      "word": "मैच",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "वी",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "इज",
+      "count": 2
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "एम",
+      "count": 2
+    },
+    {
+      "word": "माय",
+      "count": 2
+    },
+    {
+      "word": "वेरी",
+      "count": 2
+    },
+    {
+      "word": "डोंट",
+      "count": 1
+    },
+    {
+      "word": "बिगेस्ट",
+      "count": 1
+    },
+    {
+      "word": "मिस्टेक",
+      "count": 1
+    },
+    {
+      "word": "मेक",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इमोशंस एंड",
+      "count": 2
+    },
+    {
+      "phrase": "हैव टू",
+      "count": 2
+    },
+    {
+      "phrase": "टू मैच",
+      "count": 2
+    },
+    {
+      "phrase": "आई एम",
+      "count": 2
+    },
+    {
+      "phrase": "इट वेरी",
+      "count": 2
+    },
+    {
+      "phrase": "योर इमोशंस",
+      "count": 1
+    },
+    {
+      "phrase": "एंड योर",
+      "count": 1
+    },
+    {
+      "phrase": "योर बिहेवियर",
+      "count": 1
+    },
+    {
+      "phrase": "बिहेवियर डोंट",
+      "count": 1
+    },
+    {
+      "phrase": "डोंट हैव",
+      "count": 1
+    }
+  ],
+  "segment_count": 10
+}

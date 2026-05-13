@@ -1,0 +1,148 @@
+{
+  "video_id": "Afub1qCCEyY",
+  "duration_seconds": 48,
+  "wps": 3.62,
+  "total_words": 174,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 736
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "नॉन अल्कोहलिक में आपके टॉप थ्री सेलिंग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एड्स अ लिटिल बिट ऑफ़ वैल्यू इन योर लाइफ।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "व्हिच",
+      "count": 4
+    },
+    {
+      "word": "वी",
+      "count": 4
+    },
+    {
+      "word": "टॉप",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "ऑफ़",
+      "count": 3
+    },
+    {
+      "word": "आवर",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "थ्री",
+      "count": 2
+    },
+    {
+      "word": "सेलिंग",
+      "count": 2
+    },
+    {
+      "word": "प्रोडक्ट्स",
+      "count": 2
+    },
+    {
+      "word": "कौन",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "आर",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "हैव",
+      "count": 2
+    },
+    {
+      "word": "नाउ",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "व्हिच इज़",
+      "count": 3
+    },
+    {
+      "phrase": "टॉप थ्री",
+      "count": 2
+    },
+    {
+      "phrase": "कौन से",
+      "count": 2
+    },
+    {
+      "phrase": "वी हैव",
+      "count": 2
+    },
+    {
+      "phrase": "जीरो शुगर",
+      "count": 2
+    },
+    {
+      "phrase": "सोडा शिकंजी",
+      "count": 2
+    },
+    {
+      "phrase": "सेगमेंट में",
+      "count": 2
+    },
+    {
+      "phrase": "कर देते",
+      "count": 2
+    },
+    {
+      "phrase": "देते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "नॉन अल्कोहलिक",
+      "count": 1
+    }
+  ],
+  "segment_count": 24
+}

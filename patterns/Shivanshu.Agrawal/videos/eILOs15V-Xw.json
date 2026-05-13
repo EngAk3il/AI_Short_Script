@@ -1,0 +1,148 @@
+{
+  "video_id": "eILOs15V-Xw",
+  "duration_seconds": 61,
+  "wps": 3.93,
+  "total_words": 240,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 929
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मेरे लाइफ की सबसे बड़ी इन्वेस्टमेंट लर्निंग 2019 में एक स्मॉल के फंड की अच्छी परफॉर्मेंस को देख के मैंने उसमें शिप स्टार्ट कर दी लेकिन 2019 स्मॉल कैप"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "एवरी मार्केट कंडीशन सो तप डी लिंक इन डी प्रिंट कमेंट और डाउनलोड d80"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "बहुत",
+      "count": 4
+    },
+    {
+      "word": "टाइमिंग",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "स्मॉल",
+      "count": 3
+    },
+    {
+      "word": "मैंने",
+      "count": 3
+    },
+    {
+      "word": "लेकिन",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "रिटर्न",
+      "count": 3
+    },
+    {
+      "word": "होते",
+      "count": 3
+    },
+    {
+      "word": "मनी",
+      "count": 3
+    },
+    {
+      "word": "2019",
+      "count": 2
+    },
+    {
+      "word": "परफॉर्मेंस",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "होते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "हैं और",
+      "count": 3
+    },
+    {
+      "phrase": "स्मॉल के",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत ही",
+      "count": 2
+    },
+    {
+      "phrase": "और मैं",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "करता है",
+      "count": 2
+    },
+    {
+      "phrase": "एट मनी",
+      "count": 2
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

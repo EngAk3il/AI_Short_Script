@@ -1,0 +1,104 @@
+{
+  "video_id": "T5JkJsdZdog",
+  "duration_seconds": 9,
+  "wps": 1.11,
+  "total_words": 10,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 30
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "लुट झा यह"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "संभव नहीं मेरा है समय समझा लो"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "लुट",
+      "count": 1
+    },
+    {
+      "word": "झा",
+      "count": 1
+    },
+    {
+      "word": "यह",
+      "count": 1
+    },
+    {
+      "word": "संभव",
+      "count": 1
+    },
+    {
+      "word": "नहीं",
+      "count": 1
+    },
+    {
+      "word": "मेरा",
+      "count": 1
+    },
+    {
+      "word": "है",
+      "count": 1
+    },
+    {
+      "word": "समय",
+      "count": 1
+    },
+    {
+      "word": "समझा",
+      "count": 1
+    },
+    {
+      "word": "लो",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लुट झा",
+      "count": 1
+    },
+    {
+      "phrase": "झा यह",
+      "count": 1
+    },
+    {
+      "phrase": "यह संभव",
+      "count": 1
+    },
+    {
+      "phrase": "संभव नहीं",
+      "count": 1
+    },
+    {
+      "phrase": "नहीं मेरा",
+      "count": 1
+    },
+    {
+      "phrase": "मेरा है",
+      "count": 1
+    },
+    {
+      "phrase": "है समय",
+      "count": 1
+    },
+    {
+      "phrase": "समय समझा",
+      "count": 1
+    },
+    {
+      "phrase": "समझा लो",
+      "count": 1
+    }
+  ],
+  "segment_count": 2
+}

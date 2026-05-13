@@ -1,0 +1,148 @@
+{
+  "video_id": "YgQfgBzS-b4",
+  "duration_seconds": 52,
+  "wps": 4.12,
+  "total_words": 214,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 770
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आप कभी दुबई जाओ हर जो मॉस्क बना हुआ है वहां 0 डिग्री नॉर्थ प बना हुआ है दुबई एक प्लान सिटी है जैसे हमारी स्ट्रीट्स पे जो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "और मैं देख रहा था ये वही हमारे इंडियंस वहां घूमते हुए उसके अंदर फूंक फूंक के कह रहे हैं लेकिन हमारे पूर्वजों की नहीं सुनेंगे"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "वहां",
+      "count": 6
+    },
+    {
+      "word": "हुआ",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "दुबई",
+      "count": 3
+    },
+    {
+      "word": "मॉस्क",
+      "count": 3
+    },
+    {
+      "word": "बना",
+      "count": 3
+    },
+    {
+      "word": "डिग्री",
+      "count": 3
+    },
+    {
+      "word": "नॉर्थ",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "उन्होंने",
+      "count": 3
+    },
+    {
+      "word": "हुए",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हुआ है",
+      "count": 4
+    },
+    {
+      "phrase": "वहां पर",
+      "count": 4
+    },
+    {
+      "phrase": "है वहां",
+      "count": 3
+    },
+    {
+      "phrase": "0 डिग्री",
+      "count": 3
+    },
+    {
+      "phrase": "डिग्री नॉर्थ",
+      "count": 3
+    },
+    {
+      "phrase": "जो मॉस्क",
+      "count": 2
+    },
+    {
+      "phrase": "बना हुआ",
+      "count": 2
+    },
+    {
+      "phrase": "को यूज",
+      "count": 2
+    },
+    {
+      "phrase": "यूज करते",
+      "count": 2
+    },
+    {
+      "phrase": "करते हुए",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

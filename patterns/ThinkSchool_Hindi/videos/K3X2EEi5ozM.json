@@ -1,0 +1,148 @@
+{
+  "video_id": "K3X2EEi5ozM",
+  "duration_seconds": 43,
+  "wps": 4.26,
+  "total_words": 183,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 646
+  },
+  "hook": {
+    "type": "question",
+    "text": "आज अगर कोई 30 साल का है, उसने किस तरीके से अपने फाइनेंससेस को प्लान करना चाहिए,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अस्यूमिंग यू रिटायर बाइ एज ऑफ 60 टू करेक्ट एंड प्लान फॉर योर रिटायरमेंट एंड अदर गोल्स एज वेल।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "कि",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "30ज",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "लिया",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "कोई",
+      "count": 2
+    },
+    {
+      "word": "साल",
+      "count": 2
+    },
+    {
+      "word": "प्लान",
+      "count": 2
+    },
+    {
+      "word": "करना",
+      "count": 2
+    },
+    {
+      "word": "उसका",
+      "count": 2
+    },
+    {
+      "word": "मेरे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "लिया है",
+      "count": 3
+    },
+    {
+      "phrase": "साल का",
+      "count": 2
+    },
+    {
+      "phrase": "30ज में",
+      "count": 2
+    },
+    {
+      "phrase": "मेरे को",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "कि आपने",
+      "count": 2
+    },
+    {
+      "phrase": "इंश्योरेंस ले",
+      "count": 2
+    },
+    {
+      "phrase": "ले लिया",
+      "count": 2
+    },
+    {
+      "phrase": "20 में",
+      "count": 2
+    },
+    {
+      "phrase": "फॉर योर",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

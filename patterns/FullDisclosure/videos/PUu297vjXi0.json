@@ -1,0 +1,149 @@
+{
+  "video_id": "PUu297vjXi0",
+  "duration_seconds": 58,
+  "wps": 2.95,
+  "total_words": 171,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 821
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This video by Mr. Beast went viral because of only one reason, language."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "to Full Disclosure for"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "your",
+      "count": 6
+    },
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "with",
+      "count": 5
+    },
+    {
+      "word": "by",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "content",
+      "count": 3
+    },
+    {
+      "word": "or",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "language",
+      "count": 2
+    },
+    {
+      "word": "barrier",
+      "count": 2
+    },
+    {
+      "word": "global",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "your content",
+      "count": 2
+    },
+    {
+      "phrase": "what if",
+      "count": 2
+    },
+    {
+      "phrase": "if you",
+      "count": 2
+    },
+    {
+      "phrase": "you could",
+      "count": 2
+    },
+    {
+      "phrase": "octave 2",
+      "count": 2
+    },
+    {
+      "phrase": "2 by",
+      "count": 2
+    },
+    {
+      "phrase": "by hume",
+      "count": 2
+    },
+    {
+      "phrase": "this video",
+      "count": 1
+    },
+    {
+      "phrase": "video by",
+      "count": 1
+    },
+    {
+      "phrase": "by mr",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

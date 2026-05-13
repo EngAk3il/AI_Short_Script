@@ -1,0 +1,148 @@
+{
+  "video_id": "XMUM1Mr47dM",
+  "duration_seconds": 58,
+  "wps": 3.47,
+  "total_words": 201,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 903
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "People suddenly started seeing road cabs everywhere in London. You see, Sephora bought road for a billion dollars. And these all cabs, they're a part of their"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "From there, the product quality takes over. buy again and they buy again and in no time their entire cosmetic portfolio is rude and that is some genius [ __ ]"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 12
+    },
+    {
+      "word": "and",
+      "count": 8
+    },
+    {
+      "word": "they",
+      "count": 8
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "product",
+      "count": 5
+    },
+    {
+      "word": "see",
+      "count": 4
+    },
+    {
+      "word": "their",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "road",
+      "count": 3
+    },
+    {
+      "word": "cabs",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "time",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "first",
+      "count": 3
+    },
+    {
+      "word": "sephora",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "step",
+      "count": 2
+    },
+    {
+      "word": "free",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the product",
+      "count": 4
+    },
+    {
+      "phrase": "you see",
+      "count": 3
+    },
+    {
+      "phrase": "the first",
+      "count": 3
+    },
+    {
+      "phrase": "for a",
+      "count": 2
+    },
+    {
+      "phrase": "and the",
+      "count": 2
+    },
+    {
+      "phrase": "dead time",
+      "count": 2
+    },
+    {
+      "phrase": "did not",
+      "count": 2
+    },
+    {
+      "phrase": "not just",
+      "count": 2
+    },
+    {
+      "phrase": "and they",
+      "count": 2
+    },
+    {
+      "phrase": "buy again",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "sjO1sp_m4x4",
+  "duration_seconds": 43,
+  "wps": 3.63,
+  "total_words": 156,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 733
+  },
+  "hook": {
+    "type": "question",
+    "text": "Why is Tobleron the only chocolate shaped like a triangle? It was not random. It was a master plan to build a longlasting legacy. While other brands"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "bear. Burn is famously known as a city of bears. They hid their legacy right in plain sight. Pure genius. For more amazing design content, subscribe."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "to",
+      "count": 6
+    },
+    {
+      "word": "they",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "was",
+      "count": 3
+    },
+    {
+      "word": "made",
+      "count": 3
+    },
+    {
+      "word": "their",
+      "count": 3
+    },
+    {
+      "word": "tobleron",
+      "count": 2
+    },
+    {
+      "word": "triangle",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "legacy",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "there",
+      "count": 2
+    },
+    {
+      "word": "mountain",
+      "count": 2
+    },
+    {
+      "word": "right",
+      "count": 2
+    },
+    {
+      "word": "wanted",
+      "count": 2
+    },
+    {
+      "word": "burn",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "space",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "it was",
+      "count": 2
+    },
+    {
+      "phrase": "wanted to",
+      "count": 2
+    },
+    {
+      "phrase": "why is",
+      "count": 1
+    },
+    {
+      "phrase": "is tobleron",
+      "count": 1
+    },
+    {
+      "phrase": "tobleron the",
+      "count": 1
+    },
+    {
+      "phrase": "the only",
+      "count": 1
+    },
+    {
+      "phrase": "only chocolate",
+      "count": 1
+    },
+    {
+      "phrase": "chocolate shaped",
+      "count": 1
+    },
+    {
+      "phrase": "shaped like",
+      "count": 1
+    },
+    {
+      "phrase": "like a",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "Q3A_Spj1Wvg",
+  "duration_seconds": 34,
+  "wps": 2.74,
+  "total_words": 93,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 399
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एज इंडियन कंस्यूमर्स, वी आर ऑब्सेस्ड बाय"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इन दैट बबल।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "कोरियन",
+      "count": 6
+    },
+    {
+      "word": "इंडियन",
+      "count": 4
+    },
+    {
+      "word": "आर",
+      "count": 4
+    },
+    {
+      "word": "वी",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "प्रोडक्ट्स",
+      "count": 2
+    },
+    {
+      "word": "जॉब",
+      "count": 2
+    },
+    {
+      "word": "थिंक",
+      "count": 2
+    },
+    {
+      "word": "ओके",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "खाना",
+      "count": 2
+    },
+    {
+      "word": "एज",
+      "count": 1
+    },
+    {
+      "word": "कंस्यूमर्स",
+      "count": 1
+    },
+    {
+      "word": "ऑब्सेस्ड",
+      "count": 1
+    },
+    {
+      "word": "बाय",
+      "count": 1
+    },
+    {
+      "word": "एंड",
+      "count": 1
+    },
+    {
+      "word": "जापानीज",
+      "count": 1
+    },
+    {
+      "word": "करेक्ट",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वी आर",
+      "count": 3
+    },
+    {
+      "phrase": "आई थिंक",
+      "count": 2
+    },
+    {
+      "phrase": "आर इन",
+      "count": 2
+    },
+    {
+      "phrase": "ही खाना",
+      "count": 2
+    },
+    {
+      "phrase": "खाना है",
+      "count": 2
+    },
+    {
+      "phrase": "है कोरियन",
+      "count": 2
+    },
+    {
+      "phrase": "एज इंडियन",
+      "count": 1
+    },
+    {
+      "phrase": "इंडियन कंस्यूमर्स",
+      "count": 1
+    },
+    {
+      "phrase": "कंस्यूमर्स वी",
+      "count": 1
+    },
+    {
+      "phrase": "आर ऑब्सेस्ड",
+      "count": 1
+    }
+  ],
+  "segment_count": 15
+}

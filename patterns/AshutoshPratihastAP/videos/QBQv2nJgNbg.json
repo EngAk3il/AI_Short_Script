@@ -1,0 +1,149 @@
+{
+  "video_id": "QBQv2nJgNbg",
+  "duration_seconds": 55,
+  "wps": 2.91,
+  "total_words": 160,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 566
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आज यह रियलिटी है की बहुत बड़ा चंक ऑफ यूथ वह अभी लव अफेयर्स के अंदर किसी को प्यार हो जाता है किसी को पसंद कर लेता है लेकिन वो कामयाबी बनने का रीजन नहीं बनाता उसे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बट वो टाइम लेकर आना भाई"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "अभी",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "पैसा",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "भाई",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "किसी",
+      "count": 2
+    },
+    {
+      "word": "रीजन",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "आप",
+      "count": 2
+    },
+    {
+      "word": "शकल",
+      "count": 2
+    },
+    {
+      "word": "चलेगा",
+      "count": 2
+    },
+    {
+      "word": "ठीक",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है की",
+      "count": 2
+    },
+    {
+      "phrase": "किसी को",
+      "count": 2
+    },
+    {
+      "phrase": "का रीजन",
+      "count": 2
+    },
+    {
+      "phrase": "ठीक है",
+      "count": 2
+    },
+    {
+      "phrase": "हो रही",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "है अभी",
+      "count": 2
+    },
+    {
+      "phrase": "अभी तो",
+      "count": 2
+    },
+    {
+      "phrase": "अच्छा लगता",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

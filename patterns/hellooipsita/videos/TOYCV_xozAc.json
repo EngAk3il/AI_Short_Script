@@ -1,0 +1,148 @@
+{
+  "video_id": "TOYCV_xozAc",
+  "duration_seconds": 54,
+  "wps": 2.59,
+  "total_words": 140,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 460
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दैट वी डोंट फॉरगिव पीपल फॉर देम वी फॉरगिव पीपल फॉर आवर सेल्स आप अभी 24 साल के हो अप अनटिल यू आर 80 और अप अनटिल यू"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिए नहीं"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "आप",
+      "count": 7
+    },
+    {
+      "word": "यू",
+      "count": 7
+    },
+    {
+      "word": "योर",
+      "count": 6
+    },
+    {
+      "word": "दैट",
+      "count": 4
+    },
+    {
+      "word": "आर",
+      "count": 4
+    },
+    {
+      "word": "फॉरगिव",
+      "count": 3
+    },
+    {
+      "word": "पीपल",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "ऑफ",
+      "count": 3
+    },
+    {
+      "word": "वी",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "अप",
+      "count": 2
+    },
+    {
+      "word": "अनटिल",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "माइट",
+      "count": 2
+    },
+    {
+      "word": "फील",
+      "count": 2
+    },
+    {
+      "word": "इज",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फॉरगिव पीपल",
+      "count": 3
+    },
+    {
+      "phrase": "पीपल फॉर",
+      "count": 3
+    },
+    {
+      "phrase": "यू आर",
+      "count": 3
+    },
+    {
+      "phrase": "अप अनटिल",
+      "count": 2
+    },
+    {
+      "phrase": "अनटिल यू",
+      "count": 2
+    },
+    {
+      "phrase": "माइट फील",
+      "count": 2
+    },
+    {
+      "phrase": "फील योर",
+      "count": 2
+    },
+    {
+      "phrase": "आप इस",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ योर",
+      "count": 2
+    },
+    {
+      "phrase": "योर लाइफ",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

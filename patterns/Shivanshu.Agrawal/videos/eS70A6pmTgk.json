@@ -1,0 +1,148 @@
+{
+  "video_id": "eS70A6pmTgk",
+  "duration_seconds": 58,
+  "wps": 2.86,
+  "total_words": 166,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 646
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "चंद्रयान के बाद अब इंडिया समुद्रायण लॉन्च करने वाला है समुद्रियां इंडिया का पहले ऐसा मिशन है जिसमें हम रिसर्च के लिए"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "ऐसा मिशन करने वाले चाटे देश बन जाएंगे ऐसे और वीडियो के लिए चैनल को सब्सक्राइब करें"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "मिशन",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "बाद",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "ऐसा",
+      "count": 2
+    },
+    {
+      "word": "हम",
+      "count": 2
+    },
+    {
+      "word": "वाले",
+      "count": 2
+    },
+    {
+      "word": "सबमर्सिबल",
+      "count": 2
+    },
+    {
+      "word": "6000",
+      "count": 2
+    },
+    {
+      "word": "होगा",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "ऐसा मिशन",
+      "count": 2
+    },
+    {
+      "phrase": "इस मिशन",
+      "count": 2
+    },
+    {
+      "phrase": "मिशन में",
+      "count": 2
+    },
+    {
+      "phrase": "कर सके",
+      "count": 2
+    },
+    {
+      "phrase": "चंद्रयान के",
+      "count": 1
+    },
+    {
+      "phrase": "बाद अब",
+      "count": 1
+    },
+    {
+      "phrase": "अब इंडिया",
+      "count": 1
+    },
+    {
+      "phrase": "इंडिया समुद्रायण",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

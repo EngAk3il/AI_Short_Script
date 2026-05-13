@@ -1,0 +1,148 @@
+{
+  "video_id": "vPGwXxZA2sA",
+  "duration_seconds": 40,
+  "wps": 3.73,
+  "total_words": 149,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 670
+  },
+  "hook": {
+    "type": "question",
+    "text": "Do you know this bright red road in India is saving thousands of lives, but it was not made for humans. You might think this red paint is to look cool,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "your car. It forces you to naturally slow down which will prevent animal accidents. A simple design change which you would barely have noticed is keeping the wildlife"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "red",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "paint",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "mm",
+      "count": 2
+    },
+    {
+      "word": "use",
+      "count": 2
+    },
+    {
+      "word": "speed",
+      "count": 2
+    },
+    {
+      "word": "bumps",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "accidents",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "5 mm",
+      "count": 2
+    },
+    {
+      "phrase": "do you",
+      "count": 1
+    },
+    {
+      "phrase": "you know",
+      "count": 1
+    },
+    {
+      "phrase": "know this",
+      "count": 1
+    },
+    {
+      "phrase": "this bright",
+      "count": 1
+    },
+    {
+      "phrase": "bright red",
+      "count": 1
+    },
+    {
+      "phrase": "red road",
+      "count": 1
+    },
+    {
+      "phrase": "road in",
+      "count": 1
+    },
+    {
+      "phrase": "in india",
+      "count": 1
+    },
+    {
+      "phrase": "india is",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

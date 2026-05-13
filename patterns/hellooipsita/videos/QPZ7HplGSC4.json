@@ -1,0 +1,148 @@
+{
+  "video_id": "QPZ7HplGSC4",
+  "duration_seconds": 16,
+  "wps": 2.19,
+  "total_words": 35,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 124
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मेक श्यर दैट यू बिलीव इन व्हाट यू आर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सेइंग"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 6
+    },
+    {
+      "word": "आर",
+      "count": 4
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "बिलीव",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "व्हाट",
+      "count": 2
+    },
+    {
+      "word": "सेइंग",
+      "count": 2
+    },
+    {
+      "word": "अबाउट",
+      "count": 2
+    },
+    {
+      "word": "मेक",
+      "count": 1
+    },
+    {
+      "word": "श्यर",
+      "count": 1
+    },
+    {
+      "word": "बिकॉज",
+      "count": 1
+    },
+    {
+      "word": "इफ",
+      "count": 1
+    },
+    {
+      "word": "डोंट",
+      "count": 1
+    },
+    {
+      "word": "स्टफ",
+      "count": 1
+    },
+    {
+      "word": "टॉकिंग",
+      "count": 1
+    },
+    {
+      "word": "योर",
+      "count": 1
+    },
+    {
+      "word": "ऑडियंस",
+      "count": 1
+    },
+    {
+      "word": "वोंट",
+      "count": 1
+    },
+    {
+      "word": "हाउ",
+      "count": 1
+    },
+    {
+      "word": "कन्विंस्ड",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू आर",
+      "count": 3
+    },
+    {
+      "phrase": "दैट यू",
+      "count": 2
+    },
+    {
+      "phrase": "बिलीव इन",
+      "count": 2
+    },
+    {
+      "phrase": "व्हाट यू",
+      "count": 2
+    },
+    {
+      "phrase": "आर सेइंग",
+      "count": 2
+    },
+    {
+      "phrase": "मेक श्यर",
+      "count": 1
+    },
+    {
+      "phrase": "श्यर दैट",
+      "count": 1
+    },
+    {
+      "phrase": "यू बिलीव",
+      "count": 1
+    },
+    {
+      "phrase": "इन व्हाट",
+      "count": 1
+    },
+    {
+      "phrase": "सेइंग बिकॉज",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

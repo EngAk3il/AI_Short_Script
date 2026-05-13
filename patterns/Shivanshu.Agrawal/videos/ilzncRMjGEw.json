@@ -1,0 +1,148 @@
+{
+  "video_id": "ilzncRMjGEw",
+  "duration_seconds": 87,
+  "wps": 3.05,
+  "total_words": 265,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1041
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "नेपाल भले ही आज चल रहा हो लेकिन इसकी चिंगारी तो करीब 20 साल पहले ही उठ गई थी। 2006 में नेपाल में लोकतंत्र आंदोलन हुआ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चालू हो गए। कई लोगों की जान चली गई।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "ने",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "गई",
+      "count": 4
+    },
+    {
+      "word": "लोगों",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "नेपाल",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "लेकिन",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "हुआ",
+      "count": 3
+    },
+    {
+      "word": "आवाज",
+      "count": 3
+    },
+    {
+      "word": "जिसमें",
+      "count": 2
+    },
+    {
+      "word": "रूल",
+      "count": 2
+    },
+    {
+      "word": "मूवमेंट",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "नेपाल में",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों ने",
+      "count": 2
+    },
+    {
+      "phrase": "हो गए",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "के खिलाफ",
+      "count": 2
+    },
+    {
+      "phrase": "खिलाफ आवाज",
+      "count": 2
+    },
+    {
+      "phrase": "आवाज उठाई",
+      "count": 2
+    },
+    {
+      "phrase": "नेपाल भले",
+      "count": 1
+    },
+    {
+      "phrase": "भले ही",
+      "count": 1
+    },
+    {
+      "phrase": "ही आज",
+      "count": 1
+    }
+  ],
+  "segment_count": 12
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "ORNPZD3S2iI",
+  "duration_seconds": 28,
+  "wps": 3.25,
+  "total_words": 91,
+  "language_mix": {
+    "hindi": 95.7,
+    "english": 4.3,
+    "total_chars": 399
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये Google वाले ना बहुत है। ये अपने कॉम्पटीशन की कमियां निकाल के ना उनको लिटरली लूट ही लेते हैं। अभी प्रोप्लेक्सिसिटी एi इनका कॉम्पटीशन था।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जाएंगे।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "डोमेन",
+      "count": 3
+    },
+    {
+      "word": "प्रोप्लेक्सिटी",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "वाले",
+      "count": 2
+    },
+    {
+      "word": "कॉम्पटीशन",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "अभी",
+      "count": 2
+    },
+    {
+      "word": "इन्होंने",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "डॉट",
+      "count": 2
+    },
+    {
+      "word": "ले",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ये google",
+      "count": 1
+    },
+    {
+      "phrase": "google वाले",
+      "count": 1
+    },
+    {
+      "phrase": "वाले ना",
+      "count": 1
+    },
+    {
+      "phrase": "ना बहुत",
+      "count": 1
+    },
+    {
+      "phrase": "बहुत है",
+      "count": 1
+    },
+    {
+      "phrase": "है ये",
+      "count": 1
+    },
+    {
+      "phrase": "ये अपने",
+      "count": 1
+    },
+    {
+      "phrase": "अपने कॉम्पटीशन",
+      "count": 1
+    },
+    {
+      "phrase": "कॉम्पटीशन की",
+      "count": 1
+    },
+    {
+      "phrase": "की कमियां",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

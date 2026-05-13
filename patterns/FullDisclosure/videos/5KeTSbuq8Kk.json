@@ -1,0 +1,148 @@
+{
+  "video_id": "5KeTSbuq8Kk",
+  "duration_seconds": 51,
+  "wps": 2.61,
+  "total_words": 133,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 675
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "दिस इंडियन यूनिवर्सिटी ह्या हैज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "द एनुअल फीस इज़ अराउंड 1.53 लैस।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 9
+    },
+    {
+      "word": "विथ",
+      "count": 5
+    },
+    {
+      "word": "दिस",
+      "count": 3
+    },
+    {
+      "word": "इंजन",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 3
+    },
+    {
+      "word": "यूनिवर्सिटी",
+      "count": 2
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    },
+    {
+      "word": "बीटेक",
+      "count": 2
+    },
+    {
+      "word": "ट्रेनिंग",
+      "count": 2
+    },
+    {
+      "word": "प्रोग्राम",
+      "count": 2
+    },
+    {
+      "word": "ऑन",
+      "count": 2
+    },
+    {
+      "word": "लीप",
+      "count": 2
+    },
+    {
+      "word": "इंडियन",
+      "count": 1
+    },
+    {
+      "word": "ह्या",
+      "count": 1
+    },
+    {
+      "word": "हैज",
+      "count": 1
+    },
+    {
+      "word": "पार्टनर्ड",
+      "count": 1
+    },
+    {
+      "word": "साफरान",
+      "count": 1
+    },
+    {
+      "word": "व्हिच",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "दिस इंडियन",
+      "count": 1
+    },
+    {
+      "phrase": "इंडियन यूनिवर्सिटी",
+      "count": 1
+    },
+    {
+      "phrase": "यूनिवर्सिटी ह्या",
+      "count": 1
+    },
+    {
+      "phrase": "ह्या हैज",
+      "count": 1
+    },
+    {
+      "phrase": "हैज पार्टनर्ड",
+      "count": 1
+    },
+    {
+      "phrase": "पार्टनर्ड विथ",
+      "count": 1
+    },
+    {
+      "phrase": "विथ साफरान",
+      "count": 1
+    },
+    {
+      "phrase": "साफरान व्हिच",
+      "count": 1
+    },
+    {
+      "phrase": "व्हिच बिल्ड्स",
+      "count": 1
+    },
+    {
+      "phrase": "बिल्ड्स इंजन",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

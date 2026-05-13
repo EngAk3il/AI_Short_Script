@@ -1,0 +1,148 @@
+{
+  "video_id": "34z6WcqtDT0",
+  "duration_seconds": 60,
+  "wps": 2.08,
+  "total_words": 125,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 429
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "प्रत्यक्ष को प्रमाण की जरूर नहीं है अभी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जय केदारनाथ धाम की ओम नमः शिवाय"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "पत्थर",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "मंदिर",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "केदारनाथ",
+      "count": 2
+    },
+    {
+      "word": "आप",
+      "count": 2
+    },
+    {
+      "word": "जब",
+      "count": 2
+    },
+    {
+      "word": "आया",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "इस",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इस पत्थर",
+      "count": 2
+    },
+    {
+      "phrase": "प्रत्यक्ष को",
+      "count": 1
+    },
+    {
+      "phrase": "को प्रमाण",
+      "count": 1
+    },
+    {
+      "phrase": "प्रमाण की",
+      "count": 1
+    },
+    {
+      "phrase": "की जरूर",
+      "count": 1
+    },
+    {
+      "phrase": "जरूर नहीं",
+      "count": 1
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 1
+    },
+    {
+      "phrase": "है अभी",
+      "count": 1
+    },
+    {
+      "phrase": "अभी मैं",
+      "count": 1
+    },
+    {
+      "phrase": "मैं केदारनाथ",
+      "count": 1
+    }
+  ],
+  "segment_count": 19
+}

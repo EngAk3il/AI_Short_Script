@@ -1,0 +1,148 @@
+{
+  "video_id": "BkeCnvVJsGw",
+  "duration_seconds": 104,
+  "wps": 2.99,
+  "total_words": 311,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1277
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया के इस नए इंफ्रास्ट्रक्चर प्रोजेक्ट ने पूरी दुनिया को जेलस कर दिया है। पिछले कई डिकेड से इंडिया के पास ऐसा एक भी डीप वाटर पोर्ट नहीं था जहां 18"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एडवांटेज कोई भी और कंट्री कॉपी नहीं कर"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "को",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "इंडिया",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "पोर्ट",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "ने",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "डीप",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "पोर्ट्स",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "यहां",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "डीप वाटर",
+      "count": 2
+    },
+    {
+      "phrase": "वाटर पोर्ट",
+      "count": 2
+    },
+    {
+      "phrase": "बड़ी शिप्स",
+      "count": 2
+    },
+    {
+      "phrase": "डॉक कर",
+      "count": 2
+    },
+    {
+      "phrase": "के पोर्ट्स",
+      "count": 2
+    },
+    {
+      "phrase": "में इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया को",
+      "count": 2
+    },
+    {
+      "phrase": "था लेकिन",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

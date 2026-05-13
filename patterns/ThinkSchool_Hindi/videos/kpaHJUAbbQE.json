@@ -1,0 +1,148 @@
+{
+  "video_id": "kpaHJUAbbQE",
+  "duration_seconds": 58,
+  "wps": 2.97,
+  "total_words": 172,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 680
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर कोई बंदा जयपुर वॉच कंपनी की फ्रेंचाइज़ लेना चाहता है तो उसको कितना इन्वेस्ट करना पड़ेगा? एक स्टोर के लिए 70 लाख। उसके अलावा कोई एडिशनल एक्सपेंस?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आपको मिलेगा। ओके?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "कोई",
+      "count": 4
+    },
+    {
+      "word": "लाख",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "इसमें",
+      "count": 4
+    },
+    {
+      "word": "70",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "मॉडल",
+      "count": 3
+    },
+    {
+      "word": "जयपुर",
+      "count": 2
+    },
+    {
+      "word": "वॉच",
+      "count": 2
+    },
+    {
+      "word": "कंपनी",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "उसके",
+      "count": 2
+    },
+    {
+      "word": "अलावा",
+      "count": 2
+    },
+    {
+      "word": "एडिशनल",
+      "count": 2
+    },
+    {
+      "word": "एक्सपेंस",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "उसका",
+      "count": 2
+    },
+    {
+      "word": "सिक्योरिटी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "70 लाख",
+      "count": 3
+    },
+    {
+      "phrase": "जयपुर वॉच",
+      "count": 2
+    },
+    {
+      "phrase": "वॉच कंपनी",
+      "count": 2
+    },
+    {
+      "phrase": "उसके अलावा",
+      "count": 2
+    },
+    {
+      "phrase": "अलावा कोई",
+      "count": 2
+    },
+    {
+      "phrase": "कोई एडिशनल",
+      "count": 2
+    },
+    {
+      "phrase": "एडिशनल एक्सपेंस",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं इसमें",
+      "count": 2
+    },
+    {
+      "phrase": "सिक्योरिटी डिपॉजिट",
+      "count": 2
+    },
+    {
+      "phrase": "जा रहा",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

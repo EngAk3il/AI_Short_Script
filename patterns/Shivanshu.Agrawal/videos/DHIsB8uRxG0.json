@@ -1,0 +1,148 @@
+{
+  "video_id": "DHIsB8uRxG0",
+  "duration_seconds": 52,
+  "wps": 1.35,
+  "total_words": 70,
+  "language_mix": {
+    "hindi": 97.2,
+    "english": 2.8,
+    "total_chars": 322
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मुकेश अंबानी ने samsung-ro"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मार्केट को डिसर पट कर सकें वैसे ही जैसे मुकेश अंबानी ने"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "मुकेश",
+      "count": 2
+    },
+    {
+      "word": "अंबानी",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "साथ",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "वार",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "प्रोडक्ट्स",
+      "count": 2
+    },
+    {
+      "word": "काफी",
+      "count": 2
+    },
+    {
+      "word": "samsung-ro",
+      "count": 1
+    },
+    {
+      "word": "स्टोर्स",
+      "count": 1
+    },
+    {
+      "word": "नेटवर्क",
+      "count": 1
+    },
+    {
+      "word": "यूज",
+      "count": 1
+    },
+    {
+      "word": "करेंगे",
+      "count": 1
+    },
+    {
+      "word": "जो",
+      "count": 1
+    },
+    {
+      "word": "इंडिया",
+      "count": 1
+    },
+    {
+      "word": "लार्जेस्ट",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मुकेश अंबानी",
+      "count": 2
+    },
+    {
+      "phrase": "अंबानी ने",
+      "count": 2
+    },
+    {
+      "phrase": "ने samsung-ro",
+      "count": 1
+    },
+    {
+      "phrase": "samsung-ro स्टोर्स",
+      "count": 1
+    },
+    {
+      "phrase": "स्टोर्स का",
+      "count": 1
+    },
+    {
+      "phrase": "का नेटवर्क",
+      "count": 1
+    },
+    {
+      "phrase": "नेटवर्क यूज",
+      "count": 1
+    },
+    {
+      "phrase": "यूज करेंगे",
+      "count": 1
+    },
+    {
+      "phrase": "करेंगे जो",
+      "count": 1
+    },
+    {
+      "phrase": "जो इंडिया",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

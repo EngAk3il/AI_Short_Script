@@ -1,0 +1,148 @@
+{
+  "video_id": "d6loAtKtTok",
+  "duration_seconds": 47,
+  "wps": 2.98,
+  "total_words": 140,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 669
+  },
+  "hook": {
+    "type": "question",
+    "text": "Why is this juice brand worth 500 crores? Because they are not selling drinks. They're selling your childhood."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "For more design [music] secrets, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "like",
+      "count": 4
+    },
+    {
+      "word": "why",
+      "count": 3
+    },
+    {
+      "word": "your",
+      "count": 3
+    },
+    {
+      "word": "design",
+      "count": 3
+    },
+    {
+      "word": "logo",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "paper",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "brand",
+      "count": 2
+    },
+    {
+      "word": "because",
+      "count": 2
+    },
+    {
+      "word": "selling",
+      "count": 2
+    },
+    {
+      "word": "childhood",
+      "count": 2
+    },
+    {
+      "word": "even",
+      "count": 2
+    },
+    {
+      "word": "look",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "boat",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "like a",
+      "count": 4
+    },
+    {
+      "phrase": "the logo",
+      "count": 2
+    },
+    {
+      "phrase": "it's a",
+      "count": 2
+    },
+    {
+      "phrase": "paper boat",
+      "count": 2
+    },
+    {
+      "phrase": "about making",
+      "count": 2
+    },
+    {
+      "phrase": "why is",
+      "count": 1
+    },
+    {
+      "phrase": "is this",
+      "count": 1
+    },
+    {
+      "phrase": "this juice",
+      "count": 1
+    },
+    {
+      "phrase": "juice brand",
+      "count": 1
+    },
+    {
+      "phrase": "brand worth",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

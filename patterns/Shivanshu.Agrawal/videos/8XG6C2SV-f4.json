@@ -1,0 +1,148 @@
+{
+  "video_id": "8XG6C2SV-f4",
+  "duration_seconds": 50,
+  "wps": 3.76,
+  "total_words": 188,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 742
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया के यूपीआई ने पूरी दुनिया को जेलस कर दिया है। ज्यादातर लोगों को पता ही नहीं है कि यूपीआई अब पूरी दुनिया का सबसे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्प्लिट एक्सपेंस फीचर के साथ आप अपने फ्रेंड्स के साथ बिल्स को डिवाइड और शेयर कर सकते हो। साथ में स्पेंड एनालिटिक्स फीचर ऑटोमेटिकली आपके मंथली एक्सपेंसेस को"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "यूपीआई",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "ने",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 5
+    },
+    {
+      "word": "पूरी",
+      "count": 3
+    },
+    {
+      "word": "दुनिया",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "फीचर",
+      "count": 3
+    },
+    {
+      "word": "साथ",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    },
+    {
+      "word": "लोगों",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "अब",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यूपीआई ने",
+      "count": 3
+    },
+    {
+      "phrase": "पूरी दुनिया",
+      "count": 3
+    },
+    {
+      "phrase": "दिया है",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "रियल टाइम",
+      "count": 2
+    },
+    {
+      "phrase": "के साथ",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 1
+    },
+    {
+      "phrase": "के यूपीआई",
+      "count": 1
+    },
+    {
+      "phrase": "ने पूरी",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

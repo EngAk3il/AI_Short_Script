@@ -1,0 +1,149 @@
+{
+  "video_id": "HyedRhCk0Os",
+  "duration_seconds": 52,
+  "wps": 2.94,
+  "total_words": 153,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 572
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "बहुत सिंपली बोलूं बिल्कुल ब्लंट भाषा में"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिमिट? द लिमिट इज अ ग्रेट पोर्टफोलियो।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "इज",
+      "count": 4
+    },
+    {
+      "word": "चार्ज",
+      "count": 3
+    },
+    {
+      "word": "चॉइस",
+      "count": 3
+    },
+    {
+      "word": "तुम",
+      "count": 3
+    },
+    {
+      "word": "चीप",
+      "count": 3
+    },
+    {
+      "word": "लिमिट",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "यार",
+      "count": 2
+    },
+    {
+      "word": "तुम्हें",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "मार्केट",
+      "count": 2
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "आती",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यहां पे",
+      "count": 2
+    },
+    {
+      "phrase": "आती है",
+      "count": 2
+    },
+    {
+      "phrase": "क्या तुम",
+      "count": 2
+    },
+    {
+      "phrase": "विल यू",
+      "count": 2
+    },
+    {
+      "phrase": "शुरू में",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत सिंपली",
+      "count": 1
+    },
+    {
+      "phrase": "सिंपली बोलूं",
+      "count": 1
+    },
+    {
+      "phrase": "बोलूं बिल्कुल",
+      "count": 1
+    },
+    {
+      "phrase": "बिल्कुल ब्लंट",
+      "count": 1
+    },
+    {
+      "phrase": "ब्लंट भाषा",
+      "count": 1
+    }
+  ],
+  "segment_count": 20
+}

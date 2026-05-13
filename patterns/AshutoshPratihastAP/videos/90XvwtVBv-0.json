@@ -1,0 +1,148 @@
+{
+  "video_id": "90XvwtVBv-0",
+  "duration_seconds": 56,
+  "wps": 2.43,
+  "total_words": 136,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 449
+  },
+  "hook": {
+    "type": "question",
+    "text": "कि आज मुझे सब कुछ दे रहे हो कल मुझे सब कुछ ले लोगे मैं पूछता रहूंगा फिगर से क्या आप पर उच्चतम कुछ भी ना बोलोगे उस पर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तरह है यह नुकसान है पर किसी का चीनी अपना फायदा नहीं करा है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "कि",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "कुछ",
+      "count": 3
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "हूं",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "मुझे",
+      "count": 2
+    },
+    {
+      "word": "सब",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "ले",
+      "count": 2
+    },
+    {
+      "word": "लोगे",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "अपना",
+      "count": 2
+    },
+    {
+      "word": "मेरे",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "वह",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मुझे सब",
+      "count": 2
+    },
+    {
+      "phrase": "सब कुछ",
+      "count": 2
+    },
+    {
+      "phrase": "ले लोगे",
+      "count": 2
+    },
+    {
+      "phrase": "है पर",
+      "count": 2
+    },
+    {
+      "phrase": "कि आज",
+      "count": 1
+    },
+    {
+      "phrase": "आज मुझे",
+      "count": 1
+    },
+    {
+      "phrase": "कुछ दे",
+      "count": 1
+    },
+    {
+      "phrase": "दे रहे",
+      "count": 1
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 1
+    },
+    {
+      "phrase": "हो कल",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

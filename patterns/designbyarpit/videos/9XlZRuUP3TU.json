@@ -1,0 +1,148 @@
+{
+  "video_id": "9XlZRuUP3TU",
+  "duration_seconds": 46,
+  "wps": 3.67,
+  "total_words": 169,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 702
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This lamp has no sensors and no batteries. Yet, [music] it knows exactly when to refill itself. You can call this magic dia, and it uses this clever physics trick. So, here is the mystery."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "It turns simple earth into a machine that lasts forever. [music] Ancient tech was just built different. Subscribe for more."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 11
+    },
+    {
+      "word": "the",
+      "count": 9
+    },
+    {
+      "word": "music",
+      "count": 6
+    },
+    {
+      "word": "this",
+      "count": 5
+    },
+    {
+      "word": "oil",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 3
+    },
+    {
+      "word": "no",
+      "count": 2
+    },
+    {
+      "word": "when",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "into",
+      "count": 2
+    },
+    {
+      "word": "drops",
+      "count": 2
+    },
+    {
+      "word": "clay",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "lamp",
+      "count": 1
+    },
+    {
+      "word": "has",
+      "count": 1
+    },
+    {
+      "word": "sensors",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the oil",
+      "count": 2
+    },
+    {
+      "phrase": "this lamp",
+      "count": 1
+    },
+    {
+      "phrase": "lamp has",
+      "count": 1
+    },
+    {
+      "phrase": "has no",
+      "count": 1
+    },
+    {
+      "phrase": "no sensors",
+      "count": 1
+    },
+    {
+      "phrase": "sensors and",
+      "count": 1
+    },
+    {
+      "phrase": "and no",
+      "count": 1
+    },
+    {
+      "phrase": "no batteries",
+      "count": 1
+    },
+    {
+      "phrase": "batteries yet",
+      "count": 1
+    },
+    {
+      "phrase": "yet music",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

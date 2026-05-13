@@ -1,0 +1,148 @@
+{
+  "video_id": "SSoLCixEpqY",
+  "duration_seconds": 34,
+  "wps": 2.41,
+  "total_words": 82,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 332
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "when you are procrastinating when you pushing a task away what you're actually operating from is a feeling of fear a"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 7
+    },
+    {
+      "word": "step",
+      "count": 5
+    },
+    {
+      "word": "10",
+      "count": 4
+    },
+    {
+      "word": "you're",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "about",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "when",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "fear",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "procrastinating",
+      "count": 1
+    },
+    {
+      "word": "pushing",
+      "count": 1
+    },
+    {
+      "word": "task",
+      "count": 1
+    },
+    {
+      "word": "away",
+      "count": 1
+    },
+    {
+      "word": "actually",
+      "count": 1
+    },
+    {
+      "word": "operating",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "step 10",
+      "count": 4
+    },
+    {
+      "phrase": "i want",
+      "count": 3
+    },
+    {
+      "phrase": "want you",
+      "count": 3
+    },
+    {
+      "phrase": "you to",
+      "count": 3
+    },
+    {
+      "phrase": "when you",
+      "count": 2
+    },
+    {
+      "phrase": "you are",
+      "count": 2
+    },
+    {
+      "phrase": "10 you're",
+      "count": 2
+    },
+    {
+      "phrase": "about step",
+      "count": 2
+    },
+    {
+      "phrase": "are procrastinating",
+      "count": 1
+    },
+    {
+      "phrase": "procrastinating when",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

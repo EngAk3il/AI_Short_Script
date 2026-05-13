@@ -1,0 +1,148 @@
+{
+  "video_id": "Nnj07_pouYg",
+  "duration_seconds": 53,
+  "wps": 2.66,
+  "total_words": 141,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 497
+  },
+  "hook": {
+    "type": "statement",
+    "text": "टेक ऑफ प्लेन का होता है अब एक चीज याद रखना इस बीच टाइम पर प्लेन टेक ऑफ करने वाला होता हुआ था उस टाइम पर उसकी स्पीड उसका"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंसान भागवत व्हो टेक ऑफ कर जाएगा राइट"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "पर",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "टेक",
+      "count": 3
+    },
+    {
+      "word": "ऑफ",
+      "count": 3
+    },
+    {
+      "word": "प्लेन",
+      "count": 3
+    },
+    {
+      "word": "होता",
+      "count": 3
+    },
+    {
+      "word": "पोटेंशियल",
+      "count": 3
+    },
+    {
+      "word": "जाएगा",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "लेंगे",
+      "count": 3
+    },
+    {
+      "word": "टाइम",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "कभी",
+      "count": 2
+    },
+    {
+      "word": "खत्म",
+      "count": 2
+    },
+    {
+      "word": "किसी",
+      "count": 2
+    },
+    {
+      "word": "जानवर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "टेक ऑफ",
+      "count": 3
+    },
+    {
+      "phrase": "कर लेंगे",
+      "count": 3
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "टाइम पर",
+      "count": 2
+    },
+    {
+      "phrase": "कभी भी",
+      "count": 2
+    },
+    {
+      "phrase": "किसी भी",
+      "count": 2
+    },
+    {
+      "phrase": "भी जानवर",
+      "count": 2
+    },
+    {
+      "phrase": "जानवर को",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ प्लेन",
+      "count": 1
+    },
+    {
+      "phrase": "प्लेन का",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "R_tWbnEnIHM",
+  "duration_seconds": 78,
+  "wps": 3.1,
+  "total_words": 242,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 1174
+  },
+  "hook": {
+    "type": "question",
+    "text": "They look completely broken. You can see giant holes in the shoes, weird cloud-like bumps. Yet, these are the most trending shoes right now. But do you know that actually these are the most engineered"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "compress. That is remarkable design. And to know more vibe behind design, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 12
+    },
+    {
+      "word": "but",
+      "count": 7
+    },
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "shoes",
+      "count": 6
+    },
+    {
+      "word": "that",
+      "count": 6
+    },
+    {
+      "word": "he",
+      "count": 5
+    },
+    {
+      "word": "they",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "know",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "cloud",
+      "count": 3
+    },
+    {
+      "word": "can",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "these",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "most",
+      "count": 2
+    },
+    {
+      "word": "do",
+      "count": 2
+    },
+    {
+      "word": "running",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "these are",
+      "count": 2
+    },
+    {
+      "phrase": "are the",
+      "count": 2
+    },
+    {
+      "phrase": "the most",
+      "count": 2
+    },
+    {
+      "phrase": "do you",
+      "count": 2
+    },
+    {
+      "phrase": "you know",
+      "count": 2
+    },
+    {
+      "phrase": "running shoes",
+      "count": 2
+    },
+    {
+      "phrase": "soft cushioning",
+      "count": 2
+    },
+    {
+      "phrase": "the best",
+      "count": 2
+    },
+    {
+      "phrase": "garden hose",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

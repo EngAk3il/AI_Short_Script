@@ -1,0 +1,148 @@
+{
+  "video_id": "01jV60-lNrw",
+  "duration_seconds": 29,
+  "wps": 2.76,
+  "total_words": 80,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 353
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "here are three unique ways to look at"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "think about it"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "number",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "today",
+      "count": 3
+    },
+    {
+      "word": "three",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "problems",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "because",
+      "count": 2
+    },
+    {
+      "word": "don't",
+      "count": 2
+    },
+    {
+      "word": "love",
+      "count": 2
+    },
+    {
+      "word": "them",
+      "count": 2
+    },
+    {
+      "word": "remember",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    },
+    {
+      "word": "here",
+      "count": 1
+    },
+    {
+      "word": "are",
+      "count": 1
+    },
+    {
+      "word": "unique",
+      "count": 1
+    },
+    {
+      "word": "ways",
+      "count": 1
+    },
+    {
+      "word": "look",
+      "count": 1
+    },
+    {
+      "word": "at",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "that you",
+      "count": 2
+    },
+    {
+      "phrase": "don't love",
+      "count": 2
+    },
+    {
+      "phrase": "love them",
+      "count": 2
+    },
+    {
+      "phrase": "here are",
+      "count": 1
+    },
+    {
+      "phrase": "are three",
+      "count": 1
+    },
+    {
+      "phrase": "three unique",
+      "count": 1
+    },
+    {
+      "phrase": "unique ways",
+      "count": 1
+    },
+    {
+      "phrase": "ways to",
+      "count": 1
+    },
+    {
+      "phrase": "to look",
+      "count": 1
+    },
+    {
+      "phrase": "look at",
+      "count": 1
+    }
+  ],
+  "segment_count": 12
+}

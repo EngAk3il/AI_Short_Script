@@ -1,0 +1,148 @@
+{
+  "video_id": "h9JpvGVEHQI",
+  "duration_seconds": 26,
+  "wps": 3.5,
+  "total_words": 91,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 359
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रोल्स-रॉयस इस तरह से कस्टमर को ट्रिक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लोग उसे इंपल्सिवली खरीद लेते हैं"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "कार्स",
+      "count": 3
+    },
+    {
+      "word": "रोल्स-रॉयस",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "कस्टमर",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "उनकी",
+      "count": 2
+    },
+    {
+      "word": "इसीलिए",
+      "count": 2
+    },
+    {
+      "word": "करोड़",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "इस",
+      "count": 1
+    },
+    {
+      "word": "तरह",
+      "count": 1
+    },
+    {
+      "word": "ट्रिक",
+      "count": 1
+    },
+    {
+      "word": "करता",
+      "count": 1
+    },
+    {
+      "word": "नहीं",
+      "count": 1
+    },
+    {
+      "word": "चाहता",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रोल्स-रॉयस इस",
+      "count": 1
+    },
+    {
+      "phrase": "इस तरह",
+      "count": 1
+    },
+    {
+      "phrase": "तरह से",
+      "count": 1
+    },
+    {
+      "phrase": "से कस्टमर",
+      "count": 1
+    },
+    {
+      "phrase": "कस्टमर को",
+      "count": 1
+    },
+    {
+      "phrase": "को ट्रिक",
+      "count": 1
+    },
+    {
+      "phrase": "ट्रिक करता",
+      "count": 1
+    },
+    {
+      "phrase": "करता है",
+      "count": 1
+    },
+    {
+      "phrase": "है रोल्स-रॉयस",
+      "count": 1
+    },
+    {
+      "phrase": "रोल्स-रॉयस नहीं",
+      "count": 1
+    }
+  ],
+  "segment_count": 12
+}

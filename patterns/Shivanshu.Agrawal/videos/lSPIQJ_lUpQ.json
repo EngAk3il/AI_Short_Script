@@ -1,0 +1,148 @@
+{
+  "video_id": "lSPIQJ_lUpQ",
+  "duration_seconds": 55,
+  "wps": 3.24,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 673
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जापान इस दुनिया से गायब होने वाला है ऐसा मैं नहीं बल्कि जापानी पीएम के एडवाइजर का रहे हैं एक्चुअली जापान में चाइल्ड को रेस करना इतना एक्सपेंसिव और डिफिकल्ट है की"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नहीं रही"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "पापुलेशन",
+      "count": 7
+    },
+    {
+      "word": "जापान",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "चाइल्ड",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "बर्थ",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जापान की",
+      "count": 3
+    },
+    {
+      "phrase": "की पापुलेशन",
+      "count": 3
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "जापान में",
+      "count": 2
+    },
+    {
+      "phrase": "चाइल्ड बर्थ",
+      "count": 2
+    },
+    {
+      "phrase": "से गिर",
+      "count": 2
+    },
+    {
+      "phrase": "एल्डरली पापुलेशन",
+      "count": 2
+    },
+    {
+      "phrase": "ना ही",
+      "count": 2
+    },
+    {
+      "phrase": "बर्थ पे",
+      "count": 2
+    },
+    {
+      "phrase": "जापान इस",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

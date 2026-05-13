@@ -1,0 +1,149 @@
+{
+  "video_id": "w6H8C7QFJFA",
+  "duration_seconds": 37,
+  "wps": 2.73,
+  "total_words": 101,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 450
+  },
+  "hook": {
+    "type": "question",
+    "text": "if you are an ambitious procrastinator keep listening the unhappiest people on Earth are the people who have the"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "smaller pieces until you find a piece small enough that makes you want to start today"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "your",
+      "count": 4
+    },
+    {
+      "word": "are",
+      "count": 3
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "reality",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "put",
+      "count": 2
+    },
+    {
+      "word": "gap",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 1
+    },
+    {
+      "word": "an",
+      "count": 1
+    },
+    {
+      "word": "ambitious",
+      "count": 1
+    },
+    {
+      "word": "procrastinator",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "what you",
+      "count": 2
+    },
+    {
+      "phrase": "you want",
+      "count": 2
+    },
+    {
+      "phrase": "if you",
+      "count": 1
+    },
+    {
+      "phrase": "you are",
+      "count": 1
+    },
+    {
+      "phrase": "are an",
+      "count": 1
+    },
+    {
+      "phrase": "an ambitious",
+      "count": 1
+    },
+    {
+      "phrase": "ambitious procrastinator",
+      "count": 1
+    },
+    {
+      "phrase": "procrastinator keep",
+      "count": 1
+    },
+    {
+      "phrase": "keep listening",
+      "count": 1
+    },
+    {
+      "phrase": "listening the",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

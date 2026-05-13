@@ -1,0 +1,148 @@
+{
+  "video_id": "v7RcdgsjkMk",
+  "duration_seconds": 128,
+  "wps": 3.25,
+  "total_words": 416,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1739
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अमेरिका तो ईरान से ऑलरेडी वॉर हार चुका है। वो भी आज से 24 साल पहले। 2002 में यूएस मिलिट्री खुद को ईरान जैसी कंट्री के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कंट्रीज के उन इंफ्रास्ट्रक्चर को अटैक कर रहा है जो अमेरिकन एंपायर के लिए बहुत इंपॉर्टेंट"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 18
+    },
+    {
+      "word": "ईरान",
+      "count": 12
+    },
+    {
+      "word": "को",
+      "count": 12
+    },
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "से",
+      "count": 10
+    },
+    {
+      "word": "कर",
+      "count": 10
+    },
+    {
+      "word": "अमेरिका",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "ने",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "किया",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "लिए",
+      "count": 6
+    },
+    {
+      "word": "ही",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "वॉर",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "यूज",
+      "count": 5
+    },
+    {
+      "word": "गेम",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "ईरान ने",
+      "count": 6
+    },
+    {
+      "phrase": "का यूज",
+      "count": 3
+    },
+    {
+      "phrase": "यूज किया",
+      "count": 3
+    },
+    {
+      "phrase": "किया और",
+      "count": 3
+    },
+    {
+      "phrase": "अमेरिका के",
+      "count": 3
+    },
+    {
+      "phrase": "अटैक कर",
+      "count": 3
+    },
+    {
+      "phrase": "अमेरिका की",
+      "count": 3
+    },
+    {
+      "phrase": "लिए उन्होंने",
+      "count": 3
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 3
+    }
+  ],
+  "segment_count": 16
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "8BwWpdir3NM",
+  "duration_seconds": 52,
+  "wps": 2.9,
+  "total_words": 151,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 607
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ऐसे कमेंट्स आते हैं फीमेल क्रिएटर्स को।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रजिस्टर करो अभी और सीखते हैं"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "करो",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "करती",
+      "count": 2
+    },
+    {
+      "word": "अपनी",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    },
+    {
+      "word": "रही",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "अभी",
+      "count": 2
+    },
+    {
+      "word": "रजिस्टर",
+      "count": 2
+    },
+    {
+      "word": "ऐसे",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "ऐसे कमेंट्स",
+      "count": 1
+    },
+    {
+      "phrase": "कमेंट्स आते",
+      "count": 1
+    },
+    {
+      "phrase": "आते हैं",
+      "count": 1
+    },
+    {
+      "phrase": "हैं फीमेल",
+      "count": 1
+    },
+    {
+      "phrase": "फीमेल क्रिएटर्स",
+      "count": 1
+    },
+    {
+      "phrase": "क्रिएटर्स को",
+      "count": 1
+    },
+    {
+      "phrase": "को फिर",
+      "count": 1
+    },
+    {
+      "phrase": "फिर भी",
+      "count": 1
+    },
+    {
+      "phrase": "भी वह",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

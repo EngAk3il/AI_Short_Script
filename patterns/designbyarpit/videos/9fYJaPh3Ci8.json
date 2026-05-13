@@ -1,0 +1,148 @@
+{
+  "video_id": "9fYJaPh3Ci8",
+  "duration_seconds": 56,
+  "wps": 2.23,
+  "total_words": 125,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 647
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Switzerland's new passport looks ordinary until you shine UV light on it and an entire topographic map of the apps appear. This is not a gimmick."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "subscribe"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "switzerland's",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "pages",
+      "count": 3
+    },
+    {
+      "word": "as",
+      "count": 3
+    },
+    {
+      "word": "passport",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "hidden",
+      "count": 2
+    },
+    {
+      "word": "into",
+      "count": 2
+    },
+    {
+      "word": "every",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "down",
+      "count": 2
+    },
+    {
+      "word": "water",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "new",
+      "count": 1
+    },
+    {
+      "word": "looks",
+      "count": 1
+    },
+    {
+      "word": "ordinary",
+      "count": 1
+    },
+    {
+      "word": "until",
+      "count": 1
+    },
+    {
+      "word": "shine",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 2
+    },
+    {
+      "phrase": "to the",
+      "count": 2
+    },
+    {
+      "phrase": "switzerland's new",
+      "count": 1
+    },
+    {
+      "phrase": "new passport",
+      "count": 1
+    },
+    {
+      "phrase": "passport looks",
+      "count": 1
+    },
+    {
+      "phrase": "looks ordinary",
+      "count": 1
+    },
+    {
+      "phrase": "ordinary until",
+      "count": 1
+    },
+    {
+      "phrase": "until you",
+      "count": 1
+    },
+    {
+      "phrase": "you shine",
+      "count": 1
+    },
+    {
+      "phrase": "shine uv",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

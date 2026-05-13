@@ -1,0 +1,148 @@
+{
+  "video_id": "tKBJ5ryWz7c",
+  "duration_seconds": 30,
+  "wps": 2.87,
+  "total_words": 86,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 341
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक सीक्रेट इंग्रेडिएंट भी आपको बताता हूं"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "सैचुरेटेड फैट्स वाला डाइट बेस्ट"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "प्रोटीन",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "इंग्रेडिएंट",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "वे",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "वेजिटेरियंस",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "लो",
+      "count": 2
+    },
+    {
+      "word": "सीक्रेट",
+      "count": 1
+    },
+    {
+      "word": "आपको",
+      "count": 1
+    },
+    {
+      "word": "बताता",
+      "count": 1
+    },
+    {
+      "word": "हूं",
+      "count": 1
+    },
+    {
+      "word": "जो",
+      "count": 1
+    },
+    {
+      "word": "बहुत",
+      "count": 1
+    },
+    {
+      "word": "ही",
+      "count": 1
+    },
+    {
+      "word": "एंटी",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "प्रोटीन है",
+      "count": 2
+    },
+    {
+      "phrase": "वेजिटेरियंस को",
+      "count": 2
+    },
+    {
+      "phrase": "एक सीक्रेट",
+      "count": 1
+    },
+    {
+      "phrase": "सीक्रेट इंग्रेडिएंट",
+      "count": 1
+    },
+    {
+      "phrase": "इंग्रेडिएंट भी",
+      "count": 1
+    },
+    {
+      "phrase": "भी आपको",
+      "count": 1
+    },
+    {
+      "phrase": "आपको बताता",
+      "count": 1
+    },
+    {
+      "phrase": "बताता हूं",
+      "count": 1
+    },
+    {
+      "phrase": "हूं जो",
+      "count": 1
+    }
+  ],
+  "segment_count": 11
+}

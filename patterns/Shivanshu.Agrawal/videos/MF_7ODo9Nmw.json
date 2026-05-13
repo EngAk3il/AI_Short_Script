@@ -1,0 +1,148 @@
+{
+  "video_id": "MF_7ODo9Nmw",
+  "duration_seconds": 106,
+  "wps": 3.16,
+  "total_words": 335,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1352
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिगो क्राइसिस ने पूरे इंडिया को हिला"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "लिए मुझे फॉलो करिए।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 18
+    },
+    {
+      "word": "को",
+      "count": 11
+    },
+    {
+      "word": "पायलट्स",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "ने",
+      "count": 8
+    },
+    {
+      "word": "इंडिगो",
+      "count": 7
+    },
+    {
+      "word": "दिया",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "फ्लाइट्स",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "नाइट",
+      "count": 4
+    },
+    {
+      "word": "रूल्स",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "गए",
+      "count": 3
+    },
+    {
+      "word": "फ्लाइट",
+      "count": 3
+    },
+    {
+      "word": "नए",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिगो के",
+      "count": 5
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "शेड्यूल्स और",
+      "count": 2
+    },
+    {
+      "phrase": "हो गए",
+      "count": 2
+    },
+    {
+      "phrase": "2 साल",
+      "count": 2
+    },
+    {
+      "phrase": "कोलैप्स हो",
+      "count": 2
+    },
+    {
+      "phrase": "और लगातार",
+      "count": 2
+    },
+    {
+      "phrase": "लेट नाइट",
+      "count": 2
+    },
+    {
+      "phrase": "नाइट फ्लाइट्स",
+      "count": 2
+    },
+    {
+      "phrase": "ने पायलट्स",
+      "count": 2
+    }
+  ],
+  "segment_count": 45
+}

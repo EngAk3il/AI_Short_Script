@@ -1,0 +1,148 @@
+{
+  "video_id": "KFwx6PRyjdA",
+  "duration_seconds": 67,
+  "wps": 2.96,
+  "total_words": 198,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 755
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इसने एडिट की मेरी हजार वीडियोस। शुभम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "संगीत",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "एआई",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "शुभम",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "हम",
+      "count": 4
+    },
+    {
+      "word": "अपना",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "मेरी",
+      "count": 2
+    },
+    {
+      "word": "वीडियोस",
+      "count": 2
+    },
+    {
+      "word": "मेरा",
+      "count": 2
+    },
+    {
+      "word": "पहला",
+      "count": 2
+    },
+    {
+      "word": "एडिटर",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "खुद",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "खुद का",
+      "count": 2
+    },
+    {
+      "phrase": "केके क्रिएट",
+      "count": 2
+    },
+    {
+      "phrase": "इसने एडिट",
+      "count": 1
+    },
+    {
+      "phrase": "एडिट की",
+      "count": 1
+    },
+    {
+      "phrase": "की मेरी",
+      "count": 1
+    },
+    {
+      "phrase": "मेरी हजार",
+      "count": 1
+    },
+    {
+      "phrase": "हजार वीडियोस",
+      "count": 1
+    },
+    {
+      "phrase": "वीडियोस शुभम",
+      "count": 1
+    },
+    {
+      "phrase": "शुभम संगीत",
+      "count": 1
+    },
+    {
+      "phrase": "संगीत मेरा",
+      "count": 1
+    }
+  ],
+  "segment_count": 27
+}

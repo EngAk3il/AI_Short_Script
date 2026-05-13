@@ -1,0 +1,149 @@
+{
+  "video_id": "6Wn62TLkwtU",
+  "duration_seconds": 42,
+  "wps": 4.86,
+  "total_words": 204,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 728
+  },
+  "hook": {
+    "type": "question",
+    "text": "24 साल की उम्र में 100 करोड़ की वैल्यू रखने वाला प्रॉफिट टेबल आते टैक्स स्टार्टअप किस तरीके से बिल्ड किया मैंने अगर इसके पीछे का पूरा दीप साइंस आप समझना चाहते हो और आपके घर में कई बार ऐसे भी"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "आप ये वीडियो देखना चाहो तो मेरे बारे में आपको लिंक मिल जाएगा एंड आप यूट्यूब पर जाकर सर्च भी कर सकते हैं मणि गेम बाय आशुतोष प्रति हस्त तो चलिए जानते हैं की कैसे"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "आप",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "मैंने",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "मेरे",
+      "count": 3
+    },
+    {
+      "word": "तरीके",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "इसके",
+      "count": 2
+    },
+    {
+      "word": "पीछे",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "दीप",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इसके पीछे",
+      "count": 2
+    },
+    {
+      "phrase": "चाहते हो",
+      "count": 2
+    },
+    {
+      "phrase": "बनता चला",
+      "count": 2
+    },
+    {
+      "phrase": "चला जा",
+      "count": 2
+    },
+    {
+      "phrase": "जा रहा",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 2
+    },
+    {
+      "phrase": "आप ये",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों ने",
+      "count": 2
+    },
+    {
+      "phrase": "हैं तो",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

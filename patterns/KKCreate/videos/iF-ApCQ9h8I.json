@@ -1,0 +1,148 @@
+{
+  "video_id": "iF-ApCQ9h8I",
+  "duration_seconds": 40,
+  "wps": 3.35,
+  "total_words": 134,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 468
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इनके सामने एक प्रेग्नेंट औरत को मार दिया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "का। अब मोदी सरकार चरखा लेके बैठी है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "क्या",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "बोले",
+      "count": 3
+    },
+    {
+      "word": "वहां",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "बच्चा",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "जल",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "पड़ा",
+      "count": 2
+    },
+    {
+      "word": "थे",
+      "count": 2
+    },
+    {
+      "word": "जिंदगी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गया था",
+      "count": 2
+    },
+    {
+      "phrase": "बोले वहां",
+      "count": 2
+    },
+    {
+      "phrase": "वहां तो",
+      "count": 2
+    },
+    {
+      "phrase": "पड़ा है",
+      "count": 2
+    },
+    {
+      "phrase": "इनके सामने",
+      "count": 1
+    },
+    {
+      "phrase": "सामने एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक प्रेग्नेंट",
+      "count": 1
+    },
+    {
+      "phrase": "प्रेग्नेंट औरत",
+      "count": 1
+    },
+    {
+      "phrase": "औरत को",
+      "count": 1
+    },
+    {
+      "phrase": "को मार",
+      "count": 1
+    }
+  ],
+  "segment_count": 18
+}

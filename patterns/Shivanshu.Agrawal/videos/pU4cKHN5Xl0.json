@@ -1,0 +1,148 @@
+{
+  "video_id": "pU4cKHN5Xl0",
+  "duration_seconds": 61,
+  "wps": 3.67,
+  "total_words": 224,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 768
+  },
+  "hook": {
+    "type": "statement",
+    "text": "वर्ल्ड वॉर तू की इस पिक्चर को ध्यान से देखिए ये है हिटलर के द्वारा बनवा गई दुनिया की सबसे बड़ी वर्ल्ड वॉर 2 में हिटलर एक ऐसा वेपन चाहता था जो दुश्मन के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "में इसे डिस्ट्रॉय कर दिया गया ताकि ये दुश्मन के हाथ ना"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 14
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "थी",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "गण",
+      "count": 4
+    },
+    {
+      "word": "फीट",
+      "count": 4
+    },
+    {
+      "word": "वेट",
+      "count": 4
+    },
+    {
+      "word": "करने",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "चौड़ी",
+      "count": 3
+    },
+    {
+      "word": "डिस्ट्रॉय",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 2
+    },
+    {
+      "word": "वॉर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "डिस्ट्रॉय कर",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "करने के",
+      "count": 3
+    },
+    {
+      "phrase": "वर्ल्ड वॉर",
+      "count": 2
+    },
+    {
+      "phrase": "दुश्मन के",
+      "count": 2
+    },
+    {
+      "phrase": "चौड़ी कंक्रीट",
+      "count": 2
+    },
+    {
+      "phrase": "कंक्रीट की",
+      "count": 2
+    },
+    {
+      "phrase": "23 फीट",
+      "count": 2
+    },
+    {
+      "phrase": "फीट चौड़ी",
+      "count": 2
+    },
+    {
+      "phrase": "का वेट",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

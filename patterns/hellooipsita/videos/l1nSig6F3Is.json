@@ -1,0 +1,148 @@
+{
+  "video_id": "l1nSig6F3Is",
+  "duration_seconds": 69,
+  "wps": 2.72,
+  "total_words": 188,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 796
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हरे कृष्णा। आई एम स्टैंडिंग इन फ्रंट व्हाट इज गोइंग टू बी द टालेस्ट टेंपल इन द एंटायर वर्ल्ड। आई एम हियर एट द वृंदावन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "योरसेल्फ।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "टू",
+      "count": 6
+    },
+    {
+      "word": "आई",
+      "count": 5
+    },
+    {
+      "word": "एंड",
+      "count": 5
+    },
+    {
+      "word": "टेंपल",
+      "count": 4
+    },
+    {
+      "word": "दैट",
+      "count": 4
+    },
+    {
+      "word": "कृष्णा",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "वृंदावन",
+      "count": 3
+    },
+    {
+      "word": "एम",
+      "count": 2
+    },
+    {
+      "word": "इज",
+      "count": 2
+    },
+    {
+      "word": "बी",
+      "count": 2
+    },
+    {
+      "word": "हियर",
+      "count": 2
+    },
+    {
+      "word": "एट",
+      "count": 2
+    },
+    {
+      "word": "चंद्रोदय",
+      "count": 2
+    },
+    {
+      "word": "मंदिर",
+      "count": 2
+    },
+    {
+      "word": "ड्यूरिंग",
+      "count": 2
+    },
+    {
+      "word": "मोस्ट",
+      "count": 2
+    },
+    {
+      "word": "एक्सपीरियंस",
+      "count": 2
+    },
+    {
+      "word": "समथिंग",
+      "count": 2
+    },
+    {
+      "word": "वुड",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आई एम",
+      "count": 2
+    },
+    {
+      "phrase": "टू बी",
+      "count": 2
+    },
+    {
+      "phrase": "बी द",
+      "count": 2
+    },
+    {
+      "phrase": "इन द",
+      "count": 2
+    },
+    {
+      "phrase": "वृंदावन चंद्रोदय",
+      "count": 2
+    },
+    {
+      "phrase": "चंद्रोदय मंदिर",
+      "count": 2
+    },
+    {
+      "phrase": "इनू द",
+      "count": 2
+    },
+    {
+      "phrase": "हरे कृष्णा",
+      "count": 1
+    },
+    {
+      "phrase": "कृष्णा आई",
+      "count": 1
+    },
+    {
+      "phrase": "एम स्टैंडिंग",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

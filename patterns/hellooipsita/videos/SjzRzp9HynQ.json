@@ -1,0 +1,148 @@
+{
+  "video_id": "SjzRzp9HynQ",
+  "duration_seconds": 61,
+  "wps": 3.11,
+  "total_words": 190,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 826
+  },
+  "hook": {
+    "type": "statement",
+    "text": "this is the most common way that you're punishing yourself 101 essays to change the way that you think and it talks about mind reading you assume to know"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "beings might have think about it"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 12
+    },
+    {
+      "word": "to",
+      "count": 11
+    },
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "that",
+      "count": 7
+    },
+    {
+      "word": "this",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 6
+    },
+    {
+      "word": "way",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "about",
+      "count": 4
+    },
+    {
+      "word": "they",
+      "count": 4
+    },
+    {
+      "word": "have",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "respond",
+      "count": 3
+    },
+    {
+      "word": "situation",
+      "count": 3
+    },
+    {
+      "word": "else",
+      "count": 3
+    },
+    {
+      "word": "somebody",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "same",
+      "count": 3
+    },
+    {
+      "word": "you're",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 5
+    },
+    {
+      "phrase": "the way",
+      "count": 4
+    },
+    {
+      "phrase": "have to",
+      "count": 3
+    },
+    {
+      "phrase": "way that",
+      "count": 2
+    },
+    {
+      "phrase": "you assume",
+      "count": 2
+    },
+    {
+      "phrase": "to know",
+      "count": 2
+    },
+    {
+      "phrase": "way you",
+      "count": 2
+    },
+    {
+      "phrase": "you would",
+      "count": 2
+    },
+    {
+      "phrase": "because you",
+      "count": 2
+    },
+    {
+      "phrase": "that this",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

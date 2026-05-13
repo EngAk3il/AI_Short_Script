@@ -1,0 +1,148 @@
+{
+  "video_id": "rannv5xU94E",
+  "duration_seconds": 61,
+  "wps": 2.75,
+  "total_words": 168,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 737
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "The only one thing that I need to"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "set of behaviors. That's all."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 11
+    },
+    {
+      "word": "of",
+      "count": 9
+    },
+    {
+      "word": "it",
+      "count": 9
+    },
+    {
+      "word": "i'm",
+      "count": 8
+    },
+    {
+      "word": "that",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "variation",
+      "count": 4
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "doing",
+      "count": 4
+    },
+    {
+      "word": "all",
+      "count": 3
+    },
+    {
+      "word": "way",
+      "count": 3
+    },
+    {
+      "word": "fact",
+      "count": 3
+    },
+    {
+      "word": "conversations",
+      "count": 3
+    },
+    {
+      "word": "that's",
+      "count": 2
+    },
+    {
+      "word": "can",
+      "count": 2
+    },
+    {
+      "word": "come",
+      "count": 2
+    },
+    {
+      "word": "form",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "that i'm",
+      "count": 4
+    },
+    {
+      "phrase": "the fact",
+      "count": 3
+    },
+    {
+      "phrase": "fact that",
+      "count": 3
+    },
+    {
+      "phrase": "and doing",
+      "count": 3
+    },
+    {
+      "phrase": "doing it",
+      "count": 3
+    },
+    {
+      "phrase": "that's all",
+      "count": 2
+    },
+    {
+      "phrase": "variation can",
+      "count": 2
+    },
+    {
+      "phrase": "can come",
+      "count": 2
+    },
+    {
+      "phrase": "come in",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    }
+  ],
+  "segment_count": 26
+}

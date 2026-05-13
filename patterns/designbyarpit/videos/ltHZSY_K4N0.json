@@ -1,0 +1,148 @@
+{
+  "video_id": "ltHZSY_K4N0",
+  "duration_seconds": 38,
+  "wps": 3.74,
+  "total_words": 142,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 636
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "These products look ordinary, but their packaging made them millions. Each one solved a problem nobody thought about. The last one is going to blow your mind."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "done. No cups, no mess, and no dirty dishes. Perfect for travel and it's going viral everywhere. I'm just going to buy it. Subscribe for more amazing design"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "no",
+      "count": 5
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "the",
+      "count": 3
+    },
+    {
+      "word": "going",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "made",
+      "count": 2
+    },
+    {
+      "word": "each",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "who",
+      "count": 2
+    },
+    {
+      "word": "mess",
+      "count": 2
+    },
+    {
+      "word": "smart",
+      "count": 2
+    },
+    {
+      "word": "perfect",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 2
+    },
+    {
+      "phrase": "no mess",
+      "count": 2
+    },
+    {
+      "phrase": "these products",
+      "count": 1
+    },
+    {
+      "phrase": "products look",
+      "count": 1
+    },
+    {
+      "phrase": "look ordinary",
+      "count": 1
+    },
+    {
+      "phrase": "ordinary but",
+      "count": 1
+    },
+    {
+      "phrase": "but their",
+      "count": 1
+    },
+    {
+      "phrase": "their packaging",
+      "count": 1
+    },
+    {
+      "phrase": "packaging made",
+      "count": 1
+    },
+    {
+      "phrase": "made them",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

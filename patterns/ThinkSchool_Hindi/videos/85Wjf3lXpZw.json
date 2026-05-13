@@ -1,0 +1,148 @@
+{
+  "video_id": "85Wjf3lXpZw",
+  "duration_seconds": 72,
+  "wps": 3.69,
+  "total_words": 266,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1067
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "चाचा के भी बच्चे हैं और मैं भी हूं। चाचा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इनटू डिस्प्यूट्स एंड बैटल्स।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "बिज़नेस",
+      "count": 6
+    },
+    {
+      "word": "चाचा",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "फैमिली",
+      "count": 5
+    },
+    {
+      "word": "हैव",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "ऑफ़",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "सिर्फ",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "वी",
+      "count": 3
+    },
+    {
+      "word": "दे",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "चाचा के",
+      "count": 3
+    },
+    {
+      "phrase": "है दे",
+      "count": 3
+    },
+    {
+      "phrase": "दे हैव",
+      "count": 3
+    },
+    {
+      "phrase": "पर ध्यान",
+      "count": 2
+    },
+    {
+      "phrase": "ध्यान देने",
+      "count": 2
+    },
+    {
+      "phrase": "देने के",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "अबाउट मैनेजिंग",
+      "count": 2
+    },
+    {
+      "phrase": "वी हैव",
+      "count": 2
+    },
+    {
+      "phrase": "हैव टू",
+      "count": 2
+    }
+  ],
+  "segment_count": 36
+}

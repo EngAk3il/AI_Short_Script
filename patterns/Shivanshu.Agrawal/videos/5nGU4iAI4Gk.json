@@ -1,0 +1,148 @@
+{
+  "video_id": "5nGU4iAI4Gk",
+  "duration_seconds": 55,
+  "wps": 3.35,
+  "total_words": 184,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 725
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया ने अपना 1 लाख किलो गोल्ड इंग्लैंड से वापस लाया है ज्यादातर देशों के सेंट्रल बैंक्स गोल्ड रिजर्व्स मेंटेन करते हैं क्योंकि गोल्ड एक स्टेबल एसेट है"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "मुझे फॉलो करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "गोल्ड",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "इंडिया",
+      "count": 5
+    },
+    {
+      "word": "इंग्लैंड",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "अपना",
+      "count": 2
+    },
+    {
+      "word": "लाख",
+      "count": 2
+    },
+    {
+      "word": "किलो",
+      "count": 2
+    },
+    {
+      "word": "वापस",
+      "count": 2
+    },
+    {
+      "word": "लाया",
+      "count": 2
+    },
+    {
+      "word": "रिजर्व्स",
+      "count": 2
+    },
+    {
+      "word": "क्योंकि",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया ने",
+      "count": 2
+    },
+    {
+      "phrase": "ने अपना",
+      "count": 2
+    },
+    {
+      "phrase": "लाख किलो",
+      "count": 2
+    },
+    {
+      "phrase": "किलो गोल्ड",
+      "count": 2
+    },
+    {
+      "phrase": "वापस लाया",
+      "count": 2
+    },
+    {
+      "phrase": "लाया है",
+      "count": 2
+    },
+    {
+      "phrase": "गोल्ड रिजर्व्स",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "बैंक ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ इंग्लैंड",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

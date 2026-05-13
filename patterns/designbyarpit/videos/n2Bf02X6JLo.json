@@ -1,0 +1,148 @@
+{
+  "video_id": "n2Bf02X6JLo",
+  "duration_seconds": 56,
+  "wps": 2.91,
+  "total_words": 163,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 731
+  },
+  "hook": {
+    "type": "statement",
+    "text": "You see this cat everywhere in Japan,"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "design stories, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "cat",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 4
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "was",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "logo",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "japan",
+      "count": 2
+    },
+    {
+      "word": "child's",
+      "count": 2
+    },
+    {
+      "word": "crayon",
+      "count": 2
+    },
+    {
+      "word": "drawing",
+      "count": 2
+    },
+    {
+      "word": "japanese",
+      "count": 2
+    },
+    {
+      "word": "say",
+      "count": 2
+    },
+    {
+      "word": "delivery",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "at",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this cat",
+      "count": 2
+    },
+    {
+      "phrase": "in japan",
+      "count": 2
+    },
+    {
+      "phrase": "a child's",
+      "count": 2
+    },
+    {
+      "phrase": "child's crayon",
+      "count": 2
+    },
+    {
+      "phrase": "crayon drawing",
+      "count": 2
+    },
+    {
+      "phrase": "the most",
+      "count": 2
+    },
+    {
+      "phrase": "for more",
+      "count": 2
+    },
+    {
+      "phrase": "you see",
+      "count": 1
+    },
+    {
+      "phrase": "see this",
+      "count": 1
+    },
+    {
+      "phrase": "cat everywhere",
+      "count": 1
+    }
+  ],
+  "segment_count": 25
+}

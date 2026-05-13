@@ -1,0 +1,150 @@
+{
+  "video_id": "fNfxWeIcnQg",
+  "duration_seconds": 29,
+  "wps": 5.55,
+  "total_words": 161,
+  "language_mix": {
+    "hindi": 94.7,
+    "english": 5.3,
+    "total_chars": 552
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अंबानी अपने खुद के गेम के अंदर फंस गया था और अभी पूरा का पूरा मैदान छोड़ के भाग रहा है। मैं तुम्हें पूरी कहानी बताता हूं। ICC वर्ल्ड कप के राइट्स अभी Jio स्टार के पास है और Jio वालों ने मना कर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वजह से जो लड़ाई करके कॉन्ट्रैक्ट को महंगा किया था ना वो भी खुद ही को चिपक गया। अब ये बोल रहे हैं कि भैया हमको तो नहीं चाहिए। आपसे जला दो।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "jio",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "राइट्स",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "खुद",
+      "count": 2
+    },
+    {
+      "word": "गया",
+      "count": 2
+    },
+    {
+      "word": "अभी",
+      "count": 2
+    },
+    {
+      "word": "पूरा",
+      "count": 2
+    },
+    {
+      "word": "वालों",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "jio वालों",
+      "count": 2
+    },
+    {
+      "phrase": "वालों ने",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "भैया हमको",
+      "count": 2
+    },
+    {
+      "phrase": "ये राइट्स",
+      "count": 2
+    },
+    {
+      "phrase": "किया था",
+      "count": 2
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 2
+    }
+  ],
+  "segment_count": 4
+}

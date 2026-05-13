@@ -1,0 +1,148 @@
+{
+  "video_id": "MOQWOjwJIUo",
+  "duration_seconds": 52,
+  "wps": 3.73,
+  "total_words": 194,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 780
+  },
+  "hook": {
+    "type": "question",
+    "text": "स्टॉक मार्केट में अगर बेटर होना चाहते हो तो यह कुछ फ्री एप्स एंड वेबसाइट्स हैं जिनके बारे में आपको जरूर पता होना चाहिए। फर्स्ट है स्क्रीनर। यहां पे आप बहुत सारी"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "तो मुझे कमेंट में फ्री लिखो। मैं आपको डिटेल्स डीएम कर दूंगी। सो, वीडियो पसंद आई तो लाइक एंड शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "आप",
+      "count": 6
+    },
+    {
+      "word": "स्टॉक",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "यहां",
+      "count": 5
+    },
+    {
+      "word": "सकते",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "फ्री",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "सारी",
+      "count": 3
+    },
+    {
+      "word": "एनालिसिस",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "देन",
+      "count": 3
+    },
+    {
+      "word": "नेक्स्ट",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सकते हो",
+      "count": 5
+    },
+    {
+      "phrase": "यहां पे",
+      "count": 3
+    },
+    {
+      "phrase": "बहुत सारी",
+      "count": 3
+    },
+    {
+      "phrase": "नेक्स्ट है",
+      "count": 3
+    },
+    {
+      "phrase": "स्टॉक मार्केट",
+      "count": 2
+    },
+    {
+      "phrase": "चाहते हो",
+      "count": 2
+    },
+    {
+      "phrase": "हो तो",
+      "count": 2
+    },
+    {
+      "phrase": "पे आप",
+      "count": 2
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 2
+    },
+    {
+      "phrase": "करने हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

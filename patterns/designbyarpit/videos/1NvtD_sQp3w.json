@@ -1,0 +1,148 @@
+{
+  "video_id": "1NvtD_sQp3w",
+  "duration_seconds": 71,
+  "wps": 3.3,
+  "total_words": 234,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 1051
+  },
+  "hook": {
+    "type": "question",
+    "text": "Every year millions of animals are killed just for your accessories. It's brutal industry. But what if the strongest softest leather would not"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "here is the craziest part. After you're done with this, it compost back into the soil in just 45 to 90 days, and the leather disappears. So cool."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "leather",
+      "count": 10
+    },
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "for",
+      "count": 7
+    },
+    {
+      "word": "this",
+      "count": 6
+    },
+    {
+      "word": "it",
+      "count": 6
+    },
+    {
+      "word": "of",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "into",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "just",
+      "count": 4
+    },
+    {
+      "word": "waste",
+      "count": 4
+    },
+    {
+      "word": "are",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "so",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "one",
+      "count": 3
+    },
+    {
+      "word": "from",
+      "count": 3
+    },
+    {
+      "word": "banana",
+      "count": 3
+    },
+    {
+      "word": "needs",
+      "count": 3
+    },
+    {
+      "word": "no",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "for your",
+      "count": 2
+    },
+    {
+      "phrase": "brands like",
+      "count": 2
+    },
+    {
+      "phrase": "agricultural waste",
+      "count": 2
+    },
+    {
+      "phrase": "days and",
+      "count": 2
+    },
+    {
+      "phrase": "real leather",
+      "count": 2
+    },
+    {
+      "phrase": "waste it",
+      "count": 2
+    },
+    {
+      "phrase": "it is",
+      "count": 2
+    },
+    {
+      "phrase": "needs almost",
+      "count": 2
+    },
+    {
+      "phrase": "for the",
+      "count": 2
+    },
+    {
+      "phrase": "the leather",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

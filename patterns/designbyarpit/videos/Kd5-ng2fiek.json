@@ -1,0 +1,149 @@
+{
+  "video_id": "Kd5-ng2fiek",
+  "duration_seconds": 75,
+  "wps": 3.83,
+  "total_words": 287,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 1197
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This laptop company wants you to keep your laptop forever. While others glue everything shut, they give you the tools. Most laptops die in 3 years, but"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "It's about taking back the control from the big companies which actually make the money when you break product. If you want to see more amazing design experiments, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 14
+    },
+    {
+      "word": "to",
+      "count": 12
+    },
+    {
+      "word": "and",
+      "count": 11
+    },
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "laptop",
+      "count": 8
+    },
+    {
+      "word": "it",
+      "count": 8
+    },
+    {
+      "word": "just",
+      "count": 8
+    },
+    {
+      "word": "that",
+      "count": 7
+    },
+    {
+      "word": "is",
+      "count": 6
+    },
+    {
+      "word": "no",
+      "count": 5
+    },
+    {
+      "word": "your",
+      "count": 4
+    },
+    {
+      "word": "want",
+      "count": 4
+    },
+    {
+      "word": "they",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "years",
+      "count": 3
+    },
+    {
+      "word": "even",
+      "count": 3
+    },
+    {
+      "word": "companies",
+      "count": 3
+    },
+    {
+      "word": "fix",
+      "count": 3
+    },
+    {
+      "word": "new",
+      "count": 3
+    },
+    {
+      "word": "so",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "a new",
+      "count": 3
+    },
+    {
+      "phrase": "you want",
+      "count": 3
+    },
+    {
+      "phrase": "this laptop",
+      "count": 2
+    },
+    {
+      "phrase": "you to",
+      "count": 2
+    },
+    {
+      "phrase": "to keep",
+      "count": 2
+    },
+    {
+      "phrase": "for 10",
+      "count": 2
+    },
+    {
+      "phrase": "we can't",
+      "count": 2
+    },
+    {
+      "phrase": "can't fix",
+      "count": 2
+    },
+    {
+      "phrase": "fix it",
+      "count": 2
+    },
+    {
+      "phrase": "and you",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

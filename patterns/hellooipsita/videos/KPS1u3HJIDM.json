@@ -1,0 +1,148 @@
+{
+  "video_id": "KPS1u3HJIDM",
+  "duration_seconds": 47,
+  "wps": 3.57,
+  "total_words": 168,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 614
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "focus on taking step one then step two then step three there was a boy and a horse walking in dark dark woods the boy and the horse stops and the horse asks"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "I don't know what I'm going to do when step 10 comes but what I can do right now is focus on taking my next step"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 15
+    },
+    {
+      "word": "step",
+      "count": 9
+    },
+    {
+      "word": "boy",
+      "count": 8
+    },
+    {
+      "word": "and",
+      "count": 8
+    },
+    {
+      "word": "you",
+      "count": 7
+    },
+    {
+      "word": "horse",
+      "count": 6
+    },
+    {
+      "word": "can",
+      "count": 5
+    },
+    {
+      "word": "next",
+      "count": 5
+    },
+    {
+      "word": "what",
+      "count": 4
+    },
+    {
+      "word": "now",
+      "count": 4
+    },
+    {
+      "word": "then",
+      "count": 3
+    },
+    {
+      "word": "dark",
+      "count": 3
+    },
+    {
+      "word": "asks",
+      "count": 3
+    },
+    {
+      "word": "says",
+      "count": 3
+    },
+    {
+      "word": "see",
+      "count": 3
+    },
+    {
+      "word": "do",
+      "count": 3
+    },
+    {
+      "word": "focus",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "taking",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the boy",
+      "count": 7
+    },
+    {
+      "phrase": "the horse",
+      "count": 5
+    },
+    {
+      "phrase": "next step",
+      "count": 5
+    },
+    {
+      "phrase": "and the",
+      "count": 4
+    },
+    {
+      "phrase": "horse asks",
+      "count": 3
+    },
+    {
+      "phrase": "step and",
+      "count": 3
+    },
+    {
+      "phrase": "i can",
+      "count": 3
+    },
+    {
+      "phrase": "focus on",
+      "count": 2
+    },
+    {
+      "phrase": "on taking",
+      "count": 2
+    },
+    {
+      "phrase": "then step",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

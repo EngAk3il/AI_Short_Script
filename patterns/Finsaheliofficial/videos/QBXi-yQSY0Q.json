@@ -1,0 +1,148 @@
+{
+  "video_id": "QBXi-yQSY0Q",
+  "duration_seconds": 27,
+  "wps": 3.78,
+  "total_words": 102,
+  "language_mix": {
+    "hindi": 97.5,
+    "english": 2.5,
+    "total_chars": 360
+  },
+  "hook": {
+    "type": "question",
+    "text": "रतन टाटा जी से एक इंटरव्यू में पूछा गया कि अगर आपको BMW खरीदनी हो तो आपको कितना टाइम लगेगा? रतन टाटा जी ने थोड़ा सोच कर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आप तो दुनिया के रिचेस्ट लोगों में से एक हो। तो आपको BMW खरीदने में इतना टाइम क्यों लगेगा? तो रतन टाटा जी ने कहा BMW"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "रतन",
+      "count": 4
+    },
+    {
+      "word": "टाटा",
+      "count": 4
+    },
+    {
+      "word": "जी",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "bmw",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "पूछा",
+      "count": 2
+    },
+    {
+      "word": "गया",
+      "count": 2
+    },
+    {
+      "word": "टाइम",
+      "count": 2
+    },
+    {
+      "word": "लगेगा",
+      "count": 2
+    },
+    {
+      "word": "बोला",
+      "count": 2
+    },
+    {
+      "word": "थिंक",
+      "count": 2
+    },
+    {
+      "word": "रिपोर्टर",
+      "count": 2
+    },
+    {
+      "word": "क्यों",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रतन टाटा",
+      "count": 4
+    },
+    {
+      "phrase": "टाटा जी",
+      "count": 4
+    },
+    {
+      "phrase": "जी से",
+      "count": 2
+    },
+    {
+      "phrase": "से एक",
+      "count": 2
+    },
+    {
+      "phrase": "आपको bmw",
+      "count": 2
+    },
+    {
+      "phrase": "हो तो",
+      "count": 2
+    },
+    {
+      "phrase": "तो आपको",
+      "count": 2
+    },
+    {
+      "phrase": "जी ने",
+      "count": 2
+    },
+    {
+      "phrase": "एक इंटरव्यू",
+      "count": 1
+    },
+    {
+      "phrase": "इंटरव्यू में",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

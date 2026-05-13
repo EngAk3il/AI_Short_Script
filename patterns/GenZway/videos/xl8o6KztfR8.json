@@ -1,0 +1,150 @@
+{
+  "video_id": "xl8o6KztfR8",
+  "duration_seconds": 67,
+  "wps": 4.31,
+  "total_words": 289,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1021
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पीछे एक डॉक्टर की वीडियो निकल के आई थी जिसके अंदर वो बंदा ओपनली बोल रहा था कि भैया मेरे को एमबीबीएस करने के बाद एक सेल्समैन बना दिया। वो एक हॉस्पिटल के अंदर काम करता था जहां पे उसको पेशेंट्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लोग वहां से जाके चेक आउट कर सकते"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "अंदर",
+      "count": 5
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "आपको",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "सिर्फ",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "लोग",
+      "count": 4
+    },
+    {
+      "word": "कवर",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 5
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 3
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 3
+    },
+    {
+      "phrase": "का कवर",
+      "count": 3
+    },
+    {
+      "phrase": "कवर मिलता",
+      "count": 3
+    },
+    {
+      "phrase": "जिसके अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "और सिर्फ",
+      "count": 2
+    },
+    {
+      "phrase": "कोई एक",
+      "count": 2
+    },
+    {
+      "phrase": "ना तो",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

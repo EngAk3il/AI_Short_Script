@@ -1,0 +1,149 @@
+{
+  "video_id": "T4ByZNCbdgI",
+  "duration_seconds": 85,
+  "wps": 3.85,
+  "total_words": 327,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1150
+  },
+  "hook": {
+    "type": "statement",
+    "text": "स्पेशल फोर्सेस में एक प्रोबेशन पीरियड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "माउंटेंस।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "कि",
+      "count": 9
+    },
+    {
+      "word": "मुझे",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "आई",
+      "count": 5
+    },
+    {
+      "word": "इज",
+      "count": 5
+    },
+    {
+      "word": "लाइक",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "मैं",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "मालूम",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "स्पेशल",
+      "count": 3
+    },
+    {
+      "word": "फोर्सेस",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "था कि",
+      "count": 4
+    },
+    {
+      "phrase": "स्पेशल फोर्सेस",
+      "count": 3
+    },
+    {
+      "phrase": "मालूम था",
+      "count": 3
+    },
+    {
+      "phrase": "हुए हैं",
+      "count": 3
+    },
+    {
+      "phrase": "में एक",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "मुझे मालूम",
+      "count": 2
+    },
+    {
+      "phrase": "कि मुझे",
+      "count": 2
+    },
+    {
+      "phrase": "आई एम",
+      "count": 2
+    },
+    {
+      "phrase": "हैं मुझे",
+      "count": 2
+    }
+  ],
+  "segment_count": 39
+}

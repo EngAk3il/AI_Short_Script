@@ -1,0 +1,148 @@
+{
+  "video_id": "rpktYcly7K4",
+  "duration_seconds": 51,
+  "wps": 3.14,
+  "total_words": 160,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 736
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आखिर कैसे ब्रिटिशर्स ने एजुकेशन का यूज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नौकरी को ही सक्सेस मानते"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "केवल",
+      "count": 4
+    },
+    {
+      "word": "ब्रिटिशर्स",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "जैसे",
+      "count": 3
+    },
+    {
+      "word": "इंग्लिश",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "एजुकेशन",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "इंडियंस",
+      "count": 2
+    },
+    {
+      "word": "ब्रिटिश",
+      "count": 2
+    },
+    {
+      "word": "कॉलेज",
+      "count": 2
+    },
+    {
+      "word": "सब्जेक्ट्स",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "गया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "किया गया",
+      "count": 2
+    },
+    {
+      "phrase": "और केवल",
+      "count": 2
+    },
+    {
+      "phrase": "पर फोकस",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "आखिर कैसे",
+      "count": 1
+    },
+    {
+      "phrase": "कैसे ब्रिटिशर्स",
+      "count": 1
+    },
+    {
+      "phrase": "ब्रिटिशर्स ने",
+      "count": 1
+    },
+    {
+      "phrase": "ने एजुकेशन",
+      "count": 1
+    },
+    {
+      "phrase": "एजुकेशन का",
+      "count": 1
+    },
+    {
+      "phrase": "का यूज",
+      "count": 1
+    }
+  ],
+  "segment_count": 24
+}

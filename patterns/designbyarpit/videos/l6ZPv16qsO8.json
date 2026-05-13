@@ -1,0 +1,148 @@
+{
+  "video_id": "l6ZPv16qsO8",
+  "duration_seconds": 47,
+  "wps": 3.23,
+  "total_words": 152,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 630
+  },
+  "hook": {
+    "type": "statement",
+    "text": "Healthy snack brands fail a lot, but you know, design can change that. Here is how this brand won with three smart choices. First, healthy food can feel boring, but New Deli makes it feel good."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "And people will think of keeping them all."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "feel",
+      "count": 4
+    },
+    {
+      "word": "healthy",
+      "count": 3
+    },
+    {
+      "word": "smart",
+      "count": 3
+    },
+    {
+      "word": "use",
+      "count": 3
+    },
+    {
+      "word": "all",
+      "count": 3
+    },
+    {
+      "word": "brands",
+      "count": 2
+    },
+    {
+      "word": "know",
+      "count": 2
+    },
+    {
+      "word": "can",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "food",
+      "count": 2
+    },
+    {
+      "word": "boring",
+      "count": 2
+    },
+    {
+      "word": "new",
+      "count": 2
+    },
+    {
+      "word": "deli",
+      "count": 2
+    },
+    {
+      "word": "makes",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "but you",
+      "count": 2
+    },
+    {
+      "phrase": "you know",
+      "count": 2
+    },
+    {
+      "phrase": "new deli",
+      "count": 2
+    },
+    {
+      "phrase": "feel good",
+      "count": 2
+    },
+    {
+      "phrase": "see the",
+      "count": 2
+    },
+    {
+      "phrase": "healthy snack",
+      "count": 1
+    },
+    {
+      "phrase": "snack brands",
+      "count": 1
+    },
+    {
+      "phrase": "brands fail",
+      "count": 1
+    },
+    {
+      "phrase": "fail a",
+      "count": 1
+    },
+    {
+      "phrase": "a lot",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

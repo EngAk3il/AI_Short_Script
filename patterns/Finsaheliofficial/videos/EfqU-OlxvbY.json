@@ -1,0 +1,148 @@
+{
+  "video_id": "EfqU-OlxvbY",
+  "duration_seconds": 70,
+  "wps": 3.54,
+  "total_words": 248,
+  "language_mix": {
+    "hindi": 97.3,
+    "english": 2.7,
+    "total_chars": 862
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जब भी किसी कंपनी का आईपीओ आता है तो"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 26
+    },
+    {
+      "word": "तो",
+      "count": 9
+    },
+    {
+      "word": "एंड",
+      "count": 7
+    },
+    {
+      "word": "रेशियो",
+      "count": 6
+    },
+    {
+      "word": "अगर",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "कंपनी",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "पीई",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "मिल",
+      "count": 4
+    },
+    {
+      "word": "मतलब",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "ज्यादा",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "बट",
+      "count": 3
+    },
+    {
+      "word": "आज",
+      "count": 3
+    },
+    {
+      "word": "रहा",
+      "count": 3
+    },
+    {
+      "word": "इसका",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है तो",
+      "count": 6
+    },
+    {
+      "phrase": "पीई रेशियो",
+      "count": 4
+    },
+    {
+      "phrase": "है एंड",
+      "count": 4
+    },
+    {
+      "phrase": "मिल रहा",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "तो इसका",
+      "count": 3
+    },
+    {
+      "phrase": "इसका मतलब",
+      "count": 3
+    },
+    {
+      "phrase": "किसी कंपनी",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनी का",
+      "count": 2
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    }
+  ],
+  "segment_count": 29
+}

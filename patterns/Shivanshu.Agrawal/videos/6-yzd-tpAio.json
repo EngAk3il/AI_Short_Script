@@ -1,0 +1,148 @@
+{
+  "video_id": "6-yzd-tpAio",
+  "duration_seconds": 87,
+  "wps": 3.86,
+  "total_words": 336,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 1279
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "हार्दिक पांड्या 20 करोड़ की घड़ी पहनकर क्रिकेट खेलते हैं और सच में यह कोई ऐसी वैसी वॉच नहीं है। यह है रिचर्ड मिल ब्रांड की RM2704"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्टेटस सिंबल के साथ-साथ ग्रेट इन्वेस्टमेंट भी है। क्योंकि एक्सट्रीम Scarce सिटी के कारण इन वॉचेस का प्राइस लगातार बढ़ता रहता"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "वॉच",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 13
+    },
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    },
+    {
+      "word": "रिचर्ड",
+      "count": 5
+    },
+    {
+      "word": "मिल",
+      "count": 5
+    },
+    {
+      "word": "केवल",
+      "count": 5
+    },
+    {
+      "word": "नडाल",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "वॉचेस",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "हार्दिक",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रिचर्ड मिल",
+      "count": 5
+    },
+    {
+      "phrase": "हार्दिक पांड्या",
+      "count": 3
+    },
+    {
+      "phrase": "मिल ने",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "वॉच को",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "है यह",
+      "count": 2
+    },
+    {
+      "phrase": "की rm2704",
+      "count": 2
+    },
+    {
+      "phrase": "नडाल के",
+      "count": 2
+    },
+    {
+      "phrase": "एक वॉच",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

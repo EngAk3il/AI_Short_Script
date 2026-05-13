@@ -1,0 +1,148 @@
+{
+  "video_id": "bsMiA0qydio",
+  "duration_seconds": 100,
+  "wps": 2.73,
+  "total_words": 273,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1113
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इस केस पर जरा नजर डालना। जस्ट लुक एट दी पेशेंट्स इन्हें सिंपली वन टू 10 काउंट करने में भी दिक्कत आ रही है। यह"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "चीजों में स्पेशलाइज्ड"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 14
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "था",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "एरिया",
+      "count": 6
+    },
+    {
+      "word": "पेशेंट्स",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "लेफ्ट",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "ब्रेन",
+      "count": 3
+    },
+    {
+      "word": "उन",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गया था",
+      "count": 3
+    },
+    {
+      "phrase": "करने में",
+      "count": 2
+    },
+    {
+      "phrase": "में भी",
+      "count": 2
+    },
+    {
+      "phrase": "दिक्कत आ",
+      "count": 2
+    },
+    {
+      "phrase": "आ रही",
+      "count": 2
+    },
+    {
+      "phrase": "45 पेशेंट्स",
+      "count": 2
+    },
+    {
+      "phrase": "पता चला",
+      "count": 2
+    },
+    {
+      "phrase": "पेराइटल लोब",
+      "count": 2
+    },
+    {
+      "phrase": "डैमेज हो",
+      "count": 2
+    },
+    {
+      "phrase": "रिपीट करने",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

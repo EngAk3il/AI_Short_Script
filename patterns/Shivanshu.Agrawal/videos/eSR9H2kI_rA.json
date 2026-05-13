@@ -1,0 +1,148 @@
+{
+  "video_id": "eSR9H2kI_rA",
+  "duration_seconds": 111,
+  "wps": 3.17,
+  "total_words": 352,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1349
+  },
+  "hook": {
+    "type": "statement",
+    "text": "कैसे महाराष्ट्र ने एक मरती हुई नदी को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टर्टल्स भी यहां वापस आ चुके हैं।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "नदी",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "किया",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "गया",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "वाटर",
+      "count": 5
+    },
+    {
+      "word": "वेस्ट",
+      "count": 5
+    },
+    {
+      "word": "पता",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "फ्रेश",
+      "count": 4
+    },
+    {
+      "word": "लगा",
+      "count": 4
+    },
+    {
+      "word": "गए",
+      "count": 4
+    },
+    {
+      "word": "खाम",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "शहर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "किया गया",
+      "count": 5
+    },
+    {
+      "phrase": "फ्रेश वाटर",
+      "count": 4
+    },
+    {
+      "phrase": "खाम नदी",
+      "count": 2
+    },
+    {
+      "phrase": "शहर की",
+      "count": 2
+    },
+    {
+      "phrase": "था और",
+      "count": 2
+    },
+    {
+      "phrase": "और एक",
+      "count": 2
+    },
+    {
+      "phrase": "नदी में",
+      "count": 2
+    },
+    {
+      "phrase": "पता चला",
+      "count": 2
+    },
+    {
+      "phrase": "चला कि",
+      "count": 2
+    },
+    {
+      "phrase": "वाटर स्प्रिंग्स",
+      "count": 2
+    }
+  ],
+  "segment_count": 45
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "AfRGTb0_hDs",
+  "duration_seconds": 62,
+  "wps": 3.21,
+  "total_words": 199,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 759
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जींस में आखिर यह छोटा सा पॉकेट क्यों"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तक जींस का हिस्सा बनी रही"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "पॉकेट",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "जींस",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "वॉच",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "काम",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "वॉचेस",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "होता",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "डेनिम",
+      "count": 2
+    },
+    {
+      "word": "वर्किंग",
+      "count": 2
+    },
+    {
+      "word": "लेबरर्स",
+      "count": 2
+    },
+    {
+      "word": "बनी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "में काम",
+      "count": 2
+    },
+    {
+      "phrase": "करते थे",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं था",
+      "count": 2
+    },
+    {
+      "phrase": "वॉच पॉकेट",
+      "count": 2
+    },
+    {
+      "phrase": "जींस में",
+      "count": 1
+    },
+    {
+      "phrase": "में आखिर",
+      "count": 1
+    },
+    {
+      "phrase": "आखिर यह",
+      "count": 1
+    },
+    {
+      "phrase": "यह छोटा",
+      "count": 1
+    },
+    {
+      "phrase": "छोटा सा",
+      "count": 1
+    }
+  ],
+  "segment_count": 25
+}

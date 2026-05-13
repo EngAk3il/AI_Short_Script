@@ -1,0 +1,149 @@
+{
+  "video_id": "-cvkWUVWph4",
+  "duration_seconds": 47,
+  "wps": 2.74,
+  "total_words": 129,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 561
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "She raised 30 years of Adobe's hard work"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "design stories, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "no",
+      "count": 6
+    },
+    {
+      "word": "she",
+      "count": 5
+    },
+    {
+      "word": "design",
+      "count": 4
+    },
+    {
+      "word": "years",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "they",
+      "count": 2
+    },
+    {
+      "word": "even",
+      "count": 2
+    },
+    {
+      "word": "has",
+      "count": 2
+    },
+    {
+      "word": "right",
+      "count": 2
+    },
+    {
+      "word": "tech",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "did",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "canva",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "raised",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "3 years",
+      "count": 2
+    },
+    {
+      "phrase": "they even",
+      "count": 2
+    },
+    {
+      "phrase": "did not",
+      "count": 2
+    },
+    {
+      "phrase": "she raised",
+      "count": 1
+    },
+    {
+      "phrase": "raised 30",
+      "count": 1
+    },
+    {
+      "phrase": "30 years",
+      "count": 1
+    },
+    {
+      "phrase": "years of",
+      "count": 1
+    },
+    {
+      "phrase": "of adobe's",
+      "count": 1
+    },
+    {
+      "phrase": "adobe's hard",
+      "count": 1
+    },
+    {
+      "phrase": "hard work",
+      "count": 1
+    }
+  ],
+  "segment_count": 19
+}

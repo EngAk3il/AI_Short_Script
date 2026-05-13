@@ -1,0 +1,148 @@
+{
+  "video_id": "99PlwlvthQk",
+  "duration_seconds": 62,
+  "wps": 3.5,
+  "total_words": 217,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 779
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया का जो सीलिंग फैन का रिक्वायरमेंट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "प्रोपजीशन होगा।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "फैन",
+      "count": 5
+    },
+    {
+      "word": "रहा",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "इन",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "सीलिंग",
+      "count": 3
+    },
+    {
+      "word": "रिक्वायरमेंट",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "मतलब",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "हाई",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सीलिंग फैन",
+      "count": 3
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 3
+    },
+    {
+      "phrase": "रहा था",
+      "count": 3
+    },
+    {
+      "phrase": "का जो",
+      "count": 2
+    },
+    {
+      "phrase": "अ सीलिंग",
+      "count": 2
+    },
+    {
+      "phrase": "फैन रिक्वायरमेंट",
+      "count": 2
+    },
+    {
+      "phrase": "रिक्वायरमेंट इन",
+      "count": 2
+    },
+    {
+      "phrase": "कि अगर",
+      "count": 2
+    },
+    {
+      "phrase": "साल में",
+      "count": 2
+    },
+    {
+      "phrase": "में ₹1500",
+      "count": 2
+    }
+  ],
+  "segment_count": 27
+}

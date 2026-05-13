@@ -1,0 +1,37 @@
+{
+  "video_id": "pumkp_iop_c",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 4,
+      "text": "Pick one. You have three seconds."
+    },
+    {
+      "start": 4,
+      "duration": 11,
+      "text": "You want more options? I can do that too with a single prompt. In fact, let me show you how I built all of this inside Imagine Art on a single canvas. So, you can create similar workflow yourself."
+    },
+    {
+      "start": 15,
+      "duration": 7,
+      "text": "Just write a prompt, generate the presenter using a reference image, place the smartwatch on their hand, and turn it into a video. All right, here. And"
+    },
+    {
+      "start": 22,
+      "duration": 9,
+      "text": "let's say what a completely different look for a presenter. You can just swap the reference image in the master prompt and everything else in the pipeline will stay as is. The results are also top"
+    },
+    {
+      "start": 31,
+      "duration": 9,
+      "text": "tier because you get access to models like Nano Banana Pro, Chad GBD for images, Clink 3.0, Cance Pro, Vio3 for video. Oh, and you can share this entire"
+    },
+    {
+      "start": 40,
+      "duration": 3.0,
+      "text": "pipeline with your team in two clicks so they can also replicate your style for other projects. Super simple, right?"
+    }
+  ]
+}

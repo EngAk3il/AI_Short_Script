@@ -1,0 +1,99 @@
+{
+  "creator": "hellooipsita",
+  "total_videos_analyzed": 59,
+  "clusters": {
+    "story_deep_dive": {
+      "count": 32,
+      "avg_wps": 2.9700642642986317,
+      "avg_duration": 61.625,
+      "common_hook_patterns": [
+        "आई एम",
+        "this is",
+        "could be",
+        "यू आर",
+        "if you",
+        "focus on",
+        "and the",
+        "the horse",
+        "टू बी",
+        "that you're",
+        "in the",
+        "is the",
+        "हैव यू",
+        "you get",
+        "a lot"
+      ],
+      "sample_hooks": [
+        "So if you get hurt easily, this might change your life. Do you constantly scan people's faces, their",
+        "Let's say you get a call and you're invited to a party and your social anxiety starts to take over b",
+        "when you feel scattered when your brain feels scattered Dr Andrew hubman talks about this Focus tool"
+      ]
+    },
+    "fast_facts": {
+      "count": 8,
+      "avg_wps": 3.148016063487021,
+      "avg_duration": 34.875,
+      "common_hook_patterns": [
+        "most ofఫ్",
+        "ofఫ్ అour",
+        "we are",
+        "हाउ डस",
+        "डस दैट",
+        "going to",
+        "sitting around",
+        "your friends",
+        "friends and",
+        "and family",
+        "family and",
+        "you struggle",
+        "struggle to",
+        "to stay",
+        "stay present"
+      ],
+      "sample_hooks": [
+        "imagine if you're sitting around with your friends and family and you struggle to stay present stres",
+        "I start watching I start learning and I keep consuming information consuming",
+        "here are three unique ways to look at your problems number one the parts of"
+      ]
+    },
+    "quick_hook": {
+      "count": 1,
+      "avg_wps": 2.0588235294117645,
+      "avg_duration": 17.0,
+      "common_hook_patterns": [
+        "बिलीव इन"
+      ],
+      "sample_hooks": [
+        "मेक श्यर दैट यू बिलीव इन व्हाट यू आर सेइंग बिकॉज इफ यू डोंट बिलीव इन द स्टफ"
+      ]
+    },
+    "other": {
+      "count": 18,
+      "avg_wps": 2.5115320591367856,
+      "avg_duration": 33.388888888888886,
+      "common_hook_patterns": [
+        "इट चेंजेस",
+        "you are",
+        "fight with",
+        "with somebody",
+        "somebody that",
+        "when you",
+        "step 10",
+        "that we",
+        "चेंजेस योर",
+        "this is",
+        "life is",
+        "the other",
+        "a fight",
+        "that you",
+        "10 you're"
+      ],
+      "sample_hooks": [
+        "योर इमोशंस एंड योर बिहेवियर डोंट हैव टू मैच द बिगेस्ट मिस्टेक दैट वी मेक व्हेन",
+        "जस्ट रिमेंबर वेरिएशन वेरिएशन कुड कम इन द फॉर्म ऑफ लाइक आई सेड बॉडी लैंग्वेज और",
+        "if you are constantly unhappy this is for you social media highlight real culture has really made pe"
+      ]
+    }
+  },
+  "overall_avg_wps": 2.838857382361463
+}

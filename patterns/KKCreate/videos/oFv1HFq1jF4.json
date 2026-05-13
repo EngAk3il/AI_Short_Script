@@ -1,0 +1,148 @@
+{
+  "video_id": "oFv1HFq1jF4",
+  "duration_seconds": 65,
+  "wps": 2.54,
+  "total_words": 165,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 636
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जिसने पूरे इंडिया को हंसाया, उसे जिंदगी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आता"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "पर",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "सिर्फ",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "बड़ा",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "तब",
+      "count": 2
+    },
+    {
+      "word": "रही",
+      "count": 2
+    },
+    {
+      "word": "मुंबई",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "जब",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "जिसने",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "जिसने पूरे",
+      "count": 1
+    },
+    {
+      "phrase": "पूरे इंडिया",
+      "count": 1
+    },
+    {
+      "phrase": "इंडिया को",
+      "count": 1
+    },
+    {
+      "phrase": "को हंसाया",
+      "count": 1
+    },
+    {
+      "phrase": "हंसाया उसे",
+      "count": 1
+    },
+    {
+      "phrase": "उसे जिंदगी",
+      "count": 1
+    },
+    {
+      "phrase": "जिंदगी ने",
+      "count": 1
+    },
+    {
+      "phrase": "ने सिर्फ",
+      "count": 1
+    },
+    {
+      "phrase": "सिर्फ दर्द",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

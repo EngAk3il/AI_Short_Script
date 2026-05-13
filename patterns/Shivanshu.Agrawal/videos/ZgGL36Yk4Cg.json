@@ -1,0 +1,148 @@
+{
+  "video_id": "ZgGL36Yk4Cg",
+  "duration_seconds": 63,
+  "wps": 1.54,
+  "total_words": 97,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 446
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "और प्रोसेसर्स से डायरेक्ट रिलेशनशिप"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करोड़ से ज्यादा का रेवेन्यू की"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "रेस्टोरेंट्स",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "सोर्स",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "फ्री",
+      "count": 2
+    },
+    {
+      "word": "ऑर्डर",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "एज",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "प्रोसेसर्स",
+      "count": 1
+    },
+    {
+      "word": "डायरेक्ट",
+      "count": 1
+    },
+    {
+      "word": "रिलेशनशिप",
+      "count": 1
+    },
+    {
+      "word": "इस्टैब्लिशमेंट",
+      "count": 1
+    },
+    {
+      "word": "जिसकी",
+      "count": 1
+    },
+    {
+      "word": "जरूरत",
+      "count": 1
+    },
+    {
+      "word": "होती",
+      "count": 1
+    },
+    {
+      "word": "है",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रेस्टोरेंट्स को",
+      "count": 2
+    },
+    {
+      "phrase": "और प्रोसेसर्स",
+      "count": 1
+    },
+    {
+      "phrase": "प्रोसेसर्स से",
+      "count": 1
+    },
+    {
+      "phrase": "से डायरेक्ट",
+      "count": 1
+    },
+    {
+      "phrase": "डायरेक्ट रिलेशनशिप",
+      "count": 1
+    },
+    {
+      "phrase": "रिलेशनशिप इस्टैब्लिशमेंट",
+      "count": 1
+    },
+    {
+      "phrase": "इस्टैब्लिशमेंट सोर्स",
+      "count": 1
+    },
+    {
+      "phrase": "सोर्स किया",
+      "count": 1
+    },
+    {
+      "phrase": "किया जिसकी",
+      "count": 1
+    },
+    {
+      "phrase": "जिसकी रेस्टोरेंट्स",
+      "count": 1
+    }
+  ],
+  "segment_count": 16
+}

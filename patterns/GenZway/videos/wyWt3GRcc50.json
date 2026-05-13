@@ -1,0 +1,148 @@
+{
+  "video_id": "wyWt3GRcc50",
+  "duration_seconds": 46,
+  "wps": 4.5,
+  "total_words": 207,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 730
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "₹00 का मोबाइल ईएमआई पे उठा लिया और बाद में मार्केट में जाके ₹00 का बेच दिया। यही स्कैम इंडिया के अंदर काफी टाइम से चलता आ रहा है क्योंकि जिस बंदे ने ₹00 का"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "देंगे। तो अगर कल को कोई सेकंड हैंड मोबाइल या प्रोडक्ट लेने जाओ ना, उसका पक्का बिल जरूर ले"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "मोबाइल",
+      "count": 7
+    },
+    {
+      "word": "लिया",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "जाके",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "बंदे",
+      "count": 5
+    },
+    {
+      "word": "₹00",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "ईएमआई",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "बेच",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "ऊपर",
+      "count": 3
+    },
+    {
+      "word": "फोन",
+      "count": 3
+    },
+    {
+      "word": "उसने",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "₹00 का",
+      "count": 4
+    },
+    {
+      "phrase": "लिया और",
+      "count": 3
+    },
+    {
+      "phrase": "बेच दिया",
+      "count": 3
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 3
+    },
+    {
+      "phrase": "बंदे को",
+      "count": 3
+    },
+    {
+      "phrase": "का मोबाइल",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "क्योंकि जिस",
+      "count": 2
+    },
+    {
+      "phrase": "जिस बंदे",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

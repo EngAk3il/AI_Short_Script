@@ -1,0 +1,148 @@
+{
+  "video_id": "HxYGuouqz-o",
+  "duration_seconds": 58,
+  "wps": 3.29,
+  "total_words": 191,
+  "language_mix": {
+    "hindi": 97.0,
+    "english": 3.0,
+    "total_chars": 837
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आय एम एट अ डोबी [संगीत] मैक्स द वर्ल्ड्स लार्जेस्ट क्रिएटिविटी कॉन्फ्रेंस एंड आय जस्ट विटनेस द मोस्ट इनसेन [संगीत]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डिस्क्लोज़र टू स्टे ट्यून फॉर मोर अपडेट्स।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "संगीत",
+      "count": 8
+    },
+    {
+      "word": "यू",
+      "count": 8
+    },
+    {
+      "word": "एंड",
+      "count": 7
+    },
+    {
+      "word": "टू",
+      "count": 4
+    },
+    {
+      "word": "वी",
+      "count": 4
+    },
+    {
+      "word": "हैव",
+      "count": 4
+    },
+    {
+      "word": "जस्ट",
+      "count": 3
+    },
+    {
+      "word": "कैन",
+      "count": 3
+    },
+    {
+      "word": "नाउ",
+      "count": 3
+    },
+    {
+      "word": "फुल",
+      "count": 3
+    },
+    {
+      "word": "आय",
+      "count": 2
+    },
+    {
+      "word": "क्रिएटिविटी",
+      "count": 2
+    },
+    {
+      "word": "सो",
+      "count": 2
+    },
+    {
+      "word": "मेक",
+      "count": 2
+    },
+    {
+      "word": "अपडेट्स",
+      "count": 2
+    },
+    {
+      "word": "आर",
+      "count": 2
+    },
+    {
+      "word": "बी",
+      "count": 2
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    },
+    {
+      "word": "विथ",
+      "count": 2
+    },
+    {
+      "word": "फायर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वी हैव",
+      "count": 3
+    },
+    {
+      "phrase": "यू कैन",
+      "count": 2
+    },
+    {
+      "phrase": "कैन नाउ",
+      "count": 2
+    },
+    {
+      "phrase": "हैव द",
+      "count": 2
+    },
+    {
+      "phrase": "आय एम",
+      "count": 1
+    },
+    {
+      "phrase": "एम एट",
+      "count": 1
+    },
+    {
+      "phrase": "एट अ",
+      "count": 1
+    },
+    {
+      "phrase": "अ डोबी",
+      "count": 1
+    },
+    {
+      "phrase": "डोबी संगीत",
+      "count": 1
+    },
+    {
+      "phrase": "संगीत मैक्स",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "MdMwBOONOi0",
+  "duration_seconds": 40,
+  "wps": 2.85,
+  "total_words": 114,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 467
+  },
+  "hook": {
+    "type": "question",
+    "text": "if you get triggered by insults keep listening imagine a glass of water is kept in front of you and you accidentally bump into it and the water"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "can be hurt"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 7
+    },
+    {
+      "word": "triggered",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "if",
+      "count": 3
+    },
+    {
+      "word": "get",
+      "count": 3
+    },
+    {
+      "word": "water",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "by",
+      "count": 2
+    },
+    {
+      "word": "imagine",
+      "count": 2
+    },
+    {
+      "word": "into",
+      "count": 2
+    },
+    {
+      "word": "there",
+      "count": 2
+    },
+    {
+      "word": "no",
+      "count": 2
+    },
+    {
+      "word": "our",
+      "count": 2
+    },
+    {
+      "word": "something",
+      "count": 2
+    },
+    {
+      "word": "we",
+      "count": 2
+    },
+    {
+      "word": "when",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 2
+    },
+    {
+      "phrase": "get triggered",
+      "count": 2
+    },
+    {
+      "phrase": "triggered by",
+      "count": 2
+    },
+    {
+      "phrase": "into it",
+      "count": 2
+    },
+    {
+      "phrase": "you get",
+      "count": 1
+    },
+    {
+      "phrase": "by insults",
+      "count": 1
+    },
+    {
+      "phrase": "insults keep",
+      "count": 1
+    },
+    {
+      "phrase": "keep listening",
+      "count": 1
+    },
+    {
+      "phrase": "listening imagine",
+      "count": 1
+    },
+    {
+      "phrase": "imagine a",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "epCj_dvw8Fw",
+  "duration_seconds": 21,
+  "wps": 2.19,
+  "total_words": 46,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 190
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "बट इफ यू कंटिन्यू टू गिव अ रिएक्टिव"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रिएक्टिव यू आर"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "रिएक्टिव",
+      "count": 2
+    },
+    {
+      "word": "योर",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "बट",
+      "count": 1
+    },
+    {
+      "word": "इफ",
+      "count": 1
+    },
+    {
+      "word": "कंटिन्यू",
+      "count": 1
+    },
+    {
+      "word": "गिव",
+      "count": 1
+    },
+    {
+      "word": "रिस्पांस",
+      "count": 1
+    },
+    {
+      "word": "एवरीथिंग",
+      "count": 1
+    },
+    {
+      "word": "यूर",
+      "count": 1
+    },
+    {
+      "word": "गोना",
+      "count": 1
+    },
+    {
+      "word": "फील",
+      "count": 1
+    },
+    {
+      "word": "लाइक",
+      "count": 1
+    },
+    {
+      "word": "सेल्फ",
+      "count": 1
+    },
+    {
+      "word": "कंट्रोल",
+      "count": 1
+    },
+    {
+      "word": "इज",
+      "count": 1
+    },
+    {
+      "word": "रोडिंग",
+      "count": 1
+    },
+    {
+      "word": "अवे",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बट इफ",
+      "count": 1
+    },
+    {
+      "phrase": "इफ यू",
+      "count": 1
+    },
+    {
+      "phrase": "यू कंटिन्यू",
+      "count": 1
+    },
+    {
+      "phrase": "कंटिन्यू टू",
+      "count": 1
+    },
+    {
+      "phrase": "टू गिव",
+      "count": 1
+    },
+    {
+      "phrase": "गिव अ",
+      "count": 1
+    },
+    {
+      "phrase": "अ रिएक्टिव",
+      "count": 1
+    },
+    {
+      "phrase": "रिएक्टिव रिस्पांस",
+      "count": 1
+    },
+    {
+      "phrase": "रिस्पांस टू",
+      "count": 1
+    },
+    {
+      "phrase": "टू एवरीथिंग",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

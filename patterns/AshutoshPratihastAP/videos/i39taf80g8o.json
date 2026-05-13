@@ -1,0 +1,149 @@
+{
+  "video_id": "i39taf80g8o",
+  "duration_seconds": 52,
+  "wps": 3.48,
+  "total_words": 181,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 597
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कंपटीशन नहीं है दोस्त 60 पर से लेकर 80 पर जो लोग मार्क्स लेके आते हैं ना उनके बीच में बड़ी धक्का मुक्की होती है 95 के"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बोला"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "गया",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "किसी",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "आते",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "भाई",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "कंटेंट",
+      "count": 3
+    },
+    {
+      "word": "कभी",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "लेके",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हो गया",
+      "count": 4
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 3
+    },
+    {
+      "phrase": "आते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "जो लोग",
+      "count": 2
+    },
+    {
+      "phrase": "लेके आते",
+      "count": 2
+    },
+    {
+      "phrase": "खाली होता",
+      "count": 2
+    },
+    {
+      "phrase": "होता है",
+      "count": 2
+    },
+    {
+      "phrase": "क्या है",
+      "count": 2
+    },
+    {
+      "phrase": "गया कभी",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

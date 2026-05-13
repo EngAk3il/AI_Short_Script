@@ -1,0 +1,148 @@
+{
+  "video_id": "EaHt9CivDf4",
+  "duration_seconds": 91,
+  "wps": 3.15,
+  "total_words": 287,
+  "language_mix": {
+    "hindi": 97.4,
+    "english": 2.6,
+    "total_chars": 1168
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इस डेबिट कार्ड से शॉपिंग करने पर आपको 6000 तक का कैशबैक मिलता है। यह कार्ड है Kotak 811 सुपर का प्लैटिनम डेबिट कार्ड।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "द अर्निंग्स आर वर्थ इट।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "811",
+      "count": 8
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "kotak",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "कैशबैक",
+      "count": 5
+    },
+    {
+      "word": "कार्ड",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "बैंकिंग",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "अकाउंट",
+      "count": 4
+    },
+    {
+      "word": "रिवॉर्ड्स",
+      "count": 4
+    },
+    {
+      "word": "डेबिट",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "सकते",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "kotak 811",
+      "count": 6
+    },
+    {
+      "phrase": "डेबिट कार्ड",
+      "count": 3
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "तक का",
+      "count": 2
+    },
+    {
+      "phrase": "का कैशबैक",
+      "count": 2
+    },
+    {
+      "phrase": "811 सुपर",
+      "count": 2
+    },
+    {
+      "phrase": "के साथ",
+      "count": 2
+    },
+    {
+      "phrase": "साथ अपना",
+      "count": 2
+    },
+    {
+      "phrase": "अपना अकाउंट",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

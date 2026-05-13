@@ -1,0 +1,148 @@
+{
+  "video_id": "qbjYigHNPSk",
+  "duration_seconds": 54,
+  "wps": 2.98,
+  "total_words": 161,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 700
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पाकिस्तान का इकोनामिक क्राइसिस इंडिया के लिए एक बेड न्यूज़ है पर कैसे सबसे पहले तो इसकैसिस के करण पाकिस्तान के लोग हाय"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंडिया के अगेंस्ट"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "पाकिस्तान",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "इंडिया",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "इकोनामिक",
+      "count": 4
+    },
+    {
+      "word": "क्राइसिस",
+      "count": 4
+    },
+    {
+      "word": "सकता",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "चीन",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "सकते",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "सिक्योरिटी",
+      "count": 2
+    },
+    {
+      "word": "पावर",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "सकता है",
+      "count": 4
+    },
+    {
+      "phrase": "इकोनामिक क्राइसिस",
+      "count": 3
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 3
+    },
+    {
+      "phrase": "और ये",
+      "count": 3
+    },
+    {
+      "phrase": "लिए एक",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "ये इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "पाकिस्तान में",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

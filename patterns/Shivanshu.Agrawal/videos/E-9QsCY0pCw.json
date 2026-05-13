@@ -1,0 +1,148 @@
+{
+  "video_id": "E-9QsCY0pCw",
+  "duration_seconds": 46,
+  "wps": 2.98,
+  "total_words": 137,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 576
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सर्फ एकल व्हील और रिन को एक ही कंपनी ओन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिले और वो ग्रो ही ना कर पाए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "टारगेट",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "डिटर्जेंट",
+      "count": 3
+    },
+    {
+      "word": "ब्रांड्स",
+      "count": 3
+    },
+    {
+      "word": "हिंदुस्तान",
+      "count": 3
+    },
+    {
+      "word": "यूनिलीवर",
+      "count": 3
+    },
+    {
+      "word": "कारण",
+      "count": 3
+    },
+    {
+      "word": "करता",
+      "count": 3
+    },
+    {
+      "word": "सर्फ",
+      "count": 2
+    },
+    {
+      "word": "एकल",
+      "count": 2
+    },
+    {
+      "word": "व्हील",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "मार्केट",
+      "count": 2
+    },
+    {
+      "word": "हर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "को टारगेट",
+      "count": 4
+    },
+    {
+      "phrase": "हिंदुस्तान यूनिलीवर",
+      "count": 3
+    },
+    {
+      "phrase": "टारगेट करता",
+      "count": 3
+    },
+    {
+      "phrase": "करता है",
+      "count": 3
+    },
+    {
+      "phrase": "सर्फ एकल",
+      "count": 2
+    },
+    {
+      "phrase": "करने का",
+      "count": 2
+    },
+    {
+      "phrase": "डिटर्जेंट है",
+      "count": 2
+    },
+    {
+      "phrase": "कस्टमर्स को",
+      "count": 2
+    },
+    {
+      "phrase": "के कारण",
+      "count": 2
+    },
+    {
+      "phrase": "ही ना",
+      "count": 2
+    }
+  ],
+  "segment_count": 20
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "xruEBdyjxOk",
+  "duration_seconds": 29,
+  "wps": 2.34,
+  "total_words": 68,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 302
+  },
+  "hook": {
+    "type": "question",
+    "text": "if you are constantly unhappy this is for you social media highlight real culture has really made people believe"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "think about it"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "made",
+      "count": 2
+    },
+    {
+      "word": "life",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "exciting",
+      "count": 2
+    },
+    {
+      "word": "moments",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 1
+    },
+    {
+      "word": "are",
+      "count": 1
+    },
+    {
+      "word": "constantly",
+      "count": 1
+    },
+    {
+      "word": "unhappy",
+      "count": 1
+    },
+    {
+      "word": "for",
+      "count": 1
+    },
+    {
+      "word": "social",
+      "count": 1
+    },
+    {
+      "word": "media",
+      "count": 1
+    },
+    {
+      "word": "highlight",
+      "count": 1
+    },
+    {
+      "word": "real",
+      "count": 1
+    },
+    {
+      "word": "culture",
+      "count": 1
+    },
+    {
+      "word": "has",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "life is",
+      "count": 2
+    },
+    {
+      "phrase": "exciting moments",
+      "count": 2
+    },
+    {
+      "phrase": "if you",
+      "count": 1
+    },
+    {
+      "phrase": "you are",
+      "count": 1
+    },
+    {
+      "phrase": "are constantly",
+      "count": 1
+    },
+    {
+      "phrase": "constantly unhappy",
+      "count": 1
+    },
+    {
+      "phrase": "unhappy this",
+      "count": 1
+    },
+    {
+      "phrase": "this is",
+      "count": 1
+    },
+    {
+      "phrase": "is for",
+      "count": 1
+    },
+    {
+      "phrase": "for you",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

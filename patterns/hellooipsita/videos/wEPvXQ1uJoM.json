@@ -1,0 +1,31 @@
+{
+  "video_id": "wEPvXQ1uJoM",
+  "duration_seconds": 10,
+  "wps": 0.1,
+  "total_words": 1,
+  "language_mix": {
+    "hindi": 0,
+    "english": 0,
+    "total_chars": 0
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "[موسيقى]"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[موسيقى]"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "موسيقى",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [],
+  "segment_count": 1
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "eZJ-m3qWlHI",
+  "duration_seconds": 56,
+  "wps": 2.18,
+  "total_words": 122,
+  "language_mix": {
+    "hindi": 97.3,
+    "english": 2.7,
+    "total_chars": 442
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आशुतोष प्रतिहस्त को उसकी वर्थ पता थी वो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "होते"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "पता",
+      "count": 3
+    },
+    {
+      "word": "आशुतोष",
+      "count": 2
+    },
+    {
+      "word": "थी",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "उसने",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "मेरे",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "जिनके",
+      "count": 2
+    },
+    {
+      "word": "अंदर",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जिनके अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "तो है",
+      "count": 2
+    },
+    {
+      "phrase": "है जिनको",
+      "count": 2
+    },
+    {
+      "phrase": "आशुतोष प्रतिहस्त",
+      "count": 1
+    },
+    {
+      "phrase": "प्रतिहस्त को",
+      "count": 1
+    },
+    {
+      "phrase": "को उसकी",
+      "count": 1
+    },
+    {
+      "phrase": "उसकी वर्थ",
+      "count": 1
+    },
+    {
+      "phrase": "वर्थ पता",
+      "count": 1
+    },
+    {
+      "phrase": "पता थी",
+      "count": 1
+    },
+    {
+      "phrase": "थी वो",
+      "count": 1
+    }
+  ],
+  "segment_count": 17
+}

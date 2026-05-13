@@ -1,0 +1,148 @@
+{
+  "video_id": "AnuYagN1vjI",
+  "duration_seconds": 51,
+  "wps": 3.08,
+  "total_words": 157,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 651
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अ कैट सेव्ड दिस मैनस लाइफ, देन ही चेंज्ड रोड सेफ्टी फॉरएवर। दीज़ लाइंस गाइड यू होम एववरी सिंगल नाइट। बट दे एक्सिस्ट बिकॉज़ अ"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "मोर इनोवेटिव डिजाइन स्टोरीज, सब्सक्राइब।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "कैट",
+      "count": 6
+    },
+    {
+      "word": "लाइफ",
+      "count": 4
+    },
+    {
+      "word": "होम",
+      "count": 4
+    },
+    {
+      "word": "सेव्ड",
+      "count": 3
+    },
+    {
+      "word": "रोड",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "ऑन",
+      "count": 3
+    },
+    {
+      "word": "आईज",
+      "count": 3
+    },
+    {
+      "word": "देन",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "चेंज्ड",
+      "count": 2
+    },
+    {
+      "word": "सेफ्टी",
+      "count": 2
+    },
+    {
+      "word": "फॉरएवर",
+      "count": 2
+    },
+    {
+      "word": "दे",
+      "count": 2
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 2
+    },
+    {
+      "word": "ड्राइविंग",
+      "count": 2
+    },
+    {
+      "word": "पर्स",
+      "count": 2
+    },
+    {
+      "word": "लाइट्स",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अ कैट",
+      "count": 3
+    },
+    {
+      "phrase": "ऑन द",
+      "count": 3
+    },
+    {
+      "phrase": "कैट सेव्ड",
+      "count": 2
+    },
+    {
+      "phrase": "यू होम",
+      "count": 2
+    },
+    {
+      "phrase": "द रोड",
+      "count": 2
+    },
+    {
+      "phrase": "हिज़ लाइफ",
+      "count": 2
+    },
+    {
+      "phrase": "सेव्ड दिस",
+      "count": 1
+    },
+    {
+      "phrase": "दिस मैनस",
+      "count": 1
+    },
+    {
+      "phrase": "मैनस लाइफ",
+      "count": 1
+    },
+    {
+      "phrase": "लाइफ देन",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

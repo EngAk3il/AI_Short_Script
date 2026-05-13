@@ -1,0 +1,148 @@
+{
+  "video_id": "UvM0hbIYtKc",
+  "duration_seconds": 68,
+  "wps": 3.38,
+  "total_words": 230,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 802
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "चाइना ने अर्थ के रोटेशन को स्लो कर दिया है। एक्चुअली चाइना ने अपनी यंग से रिवर के ऊपर दुनिया का वन ऑफ द लार्जेस्ट डैम"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इस डैम के कारण अर्थ की रोटेशन स्पीड थोड़ी सी स्लो हो गई है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "अर्थ",
+      "count": 6
+    },
+    {
+      "word": "डैम",
+      "count": 6
+    },
+    {
+      "word": "रोटेशन",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "हो",
+      "count": 5
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "पानी",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "गया",
+      "count": 4
+    },
+    {
+      "word": "चाइना",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "ऑफ",
+      "count": 3
+    },
+    {
+      "word": "स्टोर",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अर्थ के",
+      "count": 3
+    },
+    {
+      "phrase": "इस डैम",
+      "count": 3
+    },
+    {
+      "phrase": "चाइना ने",
+      "count": 2
+    },
+    {
+      "phrase": "के रोटेशन",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "है मतलब",
+      "count": 2
+    },
+    {
+      "phrase": "डैम के",
+      "count": 2
+    },
+    {
+      "phrase": "के कारण",
+      "count": 2
+    },
+    {
+      "phrase": "हो गया",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

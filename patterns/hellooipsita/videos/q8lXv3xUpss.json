@@ -1,0 +1,148 @@
+{
+  "video_id": "q8lXv3xUpss",
+  "duration_seconds": 30,
+  "wps": 2.97,
+  "total_words": 89,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 382
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "when you allow yourself to say no you get much more comfortable with taking a no from other people and setting boundaries is not a way of pushing"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "way of reserving your relationship and not pushing it away"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "much",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "relationship",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "no",
+      "count": 2
+    },
+    {
+      "word": "other",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "setting",
+      "count": 2
+    },
+    {
+      "word": "boundaries",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "way",
+      "count": 2
+    },
+    {
+      "word": "pushing",
+      "count": 2
+    },
+    {
+      "word": "away",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "our",
+      "count": 2
+    },
+    {
+      "word": "go",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "setting boundaries",
+      "count": 2
+    },
+    {
+      "phrase": "boundaries is",
+      "count": 2
+    },
+    {
+      "phrase": "a way",
+      "count": 2
+    },
+    {
+      "phrase": "way of",
+      "count": 2
+    },
+    {
+      "phrase": "our relationship",
+      "count": 2
+    },
+    {
+      "phrase": "that this",
+      "count": 2
+    },
+    {
+      "phrase": "this is",
+      "count": 2
+    },
+    {
+      "phrase": "when you",
+      "count": 1
+    },
+    {
+      "phrase": "you allow",
+      "count": 1
+    },
+    {
+      "phrase": "allow yourself",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

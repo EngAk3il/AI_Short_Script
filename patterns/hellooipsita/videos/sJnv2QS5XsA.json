@@ -1,0 +1,149 @@
+{
+  "video_id": "sJnv2QS5XsA",
+  "duration_seconds": 97,
+  "wps": 2.94,
+  "total_words": 285,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 1342
+  },
+  "hook": {
+    "type": "question",
+    "text": "So if you get hurt easily, this might change your life. Do you constantly scan people's faces, their tone, their energy, trying to figure out if"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "greatest vulnerability becomes your greatest social intelligence. Think about it."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 15
+    },
+    {
+      "word": "and",
+      "count": 9
+    },
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "for",
+      "count": 7
+    },
+    {
+      "word": "your",
+      "count": 6
+    },
+    {
+      "word": "their",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "so",
+      "count": 4
+    },
+    {
+      "word": "something",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 4
+    },
+    {
+      "word": "people",
+      "count": 4
+    },
+    {
+      "word": "by",
+      "count": 4
+    },
+    {
+      "word": "news",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "do",
+      "count": 3
+    },
+    {
+      "word": "don't",
+      "count": 3
+    },
+    {
+      "word": "are",
+      "count": 3
+    },
+    {
+      "word": "years",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "a lot",
+      "count": 2
+    },
+    {
+      "phrase": "lot of",
+      "count": 2
+    },
+    {
+      "phrase": "for you",
+      "count": 2
+    },
+    {
+      "phrase": "talking to",
+      "count": 2
+    },
+    {
+      "phrase": "years and",
+      "count": 2
+    },
+    {
+      "phrase": "and years",
+      "count": 2
+    },
+    {
+      "phrase": "nervous system",
+      "count": 2
+    },
+    {
+      "phrase": "bad news",
+      "count": 2
+    },
+    {
+      "phrase": "good news",
+      "count": 2
+    },
+    {
+      "phrase": "it's for",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

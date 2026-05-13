@@ -1,0 +1,149 @@
+{
+  "video_id": "o7XjqGZbOTY",
+  "duration_seconds": 111,
+  "wps": 3.91,
+  "total_words": 434,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1536
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कुछ दिन पहले वीडियो वायरल हुआ था। कुछ अफ्रीका वाले थे हमारे स्ट्रीट फूड का मजाक उड़ा रहे थे कि हम कितना गंदा तरह का खाना खाते हैं। अब देश की जहां बात आती है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आओगे, आप ही का नुकसान है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 30
+    },
+    {
+      "word": "से",
+      "count": 11
+    },
+    {
+      "word": "हैं",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "कि",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "आपको",
+      "count": 6
+    },
+    {
+      "word": "नहीं",
+      "count": 6
+    },
+    {
+      "word": "पता",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "लेकिन",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "देखो",
+      "count": 5
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "हम",
+      "count": 4
+    },
+    {
+      "word": "खाना",
+      "count": 4
+    },
+    {
+      "word": "बात",
+      "count": 4
+    },
+    {
+      "word": "मुझे",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 5
+    },
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "में जाकर",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 3
+    },
+    {
+      "phrase": "क्लाउड किचन",
+      "count": 3
+    },
+    {
+      "phrase": "और आपको",
+      "count": 3
+    },
+    {
+      "phrase": "जगह से",
+      "count": 3
+    },
+    {
+      "phrase": "पता है",
+      "count": 3
+    },
+    {
+      "phrase": "है थोड़ा",
+      "count": 3
+    }
+  ],
+  "segment_count": 15
+}

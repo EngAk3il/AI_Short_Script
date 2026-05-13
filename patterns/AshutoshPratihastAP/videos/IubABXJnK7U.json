@@ -1,0 +1,148 @@
+{
+  "video_id": "IubABXJnK7U",
+  "duration_seconds": 11,
+  "wps": 3.27,
+  "total_words": 36,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 104
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "और बताओ बाद सच में बहुत दुख की बात है कि हमें ऐसी स्पोर्ट कार में रहता है जहां पर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "996 सिर्फ एक डर की वजह से ब्रेड है वह डर के है कि हिंदू शब्द"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "डर",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 1
+    },
+    {
+      "word": "बताओ",
+      "count": 1
+    },
+    {
+      "word": "बाद",
+      "count": 1
+    },
+    {
+      "word": "सच",
+      "count": 1
+    },
+    {
+      "word": "बहुत",
+      "count": 1
+    },
+    {
+      "word": "दुख",
+      "count": 1
+    },
+    {
+      "word": "बात",
+      "count": 1
+    },
+    {
+      "word": "हमें",
+      "count": 1
+    },
+    {
+      "word": "ऐसी",
+      "count": 1
+    },
+    {
+      "word": "स्पोर्ट",
+      "count": 1
+    },
+    {
+      "word": "कार",
+      "count": 1
+    },
+    {
+      "word": "रहता",
+      "count": 1
+    },
+    {
+      "word": "जहां",
+      "count": 1
+    },
+    {
+      "word": "पर",
+      "count": 1
+    },
+    {
+      "word": "996",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "और बताओ",
+      "count": 1
+    },
+    {
+      "phrase": "बताओ बाद",
+      "count": 1
+    },
+    {
+      "phrase": "बाद सच",
+      "count": 1
+    },
+    {
+      "phrase": "सच में",
+      "count": 1
+    },
+    {
+      "phrase": "में बहुत",
+      "count": 1
+    },
+    {
+      "phrase": "बहुत दुख",
+      "count": 1
+    },
+    {
+      "phrase": "दुख की",
+      "count": 1
+    },
+    {
+      "phrase": "की बात",
+      "count": 1
+    },
+    {
+      "phrase": "बात है",
+      "count": 1
+    }
+  ],
+  "segment_count": 2
+}

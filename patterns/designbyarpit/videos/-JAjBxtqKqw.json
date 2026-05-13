@@ -1,0 +1,148 @@
+{
+  "video_id": "-JAjBxtqKqw",
+  "duration_seconds": 45,
+  "wps": 3.38,
+  "total_words": 152,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 634
+  },
+  "hook": {
+    "type": "question",
+    "text": "Why is Red Bull so expensive? But the can is [music] so small. See, it was not just to save money. It was actually a great design trick that changed"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Subscribe for more."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "music",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "so",
+      "count": 4
+    },
+    {
+      "word": "can",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 4
+    },
+    {
+      "word": "more",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "red",
+      "count": 3
+    },
+    {
+      "word": "bull",
+      "count": 3
+    },
+    {
+      "word": "was",
+      "count": 3
+    },
+    {
+      "word": "not",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "expensive",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "small",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "money",
+      "count": 2
+    },
+    {
+      "word": "trick",
+      "count": 2
+    },
+    {
+      "word": "drink",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "red bull",
+      "count": 3
+    },
+    {
+      "phrase": "it was",
+      "count": 2
+    },
+    {
+      "phrase": "use the",
+      "count": 2
+    },
+    {
+      "phrase": "for more",
+      "count": 2
+    },
+    {
+      "phrase": "buying a",
+      "count": 2
+    },
+    {
+      "phrase": "why is",
+      "count": 1
+    },
+    {
+      "phrase": "is red",
+      "count": 1
+    },
+    {
+      "phrase": "bull so",
+      "count": 1
+    },
+    {
+      "phrase": "so expensive",
+      "count": 1
+    },
+    {
+      "phrase": "expensive but",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

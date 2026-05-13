@@ -1,0 +1,148 @@
+{
+  "video_id": "ufu_MeVlbso",
+  "duration_seconds": 60,
+  "wps": 2.67,
+  "total_words": 160,
+  "language_mix": {
+    "hindi": 99.0,
+    "english": 1.0,
+    "total_chars": 629
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया का ऑटो रिक्शा एक्चुअली इटली की देन है वर्ल्ड वॉर 2 के बाद इटली को अपनी इकोनॉमिक रिकवरी के दौरान एक लो कॉस्ट गुड्स कैरियर की जरूरत थी इसीलिए वेस्पा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मैनवे बिलिटी के चलते काफी पॉपुलर हो गए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "स्कूटर",
+      "count": 4
+    },
+    {
+      "word": "इटली",
+      "count": 3
+    },
+    {
+      "word": "अपनी",
+      "count": 3
+    },
+    {
+      "word": "गुड्स",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "ऑटो",
+      "count": 2
+    },
+    {
+      "word": "रिक्शा",
+      "count": 2
+    },
+    {
+      "word": "वेस्पा",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "मॉडिफाई",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ऑटो रिक्शा",
+      "count": 2
+    },
+    {
+      "phrase": "मॉडिफाई किया",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया का",
+      "count": 1
+    },
+    {
+      "phrase": "का ऑटो",
+      "count": 1
+    },
+    {
+      "phrase": "रिक्शा एक्चुअली",
+      "count": 1
+    },
+    {
+      "phrase": "एक्चुअली इटली",
+      "count": 1
+    },
+    {
+      "phrase": "इटली की",
+      "count": 1
+    },
+    {
+      "phrase": "की देन",
+      "count": 1
+    },
+    {
+      "phrase": "देन है",
+      "count": 1
+    },
+    {
+      "phrase": "है वर्ल्ड",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

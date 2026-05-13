@@ -1,0 +1,148 @@
+{
+  "video_id": "ip6XMkqLNhI",
+  "duration_seconds": 64,
+  "wps": 1.41,
+  "total_words": 90,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 425
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "family business scenario."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "institution that lives beyond us."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "can",
+      "count": 4
+    },
+    {
+      "word": "we",
+      "count": 4
+    },
+    {
+      "word": "family",
+      "count": 3
+    },
+    {
+      "word": "business",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "businesses",
+      "count": 2
+    },
+    {
+      "word": "end",
+      "count": 2
+    },
+    {
+      "word": "goal",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "other",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "company",
+      "count": 2
+    },
+    {
+      "word": "or",
+      "count": 2
+    },
+    {
+      "word": "scenario",
+      "count": 1
+    },
+    {
+      "word": "they",
+      "count": 1
+    },
+    {
+      "word": "are",
+      "count": 1
+    },
+    {
+      "word": "very",
+      "count": 1
+    },
+    {
+      "word": "necessitydriven",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "family business",
+      "count": 2
+    },
+    {
+      "phrase": "end goal",
+      "count": 2
+    },
+    {
+      "phrase": "we can",
+      "count": 2
+    },
+    {
+      "phrase": "or we",
+      "count": 2
+    },
+    {
+      "phrase": "business scenario",
+      "count": 1
+    },
+    {
+      "phrase": "scenario they",
+      "count": 1
+    },
+    {
+      "phrase": "they are",
+      "count": 1
+    },
+    {
+      "phrase": "are very",
+      "count": 1
+    },
+    {
+      "phrase": "very necessitydriven",
+      "count": 1
+    },
+    {
+      "phrase": "necessitydriven businesses",
+      "count": 1
+    }
+  ],
+  "segment_count": 17
+}

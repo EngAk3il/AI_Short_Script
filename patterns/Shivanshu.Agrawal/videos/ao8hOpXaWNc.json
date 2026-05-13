@@ -1,0 +1,148 @@
+{
+  "video_id": "ao8hOpXaWNc",
+  "duration_seconds": 63,
+  "wps": 2.94,
+  "total_words": 185,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 699
+  },
+  "hook": {
+    "type": "statement",
+    "text": "क्रिकेट की पूरी हिस्ट्री एक मिनट में सबसे पॉपुलर थ्योरी कहती है कि क्रिकेट पहले छोटे बच्चों का खेल हुआ करता था और इसकी शुरुआत 1500 से भी पहले इंग्लैंड में"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "वीडियोस के लिए चैनल को सब्सक्राइब करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 12
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "क्रिकेट",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "गया",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "सबसे",
+      "count": 2
+    },
+    {
+      "word": "पॉपुलर",
+      "count": 2
+    },
+    {
+      "word": "पहले",
+      "count": 2
+    },
+    {
+      "word": "करता",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "शुरुआत",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "इंग्लैंड",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "क्रिकेट की",
+      "count": 2
+    },
+    {
+      "phrase": "इंग्लैंड में",
+      "count": 2
+    },
+    {
+      "phrase": "किया गया",
+      "count": 2
+    },
+    {
+      "phrase": "गया और",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "की पूरी",
+      "count": 1
+    },
+    {
+      "phrase": "पूरी हिस्ट्री",
+      "count": 1
+    },
+    {
+      "phrase": "हिस्ट्री एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक मिनट",
+      "count": 1
+    },
+    {
+      "phrase": "मिनट में",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "9boUJhj9Dmo",
+  "duration_seconds": 37,
+  "wps": 4.76,
+  "total_words": 176,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 594
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये ब्लिंकिट वाले ना राशन बांटते बांटते एकदम से अखबार वालों का काम करने लग पड़े। तुम लोग एक बार इनकी स्ट्रेटजी समझो। कुछ साल पहले जो हमारे घर पे न्यूज़पेपर आते"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बिठा के सस्ता सामान देने से घाटा होता है। तो ये लोग क्या करते हैं? साथ में ना अलग-अलग कंपनीज़ के कूपंस हो गए या फिर पोस्टर्स हो गए। ये चीजें फ्री में बांट दे रहे"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "दे",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "घर",
+      "count": 3
+    },
+    {
+      "word": "होते",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "देगी",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "सामान",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "बांटते",
+      "count": 2
+    },
+    {
+      "word": "अखबार",
+      "count": 2
+    },
+    {
+      "word": "काम",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होते थे",
+      "count": 3
+    },
+    {
+      "phrase": "दे देगी",
+      "count": 2
+    },
+    {
+      "phrase": "घर बिठा",
+      "count": 2
+    },
+    {
+      "phrase": "बिठा के",
+      "count": 2
+    },
+    {
+      "phrase": "हो गए",
+      "count": 2
+    },
+    {
+      "phrase": "ये ब्लिंकिट",
+      "count": 1
+    },
+    {
+      "phrase": "ब्लिंकिट वाले",
+      "count": 1
+    },
+    {
+      "phrase": "वाले ना",
+      "count": 1
+    },
+    {
+      "phrase": "ना राशन",
+      "count": 1
+    },
+    {
+      "phrase": "राशन बांटते",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

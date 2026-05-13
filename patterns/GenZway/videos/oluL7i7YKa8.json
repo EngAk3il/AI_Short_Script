@@ -1,0 +1,150 @@
+{
+  "video_id": "oluL7i7YKa8",
+  "duration_seconds": 67,
+  "wps": 4.39,
+  "total_words": 294,
+  "language_mix": {
+    "hindi": 95.1,
+    "english": 4.9,
+    "total_chars": 991
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मेरा दोस्त Apple के शोरूम के ऊपर iPhone 17 लेने गया था और जैसे ही मुझे पता चला ना मैंने उसको Apple के शोरूम से वापस खींच के लाया हूं कि भैया ईएमआई के गेम"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "तो यह लोग आपके मोबाइल को सही भी करके देंगे। तो अगर तुम लोग भी बाइट पे मोबाइल लेना चाहते हो तो लिंक मेरे बायो के अंदर मिल जाएगा।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "तो",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "मोबाइल",
+      "count": 8
+    },
+    {
+      "word": "अगर",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "ईएमआई",
+      "count": 6
+    },
+    {
+      "word": "लोग",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "पे",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "आपको",
+      "count": 5
+    },
+    {
+      "word": "बाइट",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "आपके",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आप लोग",
+      "count": 4
+    },
+    {
+      "phrase": "और अगर",
+      "count": 4
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "हो तो",
+      "count": 3
+    },
+    {
+      "phrase": "बाइट पे",
+      "count": 3
+    },
+    {
+      "phrase": "apple के",
+      "count": 2
+    },
+    {
+      "phrase": "के शोरूम",
+      "count": 2
+    },
+    {
+      "phrase": "iphone 17",
+      "count": 2
+    },
+    {
+      "phrase": "ईएमआई के",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "75wmrQQwRaI",
+  "duration_seconds": 47,
+  "wps": 3.74,
+  "total_words": 176,
+  "language_mix": {
+    "hindi": 94.3,
+    "english": 5.7,
+    "total_chars": 670
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "बाऊ इज़ वैरी वेल नोन फॉर एप्पल साइडर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टू सिक्स [संगीत] इयर्स ऑन Amazm."
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "फॉर",
+      "count": 4
+    },
+    {
+      "word": "साइडर",
+      "count": 4
+    },
+    {
+      "word": "वी",
+      "count": 4
+    },
+    {
+      "word": "apple",
+      "count": 4
+    },
+    {
+      "word": "संगीत",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "विनेगर",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "ऑफ़",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "लॉट",
+      "count": 3
+    },
+    {
+      "word": "मोर",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 2
+    },
+    {
+      "word": "वर",
+      "count": 2
+    },
+    {
+      "word": "ऑन",
+      "count": 2
+    },
+    {
+      "word": "आर",
+      "count": 2
+    },
+    {
+      "word": "मंथ्स",
+      "count": 2
+    },
+    {
+      "word": "सिक्स",
+      "count": 2
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "गो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "साइडर विनेगर",
+      "count": 3
+    },
+    {
+      "phrase": "apple साइडर",
+      "count": 3
+    },
+    {
+      "phrase": "अ लॉट",
+      "count": 3
+    },
+    {
+      "phrase": "वी वर",
+      "count": 2
+    },
+    {
+      "phrase": "कि apple",
+      "count": 2
+    },
+    {
+      "phrase": "लॉट मोर",
+      "count": 2
+    },
+    {
+      "phrase": "वाज अ",
+      "count": 2
+    },
+    {
+      "phrase": "इज द",
+      "count": 2
+    },
+    {
+      "phrase": "बाऊ इज़",
+      "count": 1
+    },
+    {
+      "phrase": "इज़ वैरी",
+      "count": 1
+    }
+  ],
+  "segment_count": 24
+}

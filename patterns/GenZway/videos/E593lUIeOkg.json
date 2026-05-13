@@ -1,0 +1,149 @@
+{
+  "video_id": "E593lUIeOkg",
+  "duration_seconds": 52,
+  "wps": 4.54,
+  "total_words": 236,
+  "language_mix": {
+    "hindi": 98.1,
+    "english": 1.9,
+    "total_chars": 834
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये Apple वाले ना सबसे बड़े चोर हैं और हम सभी लोगों को पागल बना देते हैं और उसका तरीका बता देता हूं। पर उससे पहले जितनी भी कंपनियां दुनिया में एक्सिस्ट करती है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है क्योंकि इनको शक हो जाता है कि भैया सिर्फ मुझे पसंद नहीं आ रहा क्या पब्लिकली बोलूंगा तो गाली पड़ेगी"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "लोग",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "ना",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "अभी",
+      "count": 3
+    },
+    {
+      "word": "इवेंट",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "इन्होंने",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "बना",
+      "count": 2
+    },
+    {
+      "word": "उसका",
+      "count": 2
+    },
+    {
+      "word": "पहले",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हैं और",
+      "count": 4
+    },
+    {
+      "phrase": "और उसका",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "शुरू होने",
+      "count": 2
+    },
+    {
+      "phrase": "लाख लोग",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "प्रो मॉडल",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "ये apple",
+      "count": 1
+    },
+    {
+      "phrase": "apple वाले",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

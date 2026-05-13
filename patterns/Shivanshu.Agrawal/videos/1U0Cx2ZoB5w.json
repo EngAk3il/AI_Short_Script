@@ -1,0 +1,148 @@
+{
+  "video_id": "1U0Cx2ZoB5w",
+  "duration_seconds": 58,
+  "wps": 3.19,
+  "total_words": 185,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 801
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर इंडियन सिटीज को साफ सुथरा बनाना है तो सिंगापुर से सीखना पड़ेगा। 1950 तक सिंगापुर पूरे वर्ल्ड की डर्टिएस्ट सिटीज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करेक्टिव वर्क ऑर्डर लाया गया जिसमें गंदगी फैलाने वालों को घंटों तक ब्राइट वेस्ट पहनकर स्ट्रीट साफ करनी होती थी और"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "सिंगापुर",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "वेस्ट",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "सिटीज",
+      "count": 2
+    },
+    {
+      "word": "साफ",
+      "count": 2
+    },
+    {
+      "word": "पूरे",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "जहां",
+      "count": 2
+    },
+    {
+      "word": "टॉयलेट्स",
+      "count": 2
+    },
+    {
+      "word": "सिस्टम",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गंदगी फैलाने",
+      "count": 2
+    },
+    {
+      "phrase": "फैलाने वालों",
+      "count": 2
+    },
+    {
+      "phrase": "अगर इंडियन",
+      "count": 1
+    },
+    {
+      "phrase": "इंडियन सिटीज",
+      "count": 1
+    },
+    {
+      "phrase": "सिटीज को",
+      "count": 1
+    },
+    {
+      "phrase": "को साफ",
+      "count": 1
+    },
+    {
+      "phrase": "साफ सुथरा",
+      "count": 1
+    },
+    {
+      "phrase": "सुथरा बनाना",
+      "count": 1
+    },
+    {
+      "phrase": "बनाना है",
+      "count": 1
+    },
+    {
+      "phrase": "है तो",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

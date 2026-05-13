@@ -1,0 +1,148 @@
+{
+  "video_id": "N-ZPxDwdc2c",
+  "duration_seconds": 45,
+  "wps": 3.58,
+  "total_words": 161,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 644
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इंडिया की 50% पापुलेशन इस लाइन के ऊपर रहती है पर क्यों विलिस का सबसे इंपॉर्टेंट रीजन है हिमालय सबसे पहले तो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "को फीड करने के कैपेबल था जिससे हिस्टोरिकल ज्यादा लोग यहां सेटल होते गए और यहां की पापुलेशन डेंसिटी बाकी इंडिया से ज्यादा"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 8
+    },
+    {
+      "word": "जिससे",
+      "count": 5
+    },
+    {
+      "word": "यहां",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "रीजन",
+      "count": 4
+    },
+    {
+      "word": "हिमालय",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "ज्यादा",
+      "count": 4
+    },
+    {
+      "word": "पापुलेशन",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "नॉर्दर्न",
+      "count": 3
+    },
+    {
+      "word": "पानी",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "सबसे",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "आने",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जिससे यहां",
+      "count": 3
+    },
+    {
+      "phrase": "नॉर्दर्न रीजन",
+      "count": 2
+    },
+    {
+      "phrase": "देते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं जिससे",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "है जिससे",
+      "count": 2
+    },
+    {
+      "phrase": "यहां की",
+      "count": 2
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया की",
+      "count": 1
+    },
+    {
+      "phrase": "की 50%",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

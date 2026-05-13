@@ -1,0 +1,148 @@
+{
+  "video_id": "5OK6j0TYTWU",
+  "duration_seconds": 45,
+  "wps": 3.96,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 601
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर आप घर खरीदने का प्लान कर रहे हैं तो पहले ये वीडियो देख लीजिए। इस वीडियो में मैं आपको एक ऐसा फार्मूला बताने वाली हूं जिसके बेसिस पे आप ये डिसाइड कर पाओगे कि"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "जब भी घर खरीदने का प्लान कर रहे हो ये फार्मूला एक बार जरूर ट्राई कर लेना। वीडियो पसंद आई तो लाइक एंड शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "का",
+      "count": 9
+    },
+    {
+      "word": "चाहिए",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "20",
+      "count": 6
+    },
+    {
+      "word": "घर",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "वैल्यू",
+      "count": 4
+    },
+    {
+      "word": "मतलब",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "आपकी",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "खरीदने",
+      "count": 3
+    },
+    {
+      "word": "रहे",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "वीडियो",
+      "count": 3
+    },
+    {
+      "word": "फार्मूला",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "ज्यादा",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मतलब यह",
+      "count": 4
+    },
+    {
+      "phrase": "यह है",
+      "count": 4
+    },
+    {
+      "phrase": "है कि",
+      "count": 4
+    },
+    {
+      "phrase": "घर खरीदने",
+      "count": 3
+    },
+    {
+      "phrase": "वैल्यू का",
+      "count": 3
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 3
+    },
+    {
+      "phrase": "नहीं होनी",
+      "count": 3
+    },
+    {
+      "phrase": "होनी चाहिए",
+      "count": 3
+    },
+    {
+      "phrase": "खरीदने का",
+      "count": 2
+    },
+    {
+      "phrase": "का प्लान",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

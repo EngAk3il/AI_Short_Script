@@ -1,0 +1,129 @@
+{
+  "video_id": "Bp6c_pVIZf0",
+  "duration_seconds": 20,
+  "wps": 1.4,
+  "total_words": 28,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 111
+  },
+  "hook": {
+    "type": "question",
+    "text": "if you are feeling stuck the answer is"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "routine"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "if",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "are",
+      "count": 3
+    },
+    {
+      "word": "the",
+      "count": 3
+    },
+    {
+      "word": "answer",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "action",
+      "count": 2
+    },
+    {
+      "word": "feeling",
+      "count": 1
+    },
+    {
+      "word": "stuck",
+      "count": 1
+    },
+    {
+      "word": "taking",
+      "count": 1
+    },
+    {
+      "word": "clarity",
+      "count": 1
+    },
+    {
+      "word": "and",
+      "count": 1
+    },
+    {
+      "word": "clear",
+      "count": 1
+    },
+    {
+      "word": "in",
+      "count": 1
+    },
+    {
+      "word": "routine",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "if you",
+      "count": 3
+    },
+    {
+      "phrase": "you are",
+      "count": 3
+    },
+    {
+      "phrase": "the answer",
+      "count": 3
+    },
+    {
+      "phrase": "answer is",
+      "count": 3
+    },
+    {
+      "phrase": "are feeling",
+      "count": 1
+    },
+    {
+      "phrase": "feeling stuck",
+      "count": 1
+    },
+    {
+      "phrase": "stuck the",
+      "count": 1
+    },
+    {
+      "phrase": "is action",
+      "count": 1
+    },
+    {
+      "phrase": "action if",
+      "count": 1
+    },
+    {
+      "phrase": "are taking",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

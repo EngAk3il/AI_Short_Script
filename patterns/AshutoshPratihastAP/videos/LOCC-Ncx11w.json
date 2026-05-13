@@ -1,0 +1,149 @@
+{
+  "video_id": "LOCC-Ncx11w",
+  "duration_seconds": 53,
+  "wps": 4.36,
+  "total_words": 231,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 834
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर इतना ही आसानी के स्किल को सीखो मेहनत करो और आप एक करोड़ रुपए कम सकते हो हम करते क्यों नहीं क्योंकि हम जनरल ससुम्पटीशन के अंदर जनरल सजेशन के अंदर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है हमेशा 199% केसेस में गलत होता है ये मैन के चलो अगर सही होता ना तो सब कामयाब हो जाते हैं"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "जनरल",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "होता",
+      "count": 5
+    },
+    {
+      "word": "कम",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "मेहनत",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "ससुम्पटीशन",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "हूं",
+      "count": 3
+    },
+    {
+      "word": "मैंने",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जनरल ससुम्पटीशन",
+      "count": 3
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 3
+    },
+    {
+      "phrase": "कितने दिनों",
+      "count": 3
+    },
+    {
+      "phrase": "दिनों में",
+      "count": 3
+    },
+    {
+      "phrase": "होता है",
+      "count": 3
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "अंदर जनरल",
+      "count": 2
+    },
+    {
+      "phrase": "है ना",
+      "count": 2
+    },
+    {
+      "phrase": "जाते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "जब मैंने",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

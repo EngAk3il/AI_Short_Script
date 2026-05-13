@@ -1,0 +1,148 @@
+{
+  "video_id": "M8YJZSI5xTw",
+  "duration_seconds": 59,
+  "wps": 3.19,
+  "total_words": 188,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 799
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हल्दीराम्स ने इस तरह से फॉरेन ब्रांड्स को बीट किया 1991 के लिबरलाइजेशन के बाद कई फॉरेन ब्रांड्स ने इंडिया में अपने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "प्लस पैकेज्ड फूड आइटम्स के साथ हल्दीराम्स बिगेस्ट इंडियन स्नैक्स कंपनी है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "ने",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "किया",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "हल्दीराम्स",
+      "count": 4
+    },
+    {
+      "word": "फॉरेन",
+      "count": 4
+    },
+    {
+      "word": "ब्रांड्स",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "पैकेज्ड",
+      "count": 3
+    },
+    {
+      "word": "फूड",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "स्नैक्स",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "हल्दी",
+      "count": 3
+    },
+    {
+      "word": "राम्स",
+      "count": 3
+    },
+    {
+      "word": "भुजिया",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फॉरेन ब्रांड्स",
+      "count": 4
+    },
+    {
+      "phrase": "हल्दीराम्स ने",
+      "count": 3
+    },
+    {
+      "phrase": "पैकेज्ड फूड",
+      "count": 3
+    },
+    {
+      "phrase": "हल्दी राम्स",
+      "count": 3
+    },
+    {
+      "phrase": "ब्रांड्स ने",
+      "count": 2
+    },
+    {
+      "phrase": "बेचना चालू",
+      "count": 2
+    },
+    {
+      "phrase": "चालू किया",
+      "count": 2
+    },
+    {
+      "phrase": "इंडियन स्नैक्स",
+      "count": 2
+    },
+    {
+      "phrase": "स्नैक्स को",
+      "count": 2
+    },
+    {
+      "phrase": "पैकेजिंग में",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "pUFFUH7JbYE",
+  "duration_seconds": 99,
+  "wps": 3.07,
+  "total_words": 304,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1246
+  },
+  "hook": {
+    "type": "statement",
+    "text": "कैसे गुफा में रहने वाला एक लेबर चाइना का प्रेसिडेंट बन गया। शी जिनपिंग का बर्थ 1953 में हुआ। उनके फादर कम्युनिस्ट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "के बिगेस्ट डिक्टेटर बन गए।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 18
+    },
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "गया",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "पार्टी",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "किया",
+      "count": 5
+    },
+    {
+      "word": "उन्होंने",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "चाइना",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "साल",
+      "count": 4
+    },
+    {
+      "word": "दिया",
+      "count": 4
+    },
+    {
+      "word": "उन्हें",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "बन",
+      "count": 3
+    },
+    {
+      "word": "शी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "उनके फादर",
+      "count": 3
+    },
+    {
+      "phrase": "कम्युनिस्ट पार्टी",
+      "count": 3
+    },
+    {
+      "phrase": "के चलते",
+      "count": 3
+    },
+    {
+      "phrase": "पार्टी के",
+      "count": 2
+    },
+    {
+      "phrase": "कर लिया",
+      "count": 2
+    },
+    {
+      "phrase": "लिया गया",
+      "count": 2
+    },
+    {
+      "phrase": "गया और",
+      "count": 2
+    },
+    {
+      "phrase": "साथ ही",
+      "count": 2
+    },
+    {
+      "phrase": "दिया गया",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "lKoGgSKWdrw",
+  "duration_seconds": 80,
+  "wps": 2.81,
+  "total_words": 225,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 945
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैप में यह हाईलाइटेड एरिया दिख रहा है।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रास्ता नक्ल"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "इंडियन",
+      "count": 3
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 3
+    },
+    {
+      "word": "सबसे",
+      "count": 3
+    },
+    {
+      "word": "गांव",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "देना",
+      "count": 3
+    },
+    {
+      "word": "नेशनल",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "रेड",
+      "count": 2
+    },
+    {
+      "word": "कॉरिडोर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "रेड कॉरिडोर",
+      "count": 2
+    },
+    {
+      "phrase": "इलाकों में",
+      "count": 2
+    },
+    {
+      "phrase": "के बाद",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "और यहां",
+      "count": 2
+    },
+    {
+      "phrase": "यहां तक",
+      "count": 2
+    },
+    {
+      "phrase": "तक कि",
+      "count": 2
+    },
+    {
+      "phrase": "गांव के",
+      "count": 2
+    },
+    {
+      "phrase": "मनाया जाता",
+      "count": 2
+    }
+  ],
+  "segment_count": 32
+}

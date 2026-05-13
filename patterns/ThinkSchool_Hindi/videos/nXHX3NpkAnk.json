@@ -1,0 +1,148 @@
+{
+  "video_id": "nXHX3NpkAnk",
+  "duration_seconds": 49,
+  "wps": 3.63,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 99.7,
+    "english": 0.3,
+    "total_chars": 695
+  },
+  "hook": {
+    "type": "question",
+    "text": "आज अगर किसी को टाइमलेस बैंड बनाना है, तो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टुडे यू कैन नॉट गिव देम क्र।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "संगीत",
+      "count": 5
+    },
+    {
+      "word": "आई",
+      "count": 5
+    },
+    {
+      "word": "आज",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "वी",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "एम",
+      "count": 3
+    },
+    {
+      "word": "ब्रांड",
+      "count": 3
+    },
+    {
+      "word": "आर",
+      "count": 3
+    },
+    {
+      "word": "यू",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "बनाना",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 2
+    },
+    {
+      "word": "व्हाट",
+      "count": 2
+    },
+    {
+      "word": "डू",
+      "count": 2
+    },
+    {
+      "word": "जैपनीज",
+      "count": 2
+    },
+    {
+      "word": "तारीख",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आई एम",
+      "count": 3
+    },
+    {
+      "phrase": "आज की",
+      "count": 2
+    },
+    {
+      "phrase": "की तारीख",
+      "count": 2
+    },
+    {
+      "phrase": "तारीख में",
+      "count": 2
+    },
+    {
+      "phrase": "इंडियन ब्रांड",
+      "count": 2
+    },
+    {
+      "phrase": "कस्टमर्स आर",
+      "count": 2
+    },
+    {
+      "phrase": "आज अगर",
+      "count": 1
+    },
+    {
+      "phrase": "अगर किसी",
+      "count": 1
+    },
+    {
+      "phrase": "किसी को",
+      "count": 1
+    },
+    {
+      "phrase": "को टाइमलेस",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

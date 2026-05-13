@@ -1,0 +1,149 @@
+{
+  "video_id": "NGk85Xwh88k",
+  "duration_seconds": 50,
+  "wps": 4.48,
+  "total_words": 224,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 854
+  },
+  "hook": {
+    "type": "question",
+    "text": "हमें अपनी लिपस्टिक लॉन्च करनी थी। सो वी वेंट एंड गॉट सिद्धार्थ मल्होत्रा। व्हाई सर? क्योंकि भैया नो वन हैज़ यूज़्ड अ मेल फॉर टू सेल अ लिपस्टिक बिफोर। हमारा जो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ओवर हिज बॉडी। पुट अप द बिल बोर्ड एंड इट जस्ट सेड टेस्टेड ऑन सिड, नॉट टेस्टेड ऑन एनिमल। ओह, वाउ। एंड इट वेंट वायरल।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 8
+    },
+    {
+      "word": "वी",
+      "count": 6
+    },
+    {
+      "word": "लिपस्टिक",
+      "count": 4
+    },
+    {
+      "word": "गॉट",
+      "count": 4
+    },
+    {
+      "word": "सो",
+      "count": 3
+    },
+    {
+      "word": "वेंट",
+      "count": 3
+    },
+    {
+      "word": "हैज़",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "बजट",
+      "count": 3
+    },
+    {
+      "word": "डे",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "सिद्धार्थ",
+      "count": 2
+    },
+    {
+      "word": "मल्होत्रा",
+      "count": 2
+    },
+    {
+      "word": "व्हाई",
+      "count": 2
+    },
+    {
+      "word": "नो",
+      "count": 2
+    },
+    {
+      "word": "मेल",
+      "count": 2
+    },
+    {
+      "word": "फॉर",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "मैं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "सो वी",
+      "count": 3
+    },
+    {
+      "phrase": "वी वेंट",
+      "count": 2
+    },
+    {
+      "phrase": "वेंट एंड",
+      "count": 2
+    },
+    {
+      "phrase": "एंड गॉट",
+      "count": 2
+    },
+    {
+      "phrase": "गॉट सिद्धार्थ",
+      "count": 2
+    },
+    {
+      "phrase": "सिद्धार्थ मल्होत्रा",
+      "count": 2
+    },
+    {
+      "phrase": "अ मेल",
+      "count": 2
+    },
+    {
+      "phrase": "लिपस्टिक मार्क्स",
+      "count": 2
+    },
+    {
+      "phrase": "वी गॉट",
+      "count": 2
+    },
+    {
+      "phrase": "एंड इट",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

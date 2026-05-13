@@ -1,0 +1,148 @@
+{
+  "video_id": "x8fZ177oP3A",
+  "duration_seconds": 44,
+  "wps": 2.98,
+  "total_words": 131,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 591
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This creepy skull isn't a Halloween"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Subscribe for more."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "skull",
+      "count": 4
+    },
+    {
+      "word": "world",
+      "count": 3
+    },
+    {
+      "word": "tequila",
+      "count": 3
+    },
+    {
+      "word": "bottle",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "massive",
+      "count": 2
+    },
+    {
+      "word": "global",
+      "count": 2
+    },
+    {
+      "word": "dead",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "single",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "every",
+      "count": 2
+    },
+    {
+      "word": "you're",
+      "count": 2
+    },
+    {
+      "word": "buying",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "of the",
+      "count": 2
+    },
+    {
+      "phrase": "the world",
+      "count": 2
+    },
+    {
+      "phrase": "the dead",
+      "count": 2
+    },
+    {
+      "phrase": "this creepy",
+      "count": 1
+    },
+    {
+      "phrase": "creepy skull",
+      "count": 1
+    },
+    {
+      "phrase": "skull isn't",
+      "count": 1
+    },
+    {
+      "phrase": "isn't a",
+      "count": 1
+    },
+    {
+      "phrase": "a halloween",
+      "count": 1
+    },
+    {
+      "phrase": "halloween gimmick",
+      "count": 1
+    },
+    {
+      "phrase": "gimmick it's",
+      "count": 1
+    }
+  ],
+  "segment_count": 20
+}

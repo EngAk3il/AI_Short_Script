@@ -1,0 +1,148 @@
+{
+  "video_id": "St09F4zE44M",
+  "duration_seconds": 61,
+  "wps": 4.66,
+  "total_words": 284,
+  "language_mix": {
+    "hindi": 98.6,
+    "english": 1.4,
+    "total_chars": 1144
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "आपको पता है इंडिया के केवल चार से पंच परसेंट लोग ही स्टॉप मार्केट में इन्वेस्ट करते हैं वही यूके के 33% लोग और उस के 55% लोग स्टॉक मार्केट में इन्वेस्ट करते"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "परफॉर्म करें तो इन्वेस्टमेंट को इजी बनाने के लिए डाउनलोड डी यूट्यूब में नहीं है फ्रॉम डी लिंक इन डी कमेंट से"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "आपको",
+      "count": 6
+    },
+    {
+      "word": "मार्केट",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "पोर्टफोलियो",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "काफी",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "एट",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "एट मणि",
+      "count": 3
+    },
+    {
+      "phrase": "देता है",
+      "count": 3
+    },
+    {
+      "phrase": "आपको पता",
+      "count": 2
+    },
+    {
+      "phrase": "पता है",
+      "count": 2
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 2
+    },
+    {
+      "phrase": "में इन्वेस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "इन्वेस्ट करते",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "स्टॉक मार्केट",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

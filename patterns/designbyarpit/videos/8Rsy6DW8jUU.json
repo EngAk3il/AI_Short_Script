@@ -1,0 +1,148 @@
+{
+  "video_id": "8Rsy6DW8jUU",
+  "duration_seconds": 44,
+  "wps": 3.09,
+  "total_words": 136,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 663
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Why does Cadbury Silk taste so much"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "product design secrets, subscribe."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 9
+    },
+    {
+      "word": "does",
+      "count": 3
+    },
+    {
+      "word": "they",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "shape",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "why",
+      "count": 2
+    },
+    {
+      "word": "cadbury",
+      "count": 2
+    },
+    {
+      "word": "silk",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "creamier",
+      "count": 2
+    },
+    {
+      "word": "same",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "recipe",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "as",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "sharp",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "why does",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "does cadbury",
+      "count": 1
+    },
+    {
+      "phrase": "cadbury silk",
+      "count": 1
+    },
+    {
+      "phrase": "silk taste",
+      "count": 1
+    },
+    {
+      "phrase": "taste so",
+      "count": 1
+    },
+    {
+      "phrase": "so much",
+      "count": 1
+    },
+    {
+      "phrase": "much creamier",
+      "count": 1
+    },
+    {
+      "phrase": "creamier than",
+      "count": 1
+    },
+    {
+      "phrase": "than the",
+      "count": 1
+    }
+  ],
+  "segment_count": 22
+}

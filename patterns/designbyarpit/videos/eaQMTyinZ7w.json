@@ -1,0 +1,149 @@
+{
+  "video_id": "eaQMTyinZ7w",
+  "duration_seconds": 42,
+  "wps": 2.81,
+  "total_words": 118,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 570
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "These black containers are poisoning you. It sounds crazy, but it's true."
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "ban [music] it immediately. If you agree, comment ban black plastic."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "music",
+      "count": 4
+    },
+    {
+      "word": "black",
+      "count": 3
+    },
+    {
+      "word": "are",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "plastic",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "these",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "into",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "ban",
+      "count": 2
+    },
+    {
+      "word": "containers",
+      "count": 1
+    },
+    {
+      "word": "poisoning",
+      "count": 1
+    },
+    {
+      "word": "sounds",
+      "count": 1
+    },
+    {
+      "word": "crazy",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 2
+    },
+    {
+      "phrase": "you are",
+      "count": 2
+    },
+    {
+      "phrase": "these black",
+      "count": 1
+    },
+    {
+      "phrase": "black containers",
+      "count": 1
+    },
+    {
+      "phrase": "containers are",
+      "count": 1
+    },
+    {
+      "phrase": "are poisoning",
+      "count": 1
+    },
+    {
+      "phrase": "poisoning you",
+      "count": 1
+    },
+    {
+      "phrase": "you it",
+      "count": 1
+    },
+    {
+      "phrase": "it sounds",
+      "count": 1
+    },
+    {
+      "phrase": "sounds crazy",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

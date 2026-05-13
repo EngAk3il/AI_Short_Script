@@ -1,0 +1,149 @@
+{
+  "video_id": "6x-EprZMffk",
+  "duration_seconds": 66,
+  "wps": 2.83,
+  "total_words": 187,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 777
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "You see rosemary oil in huge letters on"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "more product insights, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 10
+    },
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "oil",
+      "count": 6
+    },
+    {
+      "word": "but",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "are",
+      "count": 5
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "they",
+      "count": 5
+    },
+    {
+      "word": "for",
+      "count": 5
+    },
+    {
+      "word": "rosemary",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "not",
+      "count": 4
+    },
+    {
+      "word": "mineral",
+      "count": 3
+    },
+    {
+      "word": "that's",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "front",
+      "count": 2
+    },
+    {
+      "word": "we",
+      "count": 2
+    },
+    {
+      "word": "parachute",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "mineral oil",
+      "count": 3
+    },
+    {
+      "phrase": "rosemary oil",
+      "count": 2
+    },
+    {
+      "phrase": "on the",
+      "count": 2
+    },
+    {
+      "phrase": "the front",
+      "count": 2
+    },
+    {
+      "phrase": "we are",
+      "count": 2
+    },
+    {
+      "phrase": "then i",
+      "count": 2
+    },
+    {
+      "phrase": "paying for",
+      "count": 2
+    },
+    {
+      "phrase": "the truth",
+      "count": 2
+    },
+    {
+      "phrase": "they are",
+      "count": 2
+    },
+    {
+      "phrase": "one is",
+      "count": 2
+    }
+  ],
+  "segment_count": 26
+}

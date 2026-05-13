@@ -1,0 +1,149 @@
+{
+  "video_id": "cD9lS25M7qg",
+  "duration_seconds": 56,
+  "wps": 3.29,
+  "total_words": 184,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 789
+  },
+  "hook": {
+    "type": "question",
+    "text": "If you are confused if this is the right person for you, keep listening. Think about a jigsaw puzzle. Two pieces are not the most perfect pieces in the"
+  },
+  "closing": {
+    "type": "reflection",
+    "text": "individual you've always wanted to become. Think about it."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 12
+    },
+    {
+      "word": "to",
+      "count": 6
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "are",
+      "count": 5
+    },
+    {
+      "word": "we",
+      "count": 5
+    },
+    {
+      "word": "who",
+      "count": 5
+    },
+    {
+      "word": "not",
+      "count": 4
+    },
+    {
+      "word": "with",
+      "count": 4
+    },
+    {
+      "word": "if",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "puzzle",
+      "count": 3
+    },
+    {
+      "word": "fit",
+      "count": 3
+    },
+    {
+      "word": "other",
+      "count": 3
+    },
+    {
+      "word": "imperfections",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "person",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "think",
+      "count": 2
+    },
+    {
+      "word": "about",
+      "count": 2
+    },
+    {
+      "word": "pieces",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "is the",
+      "count": 2
+    },
+    {
+      "phrase": "think about",
+      "count": 2
+    },
+    {
+      "phrase": "they fit",
+      "count": 2
+    },
+    {
+      "phrase": "fit well",
+      "count": 2
+    },
+    {
+      "phrase": "well with",
+      "count": 2
+    },
+    {
+      "phrase": "the dents",
+      "count": 2
+    },
+    {
+      "phrase": "dents on",
+      "count": 2
+    },
+    {
+      "phrase": "puzzle piece",
+      "count": 2
+    },
+    {
+      "phrase": "the other",
+      "count": 2
+    },
+    {
+      "phrase": "are the",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

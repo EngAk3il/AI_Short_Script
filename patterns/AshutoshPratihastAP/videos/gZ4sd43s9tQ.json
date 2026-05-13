@@ -1,0 +1,149 @@
+{
+  "video_id": "gZ4sd43s9tQ",
+  "duration_seconds": 51,
+  "wps": 3.71,
+  "total_words": 189,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 679
+  },
+  "hook": {
+    "type": "question",
+    "text": "डोरेमोन करिश्मा का करिश्मा क्या आपने यह"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बी प्रीपेड"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "जा",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "करिश्मा",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    },
+    {
+      "word": "बचपन",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "हां",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "किया जा",
+      "count": 3
+    },
+    {
+      "phrase": "जा रहा",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "प्रिपेयर किया",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत जरूरी",
+      "count": 2
+    },
+    {
+      "phrase": "डोरेमोन करिश्मा",
+      "count": 1
+    },
+    {
+      "phrase": "करिश्मा का",
+      "count": 1
+    },
+    {
+      "phrase": "का करिश्मा",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

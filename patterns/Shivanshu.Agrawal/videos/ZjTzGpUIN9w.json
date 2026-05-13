@@ -1,0 +1,148 @@
+{
+  "video_id": "ZjTzGpUIN9w",
+  "duration_seconds": 43,
+  "wps": 2.86,
+  "total_words": 123,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 500
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडियन क्रिकेटर्स खेलते वक्त सैटेलाइट से कनेक्टेड रहते हैं प्लेयर्स अपनी जर्सी के अंदर एक स्मार्ट वेस्ट पहनते हैं इसके पीछे एक छोटा सा डिवाइस लगा होता है जो एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ट्रेनिंग प्रोग्राम मैच की स्ट्रेटेजी और इवन टीम का सिलेक्शन इफेक्टिवली डिसाइड किया जा सकता है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "प्लेयर्स",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "जा",
+      "count": 3
+    },
+    {
+      "word": "सकता",
+      "count": 3
+    },
+    {
+      "word": "सैटेलाइट",
+      "count": 2
+    },
+    {
+      "word": "कनेक्टेड",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "इसके",
+      "count": 2
+    },
+    {
+      "word": "सा",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "इवन",
+      "count": 2
+    },
+    {
+      "word": "इंडियन",
+      "count": 1
+    },
+    {
+      "word": "क्रिकेटर्स",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "जा सकता",
+      "count": 3
+    },
+    {
+      "phrase": "सकता है",
+      "count": 3
+    },
+    {
+      "phrase": "सैटेलाइट से",
+      "count": 2
+    },
+    {
+      "phrase": "से कनेक्टेड",
+      "count": 2
+    },
+    {
+      "phrase": "प्लेयर्स की",
+      "count": 2
+    },
+    {
+      "phrase": "किया जा",
+      "count": 2
+    },
+    {
+      "phrase": "इंडियन क्रिकेटर्स",
+      "count": 1
+    },
+    {
+      "phrase": "क्रिकेटर्स खेलते",
+      "count": 1
+    },
+    {
+      "phrase": "खेलते वक्त",
+      "count": 1
+    },
+    {
+      "phrase": "वक्त सैटेलाइट",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

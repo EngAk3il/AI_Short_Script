@@ -1,0 +1,148 @@
+{
+  "video_id": "bLY_h2RGXEc",
+  "duration_seconds": 58,
+  "wps": 3.64,
+  "total_words": 211,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 771
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "शाहरुख खान ने जानबूझकर जवान मूवी का प्रमोशन नहीं किया और यही उसे फिल्म की सक्सेस का राज है पहले अपनी फिल्म की"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "से ये फिल्म एक मैं सिर्फ सक्सेस बन गई ऐसी और वीडियो के लिए चैनल को सब्सक्राइब करें"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 12
+    },
+    {
+      "word": "फिल्म",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "पहले",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "एसआरके",
+      "count": 3
+    },
+    {
+      "word": "सोंग्स",
+      "count": 3
+    },
+    {
+      "word": "जिससे",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "स्टोरी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फिल्म की",
+      "count": 5
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "मूवी का",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं किया",
+      "count": 2
+    },
+    {
+      "phrase": "लिए एसआरके",
+      "count": 2
+    },
+    {
+      "phrase": "प्रेस कॉन्फ्रेंस",
+      "count": 2
+    },
+    {
+      "phrase": "टीवी शोस",
+      "count": 2
+    },
+    {
+      "phrase": "और सोंग्स",
+      "count": 2
+    },
+    {
+      "phrase": "सोंग्स को",
+      "count": 2
+    },
+    {
+      "phrase": "थे जिससे",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "ywoCbh248wY",
+  "duration_seconds": 51,
+  "wps": 3.47,
+  "total_words": 177,
+  "language_mix": {
+    "hindi": 89.3,
+    "english": 10.7,
+    "total_chars": 721
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मुकेश अंबानी बिसलरी को डिस्ट्रॉय करने वाले हैं। 2023 में Reliance ने C को और Pepsi से आधे प्राइस पे CPAC को Coloa को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "Reliance के पास खुद की 18,000 से ज्यादा रिटेल स्टोर्स हैं। जिसके थ्रू कैमबा श्योर को इंस्टेंट डिस्ट्रीब्यूशन मिलेगा। इस केस में बिसलरी के लिए अपना प्राइस"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "प्राइस",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "reliance",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "cpa",
+      "count": 3
+    },
+    {
+      "word": "वाटर",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "बिसलरी",
+      "count": 2
+    },
+    {
+      "word": "करने",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "लॉन्च",
+      "count": 2
+    },
+    {
+      "word": "colla",
+      "count": 2
+    },
+    {
+      "word": "मार्केट",
+      "count": 2
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "reliance ने",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "cpa शोर",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "मुकेश अंबानी",
+      "count": 1
+    },
+    {
+      "phrase": "अंबानी बिसलरी",
+      "count": 1
+    },
+    {
+      "phrase": "बिसलरी को",
+      "count": 1
+    },
+    {
+      "phrase": "को डिस्ट्रॉय",
+      "count": 1
+    },
+    {
+      "phrase": "डिस्ट्रॉय करने",
+      "count": 1
+    },
+    {
+      "phrase": "करने वाले",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

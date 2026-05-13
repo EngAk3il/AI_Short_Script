@@ -1,0 +1,148 @@
+{
+  "video_id": "mNwU6jy-Cuo",
+  "duration_seconds": 59,
+  "wps": 3.68,
+  "total_words": 217,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 751
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "विराट कोहली और अनुष्का की शादी में लगभग 100 करोड़ का खर्चा हुआ था। रणबीर और दीपिका की शादी में लगभग 77 करोड़ का"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "है ना यह इंटरेस्टिंग? तो अपने सारे उन दोस्तों के साथ तो यह वीडियो जरूर शेयर कर दो जिनकी शादी होने जा रही है और मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "शादी",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "करोड़",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "खर्चा",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "लगभग",
+      "count": 3
+    },
+    {
+      "word": "हुआ",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "आपकी",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "सकते",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "शादी में",
+      "count": 5
+    },
+    {
+      "phrase": "की शादी",
+      "count": 3
+    },
+    {
+      "phrase": "करोड़ का",
+      "count": 3
+    },
+    {
+      "phrase": "का खर्चा",
+      "count": 3
+    },
+    {
+      "phrase": "खर्चा हुआ",
+      "count": 3
+    },
+    {
+      "phrase": "हुआ था",
+      "count": 3
+    },
+    {
+      "phrase": "आपकी शादी",
+      "count": 3
+    },
+    {
+      "phrase": "में लगभग",
+      "count": 2
+    },
+    {
+      "phrase": "अपनी शादी",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

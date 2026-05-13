@@ -1,0 +1,148 @@
+{
+  "video_id": "bDxTruxt1j4",
+  "duration_seconds": 72,
+  "wps": 2.97,
+  "total_words": 214,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 803
+  },
+  "hook": {
+    "type": "question",
+    "text": "हैव यू एवर बीन अ रिलेशनशिप?"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "राइट विल गॉड हो।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 10
+    },
+    {
+      "word": "टू",
+      "count": 9
+    },
+    {
+      "word": "इट",
+      "count": 7
+    },
+    {
+      "word": "थिंक",
+      "count": 6
+    },
+    {
+      "word": "एंड",
+      "count": 6
+    },
+    {
+      "word": "ऑन",
+      "count": 4
+    },
+    {
+      "word": "फाइट",
+      "count": 4
+    },
+    {
+      "word": "आई",
+      "count": 4
+    },
+    {
+      "word": "हैव",
+      "count": 3
+    },
+    {
+      "word": "डू",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "वी",
+      "count": 3
+    },
+    {
+      "word": "देन",
+      "count": 3
+    },
+    {
+      "word": "फोरगेट",
+      "count": 3
+    },
+    {
+      "word": "या",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "कार्ड्स",
+      "count": 3
+    },
+    {
+      "word": "दिस",
+      "count": 3
+    },
+    {
+      "word": "गुड",
+      "count": 3
+    },
+    {
+      "word": "आईडिया",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "डू यू",
+      "count": 3
+    },
+    {
+      "phrase": "आई थिंक",
+      "count": 3
+    },
+    {
+      "phrase": "अ गुड",
+      "count": 3
+    },
+    {
+      "phrase": "गुड आईडिया",
+      "count": 3
+    },
+    {
+      "phrase": "हैव यू",
+      "count": 2
+    },
+    {
+      "phrase": "यू थिंक",
+      "count": 2
+    },
+    {
+      "phrase": "द फाइट",
+      "count": 2
+    },
+    {
+      "phrase": "टू अ",
+      "count": 2
+    },
+    {
+      "phrase": "अ सलूशन",
+      "count": 2
+    },
+    {
+      "phrase": "थिंक वी",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

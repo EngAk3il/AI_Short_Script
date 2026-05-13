@@ -1,0 +1,148 @@
+{
+  "video_id": "kvEnE55RmrI",
+  "duration_seconds": 88,
+  "wps": 3.08,
+  "total_words": 271,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1079
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "अफ्रीका के इस देश में 6 लाख करोड़ का"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "देश भी रिसोर्स कर से ही बर्बाद हुए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 16
+    },
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "कांगो",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "रिसोर्सेज",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "देश",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "यहां",
+      "count": 3
+    },
+    {
+      "word": "किया",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 2
+    },
+    {
+      "word": "इसीलिए",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कांगो के",
+      "count": 5
+    },
+    {
+      "phrase": "देश में",
+      "count": 2
+    },
+    {
+      "phrase": "इसीलिए यहां",
+      "count": 2
+    },
+    {
+      "phrase": "है कांगो",
+      "count": 2
+    },
+    {
+      "phrase": "के रिसोर्सेज",
+      "count": 2
+    },
+    {
+      "phrase": "कांगो को",
+      "count": 2
+    },
+    {
+      "phrase": "किया और",
+      "count": 2
+    },
+    {
+      "phrase": "हजारों करोड़ों",
+      "count": 2
+    },
+    {
+      "phrase": "रिसोर्सेज को",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 2
+    }
+  ],
+  "segment_count": 36
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "Iax5A_EBYk0",
+  "duration_seconds": 48,
+  "wps": 2.65,
+  "total_words": 127,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 574
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "गुजराती इन सीक्रेट स्ट्रेटेजी से टॉप"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एक स्ट्रांग बिजनेस फाउंडेशन रखी"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "गुजराती",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "कम्युनिटी",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "स्ट्रेटेजी",
+      "count": 2
+    },
+    {
+      "word": "स्ट्रांग",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "फ्यूचर",
+      "count": 2
+    },
+    {
+      "word": "बिजनेस",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "इन",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "से ही",
+      "count": 2
+    },
+    {
+      "phrase": "गुजराती इन",
+      "count": 1
+    },
+    {
+      "phrase": "इन सीक्रेट",
+      "count": 1
+    },
+    {
+      "phrase": "सीक्रेट स्ट्रेटेजी",
+      "count": 1
+    },
+    {
+      "phrase": "स्ट्रेटेजी से",
+      "count": 1
+    },
+    {
+      "phrase": "से टॉप",
+      "count": 1
+    },
+    {
+      "phrase": "टॉप बिजनेसमैन",
+      "count": 1
+    },
+    {
+      "phrase": "बिजनेसमैन बने",
+      "count": 1
+    }
+  ],
+  "segment_count": 19
+}

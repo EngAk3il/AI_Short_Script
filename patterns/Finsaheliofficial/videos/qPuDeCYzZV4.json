@@ -1,0 +1,148 @@
+{
+  "video_id": "qPuDeCYzZV4",
+  "duration_seconds": 82,
+  "wps": 3.46,
+  "total_words": 284,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1040
+  },
+  "hook": {
+    "type": "question",
+    "text": "इंडिया में अगर आप ₹1 करोड़ कमा रहे हो तो आपके हाथ में आते हैं अराउंड ₹67 लाख। मतलब टैक्स के नाम पे आप गवर्नमेंट को दे"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "पता चले एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 13
+    },
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "तो",
+      "count": 9
+    },
+    {
+      "word": "टैक्स",
+      "count": 9
+    },
+    {
+      "word": "पे",
+      "count": 9
+    },
+    {
+      "word": "अगर",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "आप",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "इतना",
+      "count": 5
+    },
+    {
+      "word": "₹1",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "लाख",
+      "count": 4
+    },
+    {
+      "word": "बाद",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "ज्यादा",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "करोड़",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "टैक्स पे",
+      "count": 5
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 4
+    },
+    {
+      "phrase": "रहे हो",
+      "count": 4
+    },
+    {
+      "phrase": "हो तो",
+      "count": 4
+    },
+    {
+      "phrase": "के बाद",
+      "count": 4
+    },
+    {
+      "phrase": "₹1 करोड़",
+      "count": 3
+    },
+    {
+      "phrase": "मिलता है",
+      "count": 3
+    },
+    {
+      "phrase": "इतना टैक्स",
+      "count": 3
+    },
+    {
+      "phrase": "में अगर",
+      "count": 2
+    },
+    {
+      "phrase": "कमा रहे",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

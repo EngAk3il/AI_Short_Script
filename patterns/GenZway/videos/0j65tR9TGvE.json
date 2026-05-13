@@ -1,0 +1,148 @@
+{
+  "video_id": "0j65tR9TGvE",
+  "duration_seconds": 41,
+  "wps": 4.54,
+  "total_words": 186,
+  "language_mix": {
+    "hindi": 94.8,
+    "english": 5.2,
+    "total_chars": 653
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये ईलॉन मस्क की Tesla ना एक अजीब सा स्कैम चला रही है जो एक्चुअल में देखोगे तो साला लीगल भी है। ये ना टॉप फाइव कार कंपनीज़ की लिस्ट है जो सबसे ज्यादा नंबर ऑफ कार सेल करती है और इसके अंदर Tesla का"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "खुद को एज अ कार कंपनी रिप्रेजेंट करती है और Tesla खुद को एज अ फ्यूचर रिप्रेजेंट करती"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 20
+    },
+    {
+      "word": "पे",
+      "count": 7
+    },
+    {
+      "word": "tesla",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "कार",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "ज्यादा",
+      "count": 4
+    },
+    {
+      "word": "करती",
+      "count": 4
+    },
+    {
+      "word": "अंदर",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "कंपनीज़",
+      "count": 3
+    },
+    {
+      "word": "सबसे",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "वैल्यू्यूएशन",
+      "count": 3
+    },
+    {
+      "word": "कंपनी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पे है",
+      "count": 6
+    },
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "है जो",
+      "count": 3
+    },
+    {
+      "phrase": "सबसे ज्यादा",
+      "count": 3
+    },
+    {
+      "phrase": "करती है",
+      "count": 3
+    },
+    {
+      "phrase": "नहीं है",
+      "count": 3
+    },
+    {
+      "phrase": "देखोगे तो",
+      "count": 2
+    },
+    {
+      "phrase": "है ये",
+      "count": 2
+    },
+    {
+      "phrase": "टॉप फाइव",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनीज़ की",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

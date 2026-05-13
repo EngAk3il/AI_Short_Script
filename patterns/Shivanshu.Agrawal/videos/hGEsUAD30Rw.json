@@ -1,0 +1,148 @@
+{
+  "video_id": "hGEsUAD30Rw",
+  "duration_seconds": 54,
+  "wps": 1.59,
+  "total_words": 86,
+  "language_mix": {
+    "hindi": 94.3,
+    "english": 5.7,
+    "total_chars": 352
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अनिल अंबानी की reliance1 में"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "jio1 करोड़ सब्सक्राइबर्स लूज कर दिए इसीलिए फरवरी 2019 में उन्होंने बैंकर पसी फाइल कर दी"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "इंटरनेट",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "अनिल",
+      "count": 2
+    },
+    {
+      "word": "अंबानी",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "reliance1",
+      "count": 2
+    },
+    {
+      "word": "स्पीड",
+      "count": 2
+    },
+    {
+      "word": "प्रोवाइड",
+      "count": 2
+    },
+    {
+      "word": "करती",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "इसीलिए",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    },
+    {
+      "word": "थे",
+      "count": 2
+    },
+    {
+      "word": "कंपनी",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 1
+    },
+    {
+      "word": "स्लो",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अनिल अंबानी",
+      "count": 2
+    },
+    {
+      "phrase": "reliance1 में",
+      "count": 2
+    },
+    {
+      "phrase": "इंटरनेट स्पीड",
+      "count": 2
+    },
+    {
+      "phrase": "स्पीड प्रोवाइड",
+      "count": 2
+    },
+    {
+      "phrase": "करती थी",
+      "count": 2
+    },
+    {
+      "phrase": "करते थे",
+      "count": 2
+    },
+    {
+      "phrase": "अंबानी की",
+      "count": 1
+    },
+    {
+      "phrase": "की reliance1",
+      "count": 1
+    },
+    {
+      "phrase": "में reliance1",
+      "count": 1
+    },
+    {
+      "phrase": "में बहुत",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

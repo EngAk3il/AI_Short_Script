@@ -1,0 +1,148 @@
+{
+  "video_id": "KO5ze7T1E-E",
+  "duration_seconds": 28,
+  "wps": 4.5,
+  "total_words": 126,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 431
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आसमान में मेरे देश का कानून नहीं चलता क्योंकि फ्लाइट वाली कंपनीज़ ने ना एक हैक ढूंढ लिया जिससे वो फ्लाइट्स में अपनी मनमानी कर पाएं। उससे पहले इनका रूल समझो।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भैया इसके अंदर 55 का तो हो गया। कप अपना और ₹155 का इसके अंदर गर्म पानी डाल के देंगे। जिससे एक्चुअल में ये नूडल्स बनेंगे।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "सिर्फ",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "भैया",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "क्योंकि",
+      "count": 2
+    },
+    {
+      "word": "फ्लाइट",
+      "count": 2
+    },
+    {
+      "word": "जिससे",
+      "count": 2
+    },
+    {
+      "word": "अपनी",
+      "count": 2
+    },
+    {
+      "word": "पहले",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ये नूडल्स",
+      "count": 2
+    },
+    {
+      "phrase": "इसके अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "आसमान में",
+      "count": 1
+    },
+    {
+      "phrase": "में मेरे",
+      "count": 1
+    },
+    {
+      "phrase": "मेरे देश",
+      "count": 1
+    },
+    {
+      "phrase": "देश का",
+      "count": 1
+    },
+    {
+      "phrase": "का कानून",
+      "count": 1
+    },
+    {
+      "phrase": "कानून नहीं",
+      "count": 1
+    },
+    {
+      "phrase": "नहीं चलता",
+      "count": 1
+    },
+    {
+      "phrase": "चलता क्योंकि",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

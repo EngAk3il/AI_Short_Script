@@ -1,0 +1,148 @@
+{
+  "video_id": "6tvgxTaJbdY",
+  "duration_seconds": 52,
+  "wps": 3.71,
+  "total_words": 193,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 680
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "आल की टीम्स आखिर पैसे कैसे कमाती हैं सबसे पहले तो बीसीसीआई को जो i के टीवी और ओटीटी ब्रॉडकास्टिंग राइट्स बेच के हजारों"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "रनर अप्स को तो बीसीसीआई से प्राइज मनी मिलता ही है इन सबको मिलाके एक आईएल टीम कई 100 करोड़ कमाती है हर साल"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "टीम्स",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "टीम",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "कमाती",
+      "count": 4
+    },
+    {
+      "word": "बीसीसीआई",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "कमाई",
+      "count": 3
+    },
+    {
+      "word": "उस",
+      "count": 3
+    },
+    {
+      "word": "50",
+      "count": 3
+    },
+    {
+      "word": "जैसे",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "मिलता",
+      "count": 3
+    },
+    {
+      "word": "पैसे",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कमाती हैं",
+      "count": 2
+    },
+    {
+      "phrase": "तो बीसीसीआई",
+      "count": 2
+    },
+    {
+      "phrase": "बीसीसीआई को",
+      "count": 2
+    },
+    {
+      "phrase": "बेच के",
+      "count": 2
+    },
+    {
+      "phrase": "कमाई होती",
+      "count": 2
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    },
+    {
+      "phrase": "50 पर",
+      "count": 2
+    },
+    {
+      "phrase": "को मिलता",
+      "count": 2
+    },
+    {
+      "phrase": "मिलता है",
+      "count": 2
+    },
+    {
+      "phrase": "है इसके",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

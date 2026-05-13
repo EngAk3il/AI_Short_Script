@@ -1,0 +1,148 @@
+{
+  "video_id": "HgfMzrejFKE",
+  "duration_seconds": 56,
+  "wps": 3.77,
+  "total_words": 211,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 762
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक खौफनाक हादसे ने शांतनु नायडू और रतन टाटा को बेस्ट फ्रेंड्स बना दिया एक दिन जब शांतनु नायडू कम खत्म करके घर वापस लोट"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "शांतनु और रतन टाटा एक दूसरे के कलीग हैं और शायद सबसे अच्छे दोस्त भी ऐसे और वीडियो के लिए चैनल को सब्सक्राइब करें"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "को",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "शांतनु",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "ने",
+      "count": 6
+    },
+    {
+      "word": "रतन",
+      "count": 6
+    },
+    {
+      "word": "टाटा",
+      "count": 6
+    },
+    {
+      "word": "लिए",
+      "count": 6
+    },
+    {
+      "word": "नायडू",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "दिन",
+      "count": 2
+    },
+    {
+      "word": "जब",
+      "count": 2
+    },
+    {
+      "word": "करके",
+      "count": 2
+    },
+    {
+      "word": "वापस",
+      "count": 2
+    },
+    {
+      "word": "तब",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रतन टाटा",
+      "count": 6
+    },
+    {
+      "phrase": "के लिए",
+      "count": 6
+    },
+    {
+      "phrase": "ने शांतनु",
+      "count": 3
+    },
+    {
+      "phrase": "शांतनु नायडू",
+      "count": 3
+    },
+    {
+      "phrase": "टाटा ने",
+      "count": 3
+    },
+    {
+      "phrase": "और रतन",
+      "count": 2
+    },
+    {
+      "phrase": "टाटा को",
+      "count": 2
+    },
+    {
+      "phrase": "बॉडी को",
+      "count": 2
+    },
+    {
+      "phrase": "वहां से",
+      "count": 2
+    },
+    {
+      "phrase": "ऐसे और",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

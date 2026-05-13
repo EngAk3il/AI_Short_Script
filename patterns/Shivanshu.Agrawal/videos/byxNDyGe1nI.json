@@ -1,0 +1,149 @@
+{
+  "video_id": "byxNDyGe1nI",
+  "duration_seconds": 30,
+  "wps": 2.0,
+  "total_words": 60,
+  "language_mix": {
+    "hindi": 96.7,
+    "english": 3.3,
+    "total_chars": 239
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक्सक्यूज मी एक स्मॉल पॉपकॉर्न देना चाहिए क्योंकि स्मॉल और मीडियम पॉपकॉर्न"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है जिससे आपको सबसे ज्यादा प्रॉफिट हो मुझे उतनी भूख नहीं है आप स्मॉल पॉप को नहीं दो शॉर्ट"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "स्मॉल",
+      "count": 3
+    },
+    {
+      "word": "पॉपकॉर्न",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "मीडियम",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "डिफरेंस",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "एक्सक्यूज",
+      "count": 1
+    },
+    {
+      "word": "मी",
+      "count": 1
+    },
+    {
+      "word": "एक",
+      "count": 1
+    },
+    {
+      "word": "देना",
+      "count": 1
+    },
+    {
+      "word": "चाहिए",
+      "count": 1
+    },
+    {
+      "word": "क्योंकि",
+      "count": 1
+    },
+    {
+      "word": "₹40",
+      "count": 1
+    },
+    {
+      "word": "एंड",
+      "count": 1
+    },
+    {
+      "word": "बड़ी",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "पॉपकॉर्न में",
+      "count": 2
+    },
+    {
+      "phrase": "का डिफरेंस",
+      "count": 2
+    },
+    {
+      "phrase": "डिफरेंस है",
+      "count": 2
+    },
+    {
+      "phrase": "एक्सक्यूज मी",
+      "count": 1
+    },
+    {
+      "phrase": "मी एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक स्मॉल",
+      "count": 1
+    },
+    {
+      "phrase": "स्मॉल पॉपकॉर्न",
+      "count": 1
+    },
+    {
+      "phrase": "पॉपकॉर्न देना",
+      "count": 1
+    },
+    {
+      "phrase": "देना चाहिए",
+      "count": 1
+    },
+    {
+      "phrase": "चाहिए क्योंकि",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

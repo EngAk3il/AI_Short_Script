@@ -1,0 +1,148 @@
+{
+  "video_id": "AmSK_S_IbdE",
+  "duration_seconds": 55,
+  "wps": 3.05,
+  "total_words": 168,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 761
+  },
+  "hook": {
+    "type": "question",
+    "text": "If working less and if procrastinating"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "process."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "value",
+      "count": 8
+    },
+    {
+      "word": "you",
+      "count": 8
+    },
+    {
+      "word": "your",
+      "count": 6
+    },
+    {
+      "word": "in",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "when",
+      "count": 5
+    },
+    {
+      "word": "we",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "feeling",
+      "count": 4
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "it's",
+      "count": 4
+    },
+    {
+      "word": "system",
+      "count": 4
+    },
+    {
+      "word": "short",
+      "count": 3
+    },
+    {
+      "word": "term",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "ultimately",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "that's",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "value system",
+      "count": 4
+    },
+    {
+      "phrase": "when we",
+      "count": 4
+    },
+    {
+      "phrase": "in the",
+      "count": 3
+    },
+    {
+      "phrase": "the short",
+      "count": 3
+    },
+    {
+      "phrase": "short term",
+      "count": 3
+    },
+    {
+      "phrase": "ultimately value",
+      "count": 3
+    },
+    {
+      "phrase": "feeling good",
+      "count": 2
+    },
+    {
+      "phrase": "good in",
+      "count": 2
+    },
+    {
+      "phrase": "term but",
+      "count": 2
+    },
+    {
+      "phrase": "but it's",
+      "count": 2
+    }
+  ],
+  "segment_count": 26
+}

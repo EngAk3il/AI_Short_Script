@@ -1,0 +1,148 @@
+{
+  "video_id": "cRiqKpzCaNw",
+  "duration_seconds": 54,
+  "wps": 3.59,
+  "total_words": 194,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 760
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "टाटा ग्रुप एयर इंडिया को पुरी तरह से ट्रांसफॉर्म करने वाला है पर कैसे पहला तो टाटा एयर इंडिया और एयर एशिया को मर्ज करने वाला है ताकि दो अलग-अलग कंपनी को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तक के लिए ट्रिक रूल्स में"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "एयर",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "इंडिया",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "एम्पलाइज",
+      "count": 5
+    },
+    {
+      "word": "टाटा",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "कंपनी",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "प्लांस",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "वाला",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एयर इंडिया",
+      "count": 6
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "करने वाला",
+      "count": 2
+    },
+    {
+      "phrase": "वाला है",
+      "count": 2
+    },
+    {
+      "phrase": "टाटा ने",
+      "count": 2
+    },
+    {
+      "phrase": "की एयर",
+      "count": 2
+    },
+    {
+      "phrase": "है इसीलिए",
+      "count": 2
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

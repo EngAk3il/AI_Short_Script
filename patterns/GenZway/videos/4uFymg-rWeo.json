@@ -1,0 +1,148 @@
+{
+  "video_id": "4uFymg-rWeo",
+  "duration_seconds": 30,
+  "wps": 3.73,
+  "total_words": 112,
+  "language_mix": {
+    "hindi": 94.1,
+    "english": 5.9,
+    "total_chars": 388
+  },
+  "hook": {
+    "type": "question",
+    "text": "Amul अगर अभी नहीं सुधरा ना तो अपने एरा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "दूध",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "amul",
+      "count": 4
+    },
+    {
+      "word": "सिर्फ",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "अभी",
+      "count": 2
+    },
+    {
+      "word": "ऊपर",
+      "count": 2
+    },
+    {
+      "word": "पैसे",
+      "count": 2
+    },
+    {
+      "word": "बेच",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 2
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    },
+    {
+      "word": "भरोसा",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "टेस्टिंग",
+      "count": 2
+    },
+    {
+      "word": "फेल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "दूध बेच",
+      "count": 2
+    },
+    {
+      "phrase": "सिर्फ और",
+      "count": 2
+    },
+    {
+      "phrase": "और सिर्फ",
+      "count": 2
+    },
+    {
+      "phrase": "सिर्फ भरोसा",
+      "count": 2
+    },
+    {
+      "phrase": "फेल हो",
+      "count": 2
+    },
+    {
+      "phrase": "गई थी",
+      "count": 2
+    },
+    {
+      "phrase": "बेचना है",
+      "count": 2
+    },
+    {
+      "phrase": "amul अगर",
+      "count": 1
+    },
+    {
+      "phrase": "अगर अभी",
+      "count": 1
+    }
+  ],
+  "segment_count": 14
+}

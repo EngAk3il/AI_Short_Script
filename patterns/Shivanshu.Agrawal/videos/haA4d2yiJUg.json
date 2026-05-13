@@ -1,0 +1,148 @@
+{
+  "video_id": "haA4d2yiJUg",
+  "duration_seconds": 67,
+  "wps": 3.61,
+  "total_words": 242,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 923
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक क्रिकेट अंपायर मैच चलाने के लिए कई सारे डिवाइसेस यूज करता है। सबसे बेसिक डिवाइस है अंपायर काउंटर जिसका यूज करके"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अंपायर्स को लगता है कि लाइट की कमी से प्लेइंग कंडीशंस अनसेफ हो गई है तो वो टेस्ट मैच को सस्पेंड कर देते हैं और इसी मीटर के बेस पर वो ग्राउंड की फ्लड लाइट्स"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "यूज",
+      "count": 6
+    },
+    {
+      "word": "अंपायर्स",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "बॉल",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "हो",
+      "count": 4
+    },
+    {
+      "word": "करने",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "अंपायर",
+      "count": 3
+    },
+    {
+      "word": "करके",
+      "count": 3
+    },
+    {
+      "word": "गेज",
+      "count": 3
+    },
+    {
+      "word": "रिंग",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "यूज करके",
+      "count": 3
+    },
+    {
+      "phrase": "करने के",
+      "count": 3
+    },
+    {
+      "phrase": "गेज का",
+      "count": 3
+    },
+    {
+      "phrase": "का यूज",
+      "count": 3
+    },
+    {
+      "phrase": "जिसका यूज",
+      "count": 2
+    },
+    {
+      "phrase": "करके अंपायर्स",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "बॉल के",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

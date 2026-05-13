@@ -1,0 +1,149 @@
+{
+  "video_id": "6fX8OJ_nJwU",
+  "duration_seconds": 44,
+  "wps": 4.05,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 96.7,
+    "english": 3.3,
+    "total_chars": 634
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैं गोवा में घूमने गया था और वहां जाके पता चला कि भैया यहां पे तो गुंडों का राज चल रहा है। कहीं पर ट्रैवल करने के लिए Ola Uber खोल के देखा तो समझ आया कि भैया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "गुंडागर्दी हम लोग पूरी दुनिया को दिखा रहे हैं टूरिज्म स्पोर्ट"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "गोवा",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "पर",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "अगर",
+      "count": 4
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "लोग",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "यहां",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "ola",
+      "count": 3
+    },
+    {
+      "word": "uber",
+      "count": 3
+    },
+    {
+      "word": "माइल्स",
+      "count": 3
+    },
+    {
+      "word": "ट्रेवल",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "किलोमीटर",
+      "count": 3
+    },
+    {
+      "word": "देने",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ola uber",
+      "count": 3
+    },
+    {
+      "phrase": "गोवा माइल्स",
+      "count": 3
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 3
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 3
+    },
+    {
+      "phrase": "पर किलोमीटर",
+      "count": 3
+    },
+    {
+      "phrase": "किलोमीटर के",
+      "count": 3
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "भैया यहां",
+      "count": 2
+    },
+    {
+      "phrase": "यहां पे",
+      "count": 2
+    },
+    {
+      "phrase": "और अगर",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

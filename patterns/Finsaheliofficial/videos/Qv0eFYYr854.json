@@ -1,0 +1,148 @@
+{
+  "video_id": "Qv0eFYYr854",
+  "duration_seconds": 95,
+  "wps": 3.37,
+  "total_words": 320,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 1260
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "अब एआई टूल सीखने के लिए आपको लाखों रुपए"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "आपने मुझे फॉलो किया हो।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "एआई",
+      "count": 16
+    },
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "हैं",
+      "count": 9
+    },
+    {
+      "word": "आपको",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "आप",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 7
+    },
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "साथ",
+      "count": 5
+    },
+    {
+      "word": "एi",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "करना",
+      "count": 4
+    },
+    {
+      "word": "अब",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "सीख",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "एआई टूल",
+      "count": 2
+    },
+    {
+      "phrase": "आपको एआई",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "और साथ",
+      "count": 2
+    },
+    {
+      "phrase": "एआई के",
+      "count": 2
+    },
+    {
+      "phrase": "मिलते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "एआई अप्रिशिएट",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    }
+  ],
+  "segment_count": 41
+}

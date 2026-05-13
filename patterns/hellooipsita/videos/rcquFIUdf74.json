@@ -1,0 +1,148 @@
+{
+  "video_id": "rcquFIUdf74",
+  "duration_seconds": 52,
+  "wps": 3.56,
+  "total_words": 185,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 663
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर अपने आपको बोला मैं ये टास्क फिनिश करूंगा ये काम फिनिश करके देन आई एम गोना गो वच ए1 ऑन द वीक एंड्स आपने काम फिनिश नहीं किया तो भी यू आर रिपीटेडली गिविंग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "राइट"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 10
+    },
+    {
+      "word": "आर",
+      "count": 6
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "योरसेल्फ",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "फिनिश",
+      "count": 3
+    },
+    {
+      "word": "काम",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "इट्स",
+      "count": 3
+    },
+    {
+      "word": "ट्रस्ट",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "कैन",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "मैं",
+      "count": 2
+    },
+    {
+      "word": "करूंगा",
+      "count": 2
+    },
+    {
+      "word": "करके",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू आर",
+      "count": 6
+    },
+    {
+      "phrase": "यू कैन",
+      "count": 3
+    },
+    {
+      "phrase": "करूंगा ये",
+      "count": 2
+    },
+    {
+      "phrase": "काम फिनिश",
+      "count": 2
+    },
+    {
+      "phrase": "अ पॉइंट",
+      "count": 2
+    },
+    {
+      "phrase": "गोइंग टू",
+      "count": 2
+    },
+    {
+      "phrase": "टू स्टॉप",
+      "count": 2
+    },
+    {
+      "phrase": "डेंजरस है",
+      "count": 2
+    },
+    {
+      "phrase": "आर द",
+      "count": 2
+    },
+    {
+      "phrase": "द ओनली",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

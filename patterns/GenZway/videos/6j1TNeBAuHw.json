@@ -1,0 +1,148 @@
+{
+  "video_id": "6j1TNeBAuHw",
+  "duration_seconds": 39,
+  "wps": 3.33,
+  "total_words": 130,
+  "language_mix": {
+    "hindi": 97.3,
+    "english": 2.7,
+    "total_chars": 451
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "धुरंधर की पहले दिन की पहली टिकट ₹1000"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ल्च करी है उसको 350 मिलेंगे बस।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "पहले",
+      "count": 3
+    },
+    {
+      "word": "शो",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "ले",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "उसके",
+      "count": 3
+    },
+    {
+      "word": "बाद",
+      "count": 3
+    },
+    {
+      "word": "सिनेमा",
+      "count": 3
+    },
+    {
+      "word": "हाउस",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "₹1000",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "मूवी",
+      "count": 2
+    },
+    {
+      "word": "पूरी",
+      "count": 2
+    },
+    {
+      "word": "bmy",
+      "count": 2
+    },
+    {
+      "word": "कन्वीनियंस",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ले लिए",
+      "count": 3
+    },
+    {
+      "phrase": "उसके बाद",
+      "count": 3
+    },
+    {
+      "phrase": "सिनेमा हाउस",
+      "count": 3
+    },
+    {
+      "phrase": "bmy शो",
+      "count": 2
+    },
+    {
+      "phrase": "शो ने",
+      "count": 2
+    },
+    {
+      "phrase": "से ले",
+      "count": 2
+    },
+    {
+      "phrase": "लिए कन्वीनियंस",
+      "count": 2
+    },
+    {
+      "phrase": "कन्वीनियंस चार्ज",
+      "count": 2
+    },
+    {
+      "phrase": "चार्ज के",
+      "count": 2
+    },
+    {
+      "phrase": "के उसके",
+      "count": 2
+    }
+  ],
+  "segment_count": 16
+}

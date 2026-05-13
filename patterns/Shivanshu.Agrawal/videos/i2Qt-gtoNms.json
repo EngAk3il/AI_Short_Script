@@ -1,0 +1,148 @@
+{
+  "video_id": "i2Qt-gtoNms",
+  "duration_seconds": 93,
+  "wps": 3.45,
+  "total_words": 321,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1294
+  },
+  "hook": {
+    "type": "question",
+    "text": "आखिर कैसे साइलेंट हार्ट अटैक से फिट और हेल्दी इंडियंस की जान जा रही है? इंडिया में हर 100 में से 40 हार्ट अटैक के केसेस"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ट्रस्टेड इंश्योरर्स को कंपेयर कीजिए और टर्म इंश्योरेंस ले लीजिए।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 13
+    },
+    {
+      "word": "है",
+      "count": 12
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "हो",
+      "count": 7
+    },
+    {
+      "word": "हार्ट",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "अटैक",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "फैमिली",
+      "count": 4
+    },
+    {
+      "word": "इंश्योरेंस",
+      "count": 4
+    },
+    {
+      "word": "साइलेंट",
+      "count": 3
+    },
+    {
+      "word": "केसेस",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "मिल",
+      "count": 3
+    },
+    {
+      "word": "कीजिए",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हार्ट अटैक",
+      "count": 5
+    },
+    {
+      "phrase": "साइलेंट हार्ट",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "टर्म इंश्योरेंस",
+      "count": 3
+    },
+    {
+      "phrase": "अटैक के",
+      "count": 2
+    },
+    {
+      "phrase": "के केसेस",
+      "count": 2
+    },
+    {
+      "phrase": "केसेस हैं",
+      "count": 2
+    },
+    {
+      "phrase": "स्टार्ट हो",
+      "count": 2
+    },
+    {
+      "phrase": "हो जाता",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "WCzAsFNYn_U",
+  "duration_seconds": 64,
+  "wps": 2.98,
+  "total_words": 191,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 767
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इसरो इस एक चीज में नासा से बहुत आगे है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करें"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "मिशन",
+      "count": 6
+    },
+    {
+      "word": "इसरो",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "कम",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "करोड़",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "टेक्नोलॉजी",
+      "count": 3
+    },
+    {
+      "word": "उसे",
+      "count": 3
+    },
+    {
+      "word": "नासा",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "आगे",
+      "count": 2
+    },
+    {
+      "word": "जहां",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मिशन में",
+      "count": 3
+    },
+    {
+      "phrase": "में उसे",
+      "count": 3
+    },
+    {
+      "phrase": "आगे है",
+      "count": 2
+    },
+    {
+      "phrase": "स्पेस मिशन",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ लगे",
+      "count": 2
+    },
+    {
+      "phrase": "लगे थे",
+      "count": 2
+    },
+    {
+      "phrase": "है इसरो",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "इसरो अपने",
+      "count": 2
+    },
+    {
+      "phrase": "उसे होने",
+      "count": 2
+    }
+  ],
+  "segment_count": 26
+}

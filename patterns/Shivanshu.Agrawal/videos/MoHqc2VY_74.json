@@ -1,0 +1,148 @@
+{
+  "video_id": "MoHqc2VY_74",
+  "duration_seconds": 47,
+  "wps": 3.6,
+  "total_words": 169,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 658
+  },
+  "hook": {
+    "type": "statement",
+    "text": "यूएस प्रेसिडेंट का ये प्लेन अनलिमिटेड टाइम तक उड़ सकता है ये है एयरफोर्स व जिसे हवा में ही एक एरियल टैंकर की मदद से रिफ्यूल किया जा सकता है आल्सो ये एक"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फीचर्स के चलते इसे उड़ाने में ढ़ करोड़ पर फ्लाइट आवर का खर्च आता है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "सकता",
+      "count": 3
+    },
+    {
+      "word": "प्रेसिडेंट",
+      "count": 2
+    },
+    {
+      "word": "प्लेन",
+      "count": 2
+    },
+    {
+      "word": "तक",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "न्यूक्लियर",
+      "count": 2
+    },
+    {
+      "word": "इसमें",
+      "count": 2
+    },
+    {
+      "word": "जिसमें",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "भी है",
+      "count": 6
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "सकता है",
+      "count": 3
+    },
+    {
+      "phrase": "लिए इसमें",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "है जिसमें",
+      "count": 2
+    },
+    {
+      "phrase": "यूएस प्रेसिडेंट",
+      "count": 1
+    },
+    {
+      "phrase": "प्रेसिडेंट का",
+      "count": 1
+    },
+    {
+      "phrase": "का ये",
+      "count": 1
+    },
+    {
+      "phrase": "ये प्लेन",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

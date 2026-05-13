@@ -1,0 +1,149 @@
+{
+  "video_id": "LM3ztqCaWRY",
+  "duration_seconds": 58,
+  "wps": 3.14,
+  "total_words": 182,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 780
+  },
+  "hook": {
+    "type": "question",
+    "text": "If your logo is explaining a business,"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "what's your favorite logo? Tell me in the comments."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 11
+    },
+    {
+      "word": "logo",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 6
+    },
+    {
+      "word": "if",
+      "count": 5
+    },
+    {
+      "word": "your",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "on",
+      "count": 4
+    },
+    {
+      "word": "has",
+      "count": 3
+    },
+    {
+      "word": "rule",
+      "count": 3
+    },
+    {
+      "word": "number",
+      "count": 3
+    },
+    {
+      "word": "music",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "be",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "three",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "rule number",
+      "count": 3
+    },
+    {
+      "phrase": "on a",
+      "count": 3
+    },
+    {
+      "phrase": "it has",
+      "count": 2
+    },
+    {
+      "phrase": "has to",
+      "count": 2
+    },
+    {
+      "phrase": "right feeling",
+      "count": 2
+    },
+    {
+      "phrase": "brand feels",
+      "count": 2
+    },
+    {
+      "phrase": "it must",
+      "count": 2
+    },
+    {
+      "phrase": "must be",
+      "count": 2
+    },
+    {
+      "phrase": "if you",
+      "count": 2
+    },
+    {
+      "phrase": "if your",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

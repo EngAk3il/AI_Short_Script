@@ -1,0 +1,148 @@
+{
+  "video_id": "2XGzPFtmim0",
+  "duration_seconds": 60,
+  "wps": 3.3,
+  "total_words": 198,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 737
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "ट्रंप ने ईरान वॉर पे ₹34,000 करोड़ जला दिए। वॉर के पहले 100 घंटों में ही यूएस के $3.7 बिलियन खर्च हो गए। यूएस के करीब 200 फाइटर जेट्स, दो एयरक्राफ्ट कैरियर्स,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इंटरसेप्टर मिसाइल का कॉस्ट 257 करोड़ पर मिसाइल था और इन्हीं सबको मिलाके इनके करीब ₹34,000 करोड़ फुक गए।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "करोड़",
+      "count": 9
+    },
+    {
+      "word": "करीब",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "ईरान",
+      "count": 3
+    },
+    {
+      "word": "वॉर",
+      "count": 3
+    },
+    {
+      "word": "यूएस",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "कॉस्ट",
+      "count": 3
+    },
+    {
+      "word": "मिसाइल्स",
+      "count": 3
+    },
+    {
+      "word": "मिसाइल",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "₹34,000",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "खर्च",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करोड़ का",
+      "count": 3
+    },
+    {
+      "phrase": "ने ईरान",
+      "count": 2
+    },
+    {
+      "phrase": "₹34,000 करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "यूएस के",
+      "count": 2
+    },
+    {
+      "phrase": "फाइटर जेट्स",
+      "count": 2
+    },
+    {
+      "phrase": "हर एक",
+      "count": 2
+    },
+    {
+      "phrase": "था और",
+      "count": 2
+    },
+    {
+      "phrase": "कॉस्ट करीब",
+      "count": 2
+    },
+    {
+      "phrase": "मिसाइल्स और",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

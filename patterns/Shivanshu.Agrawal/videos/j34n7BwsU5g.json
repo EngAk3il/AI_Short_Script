@@ -1,0 +1,148 @@
+{
+  "video_id": "j34n7BwsU5g",
+  "duration_seconds": 57,
+  "wps": 3.11,
+  "total_words": 177,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 695
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रसना इन स्ट्रेटेजी से बच्चों की फेवरेट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ओन करती है"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "रसना",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "ड्रिंक",
+      "count": 5
+    },
+    {
+      "word": "बच्चों",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "थी",
+      "count": 4
+    },
+    {
+      "word": "मार्केट",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "सॉफ्ट",
+      "count": 2
+    },
+    {
+      "word": "ड्रिंक्स",
+      "count": 2
+    },
+    {
+      "word": "करती",
+      "count": 2
+    },
+    {
+      "word": "कोई",
+      "count": 2
+    },
+    {
+      "word": "टारगेट",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रसना ने",
+      "count": 3
+    },
+    {
+      "phrase": "सॉफ्ट ड्रिंक",
+      "count": 2
+    },
+    {
+      "phrase": "बच्चों को",
+      "count": 2
+    },
+    {
+      "phrase": "रसना इन",
+      "count": 1
+    },
+    {
+      "phrase": "इन स्ट्रेटेजी",
+      "count": 1
+    },
+    {
+      "phrase": "स्ट्रेटेजी से",
+      "count": 1
+    },
+    {
+      "phrase": "से बच्चों",
+      "count": 1
+    },
+    {
+      "phrase": "बच्चों की",
+      "count": 1
+    },
+    {
+      "phrase": "की फेवरेट",
+      "count": 1
+    },
+    {
+      "phrase": "फेवरेट ड्रिंक",
+      "count": 1
+    }
+  ],
+  "segment_count": 24
+}

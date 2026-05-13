@@ -1,0 +1,148 @@
+{
+  "video_id": "SMSTdMhFw-k",
+  "duration_seconds": 53,
+  "wps": 3.36,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 648
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "राघव चड्डा ने तो बीजेपी का लड्डू खा लिया"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "टिपिकल पॉलिटिशियन मूव।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "बीजेपी",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "पार्टी",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "फिर",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 3
+    },
+    {
+      "word": "राघव",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    },
+    {
+      "word": "दिया",
+      "count": 2
+    },
+    {
+      "word": "या",
+      "count": 2
+    },
+    {
+      "word": "एमएलए",
+      "count": 2
+    },
+    {
+      "word": "डिसक्वालीफाई",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "में से",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "जाता है",
+      "count": 2
+    },
+    {
+      "phrase": "एमपीस ने",
+      "count": 2
+    },
+    {
+      "phrase": "ने बीजेपी",
+      "count": 2
+    },
+    {
+      "phrase": "बीजेपी जॉइन",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "राघव चड्डा",
+      "count": 1
+    },
+    {
+      "phrase": "चड्डा ने",
+      "count": 1
+    },
+    {
+      "phrase": "ने तो",
+      "count": 1
+    }
+  ],
+  "segment_count": 27
+}

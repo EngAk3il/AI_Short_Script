@@ -1,0 +1,148 @@
+{
+  "video_id": "zmHMoj_mcNQ",
+  "duration_seconds": 75,
+  "wps": 3.25,
+  "total_words": 244,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 866
+  },
+  "hook": {
+    "type": "statement",
+    "text": "आईपीएलl में हार्दिक पांड्या के बैट को एक मिस्टीरियस टूल से चेक किया गया। यही सेम टूल फिल साल्ट और शिमरन हेटमायर के बैट पर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "से ऑन फील्ड रैंडम चेकक्स को अलाउ किया"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 13
+    },
+    {
+      "word": "बैट",
+      "count": 12
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "किया",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "सकते",
+      "count": 4
+    },
+    {
+      "word": "टूल",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "रूल्स",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "अप",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "इंचेस",
+      "count": 3
+    },
+    {
+      "word": "एज",
+      "count": 3
+    },
+    {
+      "word": "चेक",
+      "count": 2
+    },
+    {
+      "word": "गया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अप टू",
+      "count": 3
+    },
+    {
+      "phrase": "बैट के",
+      "count": 3
+    },
+    {
+      "phrase": "के बैट",
+      "count": 2
+    },
+    {
+      "phrase": "चेक किया",
+      "count": 2
+    },
+    {
+      "phrase": "किया गया",
+      "count": 2
+    },
+    {
+      "phrase": "पर भी",
+      "count": 2
+    },
+    {
+      "phrase": "एक बैट",
+      "count": 2
+    },
+    {
+      "phrase": "एक लीगल",
+      "count": 2
+    },
+    {
+      "phrase": "लीगल बैट",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हैं",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

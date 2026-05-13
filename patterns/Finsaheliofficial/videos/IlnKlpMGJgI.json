@@ -1,0 +1,148 @@
+{
+  "video_id": "IlnKlpMGJgI",
+  "duration_seconds": 28,
+  "wps": 3.86,
+  "total_words": 108,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 413
+  },
+  "hook": {
+    "type": "question",
+    "text": "क्या आपको पता है सिर्फ एक स्टूडेंट आईडी की वजह से आप अपने लाखों रुपए बचा सकते हो? यह स्टूडेंट आईडी कार्ड तो बहुत सारे"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "वीडियो को सेव और अपने सारे स्टूडेंट दोस्तों के साथ शेयर जरूर करना। एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "स्टूडेंट",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "आईडी",
+      "count": 4
+    },
+    {
+      "word": "करना",
+      "count": 4
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "सारे",
+      "count": 3
+    },
+    {
+      "word": "सिर्फ",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "वजह",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "बचा",
+      "count": 2
+    },
+    {
+      "word": "सकते",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "स्टूडेंट आईडी",
+      "count": 4
+    },
+    {
+      "phrase": "है सिर्फ",
+      "count": 2
+    },
+    {
+      "phrase": "की वजह",
+      "count": 2
+    },
+    {
+      "phrase": "वजह से",
+      "count": 2
+    },
+    {
+      "phrase": "बचा सकते",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "बहुत सारे",
+      "count": 2
+    },
+    {
+      "phrase": "क्या आपको",
+      "count": 1
+    },
+    {
+      "phrase": "आपको पता",
+      "count": 1
+    },
+    {
+      "phrase": "पता है",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

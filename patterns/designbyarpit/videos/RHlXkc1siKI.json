@@ -1,0 +1,148 @@
+{
+  "video_id": "RHlXkc1siKI",
+  "duration_seconds": 51,
+  "wps": 3.27,
+  "total_words": 167,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 732
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This is not a water balloon. It is a"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "Let me know in the comment."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 7
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "water",
+      "count": 3
+    },
+    {
+      "word": "we",
+      "count": 3
+    },
+    {
+      "word": "let",
+      "count": 3
+    },
+    {
+      "word": "your",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "our",
+      "count": 2
+    },
+    {
+      "word": "me",
+      "count": 2
+    },
+    {
+      "word": "number",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "holds",
+      "count": 2
+    },
+    {
+      "word": "finally",
+      "count": 2
+    },
+    {
+      "word": "have",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "it is",
+      "count": 2
+    },
+    {
+      "phrase": "let me",
+      "count": 2
+    },
+    {
+      "phrase": "it holds",
+      "count": 2
+    },
+    {
+      "phrase": "we have",
+      "count": 2
+    },
+    {
+      "phrase": "this is",
+      "count": 1
+    },
+    {
+      "phrase": "is not",
+      "count": 1
+    },
+    {
+      "phrase": "not a",
+      "count": 1
+    },
+    {
+      "phrase": "a water",
+      "count": 1
+    },
+    {
+      "phrase": "water balloon",
+      "count": 1
+    },
+    {
+      "phrase": "balloon it",
+      "count": 1
+    }
+  ],
+  "segment_count": 25
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "1J9sT22GB40",
+  "duration_seconds": 37,
+  "wps": 4.51,
+  "total_words": 167,
+  "language_mix": {
+    "hindi": 99.0,
+    "english": 1.0,
+    "total_chars": 575
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये Zomato वाले पहले हाथ जोड़-जोड़ के खाना ऑर्डर करवाते थे और लोग खाना खाने के बाद भी इनसे कैशबैक ले लेते थे ये चीज बोल के कि भैया खाना खराब आया था और ये लोग दे भी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मर्जी कंप्लेंट करते रहो। पैसे तो हम लोग वापस करेंगे नहीं। और अगर चाहिए अच्छी सर्विस, तो ₹50 एक्स्ट्रा देने पड़ेंगे।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "खाना",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 6
+    },
+    {
+      "word": "लोग",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "ऑर्डर",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "खराब",
+      "count": 3
+    },
+    {
+      "word": "लोगों",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "₹50",
+      "count": 3
+    },
+    {
+      "word": "एक्स्ट्रा",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "वाले",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "दे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "खाना खराब",
+      "count": 2
+    },
+    {
+      "phrase": "था और",
+      "count": 2
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 2
+    },
+    {
+      "phrase": "पर ऑर्डर",
+      "count": 2
+    },
+    {
+      "phrase": "₹50 एक्स्ट्रा",
+      "count": 2
+    },
+    {
+      "phrase": "तो हम",
+      "count": 2
+    },
+    {
+      "phrase": "और अगर",
+      "count": 2
+    },
+    {
+      "phrase": "ये zomato",
+      "count": 1
+    },
+    {
+      "phrase": "zomato वाले",
+      "count": 1
+    },
+    {
+      "phrase": "वाले पहले",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "nd_vBRZzAtw",
+  "duration_seconds": 101,
+  "wps": 3.06,
+  "total_words": 309,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1326
+  },
+  "hook": {
+    "type": "question",
+    "text": "कैसे एक अमीर घर का बिगड़ा बेटा अमेरिका का प्रेसिडेंट बन गया? डोनाल्ड ट्रंप का बर्थ 1946 में एक बेहद अमीर घर में हुआ।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कई बार बैक फायर करती"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "उन्होंने",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "थे",
+      "count": 6
+    },
+    {
+      "word": "वो",
+      "count": 6
+    },
+    {
+      "word": "किया",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "ट्रंप",
+      "count": 4
+    },
+    {
+      "word": "अपने",
+      "count": 4
+    },
+    {
+      "word": "लेकिन",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "घर",
+      "count": 3
+    },
+    {
+      "word": "हुए",
+      "count": 3
+    },
+    {
+      "word": "करते",
+      "count": 3
+    },
+    {
+      "word": "गए",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "में उन्होंने",
+      "count": 3
+    },
+    {
+      "phrase": "अमीर घर",
+      "count": 2
+    },
+    {
+      "phrase": "का बर्थ",
+      "count": 2
+    },
+    {
+      "phrase": "में हुआ",
+      "count": 2
+    },
+    {
+      "phrase": "करते थे",
+      "count": 2
+    },
+    {
+      "phrase": "के कैप्टन",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "किया और",
+      "count": 2
+    },
+    {
+      "phrase": "एक सक्सेसफुल",
+      "count": 2
+    },
+    {
+      "phrase": "बॉर्डर सिक्योरिटी",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

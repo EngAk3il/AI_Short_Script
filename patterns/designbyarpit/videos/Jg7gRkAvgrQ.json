@@ -1,0 +1,149 @@
+{
+  "video_id": "Jg7gRkAvgrQ",
+  "duration_seconds": 48,
+  "wps": 3.4,
+  "total_words": 163,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 669
+  },
+  "hook": {
+    "type": "question",
+    "text": "This building was almost a total financial disaster. You see this iconic pencil shape? It wasn't a design choice."
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "law and created the most famous building of the"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 16
+    },
+    {
+      "word": "they",
+      "count": 8
+    },
+    {
+      "word": "was",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "and",
+      "count": 4
+    },
+    {
+      "word": "top",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "law",
+      "count": 3
+    },
+    {
+      "word": "make",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "building",
+      "count": 2
+    },
+    {
+      "word": "only",
+      "count": 2
+    },
+    {
+      "word": "save",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "land",
+      "count": 2
+    },
+    {
+      "word": "any",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "the top",
+      "count": 3
+    },
+    {
+      "phrase": "to save",
+      "count": 2
+    },
+    {
+      "phrase": "save the",
+      "count": 2
+    },
+    {
+      "phrase": "to make",
+      "count": 2
+    },
+    {
+      "phrase": "the land",
+      "count": 2
+    },
+    {
+      "phrase": "make any",
+      "count": 2
+    },
+    {
+      "phrase": "the law",
+      "count": 2
+    },
+    {
+      "phrase": "of the",
+      "count": 2
+    },
+    {
+      "phrase": "this building",
+      "count": 1
+    },
+    {
+      "phrase": "building was",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

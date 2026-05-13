@@ -1,0 +1,148 @@
+{
+  "video_id": "x5IK2YPTMyE",
+  "duration_seconds": 99,
+  "wps": 3.48,
+  "total_words": 345,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1325
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "इंडिया को 1 लाख करोड़ का लॉस हो रहा है क्योंकि हमारे पास इसकी कमी है। इंडिया में ऐसे करीब 20 करोड़ लोग हैं जिनकी आई"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अपने लेंसेस को रिप्लेस करवा लीजिए।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "को",
+      "count": 12
+    },
+    {
+      "word": "हैं",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "हो",
+      "count": 9
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "लेंस",
+      "count": 7
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "अपने",
+      "count": 5
+    },
+    {
+      "word": "लेंसेस",
+      "count": 5
+    },
+    {
+      "word": "आई",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "टेस्ट",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "फ्री",
+      "count": 4
+    },
+    {
+      "word": "रिप्लेस",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "ही नहीं",
+      "count": 3
+    },
+    {
+      "phrase": "गए हो",
+      "count": 3
+    },
+    {
+      "phrase": "1 लाख",
+      "count": 2
+    },
+    {
+      "phrase": "लाख करोड़",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ का",
+      "count": 2
+    },
+    {
+      "phrase": "का लॉस",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

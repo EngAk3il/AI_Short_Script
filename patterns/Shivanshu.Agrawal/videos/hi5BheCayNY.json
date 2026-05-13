@@ -1,0 +1,148 @@
+{
+  "video_id": "hi5BheCayNY",
+  "duration_seconds": 53,
+  "wps": 3.02,
+  "total_words": 160,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 686
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "रेस्टोरेंट्स जानबूझकर अपनी सीट्स को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ज्यादा कस्टमर्स को सर्व किया जा सकता है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "ज्यादा",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "रेस्टोरेंट्स",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "कम",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "टेबल",
+      "count": 4
+    },
+    {
+      "word": "अनकंफर्ट",
+      "count": 3
+    },
+    {
+      "word": "बल",
+      "count": 3
+    },
+    {
+      "word": "काफी",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "सेल्स",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "कस्टमर",
+      "count": 3
+    },
+    {
+      "word": "जल्द",
+      "count": 3
+    },
+    {
+      "word": "सीटिंग",
+      "count": 3
+    },
+    {
+      "word": "फूड",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "अनकंफर्ट बल",
+      "count": 3
+    },
+    {
+      "phrase": "काफी कम",
+      "count": 3
+    },
+    {
+      "phrase": "ज्यादा सेल्स",
+      "count": 3
+    },
+    {
+      "phrase": "में ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "ज्यादा से",
+      "count": 2
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "टेबल को",
+      "count": 2
+    },
+    {
+      "phrase": "को नेक्स्ट",
+      "count": 2
+    },
+    {
+      "phrase": "फ्री कर",
+      "count": 2
+    }
+  ],
+  "segment_count": 22
+}

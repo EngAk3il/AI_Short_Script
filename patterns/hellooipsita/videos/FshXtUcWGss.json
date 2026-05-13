@@ -1,0 +1,148 @@
+{
+  "video_id": "FshXtUcWGss",
+  "duration_seconds": 61,
+  "wps": 2.61,
+  "total_words": 159,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 623
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "व्हेन ट्राइट बी एन इफेक्टिव कम्युनिकेटर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कीपिंग योर ऑडियंस अटेंशन"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "वेरिएशन",
+      "count": 8
+    },
+    {
+      "word": "योर",
+      "count": 8
+    },
+    {
+      "word": "बी",
+      "count": 6
+    },
+    {
+      "word": "टू",
+      "count": 6
+    },
+    {
+      "word": "व्हेन",
+      "count": 5
+    },
+    {
+      "word": "कुड",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "इज",
+      "count": 4
+    },
+    {
+      "word": "अटेंशन",
+      "count": 4
+    },
+    {
+      "word": "इन",
+      "count": 4
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "सरप्राइज",
+      "count": 3
+    },
+    {
+      "word": "एलिमेंट",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "लाइक",
+      "count": 3
+    },
+    {
+      "word": "आल्सो",
+      "count": 3
+    },
+    {
+      "word": "वरायटी",
+      "count": 3
+    },
+    {
+      "word": "नाउ",
+      "count": 2
+    },
+    {
+      "word": "व्हाट",
+      "count": 2
+    },
+    {
+      "word": "डू",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वेरिएशन कुड",
+      "count": 4
+    },
+    {
+      "phrase": "अ सरप्राइज",
+      "count": 3
+    },
+    {
+      "phrase": "सरप्राइज एलिमेंट",
+      "count": 3
+    },
+    {
+      "phrase": "कुड आल्सो",
+      "count": 3
+    },
+    {
+      "phrase": "आल्सो बी",
+      "count": 3
+    },
+    {
+      "phrase": "बी इन",
+      "count": 3
+    },
+    {
+      "phrase": "इन योर",
+      "count": 3
+    },
+    {
+      "phrase": "एलिमेंट टू",
+      "count": 2
+    },
+    {
+      "phrase": "इज अ",
+      "count": 2
+    },
+    {
+      "phrase": "इट नेचुरली",
+      "count": 2
+    }
+  ],
+  "segment_count": 21
+}

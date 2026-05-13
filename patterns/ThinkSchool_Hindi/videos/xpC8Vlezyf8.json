@@ -1,0 +1,148 @@
+{
+  "video_id": "xpC8Vlezyf8",
+  "duration_seconds": 142,
+  "wps": 2.71,
+  "total_words": 385,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 1564
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जितनी पुरानी गंगाधारा है"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "जानेंगे इस एपिसोड में।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "बिहार",
+      "count": 19
+    },
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "का",
+      "count": 8
+    },
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "थे",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "कभी",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "भारत",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "सबसे",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बिहार एक",
+      "count": 3
+    },
+    {
+      "phrase": "की पढ़ाई",
+      "count": 3
+    },
+    {
+      "phrase": "पढ़ाई होती",
+      "count": 3
+    },
+    {
+      "phrase": "होती थी",
+      "count": 3
+    },
+    {
+      "phrase": "और बिहार",
+      "count": 3
+    },
+    {
+      "phrase": "है कभी",
+      "count": 3
+    },
+    {
+      "phrase": "है बिहार",
+      "count": 2
+    },
+    {
+      "phrase": "भारत के",
+      "count": 2
+    },
+    {
+      "phrase": "हैं वैशाली",
+      "count": 2
+    },
+    {
+      "phrase": "यू नो",
+      "count": 2
+    }
+  ],
+  "segment_count": 56
+}

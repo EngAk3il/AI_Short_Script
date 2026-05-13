@@ -1,0 +1,148 @@
+{
+  "video_id": "8Rh3AX_PbYk",
+  "duration_seconds": 29,
+  "wps": 4.24,
+  "total_words": 123,
+  "language_mix": {
+    "hindi": 96.1,
+    "english": 3.9,
+    "total_chars": 463
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये Zomato वाले अपने राइडर्स को एकदम चलता फिरता बिलबोर्ड बनाने का प्लान कर रहे हैं। Zomato का माइंडसेट बहुत क्लियर है कि भैया जितना पैसा बनाया जा सकता है उतना"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ऊपर। हम लोग उन कंपनी से चार्ज कर पाएंगे और अपने प्रॉफिट को मैक्सिमाइज कर पाएंगे।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "zomato",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    },
+    {
+      "word": "लोग",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "उन",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "राइडर्स",
+      "count": 2
+    },
+    {
+      "word": "बनाने",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "भैया",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    },
+    {
+      "word": "जगह",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हम लोग",
+      "count": 3
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "कर पाएंगे",
+      "count": 2
+    },
+    {
+      "phrase": "ये zomato",
+      "count": 1
+    },
+    {
+      "phrase": "zomato वाले",
+      "count": 1
+    },
+    {
+      "phrase": "वाले अपने",
+      "count": 1
+    },
+    {
+      "phrase": "अपने राइडर्स",
+      "count": 1
+    },
+    {
+      "phrase": "राइडर्स को",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

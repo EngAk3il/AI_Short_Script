@@ -1,0 +1,148 @@
+{
+  "video_id": "tFQ1LaILLgg",
+  "duration_seconds": 79,
+  "wps": 3.54,
+  "total_words": 280,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1094
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "आपने अचार बेचकर ₹500 करोड़ कमाए। नेलॉन्स ने अचार बेचकर खड़ा किया है 500 करोड़ का एफएमसीजी एंपायर। और आज हर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ब्रांड शुरू करना चाहता है तो उसका पहला स्टेप क्या होना चाहिए?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "योर",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "अचार",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "सर",
+      "count": 4
+    },
+    {
+      "word": "क्या",
+      "count": 4
+    },
+    {
+      "word": "बिज़नेस",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "एफएमसीजी",
+      "count": 3
+    },
+    {
+      "word": "हम",
+      "count": 3
+    },
+    {
+      "word": "टूटी",
+      "count": 3
+    },
+    {
+      "word": "फ्रूटी",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "या",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "आपने",
+      "count": 2
+    },
+    {
+      "word": "बेचकर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "योर योर",
+      "count": 5
+    },
+    {
+      "phrase": "टूटी फ्रूटी",
+      "count": 3
+    },
+    {
+      "phrase": "आपने अचार",
+      "count": 2
+    },
+    {
+      "phrase": "अचार बेचकर",
+      "count": 2
+    },
+    {
+      "phrase": "है सर",
+      "count": 2
+    },
+    {
+      "phrase": "में हम",
+      "count": 2
+    },
+    {
+      "phrase": "हम लोगों",
+      "count": 2
+    },
+    {
+      "phrase": "लाइम जूस",
+      "count": 2
+    },
+    {
+      "phrase": "कर रहे",
+      "count": 2
+    },
+    {
+      "phrase": "बिज़नेस में",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

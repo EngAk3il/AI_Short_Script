@@ -1,0 +1,148 @@
+{
+  "video_id": "CdWQYi-LaOc",
+  "duration_seconds": 87,
+  "wps": 3.55,
+  "total_words": 309,
+  "language_mix": {
+    "hindi": 98.6,
+    "english": 1.4,
+    "total_chars": 1251
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हमारे यह स्मार्टफोनस जल्द ही गायब होने वाले हैं। यह क्लेम है मेटा सीईओ मार्क ज़करबर्ग का क्योंकि मार्केट में लॉन्च होने वाला है मेटा का यह नया ऑगमेंटेड"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "टू मेक वर्चुअल रियलिटी आवर न्यू रियलिटी एंड टर्न आवर इमेजिनेशन टू लाइफ। फॉलो टू मेक योर फीड द स्मार्टेस्ट।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "हो",
+      "count": 10
+    },
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "आपके",
+      "count": 7
+    },
+    {
+      "word": "ग्लासेस",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "रियलिटी",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "करना",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "आई",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "मेटा",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करना हो",
+      "count": 3
+    },
+    {
+      "phrase": "करता है",
+      "count": 3
+    },
+    {
+      "phrase": "है मेटा",
+      "count": 2
+    },
+    {
+      "phrase": "ऑगमेंटेड रियलिटी",
+      "count": 2
+    },
+    {
+      "phrase": "आपको एक",
+      "count": 2
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 2
+    },
+    {
+      "phrase": "सकते हो",
+      "count": 2
+    },
+    {
+      "phrase": "हो तो",
+      "count": 2
+    },
+    {
+      "phrase": "ग्लासेस में",
+      "count": 2
+    },
+    {
+      "phrase": "को ट्रैक",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

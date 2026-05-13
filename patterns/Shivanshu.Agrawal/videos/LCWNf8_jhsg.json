@@ -1,0 +1,148 @@
+{
+  "video_id": "LCWNf8_jhsg",
+  "duration_seconds": 60,
+  "wps": 3.38,
+  "total_words": 203,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 766
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक गरीब किसान के बेटे ने 4 लाख करोड़ की फोर्ड मोटर कंपनी बनाई जहां दूसरे बच्चे खेल कूद में बीजी रहते थे वही हेनरी फोर्ड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कार्स काफी सस्ती हो गई और वो एक मैं सिर्फ सक्सेस"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "एक",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "फोर्ड",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "कार्स",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "बनाई",
+      "count": 3
+    },
+    {
+      "word": "रहते",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "मेथड",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "कंपनी",
+      "count": 2
+    },
+    {
+      "word": "जहां",
+      "count": 2
+    },
+    {
+      "word": "वही",
+      "count": 2
+    },
+    {
+      "word": "करके",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहते थे",
+      "count": 3
+    },
+    {
+      "phrase": "वो एक",
+      "count": 2
+    },
+    {
+      "phrase": "कार्स बनाई",
+      "count": 2
+    },
+    {
+      "phrase": "असेंबली लाइन",
+      "count": 2
+    },
+    {
+      "phrase": "लाइन मेथड",
+      "count": 2
+    },
+    {
+      "phrase": "एक गरीब",
+      "count": 1
+    },
+    {
+      "phrase": "गरीब किसान",
+      "count": 1
+    },
+    {
+      "phrase": "किसान के",
+      "count": 1
+    },
+    {
+      "phrase": "के बेटे",
+      "count": 1
+    },
+    {
+      "phrase": "बेटे ने",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

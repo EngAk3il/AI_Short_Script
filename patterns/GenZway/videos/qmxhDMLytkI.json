@@ -1,0 +1,148 @@
+{
+  "video_id": "qmxhDMLytkI",
+  "duration_seconds": 28,
+  "wps": 4.61,
+  "total_words": 129,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 446
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये फुकरा इंसान की फोकस को देख के ना वो ब्लैक वाटर वाली ईवोकस कंपनी थी ना उनके अंदर थोड़ी सी अकल आ गई क्योंकि फोकस का वेबसाइट ट्रैफिक ऑल टाइम लो है तो मतलब"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कंपनी आधा लीटर सिर्फ ₹80 में बेच रही है और इन्होंने इंडियन मार्केट को समझ लिया कि भैया सस्ता तो बेचना ही पड़ेगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 3
+    },
+    {
+      "word": "कंपनी",
+      "count": 3
+    },
+    {
+      "word": "ऑल",
+      "count": 3
+    },
+    {
+      "word": "टाइम",
+      "count": 3
+    },
+    {
+      "word": "रही",
+      "count": 3
+    },
+    {
+      "word": "फोकस",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "अंदर",
+      "count": 2
+    },
+    {
+      "word": "गई",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "लो",
+      "count": 2
+    },
+    {
+      "word": "सेल्स",
+      "count": 2
+    },
+    {
+      "word": "हाई",
+      "count": 2
+    },
+    {
+      "word": "चल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ऑल टाइम",
+      "count": 3
+    },
+    {
+      "phrase": "टाइम लो",
+      "count": 2
+    },
+    {
+      "phrase": "लो है",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "रही है",
+      "count": 2
+    },
+    {
+      "phrase": "आधा लीटर",
+      "count": 2
+    },
+    {
+      "phrase": "ये फुकरा",
+      "count": 1
+    },
+    {
+      "phrase": "फुकरा इंसान",
+      "count": 1
+    },
+    {
+      "phrase": "इंसान की",
+      "count": 1
+    },
+    {
+      "phrase": "की फोकस",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

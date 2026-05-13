@@ -1,0 +1,148 @@
+{
+  "video_id": "oo3EvkVUEhE",
+  "duration_seconds": 45,
+  "wps": 3.93,
+  "total_words": 177,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 603
+  },
+  "hook": {
+    "type": "statement",
+    "text": "बिसलेरी ने पानी के धंधे में अंबानी को हरा दिया और ये चीज मैंने जिंदगी में कभी सोची नहीं थी कि भाई ये माफिया बन के बैठेंगे। अंबानी ने कैंपा ब्रांड के अंदर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लोग दुकानें खोल के बैठे नहीं"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "पानी",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "दुकानदार",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "अंबानी",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "बोतल",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "बिसलेरी",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हैं और",
+      "count": 3
+    },
+    {
+      "phrase": "पर बोतल",
+      "count": 3
+    },
+    {
+      "phrase": "दिया और",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "बेचते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "से ₹10",
+      "count": 2
+    },
+    {
+      "phrase": "बोतल पे",
+      "count": 2
+    },
+    {
+      "phrase": "बिसलेरी ने",
+      "count": 1
+    },
+    {
+      "phrase": "ने पानी",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "Nfxc4blQBWY",
+  "duration_seconds": 61,
+  "wps": 3.44,
+  "total_words": 210,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 878
+  },
+  "hook": {
+    "type": "statement",
+    "text": "दोस्तों दुनिया के सबसे बड़े स्लम धारावी के दिन बदलने वाले हैं धारावी को एक मॉडर्न प्लान सिटी के रूप में रीडेवलप्ड"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "कंटेंट को देखने के लिए चैनल सब्सक्राइब करना मत भूलना"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "को",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "धारावी",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "रियलिटी",
+      "count": 5
+    },
+    {
+      "word": "प्रोजेक्ट",
+      "count": 4
+    },
+    {
+      "word": "अडानी",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "बड़े",
+      "count": 2
+    },
+    {
+      "word": "रीडेवलप्ड",
+      "count": 2
+    },
+    {
+      "word": "लार्ज",
+      "count": 2
+    },
+    {
+      "word": "स्केल",
+      "count": 2
+    },
+    {
+      "word": "कम",
+      "count": 2
+    },
+    {
+      "word": "एंड",
+      "count": 2
+    },
+    {
+      "word": "डेवलप",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "धारावी को",
+      "count": 4
+    },
+    {
+      "phrase": "अडानी रियलिटी",
+      "count": 4
+    },
+    {
+      "phrase": "रियलिटी ने",
+      "count": 3
+    },
+    {
+      "phrase": "लार्ज स्केल",
+      "count": 2
+    },
+    {
+      "phrase": "स्केल प्रोजेक्ट",
+      "count": 2
+    },
+    {
+      "phrase": "को डेवलप",
+      "count": 2
+    },
+    {
+      "phrase": "से भी",
+      "count": 2
+    },
+    {
+      "phrase": "भी ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "दोस्तों दुनिया",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "Lo5hdA-F6SM",
+  "duration_seconds": 56,
+  "wps": 4.0,
+  "total_words": 224,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 773
+  },
+  "hook": {
+    "type": "question",
+    "text": "करियर पाथ को चेंज करते ही अगर मेरे किंग ऑफ पेंटाकल्स आ रहा है तो वो तो मेरे को बिज़नेस ही करना पड़ेगा तभी आएगा अगर मैं अभी जॉब के अंदर होता तो अपने करियर को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिया आपने यूनिवर्स का काम कर रहे हैं सक्सेस चाय लेट है बट आएगी जरूर पूरा पॉडकास्ट एंजॉय करने के लिए"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "ही",
+      "count": 9
+    },
+    {
+      "word": "करियर",
+      "count": 7
+    },
+    {
+      "word": "पाथ",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "मेरे",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "रहे",
+      "count": 5
+    },
+    {
+      "word": "चेंज",
+      "count": 4
+    },
+    {
+      "word": "यू",
+      "count": 4
+    },
+    {
+      "word": "बट",
+      "count": 4
+    },
+    {
+      "word": "हैव",
+      "count": 4
+    },
+    {
+      "word": "इज",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "बिजनेस",
+      "count": 3
+    },
+    {
+      "word": "ऑफ",
+      "count": 2
+    },
+    {
+      "word": "रहा",
+      "count": 2
+    },
+    {
+      "word": "मैं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करियर पाथ",
+      "count": 6
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 4
+    },
+    {
+      "phrase": "ही इज",
+      "count": 4
+    },
+    {
+      "phrase": "यू हैव",
+      "count": 3
+    },
+    {
+      "phrase": "हैव द",
+      "count": 3
+    },
+    {
+      "phrase": "को चेंज",
+      "count": 2
+    },
+    {
+      "phrase": "आ रहा",
+      "count": 2
+    },
+    {
+      "phrase": "चेंज हो",
+      "count": 2
+    },
+    {
+      "phrase": "यूनिवर्स का",
+      "count": 2
+    },
+    {
+      "phrase": "काम कर",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

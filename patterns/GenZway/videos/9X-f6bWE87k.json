@@ -1,0 +1,150 @@
+{
+  "video_id": "9X-f6bWE87k",
+  "duration_seconds": 31,
+  "wps": 5.19,
+  "total_words": 161,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 568
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये ओरियो वाले एक्चुअल में अटेंशन बेचते हैं और तुम लोग बिस्किट समझ के खरीद लेते हो। इन लोगों ने क्रैक कर लिया कि भैया हम लोग भी बेसिक बिस्किट ही बेचते हैं। या तो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ऐसे 50 बिस्किट लेटे हुए दिखेंगे। बट इकलौता ऐसा कप के अंदर दिखेगा तो बहुत हाई चांसेस है कि आप लोगों को उसके ऊपर ध्यान जाए और आप लोग परचेस भी कर"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "लोग",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "बिस्किट",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "भैया",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "ओरियो",
+      "count": 2
+    },
+    {
+      "word": "बेचते",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "लोगों",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कि भैया",
+      "count": 3
+    },
+    {
+      "phrase": "बेचते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "लोग बिस्किट",
+      "count": 2
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "भी नहीं",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 2
+    },
+    {
+      "phrase": "ये ओरियो",
+      "count": 1
+    },
+    {
+      "phrase": "ओरियो वाले",
+      "count": 1
+    },
+    {
+      "phrase": "वाले एक्चुअल",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

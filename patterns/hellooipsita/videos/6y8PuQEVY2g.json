@@ -1,0 +1,149 @@
+{
+  "video_id": "6y8PuQEVY2g",
+  "duration_seconds": 52,
+  "wps": 2.71,
+  "total_words": 141,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 604
+  },
+  "hook": {
+    "type": "statement",
+    "text": "when you feel scattered when your brain feels scattered Dr Andrew hubman talks about this Focus tool just extend your"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "you can also Focus your cognitive"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "focus",
+      "count": 13
+    },
+    {
+      "word": "your",
+      "count": 7
+    },
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "when",
+      "count": 5
+    },
+    {
+      "word": "on",
+      "count": 5
+    },
+    {
+      "word": "point",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "will",
+      "count": 4
+    },
+    {
+      "word": "scattered",
+      "count": 3
+    },
+    {
+      "word": "is",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "vision",
+      "count": 3
+    },
+    {
+      "word": "feel",
+      "count": 2
+    },
+    {
+      "word": "about",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "arm",
+      "count": 2
+    },
+    {
+      "word": "could",
+      "count": 2
+    },
+    {
+      "word": "be",
+      "count": 2
+    },
+    {
+      "word": "also",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "focus on",
+      "count": 4
+    },
+    {
+      "phrase": "when you",
+      "count": 2
+    },
+    {
+      "phrase": "scattered when",
+      "count": 2
+    },
+    {
+      "phrase": "your arm",
+      "count": 2
+    },
+    {
+      "phrase": "could be",
+      "count": 2
+    },
+    {
+      "phrase": "be a",
+      "count": 2
+    },
+    {
+      "phrase": "on that",
+      "count": 2
+    },
+    {
+      "phrase": "that point",
+      "count": 2
+    },
+    {
+      "phrase": "to focus",
+      "count": 2
+    },
+    {
+      "phrase": "your vision",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

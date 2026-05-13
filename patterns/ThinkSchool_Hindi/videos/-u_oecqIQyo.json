@@ -1,0 +1,149 @@
+{
+  "video_id": "-u_oecqIQyo",
+  "duration_seconds": 110,
+  "wps": 3.15,
+  "total_words": 346,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 1411
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "एटमबर्ग टेक्नोलॉजीस प्राइवेट लिमिटेड हैस ब्याड दिस अवार्ड। एटमबर्ग टेक्नोलॉजीस हस जॉइन हैंड्स विथ बीसीसीआई एस रेज 86 मिलियन डॉलर्स इन इट्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बीएएलडीसी टेक्नोलॉजी प्रपोज करते हैं तो आप अपने आप को इस इंडस्ट्री में डिफरशिएट कैसे कर रहे हो?"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "जो",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 5
+    },
+    {
+      "word": "एटमबर्ग",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "हूं",
+      "count": 4
+    },
+    {
+      "word": "करना",
+      "count": 4
+    },
+    {
+      "word": "कैटेगरी",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "मैं",
+      "count": 3
+    },
+    {
+      "word": "जब",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एटमबर्ग टेक्नोलॉजीस",
+      "count": 2
+    },
+    {
+      "phrase": "कैटेगरी में",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनीज़ के",
+      "count": 2
+    },
+    {
+      "phrase": "मार्केट में",
+      "count": 2
+    },
+    {
+      "phrase": "में अपनी",
+      "count": 2
+    },
+    {
+      "phrase": "अपनी जगह",
+      "count": 2
+    },
+    {
+      "phrase": "हैं तो",
+      "count": 2
+    },
+    {
+      "phrase": "बड़े से",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "देना पड़ेगा",
+      "count": 2
+    }
+  ],
+  "segment_count": 15
+}

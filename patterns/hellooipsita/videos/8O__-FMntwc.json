@@ -1,0 +1,148 @@
+{
+  "video_id": "8O__-FMntwc",
+  "duration_seconds": 43,
+  "wps": 2.12,
+  "total_words": 91,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 355
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "वो कहता है ना कि नेवर टेक योर फाइट्स टू बेस्ट। सही कहते हैं। सी फाइट्स आर ओके बट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "अगर तुम साथ हो"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "फाइट्स",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "आर",
+      "count": 2
+    },
+    {
+      "word": "अंदर",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "फिक्स",
+      "count": 2
+    },
+    {
+      "word": "दोज़",
+      "count": 2
+    },
+    {
+      "word": "पीपल",
+      "count": 2
+    },
+    {
+      "word": "हु",
+      "count": 2
+    },
+    {
+      "word": "इमोशनल",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "वो",
+      "count": 1
+    },
+    {
+      "word": "कहता",
+      "count": 1
+    },
+    {
+      "word": "है",
+      "count": 1
+    },
+    {
+      "word": "कि",
+      "count": 1
+    },
+    {
+      "word": "नेवर",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फिक्स इट",
+      "count": 2
+    },
+    {
+      "phrase": "दोज़ पीपल",
+      "count": 2
+    },
+    {
+      "phrase": "पीपल हु",
+      "count": 2
+    },
+    {
+      "phrase": "वो कहता",
+      "count": 1
+    },
+    {
+      "phrase": "कहता है",
+      "count": 1
+    },
+    {
+      "phrase": "है ना",
+      "count": 1
+    },
+    {
+      "phrase": "ना कि",
+      "count": 1
+    },
+    {
+      "phrase": "कि नेवर",
+      "count": 1
+    },
+    {
+      "phrase": "नेवर टेक",
+      "count": 1
+    },
+    {
+      "phrase": "टेक योर",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "mOSZqegFgSk",
+  "duration_seconds": 42,
+  "wps": 3.88,
+  "total_words": 163,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 581
+  },
+  "hook": {
+    "type": "statement",
+    "text": "हर बिजनेस का एक ही रूल होता है। जितना बड़ा एंपायर उतनी बड़ी फैमिली की खींचातानी। और जब गेम पावर और पैसे का होता है ना तो दुश्मन बाहर से नहीं अपने"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "और माइंड ब्लोइंग है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 9
+    },
+    {
+      "word": "का",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "गया",
+      "count": 4
+    },
+    {
+      "word": "होता",
+      "count": 3
+    },
+    {
+      "word": "फैमिली",
+      "count": 3
+    },
+    {
+      "word": "गेम",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "हर",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "एंपायर",
+      "count": 2
+    },
+    {
+      "word": "बड़ी",
+      "count": 2
+    },
+    {
+      "word": "जब",
+      "count": 2
+    },
+    {
+      "word": "पावर",
+      "count": 2
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "अपने",
+      "count": 2
+    },
+    {
+      "word": "बंदिया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता है",
+      "count": 3
+    },
+    {
+      "phrase": "और जब",
+      "count": 2
+    },
+    {
+      "phrase": "पावर और",
+      "count": 2
+    },
+    {
+      "phrase": "है ना",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "हो गया",
+      "count": 2
+    },
+    {
+      "phrase": "गया और",
+      "count": 2
+    },
+    {
+      "phrase": "हर बिजनेस",
+      "count": 1
+    },
+    {
+      "phrase": "बिजनेस का",
+      "count": 1
+    },
+    {
+      "phrase": "का एक",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

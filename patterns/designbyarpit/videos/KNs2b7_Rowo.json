@@ -1,0 +1,148 @@
+{
+  "video_id": "KNs2b7_Rowo",
+  "duration_seconds": 52,
+  "wps": 2.87,
+  "total_words": 149,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 721
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "These are India's most popular brands."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "They copied every last detail. Subscribe for more amazing design content."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 8
+    },
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "they",
+      "count": 3
+    },
+    {
+      "word": "one",
+      "count": 3
+    },
+    {
+      "word": "even",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "india's",
+      "count": 2
+    },
+    {
+      "word": "brands",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "fruit",
+      "count": 2
+    },
+    {
+      "word": "crores",
+      "count": 2
+    },
+    {
+      "word": "copied",
+      "count": 2
+    },
+    {
+      "word": "wrangler",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "indian",
+      "count": 2
+    },
+    {
+      "word": "these",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "and even",
+      "count": 2
+    },
+    {
+      "phrase": "for indian",
+      "count": 2
+    },
+    {
+      "phrase": "these are",
+      "count": 1
+    },
+    {
+      "phrase": "are india's",
+      "count": 1
+    },
+    {
+      "phrase": "india's most",
+      "count": 1
+    },
+    {
+      "phrase": "most popular",
+      "count": 1
+    },
+    {
+      "phrase": "popular brands",
+      "count": 1
+    },
+    {
+      "phrase": "brands but",
+      "count": 1
+    },
+    {
+      "phrase": "but do",
+      "count": 1
+    },
+    {
+      "phrase": "do you",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

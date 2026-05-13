@@ -1,0 +1,148 @@
+{
+  "video_id": "eTkIFVeWHcs",
+  "duration_seconds": 40,
+  "wps": 3.27,
+  "total_words": 131,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 525
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ओलंपिक मेडलिस्ट आखिर अपने मेडल्स को बाइट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आइकॉनिक फोटोस का ज्यादा प्राइस मिलता है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "बाइट",
+      "count": 6
+    },
+    {
+      "word": "करने",
+      "count": 6
+    },
+    {
+      "word": "करते",
+      "count": 5
+    },
+    {
+      "word": "कॉइंस",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "गोल्ड",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "मेडल्स",
+      "count": 2
+    },
+    {
+      "word": "जाता",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "ऑथेंटिसिटी",
+      "count": 2
+    },
+    {
+      "word": "चेक",
+      "count": 2
+    },
+    {
+      "word": "उन्हें",
+      "count": 2
+    },
+    {
+      "word": "प्योर",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "करने के",
+      "count": 4
+    },
+    {
+      "phrase": "के लिए",
+      "count": 4
+    },
+    {
+      "phrase": "को बाइट",
+      "count": 3
+    },
+    {
+      "phrase": "करते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "कॉइंस को",
+      "count": 3
+    },
+    {
+      "phrase": "अपने मेडल्स",
+      "count": 2
+    },
+    {
+      "phrase": "मेडल्स को",
+      "count": 2
+    },
+    {
+      "phrase": "जाता था",
+      "count": 2
+    },
+    {
+      "phrase": "ऑथेंटिसिटी चेक",
+      "count": 2
+    },
+    {
+      "phrase": "चेक करने",
+      "count": 2
+    }
+  ],
+  "segment_count": 17
+}

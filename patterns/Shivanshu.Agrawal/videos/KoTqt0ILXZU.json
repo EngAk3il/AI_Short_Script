@@ -1,0 +1,148 @@
+{
+  "video_id": "KoTqt0ILXZU",
+  "duration_seconds": 55,
+  "wps": 2.87,
+  "total_words": 158,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 603
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "माउंट एवरेस्ट वर्ल्ड का टॉलेस्ट माउंटेन नहीं है यूएसए के हवाई आइलैंड्स में माना किया नाम का वल्केन माउंटेन है जो माउंट"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "माउंटेन है ऐसी और वीडियोस के लिए चैनल को सब्सक्राइब करिए"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "माउंटेन",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "माउंट",
+      "count": 5
+    },
+    {
+      "word": "एवरेस्ट",
+      "count": 5
+    },
+    {
+      "word": "माना",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "मीटर",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "करीब",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 3
+    },
+    {
+      "word": "टॉलेस्ट",
+      "count": 3
+    },
+    {
+      "word": "हाइट",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    },
+    {
+      "word": "वल्केन",
+      "count": 2
+    },
+    {
+      "word": "जो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "माउंट एवरेस्ट",
+      "count": 5
+    },
+    {
+      "phrase": "माना किया",
+      "count": 4
+    },
+    {
+      "phrase": "वर्ल्ड का",
+      "count": 3
+    },
+    {
+      "phrase": "का टॉलेस्ट",
+      "count": 3
+    },
+    {
+      "phrase": "टॉलेस्ट माउंटेन",
+      "count": 3
+    },
+    {
+      "phrase": "माउंटेन है",
+      "count": 3
+    },
+    {
+      "phrase": "की हाइट",
+      "count": 3
+    },
+    {
+      "phrase": "एवरेस्ट वर्ल्ड",
+      "count": 2
+    },
+    {
+      "phrase": "है जो",
+      "count": 2
+    },
+    {
+      "phrase": "एवरेस्ट से",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

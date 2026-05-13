@@ -1,0 +1,148 @@
+{
+  "video_id": "pL4OoWArXe4",
+  "duration_seconds": 57,
+  "wps": 3.04,
+  "total_words": 173,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 662
+  },
+  "hook": {
+    "type": "statement",
+    "text": "माउंट एवरेस्ट चढ़ा बिना पैर के। एक लड़की"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "में जीती जाती है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "मेरा",
+      "count": 5
+    },
+    {
+      "word": "एवरेस्ट",
+      "count": 4
+    },
+    {
+      "word": "पैर",
+      "count": 4
+    },
+    {
+      "word": "संगीत",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "माउंट",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "चुका",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "बन",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "अरुणिमा",
+      "count": 2
+    },
+    {
+      "word": "कुछ",
+      "count": 2
+    },
+    {
+      "word": "ट्रेन",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "माउंट एवरेस्ट",
+      "count": 3
+    },
+    {
+      "phrase": "चुका था",
+      "count": 3
+    },
+    {
+      "phrase": "बन चुका",
+      "count": 2
+    },
+    {
+      "phrase": "एवरेस्ट चढ़ा",
+      "count": 1
+    },
+    {
+      "phrase": "चढ़ा बिना",
+      "count": 1
+    },
+    {
+      "phrase": "बिना पैर",
+      "count": 1
+    },
+    {
+      "phrase": "पैर के",
+      "count": 1
+    },
+    {
+      "phrase": "के एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक लड़की",
+      "count": 1
+    },
+    {
+      "phrase": "लड़की पद्मश्री",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

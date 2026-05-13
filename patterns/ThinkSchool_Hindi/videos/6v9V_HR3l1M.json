@@ -1,0 +1,148 @@
+{
+  "video_id": "6v9V_HR3l1M",
+  "duration_seconds": 53,
+  "wps": 3.34,
+  "total_words": 177,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 622
+  },
+  "hook": {
+    "type": "question",
+    "text": "ड्रैग अलोंग टैग अलोंग क्या होता है? मेरा"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आई गेट अ प्रोपोर्शननेट टू एग्जिट।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "20%",
+      "count": 8
+    },
+    {
+      "word": "टू",
+      "count": 7
+    },
+    {
+      "word": "अलोंग",
+      "count": 4
+    },
+    {
+      "word": "आई",
+      "count": 4
+    },
+    {
+      "word": "टैग",
+      "count": 3
+    },
+    {
+      "word": "स्टेक",
+      "count": 3
+    },
+    {
+      "word": "कंपनी",
+      "count": 3
+    },
+    {
+      "word": "एग्जिट",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "इफ",
+      "count": 3
+    },
+    {
+      "word": "सेल",
+      "count": 3
+    },
+    {
+      "word": "देयर",
+      "count": 3
+    },
+    {
+      "word": "शेयरहोल्डर",
+      "count": 3
+    },
+    {
+      "word": "ड्रैग",
+      "count": 2
+    },
+    {
+      "word": "मेरा",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "नहीं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "टैग अलोंग",
+      "count": 3
+    },
+    {
+      "phrase": "20% शेयरहोल्डर",
+      "count": 3
+    },
+    {
+      "phrase": "मेरा 20%",
+      "count": 2
+    },
+    {
+      "phrase": "है कंपनी",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनी में",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं मिला",
+      "count": 2
+    },
+    {
+      "phrase": "कोई इन्वेस्टर",
+      "count": 2
+    },
+    {
+      "phrase": "टू सेल",
+      "count": 2
+    },
+    {
+      "phrase": "देयर स्टेक",
+      "count": 2
+    },
+    {
+      "phrase": "ड्रैग अलोंग",
+      "count": 1
+    }
+  ],
+  "segment_count": 22
+}

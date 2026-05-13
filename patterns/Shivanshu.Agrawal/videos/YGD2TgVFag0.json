@@ -1,0 +1,148 @@
+{
+  "video_id": "YGD2TgVFag0",
+  "duration_seconds": 95,
+  "wps": 3.16,
+  "total_words": 300,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1335
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "सिक्किम की इस अचीवमेंट ने पूरी दुनिया को सरप्राइज कर दिया। सिक्किम के लिए उनका नेचर ही उनकी आइडेंटिटी उनका सब कुछ है।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "पॉलिसी गोल्ड अवार्ड मिला जिसे ऑस्कर ऑफ बेस्ट पॉलिसीज भी कहा जाता"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 13
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "को",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "ऑर्गेनिक",
+      "count": 6
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "सिक्किम",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 4
+    },
+    {
+      "word": "ही",
+      "count": 4
+    },
+    {
+      "word": "थी",
+      "count": 4
+    },
+    {
+      "word": "स्टेट",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "किया",
+      "count": 4
+    },
+    {
+      "word": "कारण",
+      "count": 4
+    },
+    {
+      "word": "पूरी",
+      "count": 3
+    },
+    {
+      "word": "दुनिया",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "दिया",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "रही",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "पूरी दुनिया",
+      "count": 3
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 3
+    },
+    {
+      "phrase": "रही थी",
+      "count": 3
+    },
+    {
+      "phrase": "के कारण",
+      "count": 3
+    },
+    {
+      "phrase": "केमिकल फर्टिलाइज़र्स",
+      "count": 2
+    },
+    {
+      "phrase": "हो रही",
+      "count": 2
+    },
+    {
+      "phrase": "बंबल बीस",
+      "count": 2
+    },
+    {
+      "phrase": "स्टेट की",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    }
+  ],
+  "segment_count": 12
+}

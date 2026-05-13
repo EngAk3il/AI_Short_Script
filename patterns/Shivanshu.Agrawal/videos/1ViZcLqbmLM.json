@@ -1,0 +1,148 @@
+{
+  "video_id": "1ViZcLqbmLM",
+  "duration_seconds": 52,
+  "wps": 3.37,
+  "total_words": 175,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 772
+  },
+  "hook": {
+    "type": "statement",
+    "text": "कैसे एक रोड साइड ठेला लगाने वाले ने बनाया करोड़ों कमाने वाला रामेश्वरम कैफे। राघव बेंगलुरु में एक फूड स्टॉल चलाते थे।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लगाए। सिर्फ साउथ इंडियन फूड ऑफर किया ताकि कोई और क्वज़न इनकी साउथ इंडियन ब्रांड आइडेंटिटी को डाइल्यूट ना करें। और कैफे का नाम भी डॉ. एपीजे अब्दुल कलाम के"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "कैफे",
+      "count": 4
+    },
+    {
+      "word": "थे",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "साउथ",
+      "count": 4
+    },
+    {
+      "word": "इंडियन",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "फूड",
+      "count": 3
+    },
+    {
+      "word": "इन्होंने",
+      "count": 3
+    },
+    {
+      "word": "करोड़ों",
+      "count": 2
+    },
+    {
+      "word": "रामेश्वरम",
+      "count": 2
+    },
+    {
+      "word": "राघव",
+      "count": 2
+    },
+    {
+      "word": "लेकिन",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "थी",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "करते",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "साउथ इंडियन",
+      "count": 4
+    },
+    {
+      "phrase": "रामेश्वरम कैफे",
+      "count": 2
+    },
+    {
+      "phrase": "इंडियन फूड",
+      "count": 2
+    },
+    {
+      "phrase": "करते थे",
+      "count": 2
+    },
+    {
+      "phrase": "चटनी और",
+      "count": 2
+    },
+    {
+      "phrase": "और बैटर",
+      "count": 2
+    },
+    {
+      "phrase": "इंडियन ब्रांड",
+      "count": 2
+    },
+    {
+      "phrase": "ब्रांड आइडेंटिटी",
+      "count": 2
+    },
+    {
+      "phrase": "कैसे एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक रोड",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

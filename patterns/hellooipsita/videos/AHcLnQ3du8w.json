@@ -1,0 +1,148 @@
+{
+  "video_id": "AHcLnQ3du8w",
+  "duration_seconds": 39,
+  "wps": 2.26,
+  "total_words": 88,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 388
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "the biggest problem factor in our relationships are fights we don't know what to do when we fight with somebody that we love or when we get into a fight"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "[Music]"
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "we",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 4
+    },
+    {
+      "word": "fight",
+      "count": 4
+    },
+    {
+      "word": "or",
+      "count": 4
+    },
+    {
+      "word": "fights",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "with",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "relationships",
+      "count": 2
+    },
+    {
+      "word": "don't",
+      "count": 2
+    },
+    {
+      "word": "when",
+      "count": 2
+    },
+    {
+      "word": "somebody",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "handle",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "biggest",
+      "count": 1
+    },
+    {
+      "word": "problem",
+      "count": 1
+    },
+    {
+      "word": "factor",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "when we",
+      "count": 2
+    },
+    {
+      "phrase": "fight with",
+      "count": 2
+    },
+    {
+      "phrase": "with somebody",
+      "count": 2
+    },
+    {
+      "phrase": "somebody that",
+      "count": 2
+    },
+    {
+      "phrase": "that we",
+      "count": 2
+    },
+    {
+      "phrase": "how you",
+      "count": 2
+    },
+    {
+      "phrase": "you handle",
+      "count": 2
+    },
+    {
+      "phrase": "the biggest",
+      "count": 1
+    },
+    {
+      "phrase": "biggest problem",
+      "count": 1
+    },
+    {
+      "phrase": "problem factor",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

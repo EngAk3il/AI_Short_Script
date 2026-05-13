@@ -1,0 +1,148 @@
+{
+  "video_id": "L23VXdu9VjU",
+  "duration_seconds": 37,
+  "wps": 4.49,
+  "total_words": 166,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 599
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "देयर इज़ होल ट्रू, देयर इज़ मसल ब्लेस,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "कभी-कभी वो काम नहीं करते। कभी-कभी बहुत रॉ भी काम कर जाते हैं। करेक्ट इंसनली ऑथेंटिक वेरी लेस प्रोडक्शन वेरी रिलेटेबल।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "आई",
+      "count": 4
+    },
+    {
+      "word": "एडवाइस",
+      "count": 4
+    },
+    {
+      "word": "काम",
+      "count": 4
+    },
+    {
+      "word": "देयर",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 3
+    },
+    {
+      "word": "कैमरा",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "कभी-कभी",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "वन",
+      "count": 2
+    },
+    {
+      "word": "इज",
+      "count": 2
+    },
+    {
+      "word": "डायरेक्ट",
+      "count": 2
+    },
+    {
+      "word": "टॉकिंग",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "देयर इज़",
+      "count": 3
+    },
+    {
+      "phrase": "वन इज",
+      "count": 2
+    },
+    {
+      "phrase": "इज डायरेक्ट",
+      "count": 2
+    },
+    {
+      "phrase": "डायरेक्ट टॉकिंग",
+      "count": 2
+    },
+    {
+      "phrase": "टॉकिंग टू",
+      "count": 2
+    },
+    {
+      "phrase": "टू द",
+      "count": 2
+    },
+    {
+      "phrase": "द कैमरा",
+      "count": 2
+    },
+    {
+      "phrase": "एंड आई",
+      "count": 2
+    },
+    {
+      "phrase": "लगता है",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

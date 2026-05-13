@@ -1,0 +1,148 @@
+{
+  "video_id": "S4fF0pl3hTg",
+  "duration_seconds": 103,
+  "wps": 3.28,
+  "total_words": 338,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1429
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर इंडियन एजुकेशन सिस्टम को फिक्स करना है तो फिनलैंड से सीखना पड़ेगा। 1960 तक फिनलैंड का एजुकेशन सिस्टम बेहद खराब था।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "द बेस्ट माना जाता"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "स्कूल",
+      "count": 7
+    },
+    {
+      "word": "था",
+      "count": 6
+    },
+    {
+      "word": "केवल",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "एजुकेशन",
+      "count": 5
+    },
+    {
+      "word": "सिस्टम",
+      "count": 5
+    },
+    {
+      "word": "फिनलैंड",
+      "count": 4
+    },
+    {
+      "word": "मिलता",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "टीचर्स",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "बच्चों",
+      "count": 3
+    },
+    {
+      "word": "उन्हें",
+      "count": 3
+    },
+    {
+      "word": "गरीब",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "एजुकेशन सिस्टम",
+      "count": 3
+    },
+    {
+      "phrase": "टीचर्स को",
+      "count": 3
+    },
+    {
+      "phrase": "बच्चों को",
+      "count": 2
+    },
+    {
+      "phrase": "स्कूल मिलता",
+      "count": 2
+    },
+    {
+      "phrase": "मिलता था",
+      "count": 2
+    },
+    {
+      "phrase": "था जो",
+      "count": 2
+    },
+    {
+      "phrase": "जो उन्हें",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "गरीब बच्चों",
+      "count": 2
+    },
+    {
+      "phrase": "पूरे देश",
+      "count": 2
+    }
+  ],
+  "segment_count": 13
+}

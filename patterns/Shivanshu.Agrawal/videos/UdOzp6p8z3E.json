@@ -1,0 +1,148 @@
+{
+  "video_id": "UdOzp6p8z3E",
+  "duration_seconds": 58,
+  "wps": 3.28,
+  "total_words": 190,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 672
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ऑडी के लोगों में आखिर कर रिंग्स क्यों"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "वीडियो के लिए चैनल को सब्सक्राइब"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "कर",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "कंपनी",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "थी",
+      "count": 6
+    },
+    {
+      "word": "यूनियन",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "रिंग्स",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "ऑटो",
+      "count": 4
+    },
+    {
+      "word": "बीच",
+      "count": 4
+    },
+    {
+      "word": "दिया",
+      "count": 4
+    },
+    {
+      "word": "गया",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "ऑडी",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर कंपनी",
+      "count": 4
+    },
+    {
+      "phrase": "ऑटो यूनियन",
+      "count": 4
+    },
+    {
+      "phrase": "दिया गया",
+      "count": 4
+    },
+    {
+      "phrase": "कर रिंग्स",
+      "count": 3
+    },
+    {
+      "phrase": "के बीच",
+      "count": 3
+    },
+    {
+      "phrase": "जर्मनी की",
+      "count": 2
+    },
+    {
+      "phrase": "से एक",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनी के",
+      "count": 2
+    },
+    {
+      "phrase": "बीच में",
+      "count": 2
+    },
+    {
+      "phrase": "कंपनी का",
+      "count": 2
+    }
+  ],
+  "segment_count": 22
+}

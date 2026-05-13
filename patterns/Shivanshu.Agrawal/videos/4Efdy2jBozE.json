@@ -1,0 +1,148 @@
+{
+  "video_id": "4Efdy2jBozE",
+  "duration_seconds": 74,
+  "wps": 3.19,
+  "total_words": 236,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 915
+  },
+  "hook": {
+    "type": "statement",
+    "text": "शिनचैन कार्टून कभी बच्चों के देखने के लिए बना ही नहीं था। यह कार्टून सबसे पहले 1990 में वीकली मांगा नाम की एक 18 प्लस"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "ट्रांसफॉर्म हो गया। ऐसी और वीडियोज़ के लिए मुझे फॉलो करिए।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 11
+    },
+    {
+      "word": "गया",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "शिनचैन",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "शो",
+      "count": 5
+    },
+    {
+      "word": "दिया",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 4
+    },
+    {
+      "word": "हुआ",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "लॉन्च",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "एडल्ट",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "दिया गया",
+      "count": 5
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 4
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 4
+    },
+    {
+      "phrase": "करने लगे",
+      "count": 3
+    },
+    {
+      "phrase": "गया और",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "सबसे पहले",
+      "count": 2
+    },
+    {
+      "phrase": "था और",
+      "count": 2
+    },
+    {
+      "phrase": "लॉन्च हुआ",
+      "count": 2
+    },
+    {
+      "phrase": "करता था",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

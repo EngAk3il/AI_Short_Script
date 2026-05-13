@@ -1,0 +1,1734 @@
+{
+  "name": "TubeBuddy",
+  "url": "https://www.youtube.com/@TubeBuddy/shorts",
+  "languages": [
+    "en"
+  ],
+  "last_updated": "2026-03-30T10:26:13.366212+00:00",
+  "total_discovered": 343,
+  "ingestion_stats": {
+    "total": 16,
+    "ok": 1,
+    "low_quality": 0,
+    "no_transcript": 15,
+    "no_speech": 0
+  },
+  "completion_percentage": "4.7%",
+  "videos": [
+    {
+      "video_id": "pZzsqCphP9w",
+      "title": "How to Do SEO for YouTube Shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "gBX5TxvaKDg",
+      "title": "How to Pick YouTube Video Topics People Are Searching For",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "84QI_SW7dXU",
+      "title": "Download FREE Music for YouTube (No Copyright)",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "1UrcqNx8p2I",
+      "title": "How to Upload in Full Quality From Your Phone",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "S2fuDOA5jb4",
+      "title": "How to Collab on YouTube So Your Video Shows on Both Channels",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "WjJ2x7Xi1aA",
+      "title": "Free Music for YouTube Videos (No Copyright Claims)",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "nYPEjYjPGpc",
+      "title": "How Often to Upload Shorts to Grow on YouTube",
+      "status": "OK"
+    },
+    {
+      "video_id": "L8W3XApQYkM",
+      "title": "Best Time to Post YouTube Shorts for More Views",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "RNqjITJDim0",
+      "title": "How To Use YouTube Tags To Get More Views in 2026",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "R0gnJJqNzKM",
+      "title": "YouTube Settings I Change On Every New Channel",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "hjXMit0jkPA",
+      "title": "How to Fix a Demonetized YouTube Channel",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "X3Dbaviv7mI",
+      "title": "Why Your YouTube Shorts Stopped Getting Views (Fix This)",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "Vt3WW4RDYnk",
+      "title": "How to Get 4000 Watch Hours on YouTube Fast",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "lB7xnI3LQao",
+      "title": "how to get monetized on youtube in 2026 (step by step)",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "_WGg2kioqwY",
+      "title": "How To Make A YouTube Channel (2026)",
+      "status": "OK"
+    },
+    {
+      "video_id": "zz7B27yInFA",
+      "title": "How To Grow A Channel In 2026 (Beginner Tips)",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "oqTDtgEhKtk",
+      "title": "How to Promote Your YouTube Videos in 2026",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "r9PA4zhowX4",
+      "title": "How to Start on YouTube Fast",
+      "status": "pending"
+    },
+    {
+      "video_id": "KLytxOLFEns",
+      "title": "What YouTube Sent Me for 1M Views",
+      "status": "pending"
+    },
+    {
+      "video_id": "K2io2BEItjU",
+      "title": "How Much YouTube Paid Me for 200k Views This Month",
+      "status": "pending"
+    },
+    {
+      "video_id": "eQwQLGxNJsg",
+      "title": "How to Get Monetized on YouTube FAST",
+      "status": "pending"
+    },
+    {
+      "video_id": "06nUSgCk2Z0",
+      "title": "How to Choose a Great YouTube Channel Name",
+      "status": "pending"
+    },
+    {
+      "video_id": "GeS1EgIAF7M",
+      "title": "How MrBeast invests in himself",
+      "status": "pending"
+    },
+    {
+      "video_id": "uwCX6Zom9Kk",
+      "title": "6 Million Shorts Views = How Many Subs?!",
+      "status": "pending"
+    },
+    {
+      "video_id": "IRvnde6c83k",
+      "title": "YouTube Paid Me THIS for 6 Million Shorts Views",
+      "status": "pending"
+    },
+    {
+      "video_id": "aHhd7td7BpM",
+      "title": "3 YouTube KILLERS Every Creator Should Avoid",
+      "status": "pending"
+    },
+    {
+      "video_id": "rDtJPsNJaqI",
+      "title": "YouTube Growth Test: What Level Are You?",
+      "status": "pending"
+    },
+    {
+      "video_id": "AXttnpibEn4",
+      "title": "MrBeast's Most Controversial Project",
+      "status": "pending"
+    },
+    {
+      "video_id": "vOZHY1vRzhM",
+      "title": "5 Things You MUST Do After Starting a YouTube Channel",
+      "status": "pending"
+    },
+    {
+      "video_id": "hafYUOpWrjY",
+      "title": "I Gained 1,000 Subs Using Just This Link",
+      "status": "pending"
+    },
+    {
+      "video_id": "i4qa5hxJvO4",
+      "title": "MrBeast’s Theme Park, What You NEED Know",
+      "status": "pending"
+    },
+    {
+      "video_id": "9GYyWhc4NuQ",
+      "title": "How Much Do Minecraft Youtubers Really Make? #minecraft #minecraftshorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "kxpLmRZrmKk",
+      "title": "how to make your first YouTube Short (fast & easy)",
+      "status": "pending"
+    },
+    {
+      "video_id": "frBj_zDSiGU",
+      "title": "Find Out Who Subscribed to Your Channel",
+      "status": "pending"
+    },
+    {
+      "video_id": "Wpp_aVsi-zU",
+      "title": "How to Upload Videos on YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "fFkGFtb4Z24",
+      "title": "Turn Off YouTube Watch History",
+      "status": "pending"
+    },
+    {
+      "video_id": "kPM2zeokPj0",
+      "title": "What YouTube Pays for Shorts with 1,000 Views?",
+      "status": "pending"
+    },
+    {
+      "video_id": "IOatZQjVMsQ",
+      "title": "best time to post a youtube video (data)",
+      "status": "pending"
+    },
+    {
+      "video_id": "eYvsfq5ecew",
+      "title": "This Advice From MrBeast Will Shift Your Entire Mindset",
+      "status": "pending"
+    },
+    {
+      "video_id": "7S_0msjurtE",
+      "title": "NEW YouTube Tool Floods Videos With Views Automatically!",
+      "status": "pending"
+    },
+    {
+      "video_id": "NxIB4JjncDw",
+      "title": "IShowSpeed’s Viral Car Jump Stunt #shorts #ishowspeed #stunt #speed",
+      "status": "pending"
+    },
+    {
+      "video_id": "FEkjExjyR0A",
+      "title": "MrBeast Is Calling Out the Chocolate Industry",
+      "status": "pending"
+    },
+    {
+      "video_id": "9X686mIFETU",
+      "title": "iShowSpeed's HISTORIC Space Stream Mission! (Elon Musk)",
+      "status": "pending"
+    },
+    {
+      "video_id": "c4cTeizRQ5A",
+      "title": "Top YouTubers do this before posting their videos",
+      "status": "pending"
+    },
+    {
+      "video_id": "K2f8hMB3NL4",
+      "title": "Editing Mistake YouTubers Make...",
+      "status": "pending"
+    },
+    {
+      "video_id": "E7XSGpPfIQE",
+      "title": "How I Actually Succeed at Both Short & Long Form (My Strategy)",
+      "status": "pending"
+    },
+    {
+      "video_id": "BZeUwx-Jz3M",
+      "title": "3 Tricks YouTubers Uses to Keep You Watching",
+      "status": "pending"
+    },
+    {
+      "video_id": "5VDYEIXwxXA",
+      "title": "How to Qualify for the YouTube Partnership Program (2025)",
+      "status": "pending"
+    },
+    {
+      "video_id": "wz1GQmxgs7Q",
+      "title": "The #1 Mistake New YouTubers Make When Launching a Channel",
+      "status": "pending"
+    },
+    {
+      "video_id": "2QxgBV9SNOc",
+      "title": "How to Upload HIGH QUALITY Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "-SYjQanUwBY",
+      "title": "Why Shorts Views Stop Suddenly",
+      "status": "pending"
+    },
+    {
+      "video_id": "s2nigbx1xTo",
+      "title": "3 strange things that YouTube does that are NOT NORMAL",
+      "status": "pending"
+    },
+    {
+      "video_id": "XLQCmBChMT4",
+      "title": "YouTuber Got Elected in Europe",
+      "status": "pending"
+    },
+    {
+      "video_id": "2IICWRQ2KFE",
+      "title": "Trying Ryan Trahan’s Joyride Candy",
+      "status": "pending"
+    },
+    {
+      "video_id": "qxsCuPaVWGI",
+      "title": "How Much Ryan Trahan Makes From Joyride",
+      "status": "pending"
+    },
+    {
+      "video_id": "0W4f37yiGIs",
+      "title": "The Nikocado Avocado Story",
+      "status": "pending"
+    },
+    {
+      "video_id": "pnf3rZ3yUz8",
+      "title": "Lunchly vs Lunchables",
+      "status": "pending"
+    },
+    {
+      "video_id": "Q6tDfHdy6Ys",
+      "title": "The Secret to Babish's YouTube Success",
+      "status": "pending"
+    },
+    {
+      "video_id": "wYyHxLtz_3M",
+      "title": "Mrwhosetheboss’s Secret",
+      "status": "pending"
+    },
+    {
+      "video_id": "mhhcBLt0F44",
+      "title": "Famous YouTuber’s Smart Plan",
+      "status": "pending"
+    },
+    {
+      "video_id": "2krGoF9UUmw",
+      "title": "Richest 6-Year Old",
+      "status": "pending"
+    },
+    {
+      "video_id": "t6txWK3mvJI",
+      "title": "NASA engineer dominates YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "6tmroWf5xmE",
+      "title": "YouTube Employee's Rule for Viral Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "8a3S7GJL-28",
+      "title": "The Crazy Bet That Made Airrack Famous",
+      "status": "pending"
+    },
+    {
+      "video_id": "Hjr9vonlYSs",
+      "title": "Ryan Trahan’s Genius Trick You Didn’t See",
+      "status": "pending"
+    },
+    {
+      "video_id": "tZQM8HqkbNA",
+      "title": "4 Steps Cleo Abram Uses to Break the Internet",
+      "status": "pending"
+    },
+    {
+      "video_id": "he_5ln9YdNU",
+      "title": "Dude Perfect Almost Ended",
+      "status": "pending"
+    },
+    {
+      "video_id": "WlRt8Ov4kBk",
+      "title": "How to Get Over 100% Retention on YouTube Shorts (Jenny Hoyos)",
+      "status": "pending"
+    },
+    {
+      "video_id": "H5Ct5ObMxAw",
+      "title": "MrBeast Reveals His Key Strategy",
+      "status": "pending"
+    },
+    {
+      "video_id": "_XAPu8KxpNM",
+      "title": "Here’s How MrBeast Keeps Getting Better",
+      "status": "pending"
+    },
+    {
+      "video_id": "7JLvaHUhVD4",
+      "title": "🔥 5 YouTube Video Ideas for FITNESS Channels to GROW FASTER (and get views 😏)",
+      "status": "pending"
+    },
+    {
+      "video_id": "5oQFyltH4OQ",
+      "title": "What's a J Cut?",
+      "status": "pending"
+    },
+    {
+      "video_id": "g4cmbGtTf6w",
+      "title": "They Invented YouTube To Solve This Problem…",
+      "status": "pending"
+    },
+    {
+      "video_id": "UoF6-n6f19A",
+      "title": "How To DOUBLE Your Shorts Views",
+      "status": "pending"
+    },
+    {
+      "video_id": "OEbGKgGJk0Q",
+      "title": "🔥 5 Ryan Trahan-Inspired YouTube Video Ideas for Beginners",
+      "status": "pending"
+    },
+    {
+      "video_id": "ULdZKBDQ-mY",
+      "title": "Strange YouTube Videos Pt.1 (MrBeast Edition)",
+      "status": "pending"
+    },
+    {
+      "video_id": "zBc5m4SL5Yc",
+      "title": "4 UNIQUE Websites to Get MORE Subscribers!",
+      "status": "pending"
+    },
+    {
+      "video_id": "n0SWR3cL9Gg",
+      "title": "6 Random Facts You DID'T KNOW about TikTok",
+      "status": "pending"
+    },
+    {
+      "video_id": "7b817BINyEA",
+      "title": "MrBeast's Problem With Big YouTubers",
+      "status": "pending"
+    },
+    {
+      "video_id": "GdNfKf6T2r4",
+      "title": "How To QUICKLY Get YouTube Video Ideas  🧠 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "8bK52ejS-60",
+      "title": "6 Shocking Facts about Instagram",
+      "status": "pending"
+    },
+    {
+      "video_id": "dJCM3wxOnEM",
+      "title": "Why only have 1 video idea when you can have 18?",
+      "status": "pending"
+    },
+    {
+      "video_id": "BlWTyS5hQF0",
+      "title": "The Algorithm Explained",
+      "status": "pending"
+    },
+    {
+      "video_id": "xFUQi4O47Is",
+      "title": "You Will NEVER Run Out of Content Ideas",
+      "status": "pending"
+    },
+    {
+      "video_id": "G6-Cyd1jFs0",
+      "title": "MRBEAST BUILT THIS APP",
+      "status": "pending"
+    },
+    {
+      "video_id": "-Xxh4-xofuw",
+      "title": "Creators Are Secretly Hooking You!",
+      "status": "pending"
+    },
+    {
+      "video_id": "3byi-VlHi_4",
+      "title": "Your favorite creators are QUITTING!",
+      "status": "pending"
+    },
+    {
+      "video_id": "PnCh5nT0Anw",
+      "title": "Grow Your Business FASTER with AI",
+      "status": "pending"
+    },
+    {
+      "video_id": "CMFSsIgtIaM",
+      "title": "6 Random Facts You Didn't Know About YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "pe_uPZ7eaF0",
+      "title": "You Won't Believe Why This Mom Went Viral!!",
+      "status": "pending"
+    },
+    {
+      "video_id": "XbpkjT3tZ0w",
+      "title": "Edit Shorts like Ali Abdaal ⚡",
+      "status": "pending"
+    },
+    {
+      "video_id": "n_RprhAtFGY",
+      "title": "Why Do Shorts Views Suddenly Drop?",
+      "status": "pending"
+    },
+    {
+      "video_id": "Ox7_nsSqySs",
+      "title": "You need all 3 to achieve success!",
+      "status": "pending"
+    },
+    {
+      "video_id": "wHvyiE2d88c",
+      "title": "3 MIND-BLOWING AI Tools that are better than ChatGPT",
+      "status": "pending"
+    },
+    {
+      "video_id": "Qw3XR0097vg",
+      "title": "Stop pretending to be Alex Hormozi!",
+      "status": "pending"
+    },
+    {
+      "video_id": "lJGgsUPh4zE",
+      "title": "how the Super Bowl SAVED YouTube from dying",
+      "status": "pending"
+    },
+    {
+      "video_id": "CcCDPlhQi7c",
+      "title": "still no youtube channel in 2024? 🤦🏾‍♂️ move it!",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZXexoX9TVi0",
+      "title": "I Found The ULTIMATE Consistency Hack!",
+      "status": "pending"
+    },
+    {
+      "video_id": "FfvymjnNmaU",
+      "title": "Do THIS to go Viral! 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "76Dvm7Wba00",
+      "title": "Big Ideas = Massive Success",
+      "status": "pending"
+    },
+    {
+      "video_id": "yxRbMxyTQ3k",
+      "title": "5 Things You Should Know Before Starting a YouTube Channel",
+      "status": "pending"
+    },
+    {
+      "video_id": "fsZeGZaDfgI",
+      "title": "How To Create Faceless Videos That BLOW UP!",
+      "status": "pending"
+    },
+    {
+      "video_id": "uVkNQzvfpYA",
+      "title": "I Found The FIRST Videos on YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "hOaZMFMsDfo",
+      "title": "Get THOUSANDS Of Views Right Now!",
+      "status": "pending"
+    },
+    {
+      "video_id": "8ylJOLqbZBY",
+      "title": "3 Camera Angles Every Filmmaker Must Know",
+      "status": "pending"
+    },
+    {
+      "video_id": "1554WTn-rGU",
+      "title": "This $35 Smartphone Tripod is a GAME CHANGER",
+      "status": "pending"
+    },
+    {
+      "video_id": "dxkVtdwf5PI",
+      "title": "THIS Is How You Achieve Success!",
+      "status": "pending"
+    },
+    {
+      "video_id": "GvuI3xDSWxc",
+      "title": "Get Unlimited VIRAL ideas Using This ChatGPT Prompt 💡",
+      "status": "pending"
+    },
+    {
+      "video_id": "k-SmT0-OEqU",
+      "title": "Go VIRAL Using These FREE hooks! 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "Vx39G9ZXVrE",
+      "title": "YouTuber's DON'T need this",
+      "status": "pending"
+    },
+    {
+      "video_id": "ueQ04b36c1c",
+      "title": "How I Became a Successful YouTuber Without a Defined Niche: Lessons from Ali Abdaal",
+      "status": "pending"
+    },
+    {
+      "video_id": "045nUOccPDU",
+      "title": "Stop Overthinking, Start Posting: MrBeast Advice",
+      "status": "pending"
+    },
+    {
+      "video_id": "6A0IlXt7nnk",
+      "title": "How To Plan viral YouTube Videos",
+      "status": "pending"
+    },
+    {
+      "video_id": "E1PEhW_XyPw",
+      "title": "How To Make Amazing YouTube Thumbnails",
+      "status": "pending"
+    },
+    {
+      "video_id": "HUrGuBWoEr8",
+      "title": "15 Most Profitable Niches on YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "SxpyFAHYxqY",
+      "title": "Do THIS Before You Post on YouTube!",
+      "status": "pending"
+    },
+    {
+      "video_id": "3aAA2auRuUk",
+      "title": "Times YouTubers Almost Died",
+      "status": "pending"
+    },
+    {
+      "video_id": "TfkJNd9HxbE",
+      "title": "Goldenbalance",
+      "status": "pending"
+    },
+    {
+      "video_id": "Vez4NKFoW_U",
+      "title": "The Best Camera for YOUTUBE!",
+      "status": "pending"
+    },
+    {
+      "video_id": "59D6GB8232c",
+      "title": "How To Find WINNING Content Ideas For YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "3rMKfGPcUKo",
+      "title": "How to post like Gary Vee 😳",
+      "status": "pending"
+    },
+    {
+      "video_id": "NbXEdNVILRw",
+      "title": "ChatGPT YouTube Title Prompts",
+      "status": "pending"
+    },
+    {
+      "video_id": "jzYt5D2HsS8",
+      "title": "FASTEST 4000 Watch Time Hours Using AI 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "0SNLOl-kND0",
+      "title": "How to get Monetized REALLY Fast",
+      "status": "pending"
+    },
+    {
+      "video_id": "Pmtp4IB8Tlk",
+      "title": "5 Ways to Make Videos Sound PRO",
+      "status": "pending"
+    },
+    {
+      "video_id": "o4-jKpU3Tqo",
+      "title": "How To Film CRISPY iPhone Video",
+      "status": "pending"
+    },
+    {
+      "video_id": "Dt8fXvOjjOY",
+      "title": "How To Pick a YouTube Niche",
+      "status": "pending"
+    },
+    {
+      "video_id": "2dDCqV_3lNg",
+      "title": "How to turn 1 video in 5 pieces of content!",
+      "status": "pending"
+    },
+    {
+      "video_id": "QghEegGesFE",
+      "title": "Missing YouTubers Who Were Never Found",
+      "status": "pending"
+    },
+    {
+      "video_id": "ENqmBXmrcgg",
+      "title": "BEST $9 Microphone for YouTubers",
+      "status": "pending"
+    },
+    {
+      "video_id": "wDjeE0BtVmc",
+      "title": "MrBeast is suffering from success",
+      "status": "pending"
+    },
+    {
+      "video_id": "qz65yX-UUkA",
+      "title": "Deep Fakes Are Taking Over YouTube 🧐",
+      "status": "pending"
+    },
+    {
+      "video_id": "ukAU9m2ymFs",
+      "title": "40% OFF TUBEBUDDY",
+      "status": "pending"
+    },
+    {
+      "video_id": "eSejGZE2bCM",
+      "title": "Richest YouTubers vs Wealthiest People in History",
+      "status": "pending"
+    },
+    {
+      "video_id": "aJLKY9cDZGw",
+      "title": "How To Make People Watch Your Videos",
+      "status": "pending"
+    },
+    {
+      "video_id": "C8K_2uRcg1c",
+      "title": "How To Promote Your Videos To Get More Views",
+      "status": "pending"
+    },
+    {
+      "video_id": "hYDzNIzHR6c",
+      "title": "How To Improve Audience Retention",
+      "status": "pending"
+    },
+    {
+      "video_id": "YAAJ2X6BbpU",
+      "title": "How To Get Monetized on YouTube 💰",
+      "status": "pending"
+    },
+    {
+      "video_id": "ObKIWZLwFrs",
+      "title": "YouTube Shorts Niches That GET MILLIONS of Views FAST!",
+      "status": "pending"
+    },
+    {
+      "video_id": "5owpmvJAluA",
+      "title": "Make The YouTube Algorithm Love You 💘",
+      "status": "pending"
+    },
+    {
+      "video_id": "B_cKBqhi6lc",
+      "title": "MrBeast Says: YouTube Face is Dead",
+      "status": "pending"
+    },
+    {
+      "video_id": "7KaCSBu-nk0",
+      "title": "How YouTube Analytics Works",
+      "status": "pending"
+    },
+    {
+      "video_id": "JzSifKPg_K8",
+      "title": "How Much YouTube Shorts Paid Us For 3M Views 👀",
+      "status": "pending"
+    },
+    {
+      "video_id": "GTkAN0K4oic",
+      "title": "Post HD Quality YouTube Shorts from Phone!",
+      "status": "pending"
+    },
+    {
+      "video_id": "A9MHVkDrKo4",
+      "title": "Equipment Checklist for Starting Your Channel 🎙",
+      "status": "pending"
+    },
+    {
+      "video_id": "u2aS9Zo4P_g",
+      "title": "Stop Posting Daily",
+      "status": "pending"
+    },
+    {
+      "video_id": "lSow_6QT4qI",
+      "title": "How MrBeast Hooks You 😳",
+      "status": "pending"
+    },
+    {
+      "video_id": "SyjJh0FilLw",
+      "title": "Here’s How I Cracked the Shorts Algorithm 🤯",
+      "status": "pending"
+    },
+    {
+      "video_id": "BphApwefLyk",
+      "title": "How To Grow Your YouTube Channel",
+      "status": "pending"
+    },
+    {
+      "video_id": "QI2CDSf04-g",
+      "title": "Do THIS for YouTube Growth!",
+      "status": "pending"
+    },
+    {
+      "video_id": "4kuJz6A8VFA",
+      "title": "Weird YouTube SEO Cheat 👀",
+      "status": "pending"
+    },
+    {
+      "video_id": "CJJ_uZZpbT0",
+      "title": "How I Got 17M views in 30 Days",
+      "status": "pending"
+    },
+    {
+      "video_id": "wVXW-5uL4VU",
+      "title": "3 YouTube Tips for Your FIRST 1000 Subscribers!",
+      "status": "pending"
+    },
+    {
+      "video_id": "v8vS7LTLphE",
+      "title": "Stop Trying To Go Viral",
+      "status": "pending"
+    },
+    {
+      "video_id": "NU5BBsbTOwA",
+      "title": "MrBeast Says Thumbnails Are Dead ☠️",
+      "status": "pending"
+    },
+    {
+      "video_id": "ojX_XkC3GrQ",
+      "title": "More Subscribers Doesn’t Equal More Money 🚫💸",
+      "status": "pending"
+    },
+    {
+      "video_id": "nOn3f4a4P5U",
+      "title": "The Most Profitable Type of YouTube Channel",
+      "status": "pending"
+    },
+    {
+      "video_id": "4jM9Ob8Lj18",
+      "title": "How to Make a YouTube Short BETTER!",
+      "status": "pending"
+    },
+    {
+      "video_id": "oaYOz3Fh8pM",
+      "title": "Grow YouTube channel FAST 💨 🚀 #youtubechannel #youtuber",
+      "status": "pending"
+    },
+    {
+      "video_id": "GjXJsuCVJjI",
+      "title": "End of MrBeast Burger? — #mrbeast #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "CVlNON0nshM",
+      "title": "How To Add Custom Thumbnails For YouTube Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "UmKQZcJ_8Hw",
+      "title": "🔥 USEFUL Websites for Small YouTube Channels 🔥",
+      "status": "pending"
+    },
+    {
+      "video_id": "Wz5jBRkuYT8",
+      "title": "How To Use ChatGPT To Grow Your YouTube Channel",
+      "status": "pending"
+    },
+    {
+      "video_id": "sBMIDwvp4qE",
+      "title": "Best Time To Post On YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "H-CYs9pzAhQ",
+      "title": "Secret AI Tools YouTubers Don't Want You To Know",
+      "status": "pending"
+    },
+    {
+      "video_id": "Id6ZERz-fDI",
+      "title": "Wait, is AI Hurting Your Success?",
+      "status": "pending"
+    },
+    {
+      "video_id": "jtiHnPhwHZc",
+      "title": "Top AI Tools For Creators",
+      "status": "pending"
+    },
+    {
+      "video_id": "VT7I5ja52aI",
+      "title": "How To Use MidJourney To Create Thumbnails",
+      "status": "pending"
+    },
+    {
+      "video_id": "WodFWz6f_j0",
+      "title": "Best AI Tools For YouTubers",
+      "status": "pending"
+    },
+    {
+      "video_id": "o9Cl1qf07ik",
+      "title": "YouTube Shorts HACK for more views! 🎶",
+      "status": "pending"
+    },
+    {
+      "video_id": "dM_gdEZrfio",
+      "title": "🥊 YouTube Boxing: Epic Showdown or Viral Accident?",
+      "status": "pending"
+    },
+    {
+      "video_id": "uGLt31d-O3E",
+      "title": "How To Auto Add Captions to YouTube Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "If87g5J_B3g",
+      "title": "How To Get MORE Views on YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "Lb7q41ZwEnk",
+      "title": "How You Get Tricked Into Commenting",
+      "status": "pending"
+    },
+    {
+      "video_id": "PNGji7HLdLM",
+      "title": "MrBeast's SECRET YouTube Channels?!",
+      "status": "pending"
+    },
+    {
+      "video_id": "w1lhErXJxtM",
+      "title": "The RAREST YouTube Play Button ▶️",
+      "status": "pending"
+    },
+    {
+      "video_id": "v35cQZJeaSg",
+      "title": "How To Setup Your Camera For Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "Pz_xIf5tKRA",
+      "title": "How To Upload High Quality YouTube Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "Pm2r8_cW7P8",
+      "title": "Did You Hear About MrBeast Burger? 😒",
+      "status": "pending"
+    },
+    {
+      "video_id": "pXZHvE2_MSw",
+      "title": "🖼️ How To Add YouTube Shorts Thumbnail",
+      "status": "pending"
+    },
+    {
+      "video_id": "AIzsoZsZw3A",
+      "title": "🚨 Small YouTube Channels #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "D3wcpF4-ick",
+      "title": "Strangest Videos on YouTube 😵‍💫",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZmwVJeDp9rA",
+      "title": "If You Want To Be A YouTuber…",
+      "status": "pending"
+    },
+    {
+      "video_id": "A_m4G3Wv4H0",
+      "title": "#1 HATED YouTube Video",
+      "status": "pending"
+    },
+    {
+      "video_id": "WXj-ozzzrX0",
+      "title": "📱How to Improve the Quality of Your Smartphone Camera in 19 Seconds- #tips #tech #instagram",
+      "status": "pending"
+    },
+    {
+      "video_id": "hlB0Ad118rw",
+      "title": "TikTok is Hijacking Your Brain 🧠",
+      "status": "pending"
+    },
+    {
+      "video_id": "tbwxJMCTERQ",
+      "title": "7 Sentences Made Pixar $14 BILLION",
+      "status": "pending"
+    },
+    {
+      "video_id": "CeSmugAjy60",
+      "title": "YouTube vs College | Matthew Beem",
+      "status": "pending"
+    },
+    {
+      "video_id": "Pl_K3B2E2g4",
+      "title": "Elliot Choy: crazy or genius? #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "oge1X2MnerQ",
+      "title": "Dumbest Things YouTubers Did For Views",
+      "status": "pending"
+    },
+    {
+      "video_id": "TMmiPF9ul5k",
+      "title": "How to manifest your dreams - Ryan Trahan #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "ILULwFN791w",
+      "title": "Most DANGEROUS Social Media Challenges",
+      "status": "pending"
+    },
+    {
+      "video_id": "2z6n6SPP4io",
+      "title": "How to be successful || Motivation for Content Creators 🙏🏾 (Ryan Trahan)",
+      "status": "pending"
+    },
+    {
+      "video_id": "U4V2WkkgbLE",
+      "title": "YouTubers Are Being Hunted 😳",
+      "status": "pending"
+    },
+    {
+      "video_id": "2_5qdyUtejU",
+      "title": "MrBeast Talking About Dominating Every Platform #mrbeast",
+      "status": "pending"
+    },
+    {
+      "video_id": "sy8WSAlvz1Y",
+      "title": "MrBeast's SECRET to getting views #mrbeast",
+      "status": "pending"
+    },
+    {
+      "video_id": "hTrPtmt4G7E",
+      "title": "Get 1000 Subscribers FAST",
+      "status": "pending"
+    },
+    {
+      "video_id": "KdKFVDLZq-Y",
+      "title": "The Decision Trap 😰Outsmarting Decision Fatigue",
+      "status": "pending"
+    },
+    {
+      "video_id": "N0ntfeJt9Uk",
+      "title": "This Psychological Dilemma Could Cost You",
+      "status": "pending"
+    },
+    {
+      "video_id": "A__ILs-Hdkw",
+      "title": "Most LIKED COMMENTS on YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "o6oNdhPMbgk",
+      "title": "THE MOST commented on YouTube Video",
+      "status": "pending"
+    },
+    {
+      "video_id": "uAfbRJ3v8no",
+      "title": "Don't Post YouTube Shorts at the Wrong Time! Here's How to Get It Right.",
+      "status": "pending"
+    },
+    {
+      "video_id": "jUMcuiD8E0U",
+      "title": "The 5 OLDEST YouTube Videos",
+      "status": "pending"
+    },
+    {
+      "video_id": "IZ1VhwjmHAU",
+      "title": "What Happens if MrBeast Dies? 💀",
+      "status": "pending"
+    },
+    {
+      "video_id": "41oqHLdxRjM",
+      "title": "MrBeast Cracks The Code",
+      "status": "pending"
+    },
+    {
+      "video_id": "LrWry7V_G3M",
+      "title": "10M Dollars or 10M Subscribers? | MrBeast",
+      "status": "pending"
+    },
+    {
+      "video_id": "SogoO4b-avQ",
+      "title": "Is MrBeast Broke?!? 😵",
+      "status": "pending"
+    },
+    {
+      "video_id": "tuA05lGv-jM",
+      "title": "What famous creator uses this song?",
+      "status": "pending"
+    },
+    {
+      "video_id": "sQNAobuULRM",
+      "title": "He's Richer Than You...",
+      "status": "pending"
+    },
+    {
+      "video_id": "63uDGyLlW7o",
+      "title": "More $$$ but less views?",
+      "status": "pending"
+    },
+    {
+      "video_id": "QNrL-LnnJPk",
+      "title": "Do this to get 20M subscribers 📈",
+      "status": "pending"
+    },
+    {
+      "video_id": "1d3J_k6g1mw",
+      "title": "I bet you can’t guess this",
+      "status": "pending"
+    },
+    {
+      "video_id": "keB2P9zA060",
+      "title": "MrBeast on working with your competition 🤝🏼",
+      "status": "pending"
+    },
+    {
+      "video_id": "Fx_SYsyOXEQ",
+      "title": "How To Get Monetized on YouTube in 2023",
+      "status": "pending"
+    },
+    {
+      "video_id": "tZ2G80m-ROI",
+      "title": "Editing Secrets For Your YouTube Videos",
+      "status": "pending"
+    },
+    {
+      "video_id": "Wob8MJ4FJls",
+      "title": "Casey Neistat’s SECRET to going viral",
+      "status": "pending"
+    },
+    {
+      "video_id": "W6_btVHXRdo",
+      "title": "YouTube Studio Analytics Explained 📲",
+      "status": "pending"
+    },
+    {
+      "video_id": "Xw4WRO5b98Y",
+      "title": "How MrWhoseTheBoss Hooks You 😮",
+      "status": "pending"
+    },
+    {
+      "video_id": "gyqa1BG2_eM",
+      "title": "MrBeast Clone: Taking it Too Far? #challenge #mrbeast #fidias",
+      "status": "pending"
+    },
+    {
+      "video_id": "PWwm69sbaMs",
+      "title": "Consistency ISN'T the key to YouTube 😱",
+      "status": "pending"
+    },
+    {
+      "video_id": "NjeS5-SnS14",
+      "title": "YouTube’s Most Liked Video #nft #youtubetips #ytchannel",
+      "status": "pending"
+    },
+    {
+      "video_id": "0eTLwGIXP3E",
+      "title": "1 BILLION Views On A Short?!",
+      "status": "pending"
+    },
+    {
+      "video_id": "XeXQrvEsots",
+      "title": "How To Go Viral",
+      "status": "pending"
+    },
+    {
+      "video_id": "wF2TMme-k5o",
+      "title": "YouTube’s COSTLY Mistake 🤯💰#facts #youtube #money",
+      "status": "pending"
+    },
+    {
+      "video_id": "WWb0PZ0zMwE",
+      "title": "How To Grow Your YouTube Channel! #smallyoutuber #youtubegrowth #howto",
+      "status": "pending"
+    },
+    {
+      "video_id": "KRn5afbzSgI",
+      "title": "Easy Studio Ideas for Beginners",
+      "status": "pending"
+    },
+    {
+      "video_id": "8wsHoQQuFic",
+      "title": "How Much MrBeast Makes😳 #mrbeast #money",
+      "status": "pending"
+    },
+    {
+      "video_id": "xIrDl6o7TMU",
+      "title": "How To Dominate YouTube Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "sNPRh6Uz52Y",
+      "title": "How To Overcome Camera Anxiety",
+      "status": "pending"
+    },
+    {
+      "video_id": "R1P7J3MM59U",
+      "title": "How To Steal KSI's Growth Strategy",
+      "status": "pending"
+    },
+    {
+      "video_id": "Rs6R5eHstQ0",
+      "title": "How To Get 1000 Subscribers Fast",
+      "status": "pending"
+    },
+    {
+      "video_id": "EjeoQeSn79c",
+      "title": "Lil Wayne disrespects fans (and teaches us a lesson)",
+      "status": "pending"
+    },
+    {
+      "video_id": "-O7vUDFaY8A",
+      "title": "Dark psychology trick - The Framing Effect",
+      "status": "pending"
+    },
+    {
+      "video_id": "SW3lHiKXlFo",
+      "title": "The Editing Secrets of Mrwhosetheboss",
+      "status": "pending"
+    },
+    {
+      "video_id": "iPyAgp6p57A",
+      "title": "Best AI Tools for YouTubers",
+      "status": "pending"
+    },
+    {
+      "video_id": "Lo25pf7Va4Y",
+      "title": "The original Tinder???",
+      "status": "pending"
+    },
+    {
+      "video_id": "wG3CMbjkpzA",
+      "title": "How Vtubers make millions",
+      "status": "pending"
+    },
+    {
+      "video_id": "uYE6kBdpp7M",
+      "title": "Stop Destroying Your Videos",
+      "status": "pending"
+    },
+    {
+      "video_id": "fRwT5Dw58pY",
+      "title": "YouTubers That Went Too Far",
+      "status": "pending"
+    },
+    {
+      "video_id": "DI8fvuXznDo",
+      "title": "How To Get 37 Million Views",
+      "status": "pending"
+    },
+    {
+      "video_id": "MSiAi9iBuz8",
+      "title": "Is MrBeast Broke?",
+      "status": "pending"
+    },
+    {
+      "video_id": "3kLTUgL1yJo",
+      "title": "Most Insane YouTube Challenge",
+      "status": "pending"
+    },
+    {
+      "video_id": "-CbP2jUbsEs",
+      "title": "How To 10X Your Subscribers Fast",
+      "status": "pending"
+    },
+    {
+      "video_id": "bDW4Z-vudqg",
+      "title": "How YouTubers Trick You",
+      "status": "pending"
+    },
+    {
+      "video_id": "o1kIG6-jHww",
+      "title": "How To Get 1 Million Subs in 1 Year",
+      "status": "pending"
+    },
+    {
+      "video_id": "sHikeK7pAX4",
+      "title": "A.I. Picks Viral Video Topics",
+      "status": "pending"
+    },
+    {
+      "video_id": "bMyu4GhdTvw",
+      "title": "How MrBeast Gets 283 Million Views",
+      "status": "pending"
+    },
+    {
+      "video_id": "Ivt-kpxCuWk",
+      "title": "How Babish Got 10 Million Subscribers",
+      "status": "pending"
+    },
+    {
+      "video_id": "UA5ZYK2svbY",
+      "title": "Why Creators Fight Each Other",
+      "status": "pending"
+    },
+    {
+      "video_id": "Knk5tjE7Smc",
+      "title": "10 Year Old Makes $250 Million",
+      "status": "pending"
+    },
+    {
+      "video_id": "__psIKjWW8Q",
+      "title": "YouTubers Are Lying To You!",
+      "status": "pending"
+    },
+    {
+      "video_id": "1NI4DMxpupI",
+      "title": "How Many Uploads Does It Take To Get 1 Million Subscribers? (3,875 on average)",
+      "status": "pending"
+    },
+    {
+      "video_id": "rQdB7UXKLss",
+      "title": "How THESE YouTubers Secretly Hook you",
+      "status": "pending"
+    },
+    {
+      "video_id": "mThJNu3wVCA",
+      "title": "How to film better vlogs!",
+      "status": "pending"
+    },
+    {
+      "video_id": "vIrWijPnfLk",
+      "title": "Curiosity Gap",
+      "status": "pending"
+    },
+    {
+      "video_id": "yjDDz_9NeEo",
+      "title": "😍 Best Budget Camera For YouTube: Sony ZV-E10 🏆",
+      "status": "pending"
+    },
+    {
+      "video_id": "5ykBGw0vWKw",
+      "title": "$15 CAMERA HACK",
+      "status": "pending"
+    },
+    {
+      "video_id": "S4xnNjwetB8",
+      "title": "Ryan Trahan on stress (Penny Series)",
+      "status": "pending"
+    },
+    {
+      "video_id": "txwJZ02Pdqs",
+      "title": "How to get more subscribers using THIS WORD",
+      "status": "pending"
+    },
+    {
+      "video_id": "t21Y85PckTw",
+      "title": "MrBeast Cracked The Shorts Algorithm",
+      "status": "pending"
+    },
+    {
+      "video_id": "7ihEU582lXE",
+      "title": "MrBeast speaks on what it takes to be a successful YouTuber... is he right? #mrbeast #success",
+      "status": "pending"
+    },
+    {
+      "video_id": "YCReTGl9dHE",
+      "title": "Most YouTubers never figure this out - MrWhosetheboss #advice #motivation #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "Bg34yTDB3Zk",
+      "title": "Wake-Up Call for YouTubers! (Ft. Mrwhosetheboss)",
+      "status": "pending"
+    },
+    {
+      "video_id": "D1jQH8lwVRg",
+      "title": "MKBHD on starting a YouTube Channel",
+      "status": "pending"
+    },
+    {
+      "video_id": "KF45tECUwbs",
+      "title": "Easy 4,000 Hours of Watch Time",
+      "status": "pending"
+    },
+    {
+      "video_id": "kt5ox1bGy3E",
+      "title": "SPEAK EVERY LANGUAGE",
+      "status": "pending"
+    },
+    {
+      "video_id": "FXds-7hpkzw",
+      "title": "How To Fix ANY Bad Audio Problem (The BEST AI Tool)",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZavyAADkJCI",
+      "title": "Hidden Instagram Trick #shorts #reels",
+      "status": "pending"
+    },
+    {
+      "video_id": "FWTOqJf1R-I",
+      "title": "Stop Filming Vertical Videos Vertically! (Shorts, TikTok, Reels)",
+      "status": "pending"
+    },
+    {
+      "video_id": "yB7FggXRGyE",
+      "title": "MrBeast Speaks To His Younger Self",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZSn4oCN-7to",
+      "title": "ChatGPT Prompt for YouTube Ideas #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "6e9umHopEI0",
+      "title": "Is this the most important metric on YouTube Shorts?",
+      "status": "pending"
+    },
+    {
+      "video_id": "1X0lH0o4534",
+      "title": "How much money did I make from a million views on YouTube Shorts?",
+      "status": "pending"
+    },
+    {
+      "video_id": "kTEy2kwZeW8",
+      "title": "I made this epic YouTube Short using only my phone",
+      "status": "pending"
+    },
+    {
+      "video_id": "BLKhZBNCnYc",
+      "title": "How to make your shorts loop",
+      "status": "pending"
+    },
+    {
+      "video_id": "oWvK8hKApvg",
+      "title": "How to reply to comments with a short",
+      "status": "pending"
+    },
+    {
+      "video_id": "XLMGvE1e2BA",
+      "title": "How to handle negative comments",
+      "status": "pending"
+    },
+    {
+      "video_id": "PTJn1vJhvRY",
+      "title": "How to light your videos in 45 seconds",
+      "status": "pending"
+    },
+    {
+      "video_id": "CQihEVL03GA",
+      "title": "How to find your passion/niche",
+      "status": "pending"
+    },
+    {
+      "video_id": "aYEwpWHRYBA",
+      "title": "Why do shorts views drop off suddenly?",
+      "status": "pending"
+    },
+    {
+      "video_id": "G4wHiWLX9Bg",
+      "title": "How to use GIFs in YouTube community posts",
+      "status": "pending"
+    },
+    {
+      "video_id": "1SVCpfHFcYQ",
+      "title": "The secret to creating an image poll on YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "QDS3waPGgSA",
+      "title": "How to make an EASY YouTube Short on your phone in 2023",
+      "status": "pending"
+    },
+    {
+      "video_id": "5vPXb72WGoc",
+      "title": "How to upload a YouTube Short with your desktop computer in 2023",
+      "status": "pending"
+    },
+    {
+      "video_id": "BzBAaDTeddE",
+      "title": "How To Upload a YouTube Short From PC",
+      "status": "pending"
+    },
+    {
+      "video_id": "D7P6KYJ7KFQ",
+      "title": "Do you have imposter syndrome? This can help. #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "GrPH23YimmY",
+      "title": "YouTube's New Feature... Mind-Blowing 🤯 #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "bMarOQdRVt0",
+      "title": "How to create long watch sessions with YouTube Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "GV32PWRKsXk",
+      "title": "Is it okay to repost a YouTube Short? #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "crft1RFprN4",
+      "title": "The secret trick to using polls to promote your videos #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "Oj_HcPC9Ll8",
+      "title": "MrBeasts Warning... (Retention Killer) #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "eDNJtwQRIGo",
+      "title": "Is this the best budget mic for YouTubers? #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "Jva6C_pk1gA",
+      "title": "Where to find thumbnail artists #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "-hGfQ8kBOXk",
+      "title": "YouTube's new policy demonetized THOUSANDS of videos 💀 #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "d5cxElwUeao",
+      "title": "What's your retention graph saying? (brutal honest truth) #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "W0hg8CN3Aik",
+      "title": "Can shorts help you get 4000 watch time hours? #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "HEVXfjYh2zo",
+      "title": "What is this ‘Waffle House Host’ comment all about? #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "wQ8Ii5p1lPQ",
+      "title": "Is YouTube's Algorithm Rigged Against New Creators? #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "xKfzLRtoz6s",
+      "title": "Why is this creator selling puzzles with a missing piece",
+      "status": "pending"
+    },
+    {
+      "video_id": "l6Gvu_hlasE",
+      "title": "This guy quit his job at NASA to do YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "mWcsnZurDQ0",
+      "title": "There are now over 100 different versions of YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "sxfPDLv-pCQ",
+      "title": "What Can YouTubers Learn From Hollywood",
+      "status": "pending"
+    },
+    {
+      "video_id": "yA7EVQio4II",
+      "title": "Use AI to get amazing audio from a bad microphone",
+      "status": "pending"
+    },
+    {
+      "video_id": "grp7j7XN22g",
+      "title": "3 Secret YouTube Easter Eggs",
+      "status": "pending"
+    },
+    {
+      "video_id": "-y6iNQzTDCY",
+      "title": "Will AI replace YouTubers",
+      "status": "pending"
+    },
+    {
+      "video_id": "lsIW1Y4ChRk",
+      "title": "The FBI is always watching you...tube",
+      "status": "pending"
+    },
+    {
+      "video_id": "wZktWTPDIGw",
+      "title": "Why MrBeast Stopped Uploading As Much This Year",
+      "status": "pending"
+    },
+    {
+      "video_id": "9lY5a3nqe2k",
+      "title": "He almost ruined a $4M MrBeast video",
+      "status": "pending"
+    },
+    {
+      "video_id": "zDgI1Pmjq3w",
+      "title": "It wasn’t easy, but she pushed through and saw MASSIVE success   #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "3TrHcc4X2GE",
+      "title": "The vertical video virtuoso of YouTube",
+      "status": "pending"
+    },
+    {
+      "video_id": "MJdCGVNHBo8",
+      "title": "How Much MrBeast Actually Spent on Squid Games #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "-K-8OSJIhIE",
+      "title": "She grew her channel from 0 to 100k in 6 months!",
+      "status": "pending"
+    },
+    {
+      "video_id": "7QnRIE_SZ3k",
+      "title": "This popular YouTuber secretly works for the FBI",
+      "status": "pending"
+    },
+    {
+      "video_id": "YdIbU2AWf7I",
+      "title": "YouTube paid him to QUIT streaming",
+      "status": "pending"
+    },
+    {
+      "video_id": "MA2pREupzus",
+      "title": "This YouTuber predicted his own success",
+      "status": "pending"
+    },
+    {
+      "video_id": "9CHlk3mDQm0",
+      "title": "How To Build Your Own Teleprompter for $5",
+      "status": "pending"
+    },
+    {
+      "video_id": "C4Am1k8aQwc",
+      "title": "The ULTIMATE Guide To Subtitles On YouTube Shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "IOnjisvsSDE",
+      "title": "Are YouTubers Watching You",
+      "status": "pending"
+    },
+    {
+      "video_id": "MPkjdWLxCWE",
+      "title": "What Can YouTubers Learn From Hollywood?",
+      "status": "pending"
+    },
+    {
+      "video_id": "S2KOVcXBAfs",
+      "title": "Want More Views On Your YouTube Videos? Fix This.",
+      "status": "pending"
+    },
+    {
+      "video_id": "dme6cw0jidY",
+      "title": "Grow Faster On YouTube By Posting Less?",
+      "status": "pending"
+    },
+    {
+      "video_id": "k21bFVB1gFQ",
+      "title": "People can’t stop watching this video. But why?",
+      "status": "pending"
+    },
+    {
+      "video_id": "bTgyJINaMhc",
+      "title": "Tips For Brainstorming YouTube Video Ideas",
+      "status": "pending"
+    },
+    {
+      "video_id": "7yCb9V5RvDg",
+      "title": "Thumbnails DON'T Matter On YouTube Shorts! But This Does...",
+      "status": "pending"
+    },
+    {
+      "video_id": "q3e1h-vMmT4",
+      "title": "Should You Add Chapters to Your YouTube Videos?",
+      "status": "pending"
+    },
+    {
+      "video_id": "z_PYo5BjWiI",
+      "title": "How Do You Get Shorts Viewers to Watch Your Longform Videos?",
+      "status": "pending"
+    },
+    {
+      "video_id": "1_2QDB_EQS8",
+      "title": "How To Make YouTube Shorts!",
+      "status": "pending"
+    },
+    {
+      "video_id": "ByaYr7pgX2Q",
+      "title": "How long does it take to become a successful YouTuber? (Matthew Beem's Story)",
+      "status": "pending"
+    },
+    {
+      "video_id": "AJDS3RgAUNs",
+      "title": "😳 TikTok been real quiet since MrBeast said this...",
+      "status": "pending"
+    },
+    {
+      "video_id": "hlByuuLaRL0",
+      "title": "🔥 NEW! TubeBuddy's AI Title Generator: Make Amazing Titles in Seconds",
+      "status": "pending"
+    },
+    {
+      "video_id": "QEr9QC2Fg6A",
+      "title": "How to Tell Better Stories on YouTube #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "rezodypk4sg",
+      "title": "The Genius of Elliot Choy #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "OZS4aTW8kkk",
+      "title": "YouTube Thumbnail Hacks",
+      "status": "pending"
+    },
+    {
+      "video_id": "t-Hq6V66GwQ",
+      "title": "MrBeast Has A Thumbnail Obsession 😳 …",
+      "status": "pending"
+    },
+    {
+      "video_id": "IGvCYEHDCvY",
+      "title": "How to make your iPhone videos look amazing! #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "_RbEyR5VW8s",
+      "title": "How to become a YouTube millionaire",
+      "status": "pending"
+    },
+    {
+      "video_id": "ItUBc1oSUX4",
+      "title": "Don't Fall For This YouTube Scam!",
+      "status": "pending"
+    },
+    {
+      "video_id": "E2sRTkzy91c",
+      "title": "No green screen? #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "yOrM7nUIf5c",
+      "title": "Ex-YouTube Employee Reveals How To Launch a Channel (Ft MatPat) #shorts",
+      "status": "pending"
+    },
+    {
+      "video_id": "MaMG2jJ6eoc",
+      "title": "The TWO Things That the YouTube Algorithm Loves #shorts #mrbeast",
+      "status": "pending"
+    },
+    {
+      "video_id": "0kqGdVmHeIQ",
+      "title": "MrBeast - The Secret To More Views On YouTube 🚀",
+      "status": "pending"
+    },
+    {
+      "video_id": "qAOdN5B1sjY",
+      "title": "Do you meet these 4 requirements? | YouTube Monetization 💰",
+      "status": "pending"
+    },
+    {
+      "video_id": "v2IazXcpb54",
+      "title": "Attract More Viewers with TubeBuddy A/B Testing #Shorts",
+      "status": "pending"
+    }
+  ]
+}

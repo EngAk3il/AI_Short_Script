@@ -1,0 +1,148 @@
+{
+  "video_id": "8vju_r7aRlM",
+  "duration_seconds": 53,
+  "wps": 4.0,
+  "total_words": 212,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 834
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर कोई 23 साल का बच्चा है जो ये सोच रहा है कि अरे मार्केट में गैप कहां है जहां पे मैं एक ब्रांड बिल्ड कर सकता हूं तो उसने उस गैप को ढूंढना कैसे चाहिए? तो"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आपको मैच करना है एंड देन यू कम अप वि प्रोडक्ट इनाइड्स व्हिच कैन बिकम विनिंग प्रोडक्ट्स।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "तो",
+      "count": 7
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "अगर",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "आपको",
+      "count": 3
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "व्हिच",
+      "count": 3
+    },
+    {
+      "word": "सिलबट्टा",
+      "count": 3
+    },
+    {
+      "word": "टेक्सचर",
+      "count": 3
+    },
+    {
+      "word": "कोई",
+      "count": 2
+    },
+    {
+      "word": "साल",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "रहा",
+      "count": 2
+    },
+    {
+      "word": "गैप",
+      "count": 2
+    },
+    {
+      "word": "पे",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है जो",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "कि उनके",
+      "count": 2
+    },
+    {
+      "phrase": "है तो",
+      "count": 2
+    },
+    {
+      "phrase": "प्रॉब्लम्स है",
+      "count": 2
+    },
+    {
+      "phrase": "सिलबट्टा वाला",
+      "count": 2
+    },
+    {
+      "phrase": "वाला टेक्सचर",
+      "count": 2
+    },
+    {
+      "phrase": "अगर कोई",
+      "count": 1
+    },
+    {
+      "phrase": "कोई 23",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

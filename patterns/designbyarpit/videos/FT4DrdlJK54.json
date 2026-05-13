@@ -1,0 +1,148 @@
+{
+  "video_id": "FT4DrdlJK54",
+  "duration_seconds": 58,
+  "wps": 3.55,
+  "total_words": 206,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 875
+  },
+  "hook": {
+    "type": "question",
+    "text": "This is a toast notification because it pops up just like a toast. This is a classic design trick where we are hiding real world objects in plain sight. Let's break down some of the coolest examples."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "forest so they could find their way home. And this is known as a subscribe button. You know what to do."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 12
+    },
+    {
+      "word": "you",
+      "count": 9
+    },
+    {
+      "word": "is",
+      "count": 8
+    },
+    {
+      "word": "this",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 7
+    },
+    {
+      "word": "one",
+      "count": 5
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "so",
+      "count": 3
+    },
+    {
+      "word": "from",
+      "count": 3
+    },
+    {
+      "word": "toast",
+      "count": 2
+    },
+    {
+      "word": "because",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "up",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "where",
+      "count": 2
+    },
+    {
+      "word": "real",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "this is",
+      "count": 5
+    },
+    {
+      "phrase": "is a",
+      "count": 3
+    },
+    {
+      "phrase": "and this",
+      "count": 3
+    },
+    {
+      "phrase": "a toast",
+      "count": 2
+    },
+    {
+      "phrase": "just like",
+      "count": 2
+    },
+    {
+      "phrase": "like a",
+      "count": 2
+    },
+    {
+      "phrase": "show you",
+      "count": 2
+    },
+    {
+      "phrase": "next one",
+      "count": 2
+    },
+    {
+      "phrase": "comes from",
+      "count": 2
+    },
+    {
+      "phrase": "is the",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

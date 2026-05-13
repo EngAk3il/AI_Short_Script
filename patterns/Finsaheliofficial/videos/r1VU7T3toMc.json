@@ -1,0 +1,149 @@
+{
+  "video_id": "r1VU7T3toMc",
+  "duration_seconds": 85,
+  "wps": 3.91,
+  "total_words": 332,
+  "language_mix": {
+    "hindi": 99.0,
+    "english": 1.0,
+    "total_chars": 1136
+  },
+  "hook": {
+    "type": "statement",
+    "text": "यह है थाली स्टैंडर्ड वेज जिसका प्राइस है ₹80 लेकिन बिल दे रहे हैं भाई साहब ₹180 का तो इस थाली में हमें का है भाई ये थाली आपने ₹150 बताया था हां तो आप ₹180 का बिल"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "हो| वीडियो को ज्यादा से ज्यादा लोगों के साथ शेयर करना एंड मुझे फॉलो करना मत भूलना"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 16
+    },
+    {
+      "word": "तो",
+      "count": 12
+    },
+    {
+      "word": "का",
+      "count": 10
+    },
+    {
+      "word": "कर",
+      "count": 8
+    },
+    {
+      "word": "प्राइस",
+      "count": 7
+    },
+    {
+      "word": "आप",
+      "count": 7
+    },
+    {
+      "word": "पे",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "से",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "वेंडर",
+      "count": 5
+    },
+    {
+      "word": "वो",
+      "count": 5
+    },
+    {
+      "word": "आपको",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 4
+    },
+    {
+      "word": "उस",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहा है",
+      "count": 4
+    },
+    {
+      "phrase": "प्राइस है",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "फ्राइड राइस",
+      "count": 3
+    },
+    {
+      "phrase": "का प्राइस",
+      "count": 3
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "आइटम का",
+      "count": 3
+    },
+    {
+      "phrase": "यह है",
+      "count": 2
+    },
+    {
+      "phrase": "है ₹80",
+      "count": 2
+    }
+  ],
+  "segment_count": 11
+}

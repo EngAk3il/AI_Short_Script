@@ -1,0 +1,148 @@
+{
+  "video_id": "0jBOIPVj0nc",
+  "duration_seconds": 44,
+  "wps": 3.3,
+  "total_words": 145,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 669
+  },
+  "hook": {
+    "type": "statement",
+    "text": "You have seen this weird diamond on backpacks, but I guarantee you have no idea what it actually does. Most people think it's just a fashion statement, but it's actually a brilliant piece of"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "rubber never freeze, keeping a survival gear perfectly safe. Genius design. Subscribe for more design secrets."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "actually",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "have",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "survival",
+      "count": 2
+    },
+    {
+      "word": "was",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "gear",
+      "count": 2
+    },
+    {
+      "word": "wet",
+      "count": 2
+    },
+    {
+      "word": "or",
+      "count": 2
+    },
+    {
+      "word": "why",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "you have",
+      "count": 2
+    },
+    {
+      "phrase": "just a",
+      "count": 2
+    },
+    {
+      "phrase": "it's actually",
+      "count": 2
+    },
+    {
+      "phrase": "fabric loop",
+      "count": 2
+    },
+    {
+      "phrase": "have seen",
+      "count": 1
+    },
+    {
+      "phrase": "seen this",
+      "count": 1
+    },
+    {
+      "phrase": "this weird",
+      "count": 1
+    },
+    {
+      "phrase": "weird diamond",
+      "count": 1
+    },
+    {
+      "phrase": "diamond on",
+      "count": 1
+    },
+    {
+      "phrase": "on backpacks",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

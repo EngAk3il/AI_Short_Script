@@ -1,0 +1,148 @@
+{
+  "video_id": "t5JPdqpEjCc",
+  "duration_seconds": 62,
+  "wps": 2.95,
+  "total_words": 183,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 740
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "विनेश फोगाट आखिर ओलंपिक्स में"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डिसक्वालीफाई हो गई"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "वेट",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "कैटेगरी",
+      "count": 4
+    },
+    {
+      "word": "लेकिन",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "विनेश",
+      "count": 3
+    },
+    {
+      "word": "ओलंपिक्स",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "कंपटीशन",
+      "count": 3
+    },
+    {
+      "word": "केजी",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "दिन",
+      "count": 3
+    },
+    {
+      "word": "डिसक्वालीफाई",
+      "count": 2
+    },
+    {
+      "word": "रेसलिंग",
+      "count": 2
+    },
+    {
+      "word": "होती",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "ताकि",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ओलंपिक्स में",
+      "count": 3
+    },
+    {
+      "phrase": "कैटेगरी में",
+      "count": 3
+    },
+    {
+      "phrase": "वेट कैटेगरी",
+      "count": 2
+    },
+    {
+      "phrase": "केजी की",
+      "count": 2
+    },
+    {
+      "phrase": "की कैटेगरी",
+      "count": 2
+    },
+    {
+      "phrase": "50 केजी",
+      "count": 2
+    },
+    {
+      "phrase": "विनेश फोगाट",
+      "count": 1
+    },
+    {
+      "phrase": "फोगाट आखिर",
+      "count": 1
+    },
+    {
+      "phrase": "आखिर ओलंपिक्स",
+      "count": 1
+    },
+    {
+      "phrase": "में डिसक्वालीफाई",
+      "count": 1
+    }
+  ],
+  "segment_count": 25
+}

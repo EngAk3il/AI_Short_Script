@@ -1,0 +1,27 @@
+{
+  "video_id": "rP8Tdc1OlhE",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 1,
+      "duration": 3,
+      "text": "[Music]"
+    },
+    {
+      "start": 4,
+      "duration": 1,
+      "text": "[Applause]"
+    },
+    {
+      "start": 5,
+      "duration": 4,
+      "text": "[Music]"
+    },
+    {
+      "start": 9,
+      "duration": 3.0,
+      "text": "I am the Dragon"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "eegXX39mNfs",
+  "duration_seconds": 45,
+  "wps": 4.58,
+  "total_words": 206,
+  "language_mix": {
+    "hindi": 97.7,
+    "english": 2.3,
+    "total_chars": 711
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अंबानी की Jio स्टार कंपनी ना इतना गंदा फंस चुकी है पीछे एक न्यूज़ निकल के आई थी कि भैया ये ICC के राइट्स के ऊपर बैक ऑफ कर रहे हैं क्योंकि इन्होंने क्रिकेट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "है 1000 लोगों को ऐड दिखाने के जिससे होगा क्या? जो लोग अभी Jio स्टार में दिखा रहे हैं महंगा समझ के वो भी भाग जाएंगे।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 12
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "ऊपर",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "ऐप",
+      "count": 3
+    },
+    {
+      "word": "ऐड",
+      "count": 3
+    },
+    {
+      "word": "लोगों",
+      "count": 3
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "सिर्फ",
+      "count": 3
+    },
+    {
+      "word": "अंबानी",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "jio",
+      "count": 2
+    },
+    {
+      "word": "स्टार",
+      "count": 2
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "भैया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के ऊपर",
+      "count": 3
+    },
+    {
+      "phrase": "लोगों को",
+      "count": 3
+    },
+    {
+      "phrase": "jio स्टार",
+      "count": 2
+    },
+    {
+      "phrase": "कि भैया",
+      "count": 2
+    },
+    {
+      "phrase": "बैक ऑफ",
+      "count": 2
+    },
+    {
+      "phrase": "ऑफ कर",
+      "count": 2
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "वर्ल्ड कप",
+      "count": 2
+    },
+    {
+      "phrase": "अपनी ऐप",
+      "count": 2
+    },
+    {
+      "phrase": "ऐप के",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

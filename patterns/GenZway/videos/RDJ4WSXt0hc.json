@@ -1,0 +1,149 @@
+{
+  "video_id": "RDJ4WSXt0hc",
+  "duration_seconds": 70,
+  "wps": 3.94,
+  "total_words": 276,
+  "language_mix": {
+    "hindi": 99.0,
+    "english": 1.0,
+    "total_chars": 1099
+  },
+  "hook": {
+    "type": "question",
+    "text": "मेरे एक दोस्त का नया iPhone गिर गया था। स्क्रीन टूट गई थी और फिर भी फ्री में सही हो गया क्योंकि उन्होंने Apple केयर ले रखा था। देखने में स्मार्ट हैक लगता है ना? बट मेरा यही दोस्त कुछ दिन पहले"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "का लिंक तुम लोगों को मेरे बायो में मिल जाएगा।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 7
+    },
+    {
+      "word": "भी",
+      "count": 6
+    },
+    {
+      "word": "हो",
+      "count": 6
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "फैमिली",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "इंश्योरेंस",
+      "count": 4
+    },
+    {
+      "word": "टर्म",
+      "count": 4
+    },
+    {
+      "word": "प्रीमियम",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "गया",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "आपकी",
+      "count": 3
+    },
+    {
+      "word": "करो",
+      "count": 3
+    },
+    {
+      "word": "मेरे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "हैं और",
+      "count": 3
+    },
+    {
+      "phrase": "आपकी फैमिली",
+      "count": 3
+    },
+    {
+      "phrase": "टर्म इंश्योरेंस",
+      "count": 2
+    },
+    {
+      "phrase": "जहां पे",
+      "count": 2
+    },
+    {
+      "phrase": "फैमिली को",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "करो और",
+      "count": 2
+    },
+    {
+      "phrase": "मेरे एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक दोस्त",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

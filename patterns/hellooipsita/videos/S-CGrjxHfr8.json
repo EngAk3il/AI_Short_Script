@@ -1,0 +1,149 @@
+{
+  "video_id": "S-CGrjxHfr8",
+  "duration_seconds": 28,
+  "wps": 3.71,
+  "total_words": 104,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 452
+  },
+  "hook": {
+    "type": "question",
+    "text": "imagine if you're sitting around with your friends and family and you struggle to stay present stressing out about what happened at work today and what's going to happen tomorrow is my manager going"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "to be able to experience this present moment and when you find that answer it's going to put things into perspective for you"
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "to",
+      "count": 10
+    },
+    {
+      "word": "you",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "going",
+      "count": 5
+    },
+    {
+      "word": "if",
+      "count": 3
+    },
+    {
+      "word": "present",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "struggle",
+      "count": 2
+    },
+    {
+      "word": "stay",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    },
+    {
+      "word": "am",
+      "count": 2
+    },
+    {
+      "word": "this",
+      "count": 2
+    },
+    {
+      "word": "imagine",
+      "count": 1
+    },
+    {
+      "word": "you're",
+      "count": 1
+    },
+    {
+      "word": "sitting",
+      "count": 1
+    },
+    {
+      "word": "around",
+      "count": 1
+    },
+    {
+      "word": "with",
+      "count": 1
+    },
+    {
+      "word": "your",
+      "count": 1
+    },
+    {
+      "word": "friends",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "going to",
+      "count": 5
+    },
+    {
+      "phrase": "you struggle",
+      "count": 2
+    },
+    {
+      "phrase": "struggle to",
+      "count": 2
+    },
+    {
+      "phrase": "to stay",
+      "count": 2
+    },
+    {
+      "phrase": "stay present",
+      "count": 2
+    },
+    {
+      "phrase": "am i",
+      "count": 2
+    },
+    {
+      "phrase": "i going",
+      "count": 2
+    },
+    {
+      "phrase": "if you",
+      "count": 2
+    },
+    {
+      "phrase": "imagine if",
+      "count": 1
+    },
+    {
+      "phrase": "if you're",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

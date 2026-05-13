@@ -1,0 +1,148 @@
+{
+  "video_id": "v4k8ffcWzfw",
+  "duration_seconds": 101,
+  "wps": 4.14,
+  "total_words": 418,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 1426
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "नए जीएसटी रेट्स आने के बाद कौन सी चीज 22 सितंबर से पहले लेनी है और कौन सी बाद में। चलो अगले 30 सेकंड में समझाती हूं। बिग अप्लायंसेस जैसे टीवी, फ्रिज,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्मार्ट बनो।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 20
+    },
+    {
+      "word": "हो",
+      "count": 14
+    },
+    {
+      "word": "जीएसटी",
+      "count": 13
+    },
+    {
+      "word": "भी",
+      "count": 12
+    },
+    {
+      "word": "से",
+      "count": 10
+    },
+    {
+      "word": "तो",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "सितंबर",
+      "count": 9
+    },
+    {
+      "word": "पे",
+      "count": 9
+    },
+    {
+      "word": "हैं",
+      "count": 9
+    },
+    {
+      "word": "22",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "होने",
+      "count": 7
+    },
+    {
+      "word": "बाद",
+      "count": 6
+    },
+    {
+      "word": "जैसे",
+      "count": 5
+    },
+    {
+      "word": "रही",
+      "count": 5
+    },
+    {
+      "word": "गया",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "पहले",
+      "count": 4
+    },
+    {
+      "word": "वेट",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "22 सितंबर",
+      "count": 8
+    },
+    {
+      "phrase": "है तो",
+      "count": 7
+    },
+    {
+      "phrase": "गया है",
+      "count": 5
+    },
+    {
+      "phrase": "के बाद",
+      "count": 4
+    },
+    {
+      "phrase": "हो रही",
+      "count": 4
+    },
+    {
+      "phrase": "रही है",
+      "count": 4
+    },
+    {
+      "phrase": "पे भी",
+      "count": 4
+    },
+    {
+      "phrase": "सितंबर से",
+      "count": 3
+    },
+    {
+      "phrase": "से पहले",
+      "count": 3
+    },
+    {
+      "phrase": "ये सब",
+      "count": 3
+    }
+  ],
+  "segment_count": 14
+}

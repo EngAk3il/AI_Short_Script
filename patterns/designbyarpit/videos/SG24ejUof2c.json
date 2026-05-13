@@ -1,0 +1,148 @@
+{
+  "video_id": "SG24ejUof2c",
+  "duration_seconds": 35,
+  "wps": 3.11,
+  "total_words": 109,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 478
+  },
+  "hook": {
+    "type": "statement",
+    "text": "250,000 sea nails crushed so that this one man could wear Tyrion purple."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Some rulers even made this a death level crime. The color barely faded and the dye smelled like sea. That's how a color became a symbol of status. For more amazing design stories, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "purple",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "tyrion",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "the",
+      "count": 3
+    },
+    {
+      "word": "sea",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "could",
+      "count": 2
+    },
+    {
+      "word": "wear",
+      "count": 2
+    },
+    {
+      "word": "shade",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "color",
+      "count": 2
+    },
+    {
+      "word": "250,000",
+      "count": 1
+    },
+    {
+      "word": "nails",
+      "count": 1
+    },
+    {
+      "word": "crushed",
+      "count": 1
+    },
+    {
+      "word": "so",
+      "count": 1
+    },
+    {
+      "word": "that",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "tyrion purple",
+      "count": 3
+    },
+    {
+      "phrase": "250,000 sea",
+      "count": 1
+    },
+    {
+      "phrase": "sea nails",
+      "count": 1
+    },
+    {
+      "phrase": "nails crushed",
+      "count": 1
+    },
+    {
+      "phrase": "crushed so",
+      "count": 1
+    },
+    {
+      "phrase": "so that",
+      "count": 1
+    },
+    {
+      "phrase": "that this",
+      "count": 1
+    },
+    {
+      "phrase": "this one",
+      "count": 1
+    },
+    {
+      "phrase": "one man",
+      "count": 1
+    },
+    {
+      "phrase": "man could",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

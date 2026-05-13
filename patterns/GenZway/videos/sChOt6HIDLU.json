@@ -1,0 +1,149 @@
+{
+  "video_id": "sChOt6HIDLU",
+  "duration_seconds": 46,
+  "wps": 4.76,
+  "total_words": 219,
+  "language_mix": {
+    "hindi": 98.5,
+    "english": 1.5,
+    "total_chars": 792
+  },
+  "hook": {
+    "type": "statement",
+    "text": "अंबानी ने Jio S सिम के साथ-साथ ना फ्री का फोन भी निकाला था पर बहुत गंदी तरह फेल हो गए थे। इन्होंने 2016 के अंदर लाइफ मोबाइल के नाम से एक कंपनी शुरू की थी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "किसी और ब्रांड को नहीं दोगे। तो फिर अंबानी ने सोचा कि भैया खुद का प्रोसेसर बना नहीं सकते। दूसरों से हम ले नहीं पा रहे"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "मोबाइल",
+      "count": 7
+    },
+    {
+      "word": "थे",
+      "count": 5
+    },
+    {
+      "word": "अंदर",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "सिम",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "लाइफ",
+      "count": 4
+    },
+    {
+      "word": "रहे",
+      "count": 4
+    },
+    {
+      "word": "प्रोसेसर",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "jio",
+      "count": 3
+    },
+    {
+      "word": "फ्री",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "jio s",
+      "count": 3
+    },
+    {
+      "phrase": "s सिम",
+      "count": 3
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 3
+    },
+    {
+      "phrase": "मोबाइल के",
+      "count": 3
+    },
+    {
+      "phrase": "रहे थे",
+      "count": 3
+    },
+    {
+      "phrase": "अंबानी ने",
+      "count": 2
+    },
+    {
+      "phrase": "लाइफ मोबाइल",
+      "count": 2
+    },
+    {
+      "phrase": "थी जिसके",
+      "count": 2
+    },
+    {
+      "phrase": "थे और",
+      "count": 2
+    },
+    {
+      "phrase": "अनलिमिटेड इंटरनेट",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "h4yUsGlT3xs",
+  "duration_seconds": 37,
+  "wps": 3.49,
+  "total_words": 129,
+  "language_mix": {
+    "hindi": 72.8,
+    "english": 27.2,
+    "total_chars": 463
+  },
+  "hook": {
+    "type": "direct_address",
+    "text": "most ofఫ్ అour agony most ofఫ్ అour pain comes from a confused mind so now when we right we are thinking in high resolution we are actచుुలి putting down"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "गेटिंग इन द वे एंड देन यू कैन डिसाइड व्हाट टू डू विथ इट सी हैंड्स गो"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "दैट",
+      "count": 7
+    },
+    {
+      "word": "एंड",
+      "count": 5
+    },
+    {
+      "word": "यू",
+      "count": 5
+    },
+    {
+      "word": "we",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "मी",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 3
+    },
+    {
+      "word": "most",
+      "count": 2
+    },
+    {
+      "word": "ofఫ్",
+      "count": 2
+    },
+    {
+      "word": "అour",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "हाउ",
+      "count": 2
+    },
+    {
+      "word": "डस",
+      "count": 2
+    },
+    {
+      "word": "पर्सन",
+      "count": 2
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "वे",
+      "count": 2
+    },
+    {
+      "word": "विथ",
+      "count": 2
+    },
+    {
+      "word": "कैन",
+      "count": 2
+    },
+    {
+      "word": "एक्चुअली",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इन द",
+      "count": 3
+    },
+    {
+      "phrase": "most ofఫ్",
+      "count": 2
+    },
+    {
+      "phrase": "ofఫ్ అour",
+      "count": 2
+    },
+    {
+      "phrase": "we are",
+      "count": 2
+    },
+    {
+      "phrase": "हाउ डस",
+      "count": 2
+    },
+    {
+      "phrase": "डस दैट",
+      "count": 2
+    },
+    {
+      "phrase": "द पर्सन",
+      "count": 2
+    },
+    {
+      "phrase": "पर्सन दैट",
+      "count": 2
+    },
+    {
+      "phrase": "दैट आई",
+      "count": 2
+    },
+    {
+      "phrase": "द वे",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

@@ -1,0 +1,17 @@
+{
+  "video_id": "jNTbBzT40Fg",
+  "language": "unknown",
+  "source": "chrome-headless",
+  "segments": [
+    {
+      "start": 0,
+      "duration": 8,
+      "text": "second step is something i like to call the yes or no rule whenever you're trying to make a decision big or small ask yourself if i'm saying yes to this"
+    },
+    {
+      "start": 8,
+      "duration": 3.0,
+      "text": "what am i saying no to hear what your mind has to tell you then decide if it is worth it"
+    }
+  ]
+}

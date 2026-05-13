@@ -1,0 +1,148 @@
+{
+  "video_id": "i6xLvNDJboI",
+  "duration_seconds": 55,
+  "wps": 3.09,
+  "total_words": 170,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 757
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "There is a temple in India built"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "more."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 15
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "was",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 4
+    },
+    {
+      "word": "temple",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "not",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "water",
+      "count": 3
+    },
+    {
+      "word": "well",
+      "count": 3
+    },
+    {
+      "word": "they",
+      "count": 3
+    },
+    {
+      "word": "built",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "entire",
+      "count": 2
+    },
+    {
+      "word": "deep",
+      "count": 2
+    },
+    {
+      "word": "into",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "a temple",
+      "count": 2
+    },
+    {
+      "phrase": "temple in",
+      "count": 2
+    },
+    {
+      "phrase": "not just",
+      "count": 2
+    },
+    {
+      "phrase": "the entire",
+      "count": 2
+    },
+    {
+      "phrase": "there is",
+      "count": 1
+    },
+    {
+      "phrase": "is a",
+      "count": 1
+    },
+    {
+      "phrase": "in india",
+      "count": 1
+    },
+    {
+      "phrase": "india built",
+      "count": 1
+    },
+    {
+      "phrase": "built completely",
+      "count": 1
+    },
+    {
+      "phrase": "completely upside",
+      "count": 1
+    }
+  ],
+  "segment_count": 26
+}

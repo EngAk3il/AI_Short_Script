@@ -1,0 +1,148 @@
+{
+  "video_id": "4qjmB5YSUG0",
+  "duration_seconds": 50,
+  "wps": 2.08,
+  "total_words": 104,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 381
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह है गुजरात के कच्छ की ट्रेडिशनल ड्रेस।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आ"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "पहनते",
+      "count": 4
+    },
+    {
+      "word": "ड्रेस",
+      "count": 3
+    },
+    {
+      "word": "कंजरी",
+      "count": 3
+    },
+    {
+      "word": "यही",
+      "count": 3
+    },
+    {
+      "word": "कच्छ",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "इसको",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 2
+    },
+    {
+      "word": "कहते",
+      "count": 2
+    },
+    {
+      "word": "पठानी",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "बहुत",
+      "count": 2
+    },
+    {
+      "word": "यह",
+      "count": 1
+    },
+    {
+      "word": "गुजरात",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यही पहनते",
+      "count": 3
+    },
+    {
+      "phrase": "पहनते हैं",
+      "count": 3
+    },
+    {
+      "phrase": "है ये",
+      "count": 2
+    },
+    {
+      "phrase": "है इसको",
+      "count": 2
+    },
+    {
+      "phrase": "इसको क्या",
+      "count": 2
+    },
+    {
+      "phrase": "क्या कहते",
+      "count": 2
+    },
+    {
+      "phrase": "कहते हैं",
+      "count": 2
+    },
+    {
+      "phrase": "ये कंजरी",
+      "count": 2
+    },
+    {
+      "phrase": "पठानी ड्रेस",
+      "count": 2
+    },
+    {
+      "phrase": "यह है",
+      "count": 1
+    }
+  ],
+  "segment_count": 23
+}

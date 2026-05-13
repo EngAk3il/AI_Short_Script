@@ -1,0 +1,149 @@
+{
+  "video_id": "6gp0U-Kxx-8",
+  "duration_seconds": 60,
+  "wps": 3.12,
+  "total_words": 187,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 817
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This hand sketch 6 hours of work. This pixel perfect app mockup 10 seconds flat. It's Google's AI toolkit and I will tell you how you can get it for"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "verify your college ID and start creating today."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "your",
+      "count": 7
+    },
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "get",
+      "count": 6
+    },
+    {
+      "word": "this",
+      "count": 5
+    },
+    {
+      "word": "you",
+      "count": 5
+    },
+    {
+      "word": "just",
+      "count": 4
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "can",
+      "count": 3
+    },
+    {
+      "word": "for",
+      "count": 3
+    },
+    {
+      "word": "idea",
+      "count": 3
+    },
+    {
+      "word": "gemini",
+      "count": 3
+    },
+    {
+      "word": "all",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 2
+    },
+    {
+      "word": "google's",
+      "count": 2
+    },
+    {
+      "word": "will",
+      "count": 2
+    },
+    {
+      "word": "tell",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "google's ai",
+      "count": 2
+    },
+    {
+      "phrase": "you can",
+      "count": 2
+    },
+    {
+      "phrase": "can get",
+      "count": 2
+    },
+    {
+      "phrase": "for free",
+      "count": 2
+    },
+    {
+      "phrase": "you'll get",
+      "count": 2
+    },
+    {
+      "phrase": "gemini pro",
+      "count": 2
+    },
+    {
+      "phrase": "just type",
+      "count": 2
+    },
+    {
+      "phrase": "this hand",
+      "count": 1
+    },
+    {
+      "phrase": "hand sketch",
+      "count": 1
+    },
+    {
+      "phrase": "sketch 6",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

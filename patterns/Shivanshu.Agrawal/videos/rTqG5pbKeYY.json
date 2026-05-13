@@ -1,0 +1,148 @@
+{
+  "video_id": "rTqG5pbKeYY",
+  "duration_seconds": 53,
+  "wps": 3.94,
+  "total_words": 209,
+  "language_mix": {
+    "hindi": 98.7,
+    "english": 1.3,
+    "total_chars": 783
+  },
+  "hook": {
+    "type": "statement",
+    "text": "वर्ल्ड वॉर तू की इस पिक्चर को ध्यान से देखिए इसमें उस आर्मी के 4 सोल्जर्स एक मिलिट्री टैंक को अपने कंधों पे उठा हुए हैं पर कैसे वेल ये कोई मामूली सोल्जर्स"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "स्पीकर्स का उसे किया और हिटलर के आर्मी को कंफ्यूज करके असली क्रॉसिंग से दूर खींच लिया अल्टीमेटली उन 30000 सोल्जर्स की जान बच गई"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "आर्मी",
+      "count": 12
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "उस",
+      "count": 5
+    },
+    {
+      "word": "सोल्जर्स",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "घोस्ट",
+      "count": 3
+    },
+    {
+      "word": "यूनिट",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "हिटलर",
+      "count": 3
+    },
+    {
+      "word": "टैंक्स",
+      "count": 3
+    },
+    {
+      "word": "कैनंस",
+      "count": 3
+    },
+    {
+      "word": "असली",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "उस आर्मी",
+      "count": 3
+    },
+    {
+      "phrase": "आर्मी के",
+      "count": 3
+    },
+    {
+      "phrase": "घोस्ट आर्मी",
+      "count": 3
+    },
+    {
+      "phrase": "वर्ल्ड वॉर",
+      "count": 2
+    },
+    {
+      "phrase": "उस की",
+      "count": 2
+    },
+    {
+      "phrase": "के टाइम",
+      "count": 2
+    },
+    {
+      "phrase": "टाइम पे",
+      "count": 2
+    },
+    {
+      "phrase": "पे हिटलर",
+      "count": 2
+    },
+    {
+      "phrase": "हिटलर के",
+      "count": 2
+    },
+    {
+      "phrase": "के आर्मी",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

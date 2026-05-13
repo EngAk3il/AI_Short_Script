@@ -1,0 +1,149 @@
+{
+  "video_id": "IctSYdXXFwI",
+  "duration_seconds": 28,
+  "wps": 4.07,
+  "total_words": 114,
+  "language_mix": {
+    "hindi": 90.2,
+    "english": 9.8,
+    "total_chars": 428
+  },
+  "hook": {
+    "type": "statement",
+    "text": "कि 10 ₹100 के अंदर 16 Pro Max मिलने वाले हैं। ऐसे काफी चीजें तुम्हें यूटर्स आके बताएंगे पर फंसना मत। एक्सक्लूसिव डील के नाम पे ये लोग तुम्हें Telegram के ऊपर ले"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नहीं। तो तुम्हारे फेवरेट क्रिएटर्स को पनीर मिल रहा है, इसके चक्कर में अपने त्यौहार मत खराब कर"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "अंदर",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "तुम्हें",
+      "count": 2
+    },
+    {
+      "word": "मत",
+      "count": 2
+    },
+    {
+      "word": "एक्सक्लूसिव",
+      "count": 2
+    },
+    {
+      "word": "नाम",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "लोग",
+      "count": 2
+    },
+    {
+      "word": "telegram",
+      "count": 2
+    },
+    {
+      "word": "₹10,000",
+      "count": 2
+    },
+    {
+      "word": "मिल",
+      "count": 2
+    },
+    {
+      "word": "सारा",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 1
+    },
+    {
+      "word": "10",
+      "count": 1
+    },
+    {
+      "word": "₹100",
+      "count": 1
+    },
+    {
+      "word": "16",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "के नाम",
+      "count": 2
+    },
+    {
+      "phrase": "नाम पे",
+      "count": 2
+    },
+    {
+      "phrase": "पे ये",
+      "count": 2
+    },
+    {
+      "phrase": "ये लोग",
+      "count": 2
+    },
+    {
+      "phrase": "telegram के",
+      "count": 2
+    },
+    {
+      "phrase": "कि 10",
+      "count": 1
+    },
+    {
+      "phrase": "10 ₹100",
+      "count": 1
+    },
+    {
+      "phrase": "₹100 के",
+      "count": 1
+    },
+    {
+      "phrase": "अंदर 16",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

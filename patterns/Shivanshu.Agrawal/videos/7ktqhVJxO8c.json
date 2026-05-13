@@ -1,0 +1,148 @@
+{
+  "video_id": "7ktqhVJxO8c",
+  "duration_seconds": 54,
+  "wps": 3.89,
+  "total_words": 210,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 744
+  },
+  "hook": {
+    "type": "statement",
+    "text": "तीन ऐसे रेयर हिस्टोरिकल पिक्चर्स जो आपको सरप्राइज कर देगी नंबर वैन इस 1945 की इमेज में एक बच्चा बहुत ज्यादा खुश है पर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ही डेप्थ था लेकिन एक हियरिंग गेट की मदद से लाइफ में पहली बार इसने साउंड को सुना और इसीलिए ये रिएक्शन"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "की",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "ये",
+      "count": 6
+    },
+    {
+      "word": "डॉक्टर",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "इस",
+      "count": 4
+    },
+    {
+      "word": "इमेज",
+      "count": 4
+    },
+    {
+      "word": "बच्चा",
+      "count": 4
+    },
+    {
+      "word": "हिटलर",
+      "count": 4
+    },
+    {
+      "word": "बार",
+      "count": 4
+    },
+    {
+      "word": "नंबर",
+      "count": 3
+    },
+    {
+      "word": "बहुत",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "लेकिन",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "ऐसे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "की इमेज",
+      "count": 3
+    },
+    {
+      "phrase": "में एक",
+      "count": 2
+    },
+    {
+      "phrase": "बच्चा बहुत",
+      "count": 2
+    },
+    {
+      "phrase": "नए शूज",
+      "count": 2
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 2
+    },
+    {
+      "phrase": "में हिटलर",
+      "count": 2
+    },
+    {
+      "phrase": "हिटलर की",
+      "count": 2
+    },
+    {
+      "phrase": "की मदर",
+      "count": 2
+    },
+    {
+      "phrase": "मदर को",
+      "count": 2
+    },
+    {
+      "phrase": "इस डॉक्टर",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

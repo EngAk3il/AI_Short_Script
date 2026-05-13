@@ -1,0 +1,98 @@
+{
+  "total_videos": 77,
+  "pacing": {
+    "avg_wps": 2.89,
+    "min_wps": 0.1,
+    "max_wps": 4.0
+  },
+  "language": {
+    "avg_hindi_pct": 35.6,
+    "avg_english_pct": 64.4
+  },
+  "hook_types": {
+    "general_statement": 45,
+    "question": 24,
+    "statement": 4,
+    "imagination": 2,
+    "direct_address": 2
+  },
+  "closing_types": {
+    "punchline_or_open": 68,
+    "reflection": 9
+  },
+  "structures": {
+    "standard_short": 35,
+    "long_form_story": 19,
+    "detailed_explainer": 15,
+    "micro_punch": 8
+  },
+  "audience_addressing": {
+    "you (English)": 45,
+    "neutral/third_person": 22,
+    "conditional address (if you...)": 17,
+    "आप (formal)": 9,
+    "तुम लोग (informal plural)": 1
+  },
+  "vocabulary": {
+    "consistent": {},
+    "variable": {
+      "the": 41,
+      "and": 39,
+      "you": 39,
+      "to": 37,
+      "is": 36,
+      "that": 29,
+      "in": 26,
+      "यू": 26,
+      "of": 24,
+      "टू": 24,
+      "it": 20,
+      "your": 19,
+      "दैट": 19,
+      "what": 17,
+      "are": 15,
+      "with": 13,
+      "if": 13,
+      "इट": 13,
+      "this": 12,
+      "आर": 12
+    },
+    "rare": {
+      "एंड": 11,
+      "इन": 11,
+      "इज": 11,
+      "योर": 11,
+      "we": 10,
+      "ऑफ": 10,
+      "you're": 9,
+      "for": 9,
+      "और": 9,
+      "when": 8,
+      "है": 8,
+      "not": 7,
+      "do": 7,
+      "about": 7,
+      "फॉर": 7
+    }
+  },
+  "sample_hooks": [
+    "It's probably the hardest it's ever been. We need to guard our creativity,",
+    "here are three unique ways to look at",
+    "it is okay to have a weakness what makes a difference is being consciously aware of it and recognizing the different ways",
+    "By not trying at all, by giving into hopelessness, I'm even robbing myself of that opportunity that's possible.",
+    "Imagine that you're driving a car in the",
+    "you've reached your friendship test unpopular opinion your true friends are not only those who stick with you in difficult times it's easy to support",
+    "three books I'm obsessed with and why number one don't sweat the small stuff it allows you to learn different ways to",
+    "when you feel scattered when your brain feels scattered Dr Andrew hubman talks about this Focus tool just extend your"
+  ],
+  "sample_closings": [
+    "pay attention to now will decide what your life looks like in the next few years.",
+    "think about it",
+    "in which it is a hurdle to the kind of life you want to live",
+    "at least I take that",
+    "to give me my answers.",
+    "them close because they are rare and you if your friend sent you this real they want to let you know that they are very grateful for the day that they met you",
+    "to that problem in this book and you will find a fresh perspective of how to look at the same problem in this book try it out",
+    "you can also Focus your cognitive"
+  ]
+}

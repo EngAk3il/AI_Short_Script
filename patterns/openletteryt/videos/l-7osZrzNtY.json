@@ -1,0 +1,148 @@
+{
+  "video_id": "l-7osZrzNtY",
+  "duration_seconds": 109,
+  "wps": 4.03,
+  "total_words": 439,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1700
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "भारतीयों का सोशल मीडिया पे पजीत-पजीत कह"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "नहीं आती।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 19
+    },
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "हैं",
+      "count": 12
+    },
+    {
+      "word": "भी",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "अगेंस्ट",
+      "count": 7
+    },
+    {
+      "word": "तक",
+      "count": 6
+    },
+    {
+      "word": "बात",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "देखो",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 5
+    },
+    {
+      "word": "रहे",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "वहां",
+      "count": 5
+    },
+    {
+      "word": "भारतीयों",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "जाता",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अगेंस्ट",
+      "count": 7
+    },
+    {
+      "phrase": "जाता है",
+      "count": 4
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 4
+    },
+    {
+      "phrase": "भारतीयों के",
+      "count": 3
+    },
+    {
+      "phrase": "हैं और",
+      "count": 3
+    },
+    {
+      "phrase": "कर रहा",
+      "count": 3
+    },
+    {
+      "phrase": "वहां पर",
+      "count": 3
+    },
+    {
+      "phrase": "इस बात",
+      "count": 3
+    },
+    {
+      "phrase": "सोशल मीडिया",
+      "count": 2
+    },
+    {
+      "phrase": "रहा है",
+      "count": 2
+    }
+  ],
+  "segment_count": 56
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "OgA5WvHmIow",
+  "duration_seconds": 62,
+  "wps": 3.21,
+  "total_words": 199,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 745
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "बेंगलुरु ऑटो ड्राइवर्स के इस ऐप ने u की धजिया उड़ा दी है ला u अपने ड्राइवर से अप टू 30 कमीशन चार्ज करते हैं मतलब 100"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "u के मार्केट को डिसर पट कर रही है"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 5
+    },
+    {
+      "word": "ऑटो",
+      "count": 4
+    },
+    {
+      "word": "ड्राइवर्स",
+      "count": 4
+    },
+    {
+      "word": "ड्राइवर",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "नम्मा",
+      "count": 4
+    },
+    {
+      "word": "यात्री",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "बेंगलुरु",
+      "count": 3
+    },
+    {
+      "word": "ऐप",
+      "count": 3
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "ला",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "नम्मा यात्री",
+      "count": 4
+    },
+    {
+      "phrase": "ऑटो ड्राइवर्स",
+      "count": 2
+    },
+    {
+      "phrase": "ड्राइवर्स के",
+      "count": 2
+    },
+    {
+      "phrase": "इस ऐप",
+      "count": 2
+    },
+    {
+      "phrase": "ला u",
+      "count": 2
+    },
+    {
+      "phrase": "ड्राइवर से",
+      "count": 2
+    },
+    {
+      "phrase": "अप टू",
+      "count": 2
+    },
+    {
+      "phrase": "कमीशन चार्ज",
+      "count": 2
+    },
+    {
+      "phrase": "पेमेंट भी",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

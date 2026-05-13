@@ -1,0 +1,148 @@
+{
+  "video_id": "akZCyFenbAY",
+  "duration_seconds": 58,
+  "wps": 3.1,
+  "total_words": 180,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 761
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया के जी-20 में हुई इस अनाउंसमेंट ने चीन को टेंशन में दाल दिया है ये अनाउंसमेंट थी इंडिया मिडिल ईस्ट यूरोप इकोनामिक कॉरिडोर बनाने की इस कॉरिडोर में"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "सामने आएगा और चीन की इन्फ्लुएंस को स्ट्रांग्ली काउंटर करेगा ऐसे और वीडियो के लिए चैनल को सब्सक्राइब करें"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "इंडिया",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "चीन",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "मिडिल",
+      "count": 5
+    },
+    {
+      "word": "ईस्ट",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "कॉरिडोर",
+      "count": 4
+    },
+    {
+      "word": "कनेक्ट",
+      "count": 4
+    },
+    {
+      "word": "इस",
+      "count": 3
+    },
+    {
+      "word": "यूरोप",
+      "count": 3
+    },
+    {
+      "word": "कंट्रीज",
+      "count": 3
+    },
+    {
+      "word": "अनाउंसमेंट",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "इकोनामिक",
+      "count": 2
+    },
+    {
+      "word": "कंट्री",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मिडिल ईस्ट",
+      "count": 5
+    },
+    {
+      "phrase": "इंडिया मिडिल",
+      "count": 3
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 2
+    },
+    {
+      "phrase": "ईस्ट यूरोप",
+      "count": 2
+    },
+    {
+      "phrase": "यूरोप इकोनामिक",
+      "count": 2
+    },
+    {
+      "phrase": "इकोनामिक कॉरिडोर",
+      "count": 2
+    },
+    {
+      "phrase": "में इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "ईस्ट की",
+      "count": 2
+    },
+    {
+      "phrase": "कंट्री से",
+      "count": 2
+    },
+    {
+      "phrase": "एक सी",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

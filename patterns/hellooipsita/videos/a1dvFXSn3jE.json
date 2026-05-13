@@ -1,0 +1,148 @@
+{
+  "video_id": "a1dvFXSn3jE",
+  "duration_seconds": 54,
+  "wps": 3.37,
+  "total_words": 182,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 671
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इफ यू हैव अ लॉट ऑफ इनसिक्योरिटीज एंड इफ यू आर डिनाइल द टाइम दे बिकम स्ट्रांग दे बिकम मोर हार्ड टू डील विद डिनायल कुड बीन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "करो यहां पे ज्यादा टाइम ना ल"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 7
+    },
+    {
+      "word": "आई",
+      "count": 6
+    },
+    {
+      "word": "आर",
+      "count": 5
+    },
+    {
+      "word": "टू",
+      "count": 5
+    },
+    {
+      "word": "इट",
+      "count": 5
+    },
+    {
+      "word": "हैव",
+      "count": 4
+    },
+    {
+      "word": "ऑफ",
+      "count": 4
+    },
+    {
+      "word": "दैट",
+      "count": 4
+    },
+    {
+      "word": "योर",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "बिल्डिंग",
+      "count": 4
+    },
+    {
+      "word": "इनसिक्योरिटीज",
+      "count": 3
+    },
+    {
+      "word": "दे",
+      "count": 3
+    },
+    {
+      "word": "बट",
+      "count": 3
+    },
+    {
+      "word": "नेचुरली",
+      "count": 3
+    },
+    {
+      "word": "एनर्जी",
+      "count": 3
+    },
+    {
+      "word": "इफ",
+      "count": 2
+    },
+    {
+      "word": "टाइम",
+      "count": 2
+    },
+    {
+      "word": "बिकम",
+      "count": 2
+    },
+    {
+      "word": "डिनायल",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यू आर",
+      "count": 5
+    },
+    {
+      "phrase": "ऑफ योर",
+      "count": 3
+    },
+    {
+      "phrase": "इफ यू",
+      "count": 2
+    },
+    {
+      "phrase": "यू हैव",
+      "count": 2
+    },
+    {
+      "phrase": "दे बिकम",
+      "count": 2
+    },
+    {
+      "phrase": "डिनायल कुड",
+      "count": 2
+    },
+    {
+      "phrase": "आई डोंट",
+      "count": 2
+    },
+    {
+      "phrase": "नो दैट",
+      "count": 2
+    },
+    {
+      "phrase": "दैट आई",
+      "count": 2
+    },
+    {
+      "phrase": "आई हैव",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

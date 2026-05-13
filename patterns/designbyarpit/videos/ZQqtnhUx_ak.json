@@ -1,0 +1,148 @@
+{
+  "video_id": "ZQqtnhUx_ak",
+  "duration_seconds": 49,
+  "wps": 2.78,
+  "total_words": 136,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 606
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Samsung once launched a TV box that was"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "subscribe."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 9
+    },
+    {
+      "word": "was",
+      "count": 6
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "actually",
+      "count": 3
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "tv",
+      "count": 2
+    },
+    {
+      "word": "box",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "they",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "pattern",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "trash",
+      "count": 2
+    },
+    {
+      "word": "samsung",
+      "count": 1
+    },
+    {
+      "word": "once",
+      "count": 1
+    },
+    {
+      "word": "launched",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "was actually",
+      "count": 3
+    },
+    {
+      "phrase": "it was",
+      "count": 3
+    },
+    {
+      "phrase": "like a",
+      "count": 2
+    },
+    {
+      "phrase": "but it",
+      "count": 2
+    },
+    {
+      "phrase": "actually a",
+      "count": 2
+    },
+    {
+      "phrase": "samsung once",
+      "count": 1
+    },
+    {
+      "phrase": "once launched",
+      "count": 1
+    },
+    {
+      "phrase": "launched a",
+      "count": 1
+    },
+    {
+      "phrase": "a tv",
+      "count": 1
+    },
+    {
+      "phrase": "tv box",
+      "count": 1
+    }
+  ],
+  "segment_count": 21
+}

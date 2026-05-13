@@ -1,0 +1,148 @@
+{
+  "video_id": "x0NGfxH5Dug",
+  "duration_seconds": 58,
+  "wps": 2.62,
+  "total_words": 152,
+  "language_mix": {
+    "hindi": 97.7,
+    "english": 2.3,
+    "total_chars": 615
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इस उधार के लैपटॉप में मैंने पहली वीडियो"
+  },
+  "closing": {
+    "type": "question_to_audience",
+    "text": "कमेंट में है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "में",
+      "count": 8
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "वरुण",
+      "count": 2
+    },
+    {
+      "word": "मेरा",
+      "count": 2
+    },
+    {
+      "word": "की",
+      "count": 2
+    },
+    {
+      "word": "छोड़",
+      "count": 2
+    },
+    {
+      "word": "youtube",
+      "count": 2
+    },
+    {
+      "word": "बनाने",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "फिर",
+      "count": 2
+    },
+    {
+      "word": "मेरे",
+      "count": 2
+    },
+    {
+      "word": "साथ",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "लेकर",
+      "count": 2
+    },
+    {
+      "word": "कुछ",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "फिर भी",
+      "count": 2
+    },
+    {
+      "phrase": "मेरे साथ",
+      "count": 2
+    },
+    {
+      "phrase": "इस उधार",
+      "count": 1
+    },
+    {
+      "phrase": "उधार के",
+      "count": 1
+    },
+    {
+      "phrase": "के लैपटॉप",
+      "count": 1
+    },
+    {
+      "phrase": "लैपटॉप में",
+      "count": 1
+    },
+    {
+      "phrase": "में मैंने",
+      "count": 1
+    },
+    {
+      "phrase": "मैंने पहली",
+      "count": 1
+    },
+    {
+      "phrase": "पहली वीडियो",
+      "count": 1
+    },
+    {
+      "phrase": "वीडियो बनाई",
+      "count": 1
+    }
+  ],
+  "segment_count": 21
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "gU6Gvxzf-mQ",
+  "duration_seconds": 46,
+  "wps": 3.35,
+  "total_words": 154,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 671
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Normal money is just boring paper. But these three countries completely broke the rules. First, look at Australia."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "wind. True piece of art. Subscribe for more amazing designs."
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "money",
+      "count": 9
+    },
+    {
+      "word": "the",
+      "count": 7
+    },
+    {
+      "word": "it",
+      "count": 6
+    },
+    {
+      "word": "but",
+      "count": 5
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "normal",
+      "count": 3
+    },
+    {
+      "word": "look",
+      "count": 3
+    },
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "they",
+      "count": 3
+    },
+    {
+      "word": "put",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "of",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "boring",
+      "count": 2
+    },
+    {
+      "word": "paper",
+      "count": 2
+    },
+    {
+      "word": "at",
+      "count": 2
+    },
+    {
+      "word": "australia",
+      "count": 2
+    },
+    {
+      "word": "gets",
+      "count": 2
+    },
+    {
+      "word": "wash",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "normal money",
+      "count": 2
+    },
+    {
+      "phrase": "money is",
+      "count": 2
+    },
+    {
+      "phrase": "look at",
+      "count": 2
+    },
+    {
+      "phrase": "and it",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "the wash",
+      "count": 2
+    },
+    {
+      "phrase": "it looks",
+      "count": 2
+    },
+    {
+      "phrase": "is just",
+      "count": 1
+    },
+    {
+      "phrase": "just boring",
+      "count": 1
+    },
+    {
+      "phrase": "boring paper",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

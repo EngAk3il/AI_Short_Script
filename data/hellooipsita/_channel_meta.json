@@ -1,0 +1,470 @@
+{
+  "name": "hellooipsita",
+  "url": "https://www.youtube.com/@hellooipsita/shorts",
+  "languages": [
+    "hi",
+    "en"
+  ],
+  "last_updated": "2026-03-30T00:44:34.368381+00:00",
+  "total_discovered": 90,
+  "ingestion_stats": {
+    "total": 88,
+    "ok": 77,
+    "low_quality": 0,
+    "no_transcript": 10,
+    "no_speech": 1
+  },
+  "completion_percentage": "97.8%",
+  "videos": [
+    {
+      "video_id": "sJnv2QS5XsA",
+      "title": "Highly sensitive people need this!! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "cD9lS25M7qg",
+      "title": "Your soulmate is your OPPOSITE! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "h4yUsGlT3xs",
+      "title": "Writing will change your life! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "l1nSig6F3Is",
+      "title": "World's Tallest Temple! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "rannv5xU94E",
+      "title": "How to speak so people want to listen! #shorts #communicationskills",
+      "status": "OK"
+    },
+    {
+      "video_id": "-8v1VmAjFN0",
+      "title": "Social media is destroying your creativity? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "jVmuQoYruIo",
+      "title": "If you HATE socializing but have to, watch this! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "un8C2q1GaIw",
+      "title": "Socialising makes you anxious? #shorts",
+      "status": "NO_SPEECH"
+    },
+    {
+      "video_id": "jdgT58l9xaU",
+      "title": "Does Journaling actually work? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "hEaOqxSciGs",
+      "title": "Are you socially anxious? #shorts  #motivation",
+      "status": "OK"
+    },
+    {
+      "video_id": "20FPQucZnCc",
+      "title": "Are you feeling Hopeless? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "__1dzqvjty0",
+      "title": "What’s your Personality Color?! #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "AmSK_S_IbdE",
+      "title": "Do you Procrastinate?! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "dijyIXP3Tco",
+      "title": "Ignore the mood, stick to the plan! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "LOGH-OKuP10",
+      "title": "Get rid of your Regret forever! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "IRBm52X05BU",
+      "title": "Shortcut to Success? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "Vy0LZAFxRkI",
+      "title": "Do you have REGRETS? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "Rooc1BtAb7Y",
+      "title": "If you can’t stop scrolling, use this refocus tool! #shortsfeed",
+      "status": "OK"
+    },
+    {
+      "video_id": "oQPfasFqu54",
+      "title": "Reconnect emotionally with this card game! #letsfixit #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "bDxTruxt1j4",
+      "title": "Enough drinking games! Make way for a card game for relationships. #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "eRfTdI9a7J0",
+      "title": "Enough drinking games! Make way for a card game for relationships. #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "aRNFdGS6xYI",
+      "title": "Do you find it hard to communicate after a fight? #shorts #conflictresolution",
+      "status": "OK"
+    },
+    {
+      "video_id": "8O__-FMntwc",
+      "title": "Reconnect Emotionally with a Card Game! #shorts #letsfixit",
+      "status": "OK"
+    },
+    {
+      "video_id": "C_S0k7VgRa8",
+      "title": "For those who want to build emotional vocabulary!! Available at beingbeyond.in #letsfixit #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "DkkXN42RUoc",
+      "title": "Stop Overthinking and Start building your business.",
+      "status": "OK"
+    },
+    {
+      "video_id": "GqBuM4MvEv8",
+      "title": "Don't let perfect get in the way of Good Enough! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "3XEQoqR8RcU",
+      "title": "Why we Overthink and how to stop! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "ShSdCJYBbp0",
+      "title": "Outsmart your Overthinking with this video! #shorts #overcomeoverthinking",
+      "status": "OK"
+    },
+    {
+      "video_id": "LMwm4-lwJME",
+      "title": "Are you Worrying about the future again?? #shorts #overcomeoverthinking",
+      "status": "OK"
+    },
+    {
+      "video_id": "KPS1u3HJIDM",
+      "title": "Never Procrastinate again! #shorts #personaldevelopmentcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "_ovpuWxuil8",
+      "title": "Increase your Emotional Intelligence with THIS time-delay technique! #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "SSoLCixEpqY",
+      "title": "Stop wasting your life away! #shorts #overcomeprocrastination",
+      "status": "OK"
+    },
+    {
+      "video_id": "AHcLnQ3du8w",
+      "title": "Don’t be afraid to Fight! #shorts #conflictresolution",
+      "status": "OK"
+    },
+    {
+      "video_id": "F2weP59COxQ",
+      "title": "How to stay calm in a fight! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "AyexAskKi-8",
+      "title": "Fix your Relationships in 2025! #shorts #relationshipadvice",
+      "status": "OK"
+    },
+    {
+      "video_id": "dS8wCzsGCMM",
+      "title": "THIS is the secret to Emotional Intelligence! #shorts #emotionalintelligence",
+      "status": "OK"
+    },
+    {
+      "video_id": "ccNhoaNrqRk",
+      "title": "Your FEAR is a shortcut to develop personality! #shorts #personaldevelopmentcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "epCj_dvw8Fw",
+      "title": "Never lose self-control again! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "UMHAJxU29fQ",
+      "title": "Use Emotional intelligence to Communicate like a PRO! #shorts #masteringcommunication",
+      "status": "OK"
+    },
+    {
+      "video_id": "QPZ7HplGSC4",
+      "title": "Use THIS to become a Communication Pro! #shorts #communicationskills",
+      "status": "OK"
+    },
+    {
+      "video_id": "jGv8NWzEWC8",
+      "title": "Art of First Impressions! #shorts #communicationskills",
+      "status": "OK"
+    },
+    {
+      "video_id": "FshXtUcWGss",
+      "title": "Become a PRO Public Speaker! #shorts #publicspeaking #personaldevelopmentcoach #communicationskills",
+      "status": "OK"
+    },
+    {
+      "video_id": "iNaPJhett3U",
+      "title": "Want to Communicate like a PRO? #personaldevelopmentcoach #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "OvcZEWsEgAg",
+      "title": "Use THIS to become Emotionally Intelligent! #motivation #shorts #personalgrowthcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "S07F2ToGaX8",
+      "title": "THIS IS WHY you should Stop caring about others’ opinions of you! #shorts #motivation",
+      "status": "OK"
+    },
+    {
+      "video_id": "GzNRtBehYG0",
+      "title": "Fear of failure is NOT REAL! #shorts #personalgrowthcoach #motivation #fearoffailure",
+      "status": "OK"
+    },
+    {
+      "video_id": "GnpwtXZssXs",
+      "title": "Never get triggered again! #shorts #personaldevelopmentcoach #motivation",
+      "status": "OK"
+    },
+    {
+      "video_id": "ObuY4ZuF12g",
+      "title": "How to Plan less and DO MORE? #shorts #personaldevelopmentcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "01jV60-lNrw",
+      "title": "Are you emotionally impulsive? #shorts #personaldevelopmentcoach #motivation",
+      "status": "OK"
+    },
+    {
+      "video_id": "6y8PuQEVY2g",
+      "title": "Do you lack FOCUS? #shorts #personalgrowthcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "S-CGrjxHfr8",
+      "title": "Always worried about the FUTURE? #shorts #personalgrowthcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "uriHVnZ3nVU",
+      "title": "Do you avoid Negative Emotions? #shorts #personalgrowthcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "93QFciNSO7o",
+      "title": "Social anxiety for Introverts! #shorts #overcomesocialanxiety",
+      "status": "OK"
+    },
+    {
+      "video_id": "H8q9EUYCAYk",
+      "title": "Never be embarrassed again! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "xruEBdyjxOk",
+      "title": "Myth of happiness! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "HrQdOKPfmo0",
+      "title": "Social media in the morning is ruining your mental health! #shorts #personaldevelopmentcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "8St0oJjdEiQ",
+      "title": "How to deal with Self-doubt? #shorts #personalgrowthcoach #growthmindset",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "p75Ye-zutjk",
+      "title": "Stop taking things Personally! #shorts #overcomeoverthinking",
+      "status": "OK"
+    },
+    {
+      "video_id": "TOYCV_xozAc",
+      "title": "You don't forgive for them, you forgive for YOU. #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "Y0_ID0CXsNI",
+      "title": "Do you chase Happiness? #shorts #motivation  #procrastination",
+      "status": "OK"
+    },
+    {
+      "video_id": "q8lXv3xUpss",
+      "title": "Saying NO makes me a bad person? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "SjzRzp9HynQ",
+      "title": "Do you try to Read People? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "nX6Bb64F_MQ",
+      "title": "Are you an Introvert? #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "xoN8g7VugpM",
+      "title": "Are you about to QUIT on your dreams? #shorts #personaldevelopmentcoach",
+      "status": "OK"
+    },
+    {
+      "video_id": "rcquFIUdf74",
+      "title": "Are you a serial procrastinator?😞 #shorts #motivation #overcomeprocrastination",
+      "status": "OK"
+    },
+    {
+      "video_id": "4kL78Il_Wf8",
+      "title": "My top 3 best books ever! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "JnfcOo4G5oA",
+      "title": "Physics of Procrastination #shorts #motivation #overcomeprocrastination",
+      "status": "OK"
+    },
+    {
+      "video_id": "TmqXjEYewBw",
+      "title": "Are you Bad at saying NO? #shorts #motivation",
+      "status": "OK"
+    },
+    {
+      "video_id": "a1dvFXSn3jE",
+      "title": "The most important video you ll watch - Insecurities #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "ekzQQoSbZSA",
+      "title": "Who says sorry first in a fight? #shorts #conflictresolution #softskills",
+      "status": "OK"
+    },
+    {
+      "video_id": "MdMwBOONOi0",
+      "title": "Are you emotionally weak? #shorts #motivation",
+      "status": "OK"
+    },
+    {
+      "video_id": "w6H8C7QFJFA",
+      "title": "Overthinking your Plans? #shorts #motivation",
+      "status": "OK"
+    },
+    {
+      "video_id": "hs1htP8OAN4",
+      "title": "Are you hopeless about the future? #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "dGNoOIB5cj0",
+      "title": "Are you a serial Procrastinator? #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "xye_IBLf4xM",
+      "title": "Harsh truth for People Pleasers 👆 #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "Bp6c_pVIZf0",
+      "title": "Watch this if you are feeling STUCK! #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "wPTwEPiWqmY",
+      "title": "Why getting drunk makes you feel 'FREE'? #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "Vzr4MdbgWnw",
+      "title": "Pay more attention to your Fears than Goals? #shorts #lifecoach",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "pC5v-SaRUaU",
+      "title": "Your Genius is locked in your genes! #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "a-lVWoyLjTM",
+      "title": "What is your X-factor? Take this test #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "4_BFiHfB8kI",
+      "title": "Are they your Real Friends? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "bjrK_y4L8Lo",
+      "title": "Using Big words to sound smart? #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "wEPvXQ1uJoM",
+      "title": "Praise and Criticism are the Same thing? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "rk0jwrMK33c",
+      "title": "Are you Confident enough? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "1KmYqPfa5FA",
+      "title": "What’s your biggest Weakness? #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "VUBSne10FKY",
+      "title": "1 Book for Peace of mind 💭❤️📖 #shorts  #bookrecommendations",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "YOJSScJ5sZI",
+      "title": "How to identify True Friends❤️✨💭   #shorts #truefriendship",
+      "status": "OK"
+    },
+    {
+      "video_id": "B2qSHDAs2xs",
+      "title": "How to Stay Calm in a Fight",
+      "status": "OK"
+    },
+    {
+      "video_id": "jNTbBzT40Fg",
+      "title": "Pt. 2 Decision Making: 101 #shorts",
+      "status": "OK"
+    },
+    {
+      "video_id": "hkcZdA4JXSU",
+      "title": "Pt.1 Decision Making: 101 #shorts",
+      "status": "OK"
+    }
+  ]
+}

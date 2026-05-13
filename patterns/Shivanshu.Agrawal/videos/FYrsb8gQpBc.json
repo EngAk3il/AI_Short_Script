@@ -1,0 +1,148 @@
+{
+  "video_id": "FYrsb8gQpBc",
+  "duration_seconds": 113,
+  "wps": 2.98,
+  "total_words": 337,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 1488
+  },
+  "hook": {
+    "type": "shock_number",
+    "text": "ग्रीनलैंड की बर्फ के नीचे लाखों करोड़ों का खजाना है और ट्रंप की नजर इसी पे है। ट्रंप का कहना है कि उन्हें ग्रीनलैंड यूएस की नेशनल सिक्योरिटी के लिए चाहिए।"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिलेगी।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 19
+    },
+    {
+      "word": "है",
+      "count": 14
+    },
+    {
+      "word": "ग्रीनलैंड",
+      "count": 10
+    },
+    {
+      "word": "और",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 10
+    },
+    {
+      "word": "यूएस",
+      "count": 8
+    },
+    {
+      "word": "लिए",
+      "count": 8
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "चाहिए",
+      "count": 7
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "मिनरल्स",
+      "count": 5
+    },
+    {
+      "word": "क्रिटिकल",
+      "count": 5
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "उन्हें",
+      "count": 4
+    },
+    {
+      "word": "अगर",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "चाइना",
+      "count": 4
+    },
+    {
+      "word": "ट्रंप",
+      "count": 3
+    },
+    {
+      "word": "इसी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 8
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "यूएस की",
+      "count": 3
+    },
+    {
+      "phrase": "सिक्योरिटी के",
+      "count": 3
+    },
+    {
+      "phrase": "है तो",
+      "count": 3
+    },
+    {
+      "phrase": "को ग्रीनलैंड",
+      "count": 3
+    },
+    {
+      "phrase": "क्रिटिकल मिनरल्स",
+      "count": 3
+    },
+    {
+      "phrase": "रेयर अर्थ",
+      "count": 3
+    },
+    {
+      "phrase": "के नीचे",
+      "count": 2
+    },
+    {
+      "phrase": "लाखों करोड़ों",
+      "count": 2
+    }
+  ],
+  "segment_count": 14
+}

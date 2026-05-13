@@ -1,0 +1,148 @@
+{
+  "video_id": "pT3kUeikvsI",
+  "duration_seconds": 84,
+  "wps": 3.39,
+  "total_words": 285,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1013
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "कई बार जो नेचर है ना वो ऐसे करप्शन को"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "आवाजें दब जाती है।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 19
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "अंदर",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "पर",
+      "count": 5
+    },
+    {
+      "word": "जो",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "मनाली",
+      "count": 4
+    },
+    {
+      "word": "रही",
+      "count": 4
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "तक",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "लेकिन",
+      "count": 3
+    },
+    {
+      "word": "नदी",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "है और",
+      "count": 4
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 4
+    },
+    {
+      "phrase": "रही है",
+      "count": 4
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "मनाली के",
+      "count": 3
+    },
+    {
+      "phrase": "जा रही",
+      "count": 3
+    },
+    {
+      "phrase": "पुलिस वाले",
+      "count": 2
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 2
+    },
+    {
+      "phrase": "नदी के",
+      "count": 2
+    },
+    {
+      "phrase": "यहां पर",
+      "count": 2
+    }
+  ],
+  "segment_count": 34
+}

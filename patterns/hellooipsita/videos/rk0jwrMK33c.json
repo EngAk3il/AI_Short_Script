@@ -1,0 +1,148 @@
+{
+  "video_id": "rk0jwrMK33c",
+  "duration_seconds": 12,
+  "wps": 2.42,
+  "total_words": 29,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 148
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "confidence and self-esteem are not the same thing self-esteem is your relationship with yourself across space and time"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "and confidence is your faith in the ability to do something"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "micro_punch",
+  "top_words": [
+    {
+      "word": "and",
+      "count": 3
+    },
+    {
+      "word": "confidence",
+      "count": 2
+    },
+    {
+      "word": "self-esteem",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 1
+    },
+    {
+      "word": "not",
+      "count": 1
+    },
+    {
+      "word": "same",
+      "count": 1
+    },
+    {
+      "word": "thing",
+      "count": 1
+    },
+    {
+      "word": "relationship",
+      "count": 1
+    },
+    {
+      "word": "with",
+      "count": 1
+    },
+    {
+      "word": "yourself",
+      "count": 1
+    },
+    {
+      "word": "across",
+      "count": 1
+    },
+    {
+      "word": "space",
+      "count": 1
+    },
+    {
+      "word": "time",
+      "count": 1
+    },
+    {
+      "word": "faith",
+      "count": 1
+    },
+    {
+      "word": "in",
+      "count": 1
+    },
+    {
+      "word": "ability",
+      "count": 1
+    },
+    {
+      "word": "to",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "is your",
+      "count": 2
+    },
+    {
+      "phrase": "confidence and",
+      "count": 1
+    },
+    {
+      "phrase": "and self-esteem",
+      "count": 1
+    },
+    {
+      "phrase": "self-esteem are",
+      "count": 1
+    },
+    {
+      "phrase": "are not",
+      "count": 1
+    },
+    {
+      "phrase": "not the",
+      "count": 1
+    },
+    {
+      "phrase": "the same",
+      "count": 1
+    },
+    {
+      "phrase": "same thing",
+      "count": 1
+    },
+    {
+      "phrase": "thing self-esteem",
+      "count": 1
+    },
+    {
+      "phrase": "self-esteem is",
+      "count": 1
+    }
+  ],
+  "segment_count": 2
+}

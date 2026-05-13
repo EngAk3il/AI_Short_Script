@@ -1,0 +1,148 @@
+{
+  "video_id": "An1ZeZx0mhA",
+  "duration_seconds": 70,
+  "wps": 3.73,
+  "total_words": 261,
+  "language_mix": {
+    "hindi": 99.8,
+    "english": 0.2,
+    "total_chars": 926
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अब शादी के बाद आपको आपका सरनेम चेंज करने की कोई जरूरत नहीं है। बिकॉज़ दिस इज नॉट मैंडेटरी एस पर लॉ। क्योंकि आपको यह तो"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "है? सोच के जवाब देना। वीडियो को शेयर करना, सेव करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "शादी",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 10
+    },
+    {
+      "word": "नहीं",
+      "count": 9
+    },
+    {
+      "word": "आपका",
+      "count": 8
+    },
+    {
+      "word": "सरनेम",
+      "count": 8
+    },
+    {
+      "word": "है",
+      "count": 8
+    },
+    {
+      "word": "तो",
+      "count": 8
+    },
+    {
+      "word": "आप",
+      "count": 8
+    },
+    {
+      "word": "हो",
+      "count": 8
+    },
+    {
+      "word": "चेंज",
+      "count": 7
+    },
+    {
+      "word": "बाद",
+      "count": 6
+    },
+    {
+      "word": "आपको",
+      "count": 5
+    },
+    {
+      "word": "अगर",
+      "count": 5
+    },
+    {
+      "word": "करना",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 4
+    },
+    {
+      "word": "कि",
+      "count": 4
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "सर्टिफिकेट",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "शादी के",
+      "count": 6
+    },
+    {
+      "phrase": "के बाद",
+      "count": 6
+    },
+    {
+      "phrase": "सरनेम चेंज",
+      "count": 6
+    },
+    {
+      "phrase": "अगर आप",
+      "count": 5
+    },
+    {
+      "phrase": "हो तो",
+      "count": 5
+    },
+    {
+      "phrase": "आपका सरनेम",
+      "count": 3
+    },
+    {
+      "phrase": "आप शादी",
+      "count": 3
+    },
+    {
+      "phrase": "करते हो",
+      "count": 3
+    },
+    {
+      "phrase": "चेंज करने",
+      "count": 2
+    },
+    {
+      "phrase": "आप आपका",
+      "count": 2
+    }
+  ],
+  "segment_count": 9
+}

@@ -1,0 +1,76 @@
+{
+  "video_id": "7Au_5mGjcBg",
+  "duration_seconds": 60,
+  "wps": 0.17,
+  "total_words": 10,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 55
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "okay"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "guys"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "applause",
+      "count": 3
+    },
+    {
+      "word": "music",
+      "count": 3
+    },
+    {
+      "word": "okay",
+      "count": 1
+    },
+    {
+      "word": "all",
+      "count": 1
+    },
+    {
+      "word": "right",
+      "count": 1
+    },
+    {
+      "word": "guys",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "applause music",
+      "count": 3
+    },
+    {
+      "phrase": "music applause",
+      "count": 2
+    },
+    {
+      "phrase": "okay applause",
+      "count": 1
+    },
+    {
+      "phrase": "music all",
+      "count": 1
+    },
+    {
+      "phrase": "all right",
+      "count": 1
+    },
+    {
+      "phrase": "right guys",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

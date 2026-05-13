@@ -1,0 +1,148 @@
+{
+  "video_id": "exOKgMjpi9g",
+  "duration_seconds": 43,
+  "wps": 3.67,
+  "total_words": 158,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 527
+  },
+  "hook": {
+    "type": "question",
+    "text": "इस एक सिंपल ट्रिक से आप अपना होम लोन इंटरेस्ट फ्री करा पाओगे। यकीन नहीं आ रहा? चलो देखते हैं कैसे। मान लेते हैं"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "इंटरेस्ट फ्री करा पाओगे और साथ ही साथ आपके पास कुछ एक्स्ट्रा पैसे भी सेव हो जाएंगे। वीडियो पसंद आई तो लाइक एंड शेयर करना एंड मुझे फॉलो करना मत भूलना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "होम",
+      "count": 5
+    },
+    {
+      "word": "लोन",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "इंटरेस्ट",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "लाख",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "20",
+      "count": 3
+    },
+    {
+      "word": "सालों",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "करना",
+      "count": 3
+    },
+    {
+      "word": "हो",
+      "count": 3
+    },
+    {
+      "word": "इस",
+      "count": 2
+    },
+    {
+      "word": "अपना",
+      "count": 2
+    },
+    {
+      "word": "फ्री",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होम लोन",
+      "count": 5
+    },
+    {
+      "phrase": "लाख का",
+      "count": 3
+    },
+    {
+      "phrase": "20 सालों",
+      "count": 3
+    },
+    {
+      "phrase": "से आप",
+      "count": 2
+    },
+    {
+      "phrase": "आप अपना",
+      "count": 2
+    },
+    {
+      "phrase": "अपना होम",
+      "count": 2
+    },
+    {
+      "phrase": "लोन इंटरेस्ट",
+      "count": 2
+    },
+    {
+      "phrase": "इंटरेस्ट फ्री",
+      "count": 2
+    },
+    {
+      "phrase": "फ्री करा",
+      "count": 2
+    },
+    {
+      "phrase": "करा पाओगे",
+      "count": 2
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "eRfTdI9a7J0",
+  "duration_seconds": 50,
+  "wps": 3.18,
+  "total_words": 159,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 596
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "हाई,"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एंड ऑर्डर फॉर योरसेल्फ। श्योर आई विल डेफिनेटली रेकमेंड दिस टू माय फ्रेंड्स एंड कलीग। आई थिंक दिस वुड बी रियली हेल्पफुल।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "यू",
+      "count": 6
+    },
+    {
+      "word": "टू",
+      "count": 6
+    },
+    {
+      "word": "इट",
+      "count": 6
+    },
+    {
+      "word": "आय",
+      "count": 4
+    },
+    {
+      "word": "बी",
+      "count": 4
+    },
+    {
+      "word": "दिस",
+      "count": 4
+    },
+    {
+      "word": "आई",
+      "count": 4
+    },
+    {
+      "word": "फाइट",
+      "count": 3
+    },
+    {
+      "word": "रियली",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "योर",
+      "count": 3
+    },
+    {
+      "word": "हैव",
+      "count": 2
+    },
+    {
+      "word": "लॉट",
+      "count": 2
+    },
+    {
+      "word": "ऑफ़",
+      "count": 2
+    },
+    {
+      "word": "रिसोल्व",
+      "count": 2
+    },
+    {
+      "word": "टाइम",
+      "count": 2
+    },
+    {
+      "word": "बट",
+      "count": 2
+    },
+    {
+      "word": "अगेन",
+      "count": 2
+    },
+    {
+      "word": "ईगो",
+      "count": 2
+    },
+    {
+      "word": "लाइक",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "हैव यू",
+      "count": 2
+    },
+    {
+      "phrase": "लॉट ऑफ़",
+      "count": 2
+    },
+    {
+      "phrase": "योर फाइट",
+      "count": 2
+    },
+    {
+      "phrase": "वुड बी",
+      "count": 2
+    },
+    {
+      "phrase": "बी रियली",
+      "count": 2
+    },
+    {
+      "phrase": "रियली हेल्पफुल",
+      "count": 2
+    },
+    {
+      "phrase": "शिप इट",
+      "count": 2
+    },
+    {
+      "phrase": "हाई हेलो",
+      "count": 1
+    },
+    {
+      "phrase": "हेलो हैव",
+      "count": 1
+    },
+    {
+      "phrase": "यू एवरीवन",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

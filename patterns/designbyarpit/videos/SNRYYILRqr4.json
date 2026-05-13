@@ -1,0 +1,148 @@
+{
+  "video_id": "SNRYYILRqr4",
+  "duration_seconds": 59,
+  "wps": 2.97,
+  "total_words": 175,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 759
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This plate costs three times more than a plastic one and you should absolutely buy it because this is not just a plate."
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Subscribe for more."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "it",
+      "count": 11
+    },
+    {
+      "word": "for",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "we",
+      "count": 5
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "plate",
+      "count": 4
+    },
+    {
+      "word": "you",
+      "count": 4
+    },
+    {
+      "word": "just",
+      "count": 4
+    },
+    {
+      "word": "plastic",
+      "count": 3
+    },
+    {
+      "word": "in",
+      "count": 3
+    },
+    {
+      "word": "more",
+      "count": 2
+    },
+    {
+      "word": "is",
+      "count": 2
+    },
+    {
+      "word": "to",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "into",
+      "count": 2
+    },
+    {
+      "word": "then",
+      "count": 2
+    },
+    {
+      "word": "soil",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "and you",
+      "count": 2
+    },
+    {
+      "phrase": "this is",
+      "count": 2
+    },
+    {
+      "phrase": "it into",
+      "count": 2
+    },
+    {
+      "phrase": "the soil",
+      "count": 2
+    },
+    {
+      "phrase": "this plate",
+      "count": 1
+    },
+    {
+      "phrase": "plate costs",
+      "count": 1
+    },
+    {
+      "phrase": "costs three",
+      "count": 1
+    },
+    {
+      "phrase": "three times",
+      "count": 1
+    },
+    {
+      "phrase": "times more",
+      "count": 1
+    },
+    {
+      "phrase": "more than",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

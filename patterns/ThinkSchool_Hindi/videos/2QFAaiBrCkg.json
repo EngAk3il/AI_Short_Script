@@ -1,0 +1,148 @@
+{
+  "video_id": "2QFAaiBrCkg",
+  "duration_seconds": 129,
+  "wps": 3.29,
+  "total_words": 425,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 1800
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Why are we hearing headlines about the"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "somewhere around here."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 17
+    },
+    {
+      "word": "to",
+      "count": 17
+    },
+    {
+      "word": "is",
+      "count": 15
+    },
+    {
+      "word": ">>",
+      "count": 13
+    },
+    {
+      "word": "you",
+      "count": 9
+    },
+    {
+      "word": "luxury",
+      "count": 7
+    },
+    {
+      "word": "in",
+      "count": 7
+    },
+    {
+      "word": "it's",
+      "count": 7
+    },
+    {
+      "word": "mumbai",
+      "count": 6
+    },
+    {
+      "word": "of",
+      "count": 6
+    },
+    {
+      "word": "and",
+      "count": 6
+    },
+    {
+      "word": "location",
+      "count": 6
+    },
+    {
+      "word": "real",
+      "count": 5
+    },
+    {
+      "word": "estate",
+      "count": 5
+    },
+    {
+      "word": "why",
+      "count": 4
+    },
+    {
+      "word": "are",
+      "count": 4
+    },
+    {
+      "word": "close",
+      "count": 4
+    },
+    {
+      "word": "will",
+      "count": 4
+    },
+    {
+      "word": "about",
+      "count": 3
+    },
+    {
+      "word": "selling",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "real estate",
+      "count": 5
+    },
+    {
+      "phrase": "luxury is",
+      "count": 4
+    },
+    {
+      "phrase": "it's close",
+      "count": 4
+    },
+    {
+      "phrase": "close to",
+      "count": 4
+    },
+    {
+      "phrase": "in mumbai",
+      "count": 3
+    },
+    {
+      "phrase": "luxury market",
+      "count": 2
+    },
+    {
+      "phrase": "is selling",
+      "count": 2
+    },
+    {
+      "phrase": "selling luxury",
+      "count": 2
+    },
+    {
+      "phrase": "you know",
+      "count": 2
+    },
+    {
+      "phrase": "of gura",
+      "count": 2
+    }
+  ],
+  "segment_count": 68
+}

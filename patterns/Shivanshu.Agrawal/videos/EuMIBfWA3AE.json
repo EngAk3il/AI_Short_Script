@@ -1,0 +1,148 @@
+{
+  "video_id": "EuMIBfWA3AE",
+  "duration_seconds": 60,
+  "wps": 2.78,
+  "total_words": 167,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 684
+  },
+  "hook": {
+    "type": "statement",
+    "text": "सांप सीढ़ी का यह गेम एक बहुत बड़ा झूठ है क्योंकि इसका ओरिजिनल वर्जन बना था हमारे"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "ही कोई टीचिंग्स और सैडली आज ज्यादातर इंडियंस भी केवल इस नए वर्जन को जानते"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "और",
+      "count": 8
+    },
+    {
+      "word": "गेम",
+      "count": 5
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "था",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "क्वालिटीज",
+      "count": 4
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "थे",
+      "count": 3
+    },
+    {
+      "word": "के",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "एक",
+      "count": 2
+    },
+    {
+      "word": "इसका",
+      "count": 2
+    },
+    {
+      "word": "वर्जन",
+      "count": 2
+    },
+    {
+      "word": "बना",
+      "count": 2
+    },
+    {
+      "word": "होता",
+      "count": 2
+    },
+    {
+      "word": "सीढ़ियां",
+      "count": 2
+    },
+    {
+      "word": "पॉजिटिव",
+      "count": 2
+    },
+    {
+      "word": "जैसे",
+      "count": 2
+    },
+    {
+      "word": "करती",
+      "count": 2
+    },
+    {
+      "word": "वहीं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "होता था",
+      "count": 2
+    },
+    {
+      "phrase": "गेम की",
+      "count": 2
+    },
+    {
+      "phrase": "पॉजिटिव क्वालिटीज",
+      "count": 2
+    },
+    {
+      "phrase": "क्वालिटीज जैसे",
+      "count": 2
+    },
+    {
+      "phrase": "करती थी",
+      "count": 2
+    },
+    {
+      "phrase": "वहीं स्नेक्स",
+      "count": 2
+    },
+    {
+      "phrase": "नेगेटिव क्वालिटीज",
+      "count": 2
+    },
+    {
+      "phrase": "क्वालिटीज के",
+      "count": 2
+    },
+    {
+      "phrase": "ना ही",
+      "count": 2
+    },
+    {
+      "phrase": "ही कोई",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

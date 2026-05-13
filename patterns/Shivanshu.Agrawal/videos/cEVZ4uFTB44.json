@@ -1,0 +1,148 @@
+{
+  "video_id": "cEVZ4uFTB44",
+  "duration_seconds": 62,
+  "wps": 3.77,
+  "total_words": 234,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 946
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "मैंने अपनी इस वेबसाइट को बिल्कुल फ्री"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "वेबसाइट बनाओ कुछ ही मिनट्स में y"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "वेबसाइट",
+      "count": 10
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "कीजिए",
+      "count": 7
+    },
+    {
+      "word": "है",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "अपनी",
+      "count": 4
+    },
+    {
+      "word": "फ्री",
+      "count": 4
+    },
+    {
+      "word": "पे",
+      "count": 4
+    },
+    {
+      "word": "लिए",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 3
+    },
+    {
+      "word": "बिल्कुल",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "या",
+      "count": 3
+    },
+    {
+      "word": "कुछ",
+      "count": 3
+    },
+    {
+      "word": "सिंपल",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "करके",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "बिल्कुल फ्री",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "फ्री में",
+      "count": 2
+    },
+    {
+      "phrase": "आप एक",
+      "count": 2
+    },
+    {
+      "phrase": "कुछ भी",
+      "count": 2
+    },
+    {
+      "phrase": "की एक",
+      "count": 2
+    },
+    {
+      "phrase": "एक सिंपल",
+      "count": 2
+    },
+    {
+      "phrase": "एक वेबसाइट",
+      "count": 2
+    },
+    {
+      "phrase": "सिलेक्ट कीजिए",
+      "count": 2
+    },
+    {
+      "phrase": "कीजिए या",
+      "count": 2
+    }
+  ],
+  "segment_count": 31
+}

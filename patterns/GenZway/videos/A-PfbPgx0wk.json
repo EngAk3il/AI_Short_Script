@@ -1,0 +1,149 @@
+{
+  "video_id": "A-PfbPgx0wk",
+  "duration_seconds": 28,
+  "wps": 5.14,
+  "total_words": 144,
+  "language_mix": {
+    "hindi": 97.4,
+    "english": 2.6,
+    "total_chars": 460
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया में Zomato Swiggy के साथ जितने स्कैम कर लो उतने कम है। भाई लोग नए-नए तरीके ढूंढ के लाते ही रहते हैं। पता नहीं कहां से। तुमने ऑलमोस्ट हर वेबसाइट और हर"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "से ₹15 के अंदर आप लोग ओटीपी खरीद सकते हो। और वो ₹15 के ओटीपी से आप लोग एक काम करो खाने के ऊपर ना ₹300 का ऑफ ले लो।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "लोग",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "हर",
+      "count": 3
+    },
+    {
+      "word": "आप",
+      "count": 3
+    },
+    {
+      "word": "लो",
+      "count": 2
+    },
+    {
+      "word": "है",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    },
+    {
+      "word": "वेबसाइट",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "सिम",
+      "count": 2
+    },
+    {
+      "word": "ऊपर",
+      "count": 2
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "नया",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "ऊपर ना",
+      "count": 2
+    },
+    {
+      "phrase": "एक नया",
+      "count": 2
+    },
+    {
+      "phrase": "कर लिया",
+      "count": 2
+    },
+    {
+      "phrase": "अंदर आप",
+      "count": 2
+    },
+    {
+      "phrase": "₹15 के",
+      "count": 2
+    },
+    {
+      "phrase": "आप लोग",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 1
+    },
+    {
+      "phrase": "में zomato",
+      "count": 1
+    },
+    {
+      "phrase": "zomato swiggy",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

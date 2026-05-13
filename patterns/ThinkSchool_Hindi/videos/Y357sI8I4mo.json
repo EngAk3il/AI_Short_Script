@@ -1,0 +1,149 @@
+{
+  "video_id": "Y357sI8I4mo",
+  "duration_seconds": 25,
+  "wps": 3.48,
+  "total_words": 87,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 358
+  },
+  "hook": {
+    "type": "question",
+    "text": "आपका प्रोडक्ट डिफरेंशिएशन जितना ज्यादा है उतना आपका मार्केटिंग और ब्रांडिंग इजी पड़ेगा। पर अगर मैं अपने गुड ग्लैम के पोर्टफोलियो में देखूं सिरोना जो ब्रांड"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "प्रोडक्ट व्हिच मेड श्योर कि द प्रोडक्ट्स आर वेल डिफरशिएटेड।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "प्रोडक्ट",
+      "count": 3
+    },
+    {
+      "word": "था",
+      "count": 3
+    },
+    {
+      "word": "वो",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "आपका",
+      "count": 2
+    },
+    {
+      "word": "और",
+      "count": 2
+    },
+    {
+      "word": "इजी",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "ब्रांड",
+      "count": 2
+    },
+    {
+      "word": "लिए",
+      "count": 2
+    },
+    {
+      "word": "कोई",
+      "count": 2
+    },
+    {
+      "word": "डिफरेंशिएशन",
+      "count": 1
+    },
+    {
+      "word": "जितना",
+      "count": 1
+    },
+    {
+      "word": "ज्यादा",
+      "count": 1
+    },
+    {
+      "word": "उतना",
+      "count": 1
+    },
+    {
+      "word": "मार्केटिंग",
+      "count": 1
+    },
+    {
+      "word": "ब्रांडिंग",
+      "count": 1
+    },
+    {
+      "word": "पड़ेगा",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "आपका प्रोडक्ट",
+      "count": 1
+    },
+    {
+      "phrase": "प्रोडक्ट डिफरेंशिएशन",
+      "count": 1
+    },
+    {
+      "phrase": "डिफरेंशिएशन जितना",
+      "count": 1
+    },
+    {
+      "phrase": "जितना ज्यादा",
+      "count": 1
+    },
+    {
+      "phrase": "ज्यादा है",
+      "count": 1
+    },
+    {
+      "phrase": "है उतना",
+      "count": 1
+    },
+    {
+      "phrase": "उतना आपका",
+      "count": 1
+    },
+    {
+      "phrase": "आपका मार्केटिंग",
+      "count": 1
+    },
+    {
+      "phrase": "मार्केटिंग और",
+      "count": 1
+    },
+    {
+      "phrase": "और ब्रांडिंग",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}

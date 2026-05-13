@@ -1,0 +1,148 @@
+{
+  "video_id": "ZAbgonqnEJA",
+  "duration_seconds": 39,
+  "wps": 2.33,
+  "total_words": 91,
+  "language_mix": {
+    "hindi": 99.4,
+    "english": 0.6,
+    "total_chars": 337
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "यह इंडिया का इकलौता नेचुरली फ्लोटिंग"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "यहां?"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "की",
+      "count": 3
+    },
+    {
+      "word": "दारू",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 2
+    },
+    {
+      "word": "फ्लोटिंग",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "यहां",
+      "count": 2
+    },
+    {
+      "word": "पर",
+      "count": 2
+    },
+    {
+      "word": "वीमेन",
+      "count": 2
+    },
+    {
+      "word": "अल्कोहल",
+      "count": 2
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "ये",
+      "count": 2
+    },
+    {
+      "word": "इंडिया",
+      "count": 1
+    },
+    {
+      "word": "इकलौता",
+      "count": 1
+    },
+    {
+      "word": "नेचुरली",
+      "count": 1
+    },
+    {
+      "word": "विलेज",
+      "count": 1
+    },
+    {
+      "word": "इन",
+      "count": 1
+    },
+    {
+      "word": "हाउसेस",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ये दारू",
+      "count": 2
+    },
+    {
+      "phrase": "यह इंडिया",
+      "count": 1
+    },
+    {
+      "phrase": "इंडिया का",
+      "count": 1
+    },
+    {
+      "phrase": "का इकलौता",
+      "count": 1
+    },
+    {
+      "phrase": "इकलौता नेचुरली",
+      "count": 1
+    },
+    {
+      "phrase": "नेचुरली फ्लोटिंग",
+      "count": 1
+    },
+    {
+      "phrase": "फ्लोटिंग विलेज",
+      "count": 1
+    },
+    {
+      "phrase": "विलेज इन",
+      "count": 1
+    },
+    {
+      "phrase": "इन फ्लोटिंग",
+      "count": 1
+    },
+    {
+      "phrase": "फ्लोटिंग हाउसेस",
+      "count": 1
+    }
+  ],
+  "segment_count": 15
+}

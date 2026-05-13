@@ -1,0 +1,148 @@
+{
+  "video_id": "PX7Nyj-LFTo",
+  "duration_seconds": 61,
+  "wps": 3.03,
+  "total_words": 185,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 797
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया की एक ऐसी यूनिवर्सिटी जिसके सामने हर शब्द और कैंब्रिज कुछ भी नहीं है करीब 1600 साल पहले गुप्ता डायनेस्टी के एक रोलर ने असिएंट नालंदा यूनिवर्सिटी को आज"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "किताबें इतनी ज्यादा थी की वो करीब 3 महीने तक जलती"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "यूनिवर्सिटी",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "थे",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "थी",
+      "count": 4
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "ज्यादा",
+      "count": 3
+    },
+    {
+      "word": "इतनी",
+      "count": 3
+    },
+    {
+      "word": "कुछ",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "करीब",
+      "count": 2
+    },
+    {
+      "word": "साल",
+      "count": 2
+    },
+    {
+      "word": "के",
+      "count": 2
+    },
+    {
+      "word": "रोलर",
+      "count": 2
+    },
+    {
+      "word": "ने",
+      "count": 2
+    },
+    {
+      "word": "नालंदा",
+      "count": 2
+    },
+    {
+      "word": "आज",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "यूनिवर्सिटी में",
+      "count": 3
+    },
+    {
+      "phrase": "नालंदा यूनिवर्सिटी",
+      "count": 2
+    },
+    {
+      "phrase": "इस यूनिवर्सिटी",
+      "count": 2
+    },
+    {
+      "phrase": "था ये",
+      "count": 2
+    },
+    {
+      "phrase": "से ज्यादा",
+      "count": 2
+    },
+    {
+      "phrase": "थी की",
+      "count": 2
+    },
+    {
+      "phrase": "इंडिया की",
+      "count": 1
+    },
+    {
+      "phrase": "की एक",
+      "count": 1
+    },
+    {
+      "phrase": "एक ऐसी",
+      "count": 1
+    },
+    {
+      "phrase": "ऐसी यूनिवर्सिटी",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

@@ -1,0 +1,149 @@
+{
+  "video_id": "d9SFxs1Miq0",
+  "duration_seconds": 63,
+  "wps": 3.97,
+  "total_words": 250,
+  "language_mix": {
+    "hindi": 99.5,
+    "english": 0.5,
+    "total_chars": 942
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इस तेल से लोगों द्वारा तहसील सुनते ही"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "प्रोफेशन है इससे ज्यादा पैसा किसी भी भेज"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 9
+    },
+    {
+      "word": "कर",
+      "count": 8
+    },
+    {
+      "word": "कोशिश",
+      "count": 6
+    },
+    {
+      "word": "इस",
+      "count": 5
+    },
+    {
+      "word": "आपको",
+      "count": 5
+    },
+    {
+      "word": "में",
+      "count": 5
+    },
+    {
+      "word": "कि",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 4
+    },
+    {
+      "word": "पर",
+      "count": 4
+    },
+    {
+      "word": "हूं",
+      "count": 4
+    },
+    {
+      "word": "के",
+      "count": 4
+    },
+    {
+      "word": "को",
+      "count": 4
+    },
+    {
+      "word": "वह",
+      "count": 4
+    },
+    {
+      "word": "करने",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "रहा",
+      "count": 4
+    },
+    {
+      "word": "क्या",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "अपने",
+      "count": 3
+    },
+    {
+      "word": "ट्रांजेक्शन",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर रहा",
+      "count": 4
+    },
+    {
+      "phrase": "कोशिश कर",
+      "count": 3
+    },
+    {
+      "phrase": "रहा है",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "करें कोशिश",
+      "count": 2
+    },
+    {
+      "phrase": "करने कोशिश",
+      "count": 2
+    },
+    {
+      "phrase": "कोशिश करता",
+      "count": 2
+    },
+    {
+      "phrase": "ट्रांजेक्शन करने",
+      "count": 2
+    },
+    {
+      "phrase": "करने की",
+      "count": 2
+    },
+    {
+      "phrase": "की कोशिश",
+      "count": 2
+    }
+  ],
+  "segment_count": 31
+}

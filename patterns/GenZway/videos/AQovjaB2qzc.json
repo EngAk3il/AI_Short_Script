@@ -1,0 +1,148 @@
+{
+  "video_id": "AQovjaB2qzc",
+  "duration_seconds": 34,
+  "wps": 3.91,
+  "total_words": 133,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 470
+  },
+  "hook": {
+    "type": "statement",
+    "text": "ये चार घुट संतरे का जूस मैं वेंडिंग मशीन"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मशीन को संभालने के लिए एक लड़का चाहिए।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "मशीन",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "वेंडिंग",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "ना",
+      "count": 4
+    },
+    {
+      "word": "चाहिए",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "जूस",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "ही",
+      "count": 3
+    },
+    {
+      "word": "लिए",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "अंदर",
+      "count": 2
+    },
+    {
+      "word": "भी",
+      "count": 2
+    },
+    {
+      "word": "काम",
+      "count": 2
+    },
+    {
+      "word": "कॉस्ट",
+      "count": 2
+    },
+    {
+      "word": "करना",
+      "count": 2
+    },
+    {
+      "word": "लड़का",
+      "count": 2
+    },
+    {
+      "word": "पैसे",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वेंडिंग मशीन",
+      "count": 4
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 2
+    },
+    {
+      "phrase": "ना ही",
+      "count": 2
+    },
+    {
+      "phrase": "पैसे बचे",
+      "count": 2
+    },
+    {
+      "phrase": "मशीन को",
+      "count": 2
+    },
+    {
+      "phrase": "ये चार",
+      "count": 1
+    },
+    {
+      "phrase": "चार घुट",
+      "count": 1
+    },
+    {
+      "phrase": "घुट संतरे",
+      "count": 1
+    },
+    {
+      "phrase": "संतरे का",
+      "count": 1
+    }
+  ],
+  "segment_count": 16
+}

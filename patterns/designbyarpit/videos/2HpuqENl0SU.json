@@ -1,0 +1,149 @@
+{
+  "video_id": "2HpuqENl0SU",
+  "duration_seconds": 44,
+  "wps": 3.3,
+  "total_words": 145,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 639
+  },
+  "hook": {
+    "type": "statement",
+    "text": "This looks like a boring block of paper,"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "look better, it works better. If you love clever design, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "you",
+      "count": 8
+    },
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "it",
+      "count": 6
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "into",
+      "count": 3
+    },
+    {
+      "word": "block",
+      "count": 2
+    },
+    {
+      "word": "paper",
+      "count": 2
+    },
+    {
+      "word": "usually",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "fold",
+      "count": 2
+    },
+    {
+      "word": "shape",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "better",
+      "count": 2
+    },
+    {
+      "word": "looks",
+      "count": 1
+    },
+    {
+      "word": "like",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "but this",
+      "count": 2
+    },
+    {
+      "phrase": "you are",
+      "count": 2
+    },
+    {
+      "phrase": "if you",
+      "count": 2
+    },
+    {
+      "phrase": "this looks",
+      "count": 1
+    },
+    {
+      "phrase": "looks like",
+      "count": 1
+    },
+    {
+      "phrase": "like a",
+      "count": 1
+    },
+    {
+      "phrase": "a boring",
+      "count": 1
+    },
+    {
+      "phrase": "boring block",
+      "count": 1
+    },
+    {
+      "phrase": "block of",
+      "count": 1
+    },
+    {
+      "phrase": "of paper",
+      "count": 1
+    }
+  ],
+  "segment_count": 7
+}

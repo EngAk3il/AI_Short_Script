@@ -1,0 +1,148 @@
+{
+  "video_id": "jfaQ3TwGldA",
+  "duration_seconds": 48,
+  "wps": 2.75,
+  "total_words": 132,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 550
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर मुझे बूटstrap डी टू सी ब्रांड 100"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "फंडिंग पॉसिबल है फैशन हम"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "करोड़",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "फैशन",
+      "count": 4
+    },
+    {
+      "word": "मैं",
+      "count": 4
+    },
+    {
+      "word": "ब्रांड",
+      "count": 3
+    },
+    {
+      "word": "100",
+      "count": 3
+    },
+    {
+      "word": "ऑनलाइन",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "लूंगा",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "टू",
+      "count": 2
+    },
+    {
+      "word": "विदाउट",
+      "count": 2
+    },
+    {
+      "word": "फंडिंग",
+      "count": 2
+    },
+    {
+      "word": "आई",
+      "count": 2
+    },
+    {
+      "word": "शेरवानी",
+      "count": 2
+    },
+    {
+      "word": "इतना",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "मेन",
+      "count": 2
+    },
+    {
+      "word": "टीज़",
+      "count": 2
+    },
+    {
+      "word": "अपोरर्चुनिटी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "100 करोड़",
+      "count": 3
+    },
+    {
+      "phrase": "भी लूंगा",
+      "count": 3
+    },
+    {
+      "phrase": "लूंगा मैं",
+      "count": 3
+    },
+    {
+      "phrase": "फैशन ऑनलाइन",
+      "count": 2
+    },
+    {
+      "phrase": "है कि",
+      "count": 2
+    },
+    {
+      "phrase": "टीज़ फॉर",
+      "count": 2
+    },
+    {
+      "phrase": "करोड़ अपोरर्चुनिटी",
+      "count": 2
+    },
+    {
+      "phrase": "अगर मुझे",
+      "count": 1
+    },
+    {
+      "phrase": "मुझे बूटstrap",
+      "count": 1
+    },
+    {
+      "phrase": "बूटstrap डी",
+      "count": 1
+    }
+  ],
+  "segment_count": 19
+}

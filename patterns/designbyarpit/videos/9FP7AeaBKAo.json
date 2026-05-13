@@ -1,0 +1,149 @@
+{
+  "video_id": "9FP7AeaBKAo",
+  "duration_seconds": 58,
+  "wps": 2.52,
+  "total_words": 146,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 722
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Apple pushed heavy glass design updates in iOS 26 are now dialing them back because users could not even read the"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "Not the one that stray in your eye. If you like this, follow for more amazing design content."
+  },
+  "audience_addressing": [
+    "you (English)",
+    "conditional address (if you...)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "design",
+      "count": 3
+    },
+    {
+      "word": "that",
+      "count": 3
+    },
+    {
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "you",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "glass",
+      "count": 2
+    },
+    {
+      "word": "updates",
+      "count": 2
+    },
+    {
+      "word": "ios",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "back",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "of",
+      "count": 2
+    },
+    {
+      "word": "transparency",
+      "count": 2
+    },
+    {
+      "word": "it",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "readability",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "design updates",
+      "count": 2
+    },
+    {
+      "phrase": "in the",
+      "count": 2
+    },
+    {
+      "phrase": "the one",
+      "count": 2
+    },
+    {
+      "phrase": "one that",
+      "count": 2
+    },
+    {
+      "phrase": "apple pushed",
+      "count": 1
+    },
+    {
+      "phrase": "pushed heavy",
+      "count": 1
+    },
+    {
+      "phrase": "heavy glass",
+      "count": 1
+    },
+    {
+      "phrase": "glass design",
+      "count": 1
+    },
+    {
+      "phrase": "updates in",
+      "count": 1
+    },
+    {
+      "phrase": "in ios",
+      "count": 1
+    }
+  ],
+  "segment_count": 8
+}

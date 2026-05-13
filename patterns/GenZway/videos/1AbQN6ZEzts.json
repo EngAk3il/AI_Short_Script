@@ -1,0 +1,148 @@
+{
+  "video_id": "1AbQN6ZEzts",
+  "duration_seconds": 36,
+  "wps": 4.25,
+  "total_words": 153,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 544
+  },
+  "hook": {
+    "type": "statement",
+    "text": "यह Pepsi ₹800 की है और उसके ऊपर भी गलत एक्सपायरी प्रिंट कर रखी है। यह घटिया सड़ा माल बाहर से इंडिया के अंदर आ रहा है बेचने के लिए। पुलिस ने अभी एक ऐसी"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "भी बिक जाएगा।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 11
+    },
+    {
+      "word": "के",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "ऊपर",
+      "count": 4
+    },
+    {
+      "word": "एक्सपायरी",
+      "count": 4
+    },
+    {
+      "word": "अंदर",
+      "count": 4
+    },
+    {
+      "word": "हैं",
+      "count": 4
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "उसके",
+      "count": 3
+    },
+    {
+      "word": "भी",
+      "count": 3
+    },
+    {
+      "word": "माल",
+      "count": 3
+    },
+    {
+      "word": "बाहर",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "इंडिया",
+      "count": 3
+    },
+    {
+      "word": "जाता",
+      "count": 3
+    },
+    {
+      "word": "डेट",
+      "count": 3
+    },
+    {
+      "word": "प्रिंट",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "इंडिया के",
+      "count": 3
+    },
+    {
+      "phrase": "के अंदर",
+      "count": 3
+    },
+    {
+      "phrase": "जाता है",
+      "count": 3
+    },
+    {
+      "phrase": "एक्सपायरी डेट",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "और उसके",
+      "count": 2
+    },
+    {
+      "phrase": "उसके ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "प्रिंट कर",
+      "count": 2
+    },
+    {
+      "phrase": "है यह",
+      "count": 2
+    },
+    {
+      "phrase": "बाहर से",
+      "count": 2
+    }
+  ],
+  "segment_count": 5
+}

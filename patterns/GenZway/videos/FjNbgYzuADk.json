@@ -1,0 +1,150 @@
+{
+  "video_id": "FjNbgYzuADk",
+  "duration_seconds": 34,
+  "wps": 4.47,
+  "total_words": 152,
+  "language_mix": {
+    "hindi": 98.5,
+    "english": 1.5,
+    "total_chars": 544
+  },
+  "hook": {
+    "type": "statement",
+    "text": "मिस्टर बीस्ट की फेस्टिवल फेल होने वाली थी। ये चीज तुम लोग किटकैट को देख के पहले से ही प्रिडिक्ट कर सकते थे। आपको ल्च करने की जरूरत ही नहीं थी। अभी ये वाली"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बाहर के लिए एक अलग प्रोडक्ट है। इंडिया के अंदर एक घटिया माल लाओ और बेचो और बिक भी रहा है।"
+  },
+  "audience_addressing": [
+    "तुम लोग (informal plural)",
+    "भाई/भैया (bro-style)",
+    "आप (formal)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "और",
+      "count": 7
+    },
+    {
+      "word": "अंदर",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 5
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "नहीं",
+      "count": 4
+    },
+    {
+      "word": "इंडिया",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 4
+    },
+    {
+      "word": "चीज",
+      "count": 3
+    },
+    {
+      "word": "है",
+      "count": 3
+    },
+    {
+      "word": "वाली",
+      "count": 2
+    },
+    {
+      "word": "थी",
+      "count": 2
+    },
+    {
+      "word": "ही",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "सकते",
+      "count": 2
+    },
+    {
+      "word": "थे",
+      "count": 2
+    },
+    {
+      "word": "मिलती",
+      "count": 2
+    },
+    {
+      "word": "सिर्फ",
+      "count": 2
+    },
+    {
+      "word": "अच्छी",
+      "count": 2
+    },
+    {
+      "word": "क्वालिटी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के अंदर",
+      "count": 6
+    },
+    {
+      "phrase": "इंडिया के",
+      "count": 4
+    },
+    {
+      "phrase": "कर सकते",
+      "count": 2
+    },
+    {
+      "phrase": "और ये",
+      "count": 2
+    },
+    {
+      "phrase": "ये इंडिया",
+      "count": 2
+    },
+    {
+      "phrase": "नहीं मिलती",
+      "count": 2
+    },
+    {
+      "phrase": "अच्छी क्वालिटी",
+      "count": 2
+    },
+    {
+      "phrase": "मिस्टर बीस्ट",
+      "count": 1
+    },
+    {
+      "phrase": "बीस्ट की",
+      "count": 1
+    },
+    {
+      "phrase": "की फेस्टिवल",
+      "count": 1
+    }
+  ],
+  "segment_count": 5
+}

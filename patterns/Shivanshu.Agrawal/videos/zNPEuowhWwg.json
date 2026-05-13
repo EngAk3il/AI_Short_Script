@@ -1,0 +1,148 @@
+{
+  "video_id": "zNPEuowhWwg",
+  "duration_seconds": 64,
+  "wps": 3.56,
+  "total_words": 228,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 809
+  },
+  "hook": {
+    "type": "question",
+    "text": "अगर आप अपनी कर का उसे करके लाखों कामना चाहते हैं तो कप वाचिंग अगर आपकी विकार हर महीने कई दिन आइडियल राखी रहती है तो आप टाइम ए चुका है अपनी कर को एक प्रॉफिट"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "मिनट्स"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "कर",
+      "count": 13
+    },
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "जूम",
+      "count": 7
+    },
+    {
+      "word": "करके",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 5
+    },
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "आप",
+      "count": 4
+    },
+    {
+      "word": "अपनी",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "महीने",
+      "count": 3
+    },
+    {
+      "word": "में",
+      "count": 3
+    },
+    {
+      "word": "शेर",
+      "count": 3
+    },
+    {
+      "word": "पे",
+      "count": 3
+    },
+    {
+      "word": "पूरे",
+      "count": 3
+    },
+    {
+      "word": "अगर",
+      "count": 2
+    },
+    {
+      "word": "तो",
+      "count": 2
+    },
+    {
+      "word": "आपकी",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "कर को",
+      "count": 5
+    },
+    {
+      "phrase": "जूम कर",
+      "count": 4
+    },
+    {
+      "phrase": "अपनी कर",
+      "count": 3
+    },
+    {
+      "phrase": "आप अपनी",
+      "count": 2
+    },
+    {
+      "phrase": "हर महीने",
+      "count": 2
+    },
+    {
+      "phrase": "जूम करके",
+      "count": 2
+    },
+    {
+      "phrase": "शेर करके",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "कर के",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    }
+  ],
+  "segment_count": 8
+}

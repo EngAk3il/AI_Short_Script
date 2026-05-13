@@ -1,0 +1,148 @@
+{
+  "video_id": "Slz1Wd7VuDA",
+  "duration_seconds": 27,
+  "wps": 2.37,
+  "total_words": 64,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 196
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "जामा खाली बावटा जामा वो हाड नो प्रवासी गोती लो ए वो कौन खलासी मने कई दोने ना ठ"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बदलो तो गोती लो गोती लो"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "मने",
+      "count": 7
+    },
+    {
+      "word": "लो",
+      "count": 6
+    },
+    {
+      "word": "दोने",
+      "count": 6
+    },
+    {
+      "word": "वो",
+      "count": 4
+    },
+    {
+      "word": "गोती",
+      "count": 4
+    },
+    {
+      "word": "खलासी",
+      "count": 4
+    },
+    {
+      "word": "कई",
+      "count": 4
+    },
+    {
+      "word": "जामा",
+      "count": 2
+    },
+    {
+      "word": "कौन",
+      "count": 2
+    },
+    {
+      "word": "ना",
+      "count": 2
+    },
+    {
+      "word": "ठिकाना",
+      "count": 2
+    },
+    {
+      "word": "दई",
+      "count": 2
+    },
+    {
+      "word": "कन",
+      "count": 2
+    },
+    {
+      "word": "से",
+      "count": 2
+    },
+    {
+      "word": "खाली",
+      "count": 1
+    },
+    {
+      "word": "बावटा",
+      "count": 1
+    },
+    {
+      "word": "हाड",
+      "count": 1
+    },
+    {
+      "word": "नो",
+      "count": 1
+    },
+    {
+      "word": "प्रवासी",
+      "count": 1
+    },
+    {
+      "word": "गोद",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "गोती लो",
+      "count": 4
+    },
+    {
+      "phrase": "खलासी मने",
+      "count": 4
+    },
+    {
+      "phrase": "मने कई",
+      "count": 4
+    },
+    {
+      "phrase": "कई दोने",
+      "count": 4
+    },
+    {
+      "phrase": "दोने ना",
+      "count": 2
+    },
+    {
+      "phrase": "ठिकाना मने",
+      "count": 2
+    },
+    {
+      "phrase": "मने दई",
+      "count": 2
+    },
+    {
+      "phrase": "दई दोने",
+      "count": 2
+    },
+    {
+      "phrase": "वो कन",
+      "count": 2
+    },
+    {
+      "phrase": "कन से",
+      "count": 2
+    }
+  ],
+  "segment_count": 4
+}

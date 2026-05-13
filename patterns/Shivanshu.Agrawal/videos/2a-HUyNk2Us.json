@@ -1,0 +1,148 @@
+{
+  "video_id": "2a-HUyNk2Us",
+  "duration_seconds": 55,
+  "wps": 3.55,
+  "total_words": 195,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 762
+  },
+  "hook": {
+    "type": "statement",
+    "text": "पार्कर पेंस आखिर इतनी सक्सेसफुल क्यों है 1880 में जॉर्ज पारकर नाम के एक पेन सेल्समैन को रिलाइज हुआ की उनके कस्टमर की"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "एटीट्यूड को सिंबोलाई करता है और यही इन्नोवेटिव एटीट्यूड उनकी सक्सेस का राज"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "पेन",
+      "count": 9
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "की",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "पार्कर",
+      "count": 4
+    },
+    {
+      "word": "है",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "वर्ल्ड",
+      "count": 4
+    },
+    {
+      "word": "वाली",
+      "count": 4
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "लीक",
+      "count": 3
+    },
+    {
+      "word": "थी",
+      "count": 3
+    },
+    {
+      "word": "पेंस",
+      "count": 2
+    },
+    {
+      "word": "पारकर",
+      "count": 2
+    },
+    {
+      "word": "नाम",
+      "count": 2
+    },
+    {
+      "word": "उनके",
+      "count": 2
+    },
+    {
+      "word": "सबसे",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वाली पेन",
+      "count": 4
+    },
+    {
+      "phrase": "की सबसे",
+      "count": 2
+    },
+    {
+      "phrase": "लीक हो",
+      "count": 2
+    },
+    {
+      "phrase": "वर्ल्ड की",
+      "count": 2
+    },
+    {
+      "phrase": "पेन को",
+      "count": 2
+    },
+    {
+      "phrase": "वर्ल्ड वॉर",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "जाती थी",
+      "count": 2
+    },
+    {
+      "phrase": "चलने वाली",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

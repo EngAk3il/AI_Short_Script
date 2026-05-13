@@ -1,0 +1,148 @@
+{
+  "video_id": "4BUoAGa1P7w",
+  "duration_seconds": 52,
+  "wps": 3.42,
+  "total_words": 178,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 758
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "टप्परवेयर अपने कस्टमर को जानबूझकर फ्री में पार्टी देता है पर क्यों टप्परवेयर की ज्यादातर सेल्स एग्जीक्यूटिव लेडीज होती"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "तो वो उसे इंपल्सिवली खरीद लेती है और सालों से इसी स्ट्रेटजी से टप्परवेयर की"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "टप्परवेयर",
+      "count": 10
+    },
+    {
+      "word": "है",
+      "count": 10
+    },
+    {
+      "word": "के",
+      "count": 8
+    },
+    {
+      "word": "में",
+      "count": 6
+    },
+    {
+      "word": "पार्टी",
+      "count": 6
+    },
+    {
+      "word": "और",
+      "count": 6
+    },
+    {
+      "word": "को",
+      "count": 5
+    },
+    {
+      "word": "उसे",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "लेडीज",
+      "count": 3
+    },
+    {
+      "word": "हैं",
+      "count": 3
+    },
+    {
+      "word": "प्रोडक्ट्स",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "एक",
+      "count": 3
+    },
+    {
+      "word": "करने",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "से",
+      "count": 3
+    },
+    {
+      "word": "कस्टमर",
+      "count": 2
+    },
+    {
+      "word": "होती",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "टप्परवेयर के",
+      "count": 4
+    },
+    {
+      "phrase": "टप्परवेयर की",
+      "count": 3
+    },
+    {
+      "phrase": "पार्टी में",
+      "count": 3
+    },
+    {
+      "phrase": "है और",
+      "count": 3
+    },
+    {
+      "phrase": "के प्रोडक्ट्स",
+      "count": 2
+    },
+    {
+      "phrase": "प्रोडक्ट्स उसे",
+      "count": 2
+    },
+    {
+      "phrase": "सर्व करने",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "के लिए",
+      "count": 2
+    },
+    {
+      "phrase": "लिए टप्परवेयर",
+      "count": 2
+    }
+  ],
+  "segment_count": 7
+}

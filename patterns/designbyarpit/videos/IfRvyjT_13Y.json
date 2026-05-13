@@ -1,0 +1,148 @@
+{
+  "video_id": "IfRvyjT_13Y",
+  "duration_seconds": 65,
+  "wps": 3.09,
+  "total_words": 201,
+  "language_mix": {
+    "hindi": 91.9,
+    "english": 8.1,
+    "total_chars": 827
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "Google Maps 2 बिलियन यूज़र्स, बट द डिज़ाइन ऑफ़ Apple Map इज जस्ट वाओ। एवरीवन लाफ्ड एट Apple Map व्हेन इट लॉन्च्ड। बिकॉज़"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डिजाइन इनसाइट।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "एंड",
+      "count": 7
+    },
+    {
+      "word": "बट",
+      "count": 6
+    },
+    {
+      "word": "यू",
+      "count": 6
+    },
+    {
+      "word": "google",
+      "count": 4
+    },
+    {
+      "word": "apple",
+      "count": 3
+    },
+    {
+      "word": "इज",
+      "count": 3
+    },
+    {
+      "word": "एट",
+      "count": 3
+    },
+    {
+      "word": "इट",
+      "count": 3
+    },
+    {
+      "word": "बिकॉज़",
+      "count": 3
+    },
+    {
+      "word": "संगीत",
+      "count": 3
+    },
+    {
+      "word": "इज़",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "दे",
+      "count": 3
+    },
+    {
+      "word": "एव्री",
+      "count": 3
+    },
+    {
+      "word": "दिस",
+      "count": 3
+    },
+    {
+      "word": "इन",
+      "count": 3
+    },
+    {
+      "word": "3d",
+      "count": 3
+    },
+    {
+      "word": "maps",
+      "count": 2
+    },
+    {
+      "word": "डिज़ाइन",
+      "count": 2
+    },
+    {
+      "word": "map",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "google maps",
+      "count": 2
+    },
+    {
+      "phrase": "apple map",
+      "count": 2
+    },
+    {
+      "phrase": "दिस इज",
+      "count": 2
+    },
+    {
+      "phrase": "बिल्डिंग अ",
+      "count": 2
+    },
+    {
+      "phrase": "maps 2",
+      "count": 1
+    },
+    {
+      "phrase": "2 बिलियन",
+      "count": 1
+    },
+    {
+      "phrase": "बिलियन यूज़र्स",
+      "count": 1
+    },
+    {
+      "phrase": "यूज़र्स बट",
+      "count": 1
+    },
+    {
+      "phrase": "बट द",
+      "count": 1
+    },
+    {
+      "phrase": "द डिज़ाइन",
+      "count": 1
+    }
+  ],
+  "segment_count": 9
+}

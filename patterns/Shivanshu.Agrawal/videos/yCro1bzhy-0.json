@@ -1,0 +1,148 @@
+{
+  "video_id": "yCro1bzhy-0",
+  "duration_seconds": 76,
+  "wps": 3.3,
+  "total_words": 251,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 966
+  },
+  "hook": {
+    "type": "statement",
+    "text": "एक क्रिकेट मैच चलाने के लिए करोड़ों की टेक्नोलॉजी यूज़ होती है। जैसे च्नास्वामी स्टेडियम में ग्राउंड को ड्राई करने के लिए सब एयर सिस्टम लगा हुआ है। जो 200"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "हैं और केवल इन विकेट्स का कॉस्ट ही 30 लाख"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "detailed_explainer",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 9
+    },
+    {
+      "word": "को",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "सिस्टम",
+      "count": 6
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "से",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "बॉल",
+      "count": 5
+    },
+    {
+      "word": "की",
+      "count": 4
+    },
+    {
+      "word": "में",
+      "count": 4
+    },
+    {
+      "word": "करता",
+      "count": 4
+    },
+    {
+      "word": "होती",
+      "count": 3
+    },
+    {
+      "word": "ग्राउंड",
+      "count": 3
+    },
+    {
+      "word": "लगा",
+      "count": 3
+    },
+    {
+      "word": "जो",
+      "count": 3
+    },
+    {
+      "word": "फिर",
+      "count": 3
+    },
+    {
+      "word": "का",
+      "count": 3
+    },
+    {
+      "word": "कर",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "करता है",
+      "count": 4
+    },
+    {
+      "phrase": "है जो",
+      "count": 3
+    },
+    {
+      "phrase": "होती है",
+      "count": 2
+    },
+    {
+      "phrase": "ग्राउंड को",
+      "count": 2
+    },
+    {
+      "phrase": "ड्राई करने",
+      "count": 2
+    },
+    {
+      "phrase": "करने के",
+      "count": 2
+    },
+    {
+      "phrase": "है और",
+      "count": 2
+    },
+    {
+      "phrase": "और फिर",
+      "count": 2
+    },
+    {
+      "phrase": "कर देता",
+      "count": 2
+    }
+  ],
+  "segment_count": 10
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "T63Pi-Vf6GQ",
+  "duration_seconds": 42,
+  "wps": 2.98,
+  "total_words": 125,
+  "language_mix": {
+    "hindi": 0.0,
+    "english": 100.0,
+    "total_chars": 566
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "The prettiest app often hide their worst flaw. Your thumb can't reach what matters. One-handed, your thumb takes a hit. Half of us scroll one-handed every"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "stretches according to your needs. For more design content, subscribe."
+  },
+  "audience_addressing": [
+    "you (English)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "your",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 4
+    },
+    {
+      "word": "thumb",
+      "count": 3
+    },
+    {
+      "word": "stretch",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "one-handed",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "bottom",
+      "count": 2
+    },
+    {
+      "word": "and",
+      "count": 2
+    },
+    {
+      "word": "for",
+      "count": 2
+    },
+    {
+      "word": "feels",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "prettiest",
+      "count": 1
+    },
+    {
+      "word": "app",
+      "count": 1
+    },
+    {
+      "word": "often",
+      "count": 1
+    },
+    {
+      "word": "hide",
+      "count": 1
+    },
+    {
+      "word": "their",
+      "count": 1
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "your thumb",
+      "count": 3
+    },
+    {
+      "phrase": "the prettiest",
+      "count": 1
+    },
+    {
+      "phrase": "prettiest app",
+      "count": 1
+    },
+    {
+      "phrase": "app often",
+      "count": 1
+    },
+    {
+      "phrase": "often hide",
+      "count": 1
+    },
+    {
+      "phrase": "hide their",
+      "count": 1
+    },
+    {
+      "phrase": "their worst",
+      "count": 1
+    },
+    {
+      "phrase": "worst flaw",
+      "count": 1
+    },
+    {
+      "phrase": "flaw your",
+      "count": 1
+    },
+    {
+      "phrase": "thumb can't",
+      "count": 1
+    }
+  ],
+  "segment_count": 6
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "kKOgxrsShIE",
+  "duration_seconds": 47,
+  "wps": 3.43,
+  "total_words": 161,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 628
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "द बिज़नेस वेंट अप टॉप्स यू अवे एंड यू"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "डिडन्ट वर्क फॉर अस्स।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "वी",
+      "count": 6
+    },
+    {
+      "word": "व्हेन",
+      "count": 4
+    },
+    {
+      "word": "इज",
+      "count": 4
+    },
+    {
+      "word": "एंड",
+      "count": 3
+    },
+    {
+      "word": "वर्क",
+      "count": 3
+    },
+    {
+      "word": "फॉर",
+      "count": 3
+    },
+    {
+      "word": "अस",
+      "count": 3
+    },
+    {
+      "word": "आवर",
+      "count": 3
+    },
+    {
+      "word": "कस्टमर्स",
+      "count": 3
+    },
+    {
+      "word": "आई",
+      "count": 3
+    },
+    {
+      "word": "वुड",
+      "count": 3
+    },
+    {
+      "word": "संगीत",
+      "count": 3
+    },
+    {
+      "word": "वेंट",
+      "count": 2
+    },
+    {
+      "word": "यू",
+      "count": 2
+    },
+    {
+      "word": "सेलिब्रिटीज़",
+      "count": 2
+    },
+    {
+      "word": "जस्ट",
+      "count": 2
+    },
+    {
+      "word": "दैट",
+      "count": 2
+    },
+    {
+      "word": "वन",
+      "count": 2
+    },
+    {
+      "word": "ऑफ़",
+      "count": 2
+    },
+    {
+      "word": "बिगेस्ट",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वर्क फॉर",
+      "count": 3
+    },
+    {
+      "phrase": "फॉर अस",
+      "count": 2
+    },
+    {
+      "phrase": "व्हेन वी",
+      "count": 2
+    },
+    {
+      "phrase": "डिडन्ट वर्क",
+      "count": 2
+    },
+    {
+      "phrase": "मेरे पास",
+      "count": 2
+    },
+    {
+      "phrase": "दिस इज",
+      "count": 2
+    },
+    {
+      "phrase": "इज आल्सो",
+      "count": 2
+    },
+    {
+      "phrase": "आई थिंक",
+      "count": 2
+    },
+    {
+      "phrase": "द बिज़नेस",
+      "count": 1
+    },
+    {
+      "phrase": "बिज़नेस वेंट",
+      "count": 1
+    }
+  ],
+  "segment_count": 21
+}

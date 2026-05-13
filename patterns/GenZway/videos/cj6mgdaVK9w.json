@@ -1,0 +1,148 @@
+{
+  "video_id": "cj6mgdaVK9w",
+  "duration_seconds": 29,
+  "wps": 4.76,
+  "total_words": 138,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 494
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "अंबानी के साथ हमारी सरकार ऐसा काम कर रही है कि देख के लगता है कहीं लड़ाईवड़ाई ना हो गई हो। कुछ टाइम पहले हमारे अंबानी साहब ने खुद का कैंपा ब्रांड ल्च किया था"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "बंद कर दिया तो कोका कोला और पेप्सी दोबारा टेकओवर कर लेंगे। अगर ओवर देना कंटिन्यू रखा तो भैया पैसा बनाना तो बहुत दूर की बात है।"
+  },
+  "audience_addressing": [
+    "भाई/भैया (bro-style)"
+  ],
+  "structure": "standard_short",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 5
+    },
+    {
+      "word": "है",
+      "count": 5
+    },
+    {
+      "word": "कर",
+      "count": 4
+    },
+    {
+      "word": "का",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "ये",
+      "count": 3
+    },
+    {
+      "word": "और",
+      "count": 3
+    },
+    {
+      "word": "तो",
+      "count": 3
+    },
+    {
+      "word": "अंबानी",
+      "count": 2
+    },
+    {
+      "word": "सरकार",
+      "count": 2
+    },
+    {
+      "word": "कि",
+      "count": 2
+    },
+    {
+      "word": "हो",
+      "count": 2
+    },
+    {
+      "word": "पहले",
+      "count": 2
+    },
+    {
+      "word": "कैंपा",
+      "count": 2
+    },
+    {
+      "word": "किया",
+      "count": 2
+    },
+    {
+      "word": "था",
+      "count": 2
+    },
+    {
+      "word": "को",
+      "count": 2
+    },
+    {
+      "word": "में",
+      "count": 2
+    },
+    {
+      "word": "रहे",
+      "count": 2
+    },
+    {
+      "word": "हैं",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "रहे हैं",
+      "count": 2
+    },
+    {
+      "phrase": "हैं और",
+      "count": 2
+    },
+    {
+      "phrase": "का जीएसटी",
+      "count": 2
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 2
+    },
+    {
+      "phrase": "अंबानी के",
+      "count": 1
+    },
+    {
+      "phrase": "के साथ",
+      "count": 1
+    },
+    {
+      "phrase": "साथ हमारी",
+      "count": 1
+    },
+    {
+      "phrase": "हमारी सरकार",
+      "count": 1
+    },
+    {
+      "phrase": "सरकार ऐसा",
+      "count": 1
+    },
+    {
+      "phrase": "ऐसा काम",
+      "count": 1
+    }
+  ],
+  "segment_count": 4
+}
