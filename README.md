@@ -49,11 +49,29 @@ Build or update a creator's linguistic profile.
 python3 build_patterns.py --creator <creator_name>
 ```
 
-### 3. Script Generation
-Generate fact-verified scripts based on a JSON topic list.
+### 3. Learn hook patterns (per transcript)
 ```bash
-python3 generate.py --topics final_topics.json
+python3 deep_hook_learn.py Shivanshu.Agrawal
 ```
+
+### 4. Script generation (Antigravity / Cursor — recommended)
+
+Python **prepares** patterns; **you (the agent) research and write** the script.
+
+```bash
+python3 prepare.py --creator GenZway --topic "RCB 16000 crore sale"
+```
+
+Then in Antigravity: open `scripts/GenZway/*_BRIEF.md` and follow the intelligence workflow.
+
+After writing:
+```bash
+python3 validate_script.py scripts/GenZway/rcb_16000_crore_sale_dna.md -c GenZway
+```
+
+See `AGENTS.md` and `.cursor/skills/viral-shorts-script/SKILL.md`.
+
+Optional legacy API-only mode (not recommended): `python3 generate.py --auto -c ... -t ...`
 
 ## 📈 Supported Creators
 - **Nitish Rajput**: Analytical, formal, academic investigative style.

@@ -1,77 +1,90 @@
 #!/usr/bin/env python3
 """
-generate.py — Generate a timed Hindi script based on a topic and creator style.
+generate.py — Default: prepare agent brief (intelligent Antigravity workflow).
+
+Use --auto only if you explicitly want Python+API static generation (not recommended).
 """
+
+from __future__ import annotations
 
 import argparse
 import json
-import os
+import subprocess
 import sys
+from pathlib import Path
 
-# Add project root to path
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from ingest import DATA_DIR
 
-def main():
-    parser = argparse.ArgumentParser(description='Generate a YouTube Short script')
-    parser.add_argument('--topic', '-t', required=True, help='Topic for the script')
-    parser.add_argument('--creator', '-c', required=True, help='Creator style to mimic')
-    parser.add_argument('--facts', '-f', help='JSON file containing researched facts')
-    parser.add_argument('--output', '-o', help='Path to save the generated script')
-
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Prepare intelligent script generation (agent-first by default)"
+    )
+    parser.add_argument("--topic", "-t", help="Topic")
+    parser.add_argument("--creator", "-c", help="Creator")
+    parser.add_argument("--topics", help="Batch JSON file")
+    parser.add_argument(
+        "--auto",
+        action="store_true",
+        help="Legacy: Python calls Claude + DuckDuckGo (static pipeline — avoid for quality)",
+    )
+    # Legacy flags forwarded to --auto mode only
+    parser.add_argument("--facts", "-f")
+    parser.add_argument("--output", "-o")
+    parser.add_argument("--no-research", action="store_true")
     args = parser.parse_args()
 
-    # 1. Load Style Analysis
-    analysis_path = os.path.join(DATA_DIR, args.creator, '_style_analysis.json')
-    if not os.path.exists(analysis_path):
-        print(f"❌ Style analysis for '{args.creator}' not found. Run analyze.py first.")
+    if args.auto:
+        _run_auto_mode(args)
+        return
+
+    # Default: prepare agent brief
+    cmd = [sys.executable, str(Path(__file__).parent / "prepare.py")]
+    if args.topic:
+        cmd.extend(["-t", args.topic])
+    if args.creator:
+        cmd.extend(["-c", args.creator])
+    if args.topics:
+        cmd.extend(["--topics", args.topics])
+    if not args.topic and not args.topics:
+        parser.error("Provide --topic and --creator, or --topics")
+    if not args.creator and not args.topics:
+        parser.error("Provide --creator")
+    subprocess.run(cmd, check=False)
+
+
+def _run_auto_mode(args: argparse.Namespace) -> None:
+    """Optional legacy automated generation."""
+    from lib.generation_context import load_generation_context, require_hook_library
+    from lib.research import research_topic
+    from lib.script_generator import generate_with_validation
+    from lib.agent_brief import slugify
+    from lib.paths import SCRIPTS_DIR
+
+    if args.topics:
+        print("⚠️  --auto with --topics: run prepare.py per topic instead for better quality")
+        sys.exit(1)
+    if not args.topic or not args.creator:
+        print("❌ --auto requires --topic and --creator")
         sys.exit(1)
 
-    with open(analysis_path, 'r', encoding='utf-8') as f:
-        style = json.load(f)
-
-    # 2. Load Facts (if provided, otherwise use a placeholder)
     facts = {}
-    if args.facts and os.path.exists(args.facts):
-        with open(args.facts, 'r', encoding='utf-8') as f:
-            facts = json.load(f)
+    if args.facts and Path(args.facts).exists():
+        facts = json.loads(Path(args.facts).read_text(encoding="utf-8"))
+
+    ctx = load_generation_context(args.creator, args.topic)
+    require_hook_library(ctx)
+    if not args.no_research:
+        ctx.facts = research_topic(args.topic, extra_facts=facts or None)
     else:
-        print("⚠️  No facts provided. Generating a generic template. (Note: Antigravity should be used to provide real facts via web search).")
+        ctx.facts = facts
 
-    # 3. Generate Script (This part is complex as it requires AI synthesis)
-    # Since I (the AI) am writing this script, I'll provide a structure 
-    # that the user can see. In a real scenario, this script might call an LLM API.
-    # For now, I will generate the content myself and save it.
-    
-    print(f"🧪 Generating script for '{args.topic}' in the style of '{args.creator}'...")
-    
-    # We will "mock" the generation here because the real "intelligence" 
-    # is provided by me (Antigravity) in the workflow.
-    
-    # In a full-scale app, we'd use the style metrics (WPS, hooks, clusters) 
-    # to prompt an LLM or use a template engine.
-    
-    script_content = f"""# Script: {args.topic}
-# Style: {args.creator}
-# Logic: Generated using {style.get('total_videos_analyzed')} videos of DNA analysis.
+    script, passed, log = generate_with_validation(ctx)
+    out = Path(args.output) if args.output else SCRIPTS_DIR / args.creator / f"{slugify(args.topic)}_dna.md"
+    out.write_text(script, encoding="utf-8")
+    print(log)
+    sys.exit(0 if passed else 2)
 
-"""
-    # Placeholder for the actual synthesized script
-    script_content += "--- SCRIPT START ---\n\n(Timed segments will appear here)\n"
-    
-    output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'scripts', args.creator)
-    os.makedirs(output_dir, exist_ok=True)
-    
-    filename = args.topic.lower().replace(' ', '_') + ".md"
-    output_path = args.output or os.path.join(output_dir, filename)
-    
-    # Note: Antigravity will overwrite this with the actual smart script!
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(script_content)
-    
-    print(f"✅ Template saved to: {output_path}")
-    print("🚀 Antigravity reached! I will now proceed to generate the actual SMART HINDI script.")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

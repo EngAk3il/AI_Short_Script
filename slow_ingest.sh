@@ -1,14 +1,25 @@
 #!/bin/bash
-# Slow ingestion script — fetches transcripts one at a time with 30s delays
-# Designed to work around YouTube 429 rate limits
+# Reliable slow ingest — cookies + retry-friendly delays
+set -euo pipefail
+cd "$(dirname "$0")"
 
-CREATOR="KKCreate"
-LIMIT=50
-DELAY=30  # seconds between each video
+CREATOR="${1:-KKCreate}"
+LIMIT="${2:-50}"
+COOKIES="${COOKIES:-cookies.txt}"
 
-echo "🐢 Slow Ingestion Mode: $DELAY second delay between videos"
-echo "⏳ Initial cooldown: 15 minutes..."
-sleep 900
+if [[ ! -f "$COOKIES" ]]; then
+  echo "⚠️  No $COOKIES — export from Chrome:"
+  echo "   yt-dlp --cookies-from-browser chrome --cookies cookies.txt --skip-download 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'"
+  exit 1
+fi
 
-echo "🚀 Starting slow ingestion for $CREATOR (limit: $LIMIT)..."
-python3 ingest.py --creator "$CREATOR" --limit "$LIMIT" --marathon --verbose 2>&1
+echo "🐢 Slow ingest: $CREATOR (limit $LIMIT) with $COOKIES"
+python3 ingest.py \
+  --creator "$CREATOR" \
+  --limit "$LIMIT" \
+  --cookies "$COOKIES" \
+  --delay 18 \
+  --pause-every 10 \
+  --pause-seconds 120 \
+  --retry-failed \
+  "$@"

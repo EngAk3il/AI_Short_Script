@@ -1,0 +1,148 @@
+{
+  "video_id": "9GVj0u9q4Cg",
+  "duration_seconds": 171,
+  "wps": 3.82,
+  "total_words": 653,
+  "language_mix": {
+    "hindi": 99.9,
+    "english": 0.1,
+    "total_chars": 2704
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया में आज की सारी बड़ी खबरें अगले 3"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "अफेयर्स के लिए मुझे फॉलो जरूर करना।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 30
+    },
+    {
+      "word": "ने",
+      "count": 18
+    },
+    {
+      "word": "में",
+      "count": 16
+    },
+    {
+      "word": "है",
+      "count": 15
+    },
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "से",
+      "count": 12
+    },
+    {
+      "word": "का",
+      "count": 9
+    },
+    {
+      "word": "की",
+      "count": 8
+    },
+    {
+      "word": "कर",
+      "count": 8
+    },
+    {
+      "word": "कि",
+      "count": 8
+    },
+    {
+      "word": "हैं",
+      "count": 7
+    },
+    {
+      "word": "को",
+      "count": 6
+    },
+    {
+      "word": "पर",
+      "count": 6
+    },
+    {
+      "word": "वोट",
+      "count": 5
+    },
+    {
+      "word": "एमएलए",
+      "count": 5
+    },
+    {
+      "word": "रहे",
+      "count": 5
+    },
+    {
+      "word": "यादव",
+      "count": 5
+    },
+    {
+      "word": "इंडिया",
+      "count": 4
+    },
+    {
+      "word": "परसेंटेज",
+      "count": 4
+    },
+    {
+      "word": "रही",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के बाद",
+      "count": 4
+    },
+    {
+      "phrase": "कहा कि",
+      "count": 4
+    },
+    {
+      "phrase": "कर दिया",
+      "count": 3
+    },
+    {
+      "phrase": "चीफ मिनिस्टर",
+      "count": 3
+    },
+    {
+      "phrase": "एमएलए ने",
+      "count": 3
+    },
+    {
+      "phrase": "गई है",
+      "count": 3
+    },
+    {
+      "phrase": "एआईए डीएमके",
+      "count": 3
+    },
+    {
+      "phrase": "13 मई",
+      "count": 3
+    },
+    {
+      "phrase": "के लिए",
+      "count": 3
+    },
+    {
+      "phrase": "प्रतीक यादव",
+      "count": 3
+    }
+  ],
+  "segment_count": 90
+}

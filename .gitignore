@@ -13,3 +13,7 @@ ENV/
 
 # AI context
 .gemini/
+
+# YouTube session (never commit)
+cookies.txt
+*.cookies.txt

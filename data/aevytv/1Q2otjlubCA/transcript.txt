@@ -1,6 +1,0 @@
-[00:00] Anthropic just dropped free AI courses and not enough people know about it. Let me show you. They launched something called Anthropic Academy. [music] That's free classes teaching you how to
-[00:08] actually use AI properly. We're talking claw 101, AI fluency for students, how to use claw code, even a module on building AI agents, which honestly
-[00:17] everyone should [music] be learning right now. But that is not all. I kept digging and found more free stuff for you guys. So water put out a free prompt library ready-made prompts for learning,
-[00:26] brainstorming, negotiating, generating ideas which you can copy paste and use right [music] away. And then there's also a free guide on building custom sub
-[00:33] agents in cloud code. Basically you create AI assistants that [music] each do one specific thing for you like building your own team of AI interns of
-[00:40] salt. All of this is free right

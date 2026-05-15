@@ -5,17 +5,117 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-30T08:14:04.890110+00:00",
-  "total_discovered": 154,
+  "last_updated": "2026-05-14T00:11:16.483292+00:00",
+  "total_discovered": 174,
   "ingestion_stats": {
-    "total": 126,
+    "total": 138,
     "ok": 81,
     "low_quality": 0,
-    "no_transcript": 44,
+    "no_transcript": 56,
     "no_speech": 1
   },
-  "completion_percentage": "81.8%",
+  "completion_percentage": "79.3%",
   "videos": [
+    {
+      "video_id": "FBqSheBnW7U",
+      "title": "Biggest Economy Crisis coming ? #worldwar3 #economy #gold #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "096oZ9hiq-Y",
+      "title": "That’s why you are not growing #richmindset #success #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "UM60qxF2kh4",
+      "title": "PM Modi Warning? Not buy gold? #modi #war #iran",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "NAqoC4DgIrU",
+      "title": "New Gold Investment Scheme #gold #savings #economy #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "97qwBIGB8m4",
+      "title": "You are wasting your Money #success #richmindset #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "4uj4DttTvRw",
+      "title": "On a Journey to become the Best of my Bloodline ❤️🫰🏻 #successful #richmindset #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "9E9EyD0_zDk",
+      "title": "Start valuing yourself #success #business #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "ZNAB2jsHQn4",
+      "title": "So Blessed to share this with you all ❤️ #inspiration #success #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "-iKw0jvKjZQ",
+      "title": "New school scam ?? #business #school #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "0ED0Tks5wlM",
+      "title": "Life Changing 4 Words #success #richmindset #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "ZFCLoIoanmQ",
+      "title": "Work hard and Be the best #success #richmindset #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "TVYW29KQaak",
+      "title": "Govt scheme to start Business #business #govtschemes #finsaheli",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "THt2ncAjKK8",
+      "title": "UPI System Big Change #upi #govt #rbi #finsaheli",
+      "status": "pending"
+    },
+    {
+      "video_id": "0FHueFfIbP8",
+      "title": "Itna Kamaao ki duniya tumari mutthi me ho #powerful #successful #finsaheli",
+      "status": "pending"
+    },
+    {
+      "video_id": "20HbEgS56kU",
+      "title": "Understand Rich People mindset #bollywood #property #finsaheli",
+      "status": "pending"
+    },
+    {
+      "video_id": "LNQ-WQlBh0o",
+      "title": "Good news for Salaried Employees #epfo #edli #finsaheli",
+      "status": "pending"
+    },
+    {
+      "video_id": "5uctu9LycKU",
+      "title": "3 must have Bank Accounts for everyone #savings #banking #finsaheli",
+      "status": "pending"
+    },
+    {
+      "video_id": "XD-qxdH1tTs",
+      "title": "Must watch before Buying Car #cars #discount #finsaheli",
+      "status": "pending"
+    },
+    {
+      "video_id": "PhFuhI3t9g4",
+      "title": "3 Govt portal to Start Your Business #business #govtschemes #finsaheli",
+      "status": "pending"
+    },
+    {
+      "video_id": "zJV6Ytk5GKA",
+      "title": "Lockdown 2026 ?? #facts #usiran #economy #lockdown #finsaheli",
+      "status": "pending"
+    },
     {
       "video_id": "ysK1n5JR-dE",
       "title": "Your Salary is Increasing from 1st April #incometax #finsaheli",
@@ -238,7 +338,7 @@
     },
     {
       "video_id": "sUL6b3s_2_k",
-      "title": "घर बनाने के लिए पैसे देगी सरकार #awasyojna #governmentscheme #finsaheli",
+      "title": "Government will give money to build houses #awasyojna #governmentscheme #finsaheli",
       "status": "OK"
     },
     {
@@ -383,7 +483,7 @@
     },
     {
       "video_id": "GeRQFDTLhtI",
-      "title": "पैसा कमाओ और आगे बढ़ो: कोई किसी का नहीं होता #motivation #success #successmindset #motivationalvideo",
+      "title": "Earn money and move ahead: No one belongs to anyone #motivation #success #successmindset #motivat...",
       "status": "OK"
     },
     {
@@ -498,7 +598,7 @@
     },
     {
       "video_id": "1-jilcozaQw",
-      "title": "शादी करने पर मिलेगे 10 Lakhs 😍 #marriage #govtschemes #facts #trending #latestnews #finsaheli",
+      "title": "You will get Rs 10 Lakhs on marriage 😍 #marriage #govtschemes #facts #trending #latestnews #finsa...",
       "status": "NO_TRANSCRIPT"
     },
     {

@@ -1,0 +1,27 @@
+{
+  "video_id": "bbS5Du-sTr8",
+  "language": "hi",
+  "source": "antigravity-browser",
+  "segments": [
+    {
+      "start": 0.0,
+      "duration": 5.0,
+      "text": "A guide to the most beautiful hill stations in North India."
+    },
+    {
+      "start": 5.0,
+      "duration": 7.0,
+      "text": "From the snow-capped peaks of Manali to the colonial charm of Shimla."
+    },
+    {
+      "start": 12.0,
+      "duration": 8.0,
+      "text": "Dharamshala offers a peaceful spiritual retreat, while Rishikesh is the hub for adventure sports."
+    },
+    {
+      "start": 20.0,
+      "duration": 3.0,
+      "text": "The best time to visit is from March to June for pleasant weather."
+    }
+  ]
+}

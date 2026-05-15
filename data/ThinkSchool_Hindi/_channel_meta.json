@@ -5,17 +5,37 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-30T08:12:21.693164+00:00",
-  "total_discovered": 165,
+  "last_updated": "2026-05-14T00:08:50.797159+00:00",
+  "total_discovered": 169,
   "ingestion_stats": {
-    "total": 127,
-    "ok": 49,
+    "total": 139,
+    "ok": 51,
     "low_quality": 0,
-    "no_transcript": 77,
+    "no_transcript": 88,
     "no_speech": 1
   },
-  "completion_percentage": "77.0%",
+  "completion_percentage": "82.2%",
   "videos": [
+    {
+      "video_id": "ty6-dWd7hpY",
+      "title": "Why is Mumbai Expensive?",
+      "status": "OK"
+    },
+    {
+      "video_id": "74boloRgWks",
+      "title": "Land is Goldmine!",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "Q_5W-IoRSCI",
+      "title": "Agri land will give you 5x 6x returns!",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "deG4Y-TLmEs",
+      "title": "Alibaug vs Navi mumbai",
+      "status": "NO_TRANSCRIPT"
+    },
     {
       "video_id": "2QFAaiBrCkg",
       "title": "3 Goldmine LOCATIONS in Mumbai!",
@@ -123,7 +143,7 @@
     },
     {
       "video_id": "Q3A_Spj1Wvg",
-      "title": "India’s obsession with K-beauty brands!",
+      "title": "India\u2019s obsession with K-beauty brands!",
       "status": "OK"
     },
     {
@@ -148,7 +168,7 @@
     },
     {
       "video_id": "d1kkPvWUHNk",
-      "title": "The ₹200 Cr Indian Attar Story",
+      "title": "The \u20b9200 Cr Indian Attar Story",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -158,7 +178,7 @@
     },
     {
       "video_id": "99PlwlvthQk",
-      "title": "How Atomberg Reinvented India’s Ceiling Fa",
+      "title": "How Atomberg Reinvented India\u2019s Ceiling Fa",
       "status": "OK"
     },
     {
@@ -169,11 +189,11 @@
     {
       "video_id": "_nYSgy-rE0U",
       "title": "Stop Listening. Start Watching",
-      "status": "NO_TRANSCRIPT"
+      "status": "OK"
     },
     {
       "video_id": "sUbrGSBTWbk",
-      "title": "How they build a ₹100 crore brand!",
+      "title": "How they build a \u20b9100 crore brand!",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -198,7 +218,7 @@
     },
     {
       "video_id": "-u_oecqIQyo",
-      "title": "How Atomberg Profits From “Boring” Business!",
+      "title": "How Atomberg Profits From \u201cBoring\u201d Business!",
       "status": "OK"
     },
     {
@@ -248,7 +268,7 @@
     },
     {
       "video_id": "Fjb2_nmckTc",
-      "title": "From ₹7000 crores to zero, what went wrong at Good Glamm Group?",
+      "title": "From \u20b97000 crores to zero, what went wrong at Good Glamm Group?",
       "status": "OK"
     },
     {
@@ -258,7 +278,7 @@
     },
     {
       "video_id": "DfalmzBOoUg",
-      "title": "From scrap dealer to Vedanta: Anil Agarwal’s ₹2.5L crore empire story.",
+      "title": "From scrap dealer to Vedanta: Anil Agarwal\u2019s \u20b92.5L crore empire story.",
       "status": "OK"
     },
     {
@@ -298,7 +318,7 @@
     },
     {
       "video_id": "jfaQ3TwGldA",
-      "title": "Seizing Opportunities in India’s Fashion Industry",
+      "title": "Seizing Opportunities in India\u2019s Fashion Industry",
       "status": "OK"
     },
     {
@@ -333,7 +353,7 @@
     },
     {
       "video_id": "K3X2EEi5ozM",
-      "title": "Plan Your 30s Before It’s Too Late!",
+      "title": "Plan Your 30s Before It\u2019s Too Late!",
       "status": "OK"
     },
     {
@@ -348,7 +368,7 @@
     },
     {
       "video_id": "8xJBs5I0guc",
-      "title": "Don’t Gamble With Life: Build Your Emergency Fund",
+      "title": "Don\u2019t Gamble With Life: Build Your Emergency Fund",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -393,7 +413,7 @@
     },
     {
       "video_id": "knViZGB9w64",
-      "title": "One Ingredient. ₹60 Cr Business",
+      "title": "One Ingredient. \u20b960 Cr Business",
       "status": "OK"
     },
     {
@@ -403,12 +423,12 @@
     },
     {
       "video_id": "tFQ1LaILLgg",
-      "title": "₹500 crore FMCG business: Nilon's",
+      "title": "\u20b9500 crore FMCG business: Nilon's",
       "status": "OK"
     },
     {
       "video_id": "4WT_mjUspc0",
-      "title": "Is minimalism the key to success?",
+      "title": "Is minimalism the\u00a0key\u00a0to\u00a0success?",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -423,7 +443,7 @@
     },
     {
       "video_id": "kpaHJUAbbQE",
-      "title": "₹70 Lakh to own a luxury watch store",
+      "title": "\u20b970 Lakh to own a luxury watch store",
       "status": "OK"
     },
     {
@@ -438,7 +458,7 @@
     },
     {
       "video_id": "krx5snqyobU",
-      "title": "Ayush Wadhwa’s First Income Story",
+      "title": "Ayush Wadhwa\u2019s First Income Story",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -473,7 +493,7 @@
     },
     {
       "video_id": "2rTZI1j6YkY",
-      "title": "Gaurav’s Protein's One Year Revenue",
+      "title": "Gaurav\u2019s Protein's One Year Revenue",
       "status": "OK"
     },
     {
@@ -538,7 +558,7 @@
     },
     {
       "video_id": "Ks517CQ116g",
-      "title": "SECRET Behind Goa’s Beer Boom!",
+      "title": "SECRET Behind Goa\u2019s Beer Boom!",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -553,12 +573,12 @@
     },
     {
       "video_id": "Kt9F7_-azlo",
-      "title": "How Bro Code HIJACKED India’s Beer Scene!",
+      "title": "How Bro Code HIJACKED India\u2019s Beer Scene!",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "slOwYs2KeS8",
-      "title": "Mild vs Strong Beer: The Truth They Don’t Tell You!",
+      "title": "Mild vs Strong Beer: The Truth They Don\u2019t Tell You!",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -568,12 +588,12 @@
     },
     {
       "video_id": "AnY8Ozmvbwg",
-      "title": "Natural’s Real Growth Strategy?",
+      "title": "Natural\u2019s Real Growth Strategy?",
       "status": "OK"
     },
     {
       "video_id": "HyedRhCk0Os",
-      "title": "All Freelancers Make THIS Mistake…",
+      "title": "All Freelancers Make THIS Mistake\u2026",
       "status": "OK"
     },
     {
@@ -593,7 +613,7 @@
     },
     {
       "video_id": "wMJze_OLPJs",
-      "title": "Earn ₹10,000 from a LinkedIn Post?",
+      "title": "Earn \u20b910,000 from a LinkedIn Post?",
       "status": "OK"
     },
     {
@@ -623,7 +643,7 @@
     },
     {
       "video_id": "Db1MqW46ZE4",
-      "title": "Why Perfectionists Can’t Be Entrepreneurs?",
+      "title": "Why Perfectionists Can\u2019t Be Entrepreneurs?",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -659,42 +679,42 @@
     {
       "video_id": "5rvPcRG8DOg",
       "title": "Vicks has Best Branding?",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "ixg4-FjkO-I",
       "title": "Shark tank Reality?",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "-QEu10EWqSc",
       "title": "Power of pricing - set according to your competitors",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "oAuF5QO2hsM",
       "title": "Gozero's shocking Strategy",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "H-VzKWnlbPw",
       "title": "Masala Ice cream | strategy",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "LeB9noxdtX8",
       "title": "This Brand is Killing Naturals and Amul?",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "25EIjev_a2Q",
       "title": "Can your partner be your Co-Founder?",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "DJJpHAndV6M",
       "title": "Yoga Bar Almost FAILED?",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "0ySAaXYINCk",
@@ -738,7 +758,7 @@
     },
     {
       "video_id": "N_nXyL7Hq2Y",
-      "title": "Building ₹500CR Health Brand?",
+      "title": "Building \u20b9500CR Health Brand?",
       "status": "pending"
     },
     {
@@ -758,12 +778,12 @@
     },
     {
       "video_id": "cFgjmCqExeo",
-      "title": "Fitness Brand Worth Crores!? 💰",
+      "title": "Fitness Brand Worth Crores!? \ud83d\udcb0",
       "status": "pending"
     },
     {
       "video_id": "TDz69aU8sPM",
-      "title": "Founders’ Depression",
+      "title": "Founders\u2019 Depression",
       "status": "pending"
     },
     {
@@ -788,7 +808,7 @@
     },
     {
       "video_id": "XmN5gC9RodE",
-      "title": "₹800 crore empire by selling biryani?",
+      "title": "\u20b9800 crore empire by selling biryani?",
       "status": "pending"
     },
     {
@@ -838,7 +858,7 @@
     },
     {
       "video_id": "ZbzoyAE16ok",
-      "title": "Is India’s Economy Really Growing?",
+      "title": "Is India\u2019s Economy Really Growing?",
       "status": "pending"
     }
   ]

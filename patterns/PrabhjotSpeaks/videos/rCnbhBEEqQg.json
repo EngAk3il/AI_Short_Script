@@ -1,0 +1,148 @@
+{
+  "video_id": "rCnbhBEEqQg",
+  "duration_seconds": 90,
+  "wps": 3.56,
+  "total_words": 320,
+  "language_mix": {
+    "hindi": 100.0,
+    "english": 0.0,
+    "total_chars": 1310
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "ममता बनर्जी के अकॉर्डिंग वेस्ट बंगाल में"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "फॉलो जरूर करना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 13
+    },
+    {
+      "word": "के",
+      "count": 11
+    },
+    {
+      "word": "में",
+      "count": 9
+    },
+    {
+      "word": "से",
+      "count": 9
+    },
+    {
+      "word": "कि",
+      "count": 7
+    },
+    {
+      "word": "एसआईआर",
+      "count": 6
+    },
+    {
+      "word": "की",
+      "count": 6
+    },
+    {
+      "word": "वोटर",
+      "count": 6
+    },
+    {
+      "word": "लिस्ट",
+      "count": 5
+    },
+    {
+      "word": "नाम",
+      "count": 5
+    },
+    {
+      "word": "और",
+      "count": 5
+    },
+    {
+      "word": "का",
+      "count": 5
+    },
+    {
+      "word": "वोटर्स",
+      "count": 5
+    },
+    {
+      "word": "बीजेपी",
+      "count": 4
+    },
+    {
+      "word": "जीती",
+      "count": 4
+    },
+    {
+      "word": "लेकिन",
+      "count": 4
+    },
+    {
+      "word": "तो",
+      "count": 4
+    },
+    {
+      "word": "ये",
+      "count": 4
+    },
+    {
+      "word": "टीएमसी",
+      "count": 4
+    },
+    {
+      "word": "हुए",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "वोटर लिस्ट",
+      "count": 4
+    },
+    {
+      "phrase": "बीजेपी सिर्फ",
+      "count": 3
+    },
+    {
+      "phrase": "सिर्फ एसआईआर",
+      "count": 3
+    },
+    {
+      "phrase": "एसआईआर की",
+      "count": 3
+    },
+    {
+      "phrase": "की वजह",
+      "count": 3
+    },
+    {
+      "phrase": "वजह से",
+      "count": 3
+    },
+    {
+      "phrase": "से जीती",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "के नाम",
+      "count": 3
+    },
+    {
+      "phrase": "वोटर्स के",
+      "count": 3
+    }
+  ],
+  "segment_count": 44
+}

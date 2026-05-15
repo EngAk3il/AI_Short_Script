@@ -1,0 +1,15 @@
+{
+  "verified_sources": [
+    {
+      "title": "Example article title",
+      "url": "https://www.livemint.com/sports/example-article-slug-123456789.html",
+      "snippet": "Key statistic or claim from the article lede."
+    }
+  ],
+  "claims": [
+    {
+      "data_point": "₹16,732 crore valuation",
+      "source_url": "https://www.livemint.com/sports/example-article-slug-123456789.html"
+    }
+  ]
+}

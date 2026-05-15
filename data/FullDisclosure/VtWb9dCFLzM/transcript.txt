@@ -1,7 +1,0 @@
-[00:00] Do you ever stare at the chat GPT window struggling to write the perfect prompt for your job? Getting specific,
-[00:05] highquality results for professional tasks can be a real challenge for many.
-[00:09] Well, that's about to change. OpenAI Academy has just dropped a game-changing free resource with their prompt packs.
-[00:15] This is a massive library of over 300 readytouse prompt sets expertly crafted for more than 12 professional roles like
-[00:23] marketing, HR, IT, sales, and engineering. Each pack contains over 30 real world use cases guiding you on
-[00:30] everything from data analysis to client communication. It's like having an expert prompt engineer by your side for free. Simply pick your role, choose a
-[00:37] task, and get professional results instantly. So, check out the prompt packs on the OpenAI website and subscribe to Full Disclosure for

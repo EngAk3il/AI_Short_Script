@@ -1,4 +1,5 @@
 yt-dlp
 youtube-transcript-api
-selenium
 requests
+anthropic
+duckduckgo-search

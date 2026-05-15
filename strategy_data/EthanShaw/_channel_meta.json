@@ -4,16 +4,16 @@
   "languages": [
     "en"
   ],
-  "last_updated": "2026-03-30T10:30:11.427992+00:00",
+  "last_updated": "2026-05-13T23:29:46.121629+00:00",
   "total_discovered": 468,
   "ingestion_stats": {
-    "total": 22,
-    "ok": 7,
+    "total": 23,
+    "ok": 8,
     "low_quality": 0,
-    "no_transcript": 15,
+    "no_transcript": 16,
     "no_speech": 0
   },
-  "completion_percentage": "4.7%",
+  "completion_percentage": "4.9%",
   "videos": [
     {
       "video_id": "IcJdPcr3HFM",
@@ -22,7 +22,7 @@
     },
     {
       "video_id": "cLKUrXPuPk8",
-      "title": "The fastest way to start growing followers (when you’re switching styles)",
+      "title": "The fastest way to start growing followers (when you\u2019re switching styles)",
       "status": "OK"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "video_id": "O8G0lVKmWcs",
-      "title": "i’m retiring. (here’s what’s next)",
+      "title": "i\u2019m retiring. (here\u2019s what\u2019s next)",
       "status": "OK"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "video_id": "lkozzJoPsh8",
-      "title": "How I grew 100K followers on youtube in 3 months (i’m doing it again now) #content #shorts",
+      "title": "How I grew 100K followers on youtube in 3 months (i\u2019m doing it again now) #content #shorts",
       "status": "OK"
     },
     {
       "video_id": "AakKPNK518U",
-      "title": "How to stop procrastinating (don’t use discipline) #motivation #shorts",
+      "title": "How to stop procrastinating (don\u2019t use discipline) #motivation #shorts",
       "status": "OK"
     },
     {
@@ -122,13 +122,13 @@
     },
     {
       "video_id": "94NFa1no4P4",
-      "title": "I quit instagram for 60 days here’s why #content #shorts",
+      "title": "I quit instagram for 60 days here\u2019s why #content #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "Ya5-c_PdsPU",
       "title": "The best AI content workflow you can have #artlist #ad",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "m721mD3QR2M",
@@ -137,7 +137,7 @@
     },
     {
       "video_id": "7pYl_fXUB88",
-      "title": "“1 Offer, 1 Avatar, 1 Platform” #creatoreconomy #shorts",
+      "title": "\u201c1 Offer, 1 Avatar, 1 Platform\u201d #creatoreconomy #shorts",
       "status": "pending"
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "video_id": "ZcH3wiLQQI4",
-      "title": "Why all these creators are “scaling their personal brands” #creatoreconomy",
+      "title": "Why all these creators are \u201cscaling their personal brands\u201d #creatoreconomy",
       "status": "pending"
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "video_id": "IAxG93YvAHs",
-      "title": "why the online gurus always talk about how much money they make… #content #shorts",
+      "title": "why the online gurus always talk about how much money they make\u2026 #content #shorts",
       "status": "pending"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "video_id": "EGBdE18cU54",
-      "title": "How to get Daniel Dalen’s viral top down desk shot #videography #shorts",
+      "title": "How to get Daniel Dalen\u2019s viral top down desk shot #videography #shorts",
       "status": "pending"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "video_id": "oBLeyH7tAPI",
-      "title": "How I learned how to talk to the camera… #content #shorts",
+      "title": "How I learned how to talk to the camera\u2026 #content #shorts",
       "status": "pending"
     },
     {
@@ -372,12 +372,12 @@
     },
     {
       "video_id": "ksAolD2Xmus",
-      "title": "be careful when you post content… #personalbrand",
+      "title": "be careful when you post content\u2026 #personalbrand",
       "status": "pending"
     },
     {
       "video_id": "PtrPwRHfsrw",
-      "title": "the biggest mistake I made when launching my online creator business… #creator #shorts",
+      "title": "the biggest mistake I made when launching my online creator business\u2026 #creator #shorts",
       "status": "pending"
     },
     {
@@ -387,7 +387,7 @@
     },
     {
       "video_id": "B3uQv-TU6Fs",
-      "title": "I studied the most viral hooks for 4 weeks… #content #shorts",
+      "title": "I studied the most viral hooks for 4 weeks\u2026 #content #shorts",
       "status": "pending"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "video_id": "apKkt3KwCgg",
-      "title": "you will never go viral until you dial in this 1 thing… #creator #shorts",
+      "title": "you will never go viral until you dial in this 1 thing\u2026 #creator #shorts",
       "status": "pending"
     },
     {
@@ -442,7 +442,7 @@
     },
     {
       "video_id": "41plG-KHieE",
-      "title": "0 - 10K followers with 1 video is possible with these 3 things… #creator #shorts",
+      "title": "0 - 10K followers with 1 video is possible with these 3 things\u2026 #creator #shorts",
       "status": "pending"
     },
     {
@@ -482,7 +482,7 @@
     },
     {
       "video_id": "UrHGZ2CLmwk",
-      "title": "You do not want to go “viral” #content #shorts",
+      "title": "You do not want to go \u201cviral\u201d #content #shorts",
       "status": "pending"
     },
     {
@@ -492,12 +492,12 @@
     },
     {
       "video_id": "gaDEW9JeuJs",
-      "title": "the human attention span has never been shorter…  #content #shorts",
+      "title": "the human attention span has never been shorter\u2026  #content #shorts",
       "status": "pending"
     },
     {
       "video_id": "OCYi19DXvxg",
-      "title": "How to take aesthetic when you don’t have an “aesthetic” life #creator #shorts",
+      "title": "How to take aesthetic when you don\u2019t have an \u201caesthetic\u201d life #creator #shorts",
       "status": "pending"
     },
     {
@@ -567,7 +567,7 @@
     },
     {
       "video_id": "9LiqAotIjZo",
-      "title": "I shut down my business to post content… here’s what happened #contentcreator #shorts",
+      "title": "I shut down my business to post content\u2026 here\u2019s what happened #contentcreator #shorts",
       "status": "pending"
     },
     {
@@ -607,7 +607,7 @@
     },
     {
       "video_id": "ChU4pgrGvSo",
-      "title": "Viral storytelling structures for your content… #contentcreator #shorts",
+      "title": "Viral storytelling structures for your content\u2026 #contentcreator #shorts",
       "status": "pending"
     },
     {
@@ -627,7 +627,7 @@
     },
     {
       "video_id": "ERKO6p57-aQ",
-      "title": "The most skill content creation taught me… #personalbrand #shorts",
+      "title": "The most skill content creation taught me\u2026 #personalbrand #shorts",
       "status": "pending"
     },
     {
@@ -837,7 +837,7 @@
     },
     {
       "video_id": "EH_nNMLqjnQ",
-      "title": "I’ve posted 1000 videos on instagram and here’s what I learned #personalbrand #shorts",
+      "title": "I\u2019ve posted 1000 videos on instagram and here\u2019s what I learned #personalbrand #shorts",
       "status": "pending"
     },
     {
@@ -887,7 +887,7 @@
     },
     {
       "video_id": "2mghP4dSJGA",
-      "title": "don’t buy a new camera until you watch this video… #lighting #shorts",
+      "title": "don\u2019t buy a new camera until you watch this video\u2026 #lighting #shorts",
       "status": "pending"
     },
     {
@@ -897,7 +897,7 @@
     },
     {
       "video_id": "Wa3ZJMtY3oM",
-      "title": "just start posting content… #personalbrand #shorts",
+      "title": "just start posting content\u2026 #personalbrand #shorts",
       "status": "pending"
     },
     {
@@ -912,7 +912,7 @@
     },
     {
       "video_id": "eo0GLid0rsE",
-      "title": "I never use chatgpt to help me make videos… here’s why #socialmedia #shorts",
+      "title": "I never use chatgpt to help me make videos\u2026 here\u2019s why #socialmedia #shorts",
       "status": "pending"
     },
     {
@@ -967,7 +967,7 @@
     },
     {
       "video_id": "uvGCVzHcaCc",
-      "title": "Growing my personal brand was the best decision I made… #contentcreation #shorts",
+      "title": "Growing my personal brand was the best decision I made\u2026 #contentcreation #shorts",
       "status": "pending"
     },
     {
@@ -982,7 +982,7 @@
     },
     {
       "video_id": "ijEcQxeJmwQ",
-      "title": "You do not have a bad camera… #lighting #shorts",
+      "title": "You do not have a bad camera\u2026 #lighting #shorts",
       "status": "pending"
     },
     {
@@ -1007,12 +1007,12 @@
     },
     {
       "video_id": "DjKbXR6ZQnY",
-      "title": "I never use trending audio’s on Instagram #personalbranding #shorts",
+      "title": "I never use trending audio\u2019s on Instagram #personalbranding #shorts",
       "status": "pending"
     },
     {
       "video_id": "wuGHDKdfZbI",
-      "title": "Jake Paul is suing Mesi… #marketing",
+      "title": "Jake Paul is suing Mesi\u2026 #marketing",
       "status": "pending"
     },
     {
@@ -1048,7 +1048,7 @@
     {
       "video_id": "N3z4QTLISK4",
       "title": "Day 23: how to get out of 1000 view jail",
-      "status": "pending"
+      "status": "OK"
     },
     {
       "video_id": "dgR_VwQaCc4",
@@ -1127,7 +1127,7 @@
     },
     {
       "video_id": "aBfJ0zIAmHI",
-      "title": "How focal length and “zoom” effects your content #contentcreator #shorts",
+      "title": "How focal length and \u201czoom\u201d effects your content #contentcreator #shorts",
       "status": "pending"
     },
     {
@@ -1152,7 +1152,7 @@
     },
     {
       "video_id": "_b65W4m3-cs",
-      "title": "different focal comparison✍️ #cinematography #shorts",
+      "title": "different focal comparison\u270d\ufe0f #cinematography #shorts",
       "status": "pending"
     },
     {
@@ -1162,7 +1162,7 @@
     },
     {
       "video_id": "UjXEyslWkJM",
-      "title": "The key to good lighting in your videos… #contentcreator #shorts",
+      "title": "The key to good lighting in your videos\u2026 #contentcreator #shorts",
       "status": "pending"
     },
     {
@@ -1182,7 +1182,7 @@
     },
     {
       "video_id": "ucIKXxh85uY",
-      "title": "Camera Recommendations for Content Creators in 2024…",
+      "title": "Camera Recommendations for Content Creators in 2024\u2026",
       "status": "pending"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "video_id": "WIfEypgf39M",
-      "title": "so you want to start creating content… #contentcreator #shorts",
+      "title": "so you want to start creating content\u2026 #contentcreator #shorts",
       "status": "pending"
     },
     {
@@ -1207,12 +1207,12 @@
     },
     {
       "video_id": "5UiPF5KlyIw",
-      "title": "you’ll only fail once you give up. #quotes #shorts",
+      "title": "you\u2019ll only fail once you give up. #quotes #shorts",
       "status": "pending"
     },
     {
       "video_id": "j6Q4s2pYky0",
-      "title": "read this twice… #quotes #shorts",
+      "title": "read this twice\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
@@ -1247,17 +1247,17 @@
     },
     {
       "video_id": "1Csxjcr3YEM",
-      "title": "consuming “motivational” content will kill your productivity #selfimprovement",
+      "title": "consuming \u201cmotivational\u201d content will kill your productivity #selfimprovement",
       "status": "pending"
     },
     {
       "video_id": "xaxQkDPocNs",
-      "title": "when life starts feeling like a movie…",
+      "title": "when life starts feeling like a movie\u2026",
       "status": "pending"
     },
     {
       "video_id": "ysehvHpXfzc",
-      "title": "how to find peace… #selfimprovement #aesthetic",
+      "title": "how to find peace\u2026 #selfimprovement #aesthetic",
       "status": "pending"
     },
     {
@@ -1282,7 +1282,7 @@
     },
     {
       "video_id": "NfCOToGPvps",
-      "title": "don’t build bad habits in your 20’s #growth #shorts",
+      "title": "don\u2019t build bad habits in your 20\u2019s #growth #shorts",
       "status": "pending"
     },
     {
@@ -1302,12 +1302,12 @@
     },
     {
       "video_id": "eEWwd2xPZH0",
-      "title": "Keep this in mind… #quotes #shorts",
+      "title": "Keep this in mind\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
       "video_id": "BXQ7TnMuSwY",
-      "title": "it takes time to heal… #mindset #shorts",
+      "title": "it takes time to heal\u2026 #mindset #shorts",
       "status": "pending"
     },
     {
@@ -1327,7 +1327,7 @@
     },
     {
       "video_id": "CNeFA-wqTL4",
-      "title": "at first it was a dream… #motivation #shorts",
+      "title": "at first it was a dream\u2026 #motivation #shorts",
       "status": "pending"
     },
     {
@@ -1347,7 +1347,7 @@
     },
     {
       "video_id": "1wgvRRO89tQ",
-      "title": "we are the same… #lifestyle #shorts",
+      "title": "we are the same\u2026 #lifestyle #shorts",
       "status": "pending"
     },
     {
@@ -1382,7 +1382,7 @@
     },
     {
       "video_id": "w242wB_YmX4",
-      "title": "moments from a rainy day…",
+      "title": "moments from a rainy day\u2026",
       "status": "pending"
     },
     {
@@ -1392,12 +1392,12 @@
     },
     {
       "video_id": "B-T6N8_i20A",
-      "title": "5 lessons life has taught me… #quotes #shorts",
+      "title": "5 lessons life has taught me\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
       "video_id": "snVUZu0IANU",
-      "title": "why it’s better to play along with fake people… #quotes #shorts",
+      "title": "why it\u2019s better to play along with fake people\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
@@ -1407,7 +1407,7 @@
     },
     {
       "video_id": "gsBffyUk7Ng",
-      "title": "all we have is now… #travel #shorts",
+      "title": "all we have is now\u2026 #travel #shorts",
       "status": "pending"
     },
     {
@@ -1417,7 +1417,7 @@
     },
     {
       "video_id": "tpwSW7EA-rk",
-      "title": "something insane to think about… #life #shorts",
+      "title": "something insane to think about\u2026 #life #shorts",
       "status": "pending"
     },
     {
@@ -1432,7 +1432,7 @@
     },
     {
       "video_id": "SPnVW2N6A00",
-      "title": "some skills i’m focusing on in my  20’s #selfimprovement #shorts",
+      "title": "some skills i\u2019m focusing on in my  20\u2019s #selfimprovement #shorts",
       "status": "pending"
     },
     {
@@ -1472,17 +1472,17 @@
     },
     {
       "video_id": "00daSkevew4",
-      "title": "Just stay focused… #shorts #quotes",
+      "title": "Just stay focused\u2026 #shorts #quotes",
       "status": "pending"
     },
     {
       "video_id": "Ds_iHz9Zdr0",
-      "title": "that’s the real grind… #motivation #shorts",
+      "title": "that\u2019s the real grind\u2026 #motivation #shorts",
       "status": "pending"
     },
     {
       "video_id": "yNboUh_eOe0",
-      "title": "Keep this in mind when you’re nervous to post to social media #quotes #shorts",
+      "title": "Keep this in mind when you\u2019re nervous to post to social media #quotes #shorts",
       "status": "pending"
     },
     {
@@ -1497,12 +1497,12 @@
     },
     {
       "video_id": "ZiU_6FrlmGA",
-      "title": "How are you going to get better if you don’t practice #quotes #shorts",
+      "title": "How are you going to get better if you don\u2019t practice #quotes #shorts",
       "status": "pending"
     },
     {
       "video_id": "yBDPI--as40",
-      "title": "Output is the only thing that matters… #shorts #quotes",
+      "title": "Output is the only thing that matters\u2026 #shorts #quotes",
       "status": "pending"
     },
     {
@@ -1537,7 +1537,7 @@
     },
     {
       "video_id": "u72s7k6H1_E",
-      "title": "social media is designed to make you think… #quotes #shorts",
+      "title": "social media is designed to make you think\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
@@ -1562,7 +1562,7 @@
     },
     {
       "video_id": "ayudCU9Q-c4",
-      "title": "what what was the biggest lie you’ve been told? #shorts #quotes",
+      "title": "what what was the biggest lie you\u2019ve been told? #shorts #quotes",
       "status": "pending"
     },
     {
@@ -1572,12 +1572,12 @@
     },
     {
       "video_id": "iUdfxwUzZe0",
-      "title": "Why you should ask her out… #quotes #shorts",
+      "title": "Why you should ask her out\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
       "video_id": "1_omMom57IE",
-      "title": "habits that keep me in check… #habits  #shorts",
+      "title": "habits that keep me in check\u2026 #habits  #shorts",
       "status": "pending"
     },
     {
@@ -1587,7 +1587,7 @@
     },
     {
       "video_id": "9-xfh6_k4Y4",
-      "title": "make your own story… #motivation #shorts",
+      "title": "make your own story\u2026 #motivation #shorts",
       "status": "pending"
     },
     {
@@ -1597,7 +1597,7 @@
     },
     {
       "video_id": "biR3OPzL8ak",
-      "title": "Do not let your friends disrespect you… #shorts #selfimprovement",
+      "title": "Do not let your friends disrespect you\u2026 #shorts #selfimprovement",
       "status": "pending"
     },
     {
@@ -1607,7 +1607,7 @@
     },
     {
       "video_id": "_VVZaF9nYEo",
-      "title": "the biggest rule in a relationship… #relationship #shorts",
+      "title": "the biggest rule in a relationship\u2026 #relationship #shorts",
       "status": "pending"
     },
     {
@@ -1632,7 +1632,7 @@
     },
     {
       "video_id": "a_SDaS_lCbk",
-      "title": "Going out is a waste of time… #quotes #shorts",
+      "title": "Going out is a waste of time\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
@@ -1647,7 +1647,7 @@
     },
     {
       "video_id": "xvDLwa-Ik_U",
-      "title": "why you shouldn’t worry about the future #quotes #shorts",
+      "title": "why you shouldn\u2019t worry about the future #quotes #shorts",
       "status": "pending"
     },
     {
@@ -1657,7 +1657,7 @@
     },
     {
       "video_id": "32gBOPhVI4Q",
-      "title": "this quote is for the homies who’ve had some relationships… #quotes #shorts",
+      "title": "this quote is for the homies who\u2019ve had some relationships\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
@@ -1667,12 +1667,12 @@
     },
     {
       "video_id": "pQMejCQ3XfY",
-      "title": "a simple morning routine to enjoy… #shorts #selfimprovement",
+      "title": "a simple morning routine to enjoy\u2026 #shorts #selfimprovement",
       "status": "pending"
     },
     {
       "video_id": "-Ir4tRXUxkw",
-      "title": "I believe in Karma… #relationship #shorts",
+      "title": "I believe in Karma\u2026 #relationship #shorts",
       "status": "pending"
     },
     {
@@ -1682,7 +1682,7 @@
     },
     {
       "video_id": "6r_aUm-fmS0",
-      "title": "One of the most toxic traits to have… #relationship #shorts",
+      "title": "One of the most toxic traits to have\u2026 #relationship #shorts",
       "status": "pending"
     },
     {
@@ -1697,22 +1697,22 @@
     },
     {
       "video_id": "6WZsJcXhXQM",
-      "title": "don’t fall in love with the memories #relationship #shorts",
+      "title": "don\u2019t fall in love with the memories #relationship #shorts",
       "status": "pending"
     },
     {
       "video_id": "C2vV-xsqVTQ",
-      "title": "why some people have scars… #shorts #mentalhealth",
+      "title": "why some people have scars\u2026 #shorts #mentalhealth",
       "status": "pending"
     },
     {
       "video_id": "Vg2iNYVfgcg",
-      "title": "Don’t be missing out on this habit… #shorts #selfimprovement",
+      "title": "Don\u2019t be missing out on this habit\u2026 #shorts #selfimprovement",
       "status": "pending"
     },
     {
       "video_id": "2fPJK91F4cQ",
-      "title": "if it flows it flows… #shorts #quotes",
+      "title": "if it flows it flows\u2026 #shorts #quotes",
       "status": "pending"
     },
     {
@@ -1722,7 +1722,7 @@
     },
     {
       "video_id": "id3k7J-Ob-8",
-      "title": "It’s all part of the process #shorts #motivation",
+      "title": "It\u2019s all part of the process #shorts #motivation",
       "status": "pending"
     },
     {
@@ -1732,12 +1732,12 @@
     },
     {
       "video_id": "qJfkufX5A0Q",
-      "title": "think of this quote when you need to move on… #relationships #shorts",
+      "title": "think of this quote when you need to move on\u2026 #relationships #shorts",
       "status": "pending"
     },
     {
       "video_id": "tPIjsxwRqgE",
-      "title": "Motivation will not get you where you want to be… #shorts #motivation",
+      "title": "Motivation will not get you where you want to be\u2026 #shorts #motivation",
       "status": "pending"
     },
     {
@@ -1747,7 +1747,7 @@
     },
     {
       "video_id": "fzLuAbcXfnI",
-      "title": "never let anyone disrespect you… #shorts #mindset",
+      "title": "never let anyone disrespect you\u2026 #shorts #mindset",
       "status": "pending"
     },
     {
@@ -1757,7 +1757,7 @@
     },
     {
       "video_id": "Ce8iUzmhMd8",
-      "title": "when you start to feel anxious… #quotes #shorts",
+      "title": "when you start to feel anxious\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
@@ -1767,7 +1767,7 @@
     },
     {
       "video_id": "JB7-uCdZ3Uc",
-      "title": "how to tell if a girl is into you… #shorts #relationship",
+      "title": "how to tell if a girl is into you\u2026 #shorts #relationship",
       "status": "pending"
     },
     {
@@ -1792,17 +1792,17 @@
     },
     {
       "video_id": "Ez7HbaTiO4s",
-      "title": "When I get to a low point… #motivation #shorts",
+      "title": "When I get to a low point\u2026 #motivation #shorts",
       "status": "pending"
     },
     {
       "video_id": "bw1o2aBdfdo",
-      "title": "Obsession will beat talent every single time… #shorts #quotes",
+      "title": "Obsession will beat talent every single time\u2026 #shorts #quotes",
       "status": "pending"
     },
     {
       "video_id": "no3a15rwfB4",
-      "title": "Here’s a hard hitting quote",
+      "title": "Here\u2019s a hard hitting quote",
       "status": "pending"
     },
     {
@@ -1812,7 +1812,7 @@
     },
     {
       "video_id": "WhcL029wG-s",
-      "title": "Why I work on my skincare… #shorts #selfcare",
+      "title": "Why I work on my skincare\u2026 #shorts #selfcare",
       "status": "pending"
     },
     {
@@ -1822,7 +1822,7 @@
     },
     {
       "video_id": "OL8roJMEaVY",
-      "title": "Whenever I get to a low point… #shorts #motivation",
+      "title": "Whenever I get to a low point\u2026 #shorts #motivation",
       "status": "pending"
     },
     {
@@ -1852,7 +1852,7 @@
     },
     {
       "video_id": "Y9QfT3w_pZY",
-      "title": "It’s time to build alone… #shorts #selfimprovement",
+      "title": "It\u2019s time to build alone\u2026 #shorts #selfimprovement",
       "status": "pending"
     },
     {
@@ -1862,7 +1862,7 @@
     },
     {
       "video_id": "_ckoOzMTGNE",
-      "title": "These daily habits keep on track… #shorts #selfimprovement",
+      "title": "These daily habits keep on track\u2026 #shorts #selfimprovement",
       "status": "pending"
     },
     {
@@ -1877,12 +1877,12 @@
     },
     {
       "video_id": "qpqR9zeS2zQ",
-      "title": "things I believe in… #quotes #shorts",
+      "title": "things I believe in\u2026 #quotes #shorts",
       "status": "pending"
     },
     {
       "video_id": "poiLuU-Sw1c",
-      "title": "How you know you’re maturing… #shorts #selfimprovement",
+      "title": "How you know you\u2019re maturing\u2026 #shorts #selfimprovement",
       "status": "pending"
     },
     {
@@ -1892,12 +1892,12 @@
     },
     {
       "video_id": "8YVzGx-AL6g",
-      "title": "Why you shouldn’t let time fly by  #shorts #quotes",
+      "title": "Why you shouldn\u2019t let time fly by  #shorts #quotes",
       "status": "pending"
     },
     {
       "video_id": "lVnbaeqpELs",
-      "title": "This relationship quote will change how you think… #shorts #relationships",
+      "title": "This relationship quote will change how you think\u2026 #shorts #relationships",
       "status": "pending"
     },
     {
@@ -1917,12 +1917,12 @@
     },
     {
       "video_id": "Tx5WzxeYG3Q",
-      "title": "Better to have loved and lost, then to have never loved at all… #shorts #relationships",
+      "title": "Better to have loved and lost, then to have never loved at all\u2026 #shorts #relationships",
       "status": "pending"
     },
     {
       "video_id": "KPatDyTR780",
-      "title": "You know you’re maturing when… #shorts #selfimprovement",
+      "title": "You know you\u2019re maturing when\u2026 #shorts #selfimprovement",
       "status": "pending"
     },
     {
@@ -1947,7 +1947,7 @@
     },
     {
       "video_id": "5jy5t658PEM",
-      "title": "Rule number 10… #shorts #motivation",
+      "title": "Rule number 10\u2026 #shorts #motivation",
       "status": "pending"
     },
     {
@@ -1957,7 +1957,7 @@
     },
     {
       "video_id": "dquYsjnnDrE",
-      "title": "Monday Reminder… #mindset #shorts",
+      "title": "Monday Reminder\u2026 #mindset #shorts",
       "status": "pending"
     },
     {
@@ -1967,7 +1967,7 @@
     },
     {
       "video_id": "yzH1Ar9Qc4I",
-      "title": "81 days until summer… #fitness #shorts",
+      "title": "81 days until summer\u2026 #fitness #shorts",
       "status": "pending"
     },
     {
@@ -1997,7 +1997,7 @@
     },
     {
       "video_id": "dIw5PlT9Aoo",
-      "title": "Why you shouldn’t be worried about your future #quotes",
+      "title": "Why you shouldn\u2019t be worried about your future #quotes",
       "status": "pending"
     },
     {
@@ -2007,7 +2007,7 @@
     },
     {
       "video_id": "oNJ1KqrWtVE",
-      "title": "This is who inspires me… #quotes",
+      "title": "This is who inspires me\u2026 #quotes",
       "status": "pending"
     },
     {
@@ -2017,7 +2017,7 @@
     },
     {
       "video_id": "NJqlGIMOzmQ",
-      "title": "You’re not actually too busy #quotes",
+      "title": "You\u2019re not actually too busy #quotes",
       "status": "pending"
     },
     {
@@ -2037,7 +2037,7 @@
     },
     {
       "video_id": "r5LEIt-6dG8",
-      "title": "You’re not even trying yet… #mindset",
+      "title": "You\u2019re not even trying yet\u2026 #mindset",
       "status": "pending"
     },
     {
@@ -2052,7 +2052,7 @@
     },
     {
       "video_id": "vuOugr-6Dg8",
-      "title": "Conor’s Mindset",
+      "title": "Conor\u2019s Mindset",
       "status": "pending"
     },
     {
@@ -2072,12 +2072,12 @@
     },
     {
       "video_id": "bzOE1TMA8VE",
-      "title": "Imagine where you’d be #quotes",
+      "title": "Imagine where you\u2019d be #quotes",
       "status": "pending"
     },
     {
       "video_id": "wlcZhmbMx9U",
-      "title": "😮‍💨 #motivation",
+      "title": "\ud83d\ude2e\u200d\ud83d\udca8 #motivation",
       "status": "pending"
     },
     {
@@ -2087,22 +2087,22 @@
     },
     {
       "video_id": "utWOvuhnYcA",
-      "title": "NO MATTER⚔️ #motivation",
+      "title": "NO MATTER\u2694\ufe0f #motivation",
       "status": "pending"
     },
     {
       "video_id": "8AF6Z_QjN1A",
-      "title": "We did not come this far… #motivation",
+      "title": "We did not come this far\u2026 #motivation",
       "status": "pending"
     },
     {
       "video_id": "PNVakqiAXh4",
-      "title": "I woke up one day… #motivation",
+      "title": "I woke up one day\u2026 #motivation",
       "status": "pending"
     },
     {
       "video_id": "j-pUqhmTSY8",
-      "title": "Keep pushing🖤 #mindset",
+      "title": "Keep pushing\ud83d\udda4 #mindset",
       "status": "pending"
     },
     {
@@ -2132,12 +2132,12 @@
     },
     {
       "video_id": "0A9GSqwTKjQ",
-      "title": "Everyman has 2 lives… #mindset",
+      "title": "Everyman has 2 lives\u2026 #mindset",
       "status": "pending"
     },
     {
       "video_id": "HiJqlB-2emk",
-      "title": "Become a ghost☕️ #motivation",
+      "title": "Become a ghost\u2615\ufe0f #motivation",
       "status": "pending"
     },
     {
@@ -2167,12 +2167,12 @@
     },
     {
       "video_id": "_EABuO_5P_s",
-      "title": "I grow🗣️ #selfimprovement",
+      "title": "I grow\ud83d\udde3\ufe0f #selfimprovement",
       "status": "pending"
     },
     {
       "video_id": "FVs4WqEZBJo",
-      "title": "You’re much further ahead than you think #matrix",
+      "title": "You\u2019re much further ahead than you think #matrix",
       "status": "pending"
     },
     {
@@ -2192,7 +2192,7 @@
     },
     {
       "video_id": "ryVKU1j2MZk",
-      "title": "Nobody is coming to save you… #mindset",
+      "title": "Nobody is coming to save you\u2026 #mindset",
       "status": "pending"
     },
     {
@@ -2202,7 +2202,7 @@
     },
     {
       "video_id": "aseZGNVEF5Q",
-      "title": "First it hurts you… #quotes",
+      "title": "First it hurts you\u2026 #quotes",
       "status": "pending"
     },
     {
@@ -2212,7 +2212,7 @@
     },
     {
       "video_id": "R_2iYPueFuI",
-      "title": "Had to kill the old me… #growth",
+      "title": "Had to kill the old me\u2026 #growth",
       "status": "pending"
     },
     {
@@ -2227,7 +2227,7 @@
     },
     {
       "video_id": "oT8OTUep1rg",
-      "title": "Let’s keep is strong #quotes",
+      "title": "Let\u2019s keep is strong #quotes",
       "status": "pending"
     },
     {
@@ -2242,7 +2242,7 @@
     },
     {
       "video_id": "po1Sl3j8iKQ",
-      "title": "Be careful telling people your goals… #selfimprovement",
+      "title": "Be careful telling people your goals\u2026 #selfimprovement",
       "status": "pending"
     },
     {
@@ -2252,7 +2252,7 @@
     },
     {
       "video_id": "cHZUFv5jIc4",
-      "title": "Take the time to read this one🦾 #motivation #mindset",
+      "title": "Take the time to read this one\ud83e\uddbe #motivation #mindset",
       "status": "pending"
     },
     {
@@ -2272,7 +2272,7 @@
     },
     {
       "video_id": "vfezZ3ikHsw",
-      "title": "It will come🤍 #quotes",
+      "title": "It will come\ud83e\udd0d #quotes",
       "status": "pending"
     },
     {
@@ -2312,7 +2312,7 @@
     },
     {
       "video_id": "XnXshMSV_XU",
-      "title": "Keep this one for the year🖤 #mindset #goals",
+      "title": "Keep this one for the year\ud83d\udda4 #mindset #goals",
       "status": "pending"
     },
     {
@@ -2322,17 +2322,17 @@
     },
     {
       "video_id": "t9Jci1TKNmA",
-      "title": "Listen to that again🤍 #mindset #confidence",
+      "title": "Listen to that again\ud83e\udd0d #mindset #confidence",
       "status": "pending"
     },
     {
       "video_id": "o9VW_vWU2vU",
-      "title": "If you don’t have ideas: #quotes",
+      "title": "If you don\u2019t have ideas: #quotes",
       "status": "pending"
     },
     {
       "video_id": "52DcyHl0OrA",
-      "title": "I’m keeping this mindset #motivation #selfimprovement",
+      "title": "I\u2019m keeping this mindset #motivation #selfimprovement",
       "status": "pending"
     },
     {

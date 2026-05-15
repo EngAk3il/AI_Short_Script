@@ -5,21 +5,26 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-05-13T05:45:59.947413+00:00",
-  "total_discovered": 784,
+  "last_updated": "2026-05-14T17:45:14.075348+00:00",
+  "total_discovered": 785,
   "ingestion_stats": {
-    "total": 50,
+    "total": 63,
     "ok": 38,
     "low_quality": 0,
-    "no_transcript": 10,
+    "no_transcript": 23,
     "no_speech": 2
   },
-  "completion_percentage": "6.4%",
+  "completion_percentage": "8.0%",
   "videos": [
     {
-      "video_id": "NL_dVkuZnEo",
-      "title": "Mother's love = pure love!",
-      "status": "NO_SPEECH"
+      "video_id": "fXtJFWyNnV0",
+      "title": "Job interview on the road 😮",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "VQmgQxkWElA",
+      "title": "Two sides of India 🙌🏻",
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "b8Vq7xSit_s",
@@ -279,57 +284,57 @@
     {
       "video_id": "aBE-3NjuaDQ",
       "title": "When they say women's can't achieve anything!",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "xL4hpp37d8g",
       "title": "Ganne ka juice was found by this woman🤯",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "vM762IObbIA",
       "title": "Keralam's magical world!! 😍",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "oLt99kEUIBU",
       "title": "Jaan se maarne ki dhamki",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "ywu4e-8juDE",
       "title": "Feminism fu*ked up our society ❤️",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "xgusDjJa7Zk",
       "title": "Holi song inspired by Meera Bai😍",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "BApjYa_RZvw",
       "title": "People called this doctor Ra*di! 💔",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "ACz2PvkUWTI",
       "title": "Hottest actor tragedy 😐",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "K9O99ns6qh4",
       "title": "Northeast people are not shit!",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "ckpNVsfCNwQ",
       "title": "Virosh wedding outfit meaning revealed 😍 #vijaydevarakonda #rashmikamandanna",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "P65x89hZQIo",
       "title": "Iconic Bollywood's Father Son Duo! 🤯",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "yveXvdcvIvo",

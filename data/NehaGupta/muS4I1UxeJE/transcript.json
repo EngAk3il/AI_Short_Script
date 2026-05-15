@@ -1,0 +1,27 @@
+{
+  "video_id": "muS4I1UxeJE",
+  "language": "hi",
+  "source": "antigravity-browser",
+  "segments": [
+    {
+      "start": 0.0,
+      "duration": 6.0,
+      "text": "The tradition of 'Langar' in Sikhism."
+    },
+    {
+      "start": 6.0,
+      "duration": 9.0,
+      "text": "Started by Guru Nanak Dev Ji, Langar is a free community kitchen that serves everyone regardless of caste or religion."
+    },
+    {
+      "start": 15.0,
+      "duration": 10.0,
+      "text": "At the Golden Temple, over 100,000 people are served free meals every single day."
+    },
+    {
+      "start": 25.0,
+      "duration": 3.0,
+      "text": "The kitchen is run entirely by volunteers and donations."
+    }
+  ]
+}

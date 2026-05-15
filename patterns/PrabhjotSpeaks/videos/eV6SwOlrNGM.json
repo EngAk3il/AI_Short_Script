@@ -1,0 +1,148 @@
+{
+  "video_id": "eV6SwOlrNGM",
+  "duration_seconds": 162,
+  "wps": 3.93,
+  "total_words": 636,
+  "language_mix": {
+    "hindi": 99.6,
+    "english": 0.4,
+    "total_chars": 2599
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया में आज की सारी बड़ी खबरें। अगले 3"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "लिस्ट की है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 43
+    },
+    {
+      "word": "है",
+      "count": 19
+    },
+    {
+      "word": "ने",
+      "count": 16
+    },
+    {
+      "word": "में",
+      "count": 15
+    },
+    {
+      "word": "की",
+      "count": 12
+    },
+    {
+      "word": "को",
+      "count": 12
+    },
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "इंडिया",
+      "count": 11
+    },
+    {
+      "word": "एक",
+      "count": 7
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "मिनिस्टर",
+      "count": 6
+    },
+    {
+      "word": "कि",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "किया",
+      "count": 6
+    },
+    {
+      "word": "रूप",
+      "count": 5
+    },
+    {
+      "word": "लिए",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "बाद",
+      "count": 5
+    },
+    {
+      "word": "करने",
+      "count": 5
+    },
+    {
+      "word": "यह",
+      "count": 5
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "के रूप",
+      "count": 5
+    },
+    {
+      "phrase": "रूप में",
+      "count": 5
+    },
+    {
+      "phrase": "के लिए",
+      "count": 5
+    },
+    {
+      "phrase": "के बाद",
+      "count": 4
+    },
+    {
+      "phrase": "चीफ मिनिस्टर",
+      "count": 3
+    },
+    {
+      "phrase": "मिनिस्टर के",
+      "count": 3
+    },
+    {
+      "phrase": "कहा कि",
+      "count": 3
+    },
+    {
+      "phrase": "कि इंडिया",
+      "count": 3
+    },
+    {
+      "phrase": "को लेकर",
+      "count": 3
+    },
+    {
+      "phrase": "के अकॉर्डिंग",
+      "count": 3
+    }
+  ],
+  "segment_count": 86
+}

@@ -1,15 +1,6 @@
 {
   "creators": [
     {
-      "name": "Nitishrajputshorts",
-      "url": "https://www.youtube.com/@nitishrajputshorts/shorts",
-      "languages": [
-        "hi",
-        "en"
-      ],
-      "active": true
-    },
-    {
       "name": "Shivanshu.Agrawal",
       "url": "https://www.youtube.com/@Shivanshu.Agrawal/shorts",
       "languages": [
@@ -19,26 +10,8 @@
       "active": true
     },
     {
-      "name": "AshutoshPratihastAP",
-      "url": "https://www.youtube.com/@AshutoshPratihastAP/shorts",
-      "languages": [
-        "hi",
-        "en"
-      ],
-      "active": true
-    },
-    {
       "name": "hellooipsita",
       "url": "https://www.youtube.com/@hellooipsita/shorts",
-      "languages": [
-        "hi",
-        "en"
-      ],
-      "active": true
-    },
-    {
-      "name": "designbyarpit",
-      "url": "https://www.youtube.com/@designbyarpit/shorts",
       "languages": [
         "hi",
         "en"
@@ -73,15 +46,6 @@
       "active": true
     },
     {
-      "name": "FullDisclosure",
-      "url": "https://www.youtube.com/@FullDisclosure./shorts",
-      "languages": [
-        "hi",
-        "en"
-      ],
-      "active": true
-    },
-    {
       "name": "GenZway",
       "url": "https://www.youtube.com/@GenZway/shorts",
       "languages": [
@@ -91,43 +55,62 @@
       "active": true
     },
     {
-      "name": "SciCoLens",
-      "url": "https://www.youtube.com/@SciCoLens/shorts",
-      "languages": [
-        "hi",
-        "en"
-      ],
-      "active": true
-    },
-    {
-      "name": "NitishRajput",
-      "url": "https://www.youtube.com/@nitishrajputshorts/shorts",
-      "languages": [
-        "hi",
-        "en"
-      ],
-      "active": true
-    },
-    {
-      "name": "CleoAbram",
-      "url": "https://www.youtube.com/@CleoAbram/shorts",
-      "languages": [
-        "en"
-      ],
-      "active": true
-    },
-    {
-      "name": "aevytv",
-      "url": "https://www.youtube.com/@aevytv/shorts",
-      "languages": [
-        "hi",
-        "en"
-      ],
-      "active": true
-    },
-    {
       "name": "KKCreate",
       "url": "https://www.youtube.com/@kk.create.original/shorts",
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "active": true
+    },
+    {
+      "name": "PrabhjotSpeaks",
+      "url": "https://www.youtube.com/@prabhjotspeaks/shorts",
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "active": true
+    },
+    {
+      "name": "MangeshShinde",
+      "url": "https://www.youtube.com/@mangeshshindeshorts/shorts",
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "active": true
+    },
+    {
+      "name": "TheInformedCitizen",
+      "url": "https://www.youtube.com/@TheInformedCitizen/shorts",
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "active": true
+    },
+    {
+      "name": "NiharikaChoudhary",
+      "url": "https://www.youtube.com/@NiharikaChoudhary-shorts/shorts",
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "active": true
+    },
+    {
+      "name": "NehaGupta",
+      "url": "https://www.youtube.com/@realnehagupta/shorts",
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "active": true
+    },
+    {
+      "name": "UditInsights",
+      "url": "https://www.youtube.com/@uditinsights.official/shorts",
       "languages": [
         "hi",
         "en"

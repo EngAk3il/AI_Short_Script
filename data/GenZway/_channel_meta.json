@@ -5,17 +5,57 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-30T08:54:01.468630+00:00",
-  "total_discovered": 965,
+  "last_updated": "2026-05-14T00:13:35.551158+00:00",
+  "total_discovered": 973,
   "ingestion_stats": {
-    "total": 106,
+    "total": 116,
     "ok": 70,
     "low_quality": 0,
-    "no_transcript": 34,
+    "no_transcript": 44,
     "no_speech": 2
   },
-  "completion_percentage": "11.0%",
+  "completion_percentage": "11.9%",
   "videos": [
+    {
+      "video_id": "sql4gU17EPA",
+      "title": "Toll scam by private companies 😨",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "HfFSvl1t1oE",
+      "title": "The Reality of fake loan apps",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "z8VFqh98zUg",
+      "title": "10000 ka rule UPI khatam kr dega",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "z8lQzH_h6Ig",
+      "title": "Apple CEO Tim Cook Replaced, $4 Trillion iPhone Empire ka Naya Malik Kaun",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "3ne19xH30cQ",
+      "title": "Ambani ka jio 199 recharge hide krkr pagal bna rha h",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "9-POkGtQVU8",
+      "title": "Indian School 25000 Rs every year scam",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "_UezA_bxc3s",
+      "title": "Sandeep Maheshwari ke saath hua lafda 😨",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "wybmprFaYhY",
+      "title": "1 dollar= ₹95 now 😨",
+      "status": "NO_TRANSCRIPT"
+    },
     {
       "video_id": "QvwfoIRPkmg",
       "title": "This brand is gonna kill McDonald's burgers ￼",
@@ -564,17 +604,17 @@
     {
       "video_id": "6tp5r_38F4M",
       "title": "BSNL and Mukesh ambani jio income reality 😨😨",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "DCGyesGrEdE",
       "title": "Tesla and india secret deal ￼income reality 😨😨",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "46PxmjId4gY",
       "title": "Adani ne ambani ko pagal bna dia 😨😨",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "DWym5VcwhOg",

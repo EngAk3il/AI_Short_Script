@@ -1,0 +1,148 @@
+{
+  "video_id": "9ehInvcBjhc",
+  "duration_seconds": 66,
+  "wps": 3.52,
+  "total_words": 232,
+  "language_mix": {
+    "hindi": 99.3,
+    "english": 0.7,
+    "total_chars": 1089
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "डॉनल्ड ट्रंप ने एलियंस वाली फाइल्स रिलीज"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "फॉलो जरुर करना।"
+  },
+  "audience_addressing": [
+    "आप (formal)"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 7
+    },
+    {
+      "word": "में",
+      "count": 7
+    },
+    {
+      "word": "के",
+      "count": 7
+    },
+    {
+      "word": "फाइल्स",
+      "count": 6
+    },
+    {
+      "word": "हैं",
+      "count": 6
+    },
+    {
+      "word": "लेकिन",
+      "count": 4
+    },
+    {
+      "word": "गवर्नमेंट",
+      "count": 4
+    },
+    {
+      "word": "और",
+      "count": 4
+    },
+    {
+      "word": "पब्लिक",
+      "count": 4
+    },
+    {
+      "word": "ने",
+      "count": 3
+    },
+    {
+      "word": "एलियंस",
+      "count": 3
+    },
+    {
+      "word": "ऑब्जेक्ट्स",
+      "count": 3
+    },
+    {
+      "word": "कि",
+      "count": 3
+    },
+    {
+      "word": "नहीं",
+      "count": 3
+    },
+    {
+      "word": "यह",
+      "count": 3
+    },
+    {
+      "word": "ट्रंप",
+      "count": 2
+    },
+    {
+      "word": "कर",
+      "count": 2
+    },
+    {
+      "word": "दी",
+      "count": 2
+    },
+    {
+      "word": "क्या",
+      "count": 2
+    },
+    {
+      "word": "सच",
+      "count": 2
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ट्रंप ने",
+      "count": 2
+    },
+    {
+      "phrase": "कर दी",
+      "count": 2
+    },
+    {
+      "phrase": "है लेकिन",
+      "count": 2
+    },
+    {
+      "phrase": "लेकिन क्या",
+      "count": 2
+    },
+    {
+      "phrase": "सच में",
+      "count": 2
+    },
+    {
+      "phrase": "ऑब्जेक्ट्स और",
+      "count": 2
+    },
+    {
+      "phrase": "गवर्नमेंट के",
+      "count": 2
+    },
+    {
+      "phrase": "के ऊपर",
+      "count": 2
+    },
+    {
+      "phrase": "के पास",
+      "count": 2
+    },
+    {
+      "phrase": "है क्योंकि",
+      "count": 2
+    }
+  ],
+  "segment_count": 36
+}

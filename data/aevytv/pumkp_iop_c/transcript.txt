@@ -1,6 +1,0 @@
-[00:00] Pick one. You have three seconds.
-[00:04] You want more options? I can do that too with a single prompt. In fact, let me show you how I built all of this inside Imagine Art on a single canvas. So, you can create similar workflow yourself.
-[00:15] Just write a prompt, generate the presenter using a reference image, place the smartwatch on their hand, and turn it into a video. All right, here. And
-[00:22] let's say what a completely different look for a presenter. You can just swap the reference image in the master prompt and everything else in the pipeline will stay as is. The results are also top
-[00:31] tier because you get access to models like Nano Banana Pro, Chad GBD for images, Clink 3.0, Cance Pro, Vio3 for video. Oh, and you can share this entire
-[00:40] pipeline with your team in two clicks so they can also replicate your style for other projects. Super simple, right?

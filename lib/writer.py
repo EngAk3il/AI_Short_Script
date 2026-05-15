@@ -108,6 +108,7 @@ def get_ingestion_summary(data_dir: str, creator_name: str) -> dict:
         'low_quality': 0,
         'no_transcript': 0,
         'no_speech': 0,
+        'rate_limited': 0,
     }
 
     if not os.path.isdir(creator_dir):
@@ -130,6 +131,8 @@ def get_ingestion_summary(data_dir: str, creator_name: str) -> dict:
                         summary['no_transcript'] += 1
                     elif status == 'no_speech':
                         summary['no_speech'] += 1
+                    elif status == 'rate_limited':
+                        summary['rate_limited'] += 1
                 except Exception:
                     pass
 

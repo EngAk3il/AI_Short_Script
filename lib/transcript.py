@@ -1,252 +1,397 @@
 """
-transcript.py — Fetch timed transcripts with 4-level fallback.
+transcript.py — Fetch timed transcripts with retries, cookies, and proxy support.
 
-Level 1: youtube-transcript-api (fast, timed)
-Level 2: yt-dlp auto-sub download (catches API blind spots)
-Level 3: Chrome headless (bypasses IP blocks)
-Level 4: metadata-only (save what we can)
+Level 1: youtube-transcript-api (with optional cookies session + proxy)
+Level 2: yt-dlp subtitles (json3 / vtt) — works well with cookies.txt
+Level 3: metadata-only → NO_TRANSCRIPT or RATE_LIMITED (retry later)
 """
 
-import time
+from __future__ import annotations
+
+import json
 import logging
-from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api._errors import (
-    NoTranscriptFound,
-    TranscriptsDisabled,
-)
+import re
+import tempfile
+from pathlib import Path
+
+import requests
 import yt_dlp
+from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api._errors import NoTranscriptFound, TranscriptsDisabled
+
+from lib.ingest_config import IngestConfig
+from lib.rate_limit import is_rate_limit_error, retry_with_backoff
 
 logger = logging.getLogger(__name__)
 
+# Module-level config set by ingest.py before fetching
+_active_config: IngestConfig | None = None
+_last_block: bool = False
+
+
+def configure_ingest(config: IngestConfig | None) -> None:
+    global _active_config
+    _active_config = config
+
+
+def was_last_fetch_blocked() -> bool:
+    return _last_block
+
 
 class TranscriptResult:
-    """Container for a transcript extraction result."""
-
     def __init__(self, video_id: str):
         self.video_id = video_id
-        self.segments = []          # list of {start, duration, text}
-        self.language = None        # e.g. 'hi', 'en'
-        self.source = None          # which level succeeded
-        self.status = None          # OK, LOW_QUALITY, NO_TRANSCRIPT, NO_SPEECH
-        self.title = None
-        self.description = None
-        self.duration_seconds = None
-        self.publish_date = None
-        self.error = None           # error message if failed
+        self.segments: list[dict] = []
+        self.language: str | None = None
+        self.source: str | None = None
+        self.status: str | None = None  # OK, NO_TRANSCRIPT, NO_SPEECH, RATE_LIMITED
+        self.title: str | None = None
+        self.description: str | None = None
+        self.duration_seconds: int | None = None
+        self.publish_date: str | None = None
+        self.error: str | None = None
 
 
-def fetch_transcript(video_id: str, languages: list[str] = None) -> TranscriptResult:
-    """
-    Try all 4 fallback levels to get a timed transcript.
+def _config() -> IngestConfig:
+    return _active_config or IngestConfig.from_env()
 
-    Args:
-        video_id: YouTube video ID
-        languages: ordered list of language codes to try (default: ['hi', 'en'])
 
-    Returns:
-        TranscriptResult with status and data
-    """
+def _build_ydl_opts(extra: dict | None = None) -> dict:
+    cfg = _config()
+    opts: dict = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "socket_timeout": 30,
+        "retries": 3,
+        "fragment_retries": 3,
+        "sleep_interval_requests": 1.5,
+        "sleep_interval": 2,
+    }
+    if cfg.proxy:
+        opts["proxy"] = cfg.proxy
+    path = cfg.cookies_path()
+    if path:
+        opts["cookiefile"] = str(path)
+    elif cfg.cookies_from_browser:
+        opts["cookiesfrombrowser"] = (cfg.cookies_from_browser,)
+    if extra:
+        opts.update(extra)
+    return opts
+
+
+def _build_transcript_api() -> YouTubeTranscriptApi:
+    cfg = _config()
+    session: requests.Session | None = None
+    path = cfg.cookies_path()
+    if path:
+        from lib.cookies_loader import load_session_with_cookies
+
+        session = load_session_with_cookies(path)
+    if cfg.proxy and session:
+        session.proxies = {"http": cfg.proxy, "https": cfg.proxy}
+    elif cfg.proxy:
+        session = requests.Session()
+        session.proxies = {"http": cfg.proxy, "https": cfg.proxy}
+
+    if session:
+        return YouTubeTranscriptApi(http_client=session)
+    return YouTubeTranscriptApi()
+
+
+def fetch_transcript(video_id: str, languages: list[str] | None = None) -> TranscriptResult:
+    global _last_block
+    _last_block = False
+
     if languages is None:
-        languages = ['hi', 'en']
+        languages = ["hi", "en", "en-IN", "hi-IN"]
 
     result = TranscriptResult(video_id)
+    cfg = _config()
+    blocked = False
 
-    # Fetch metadata first via yt-dlp (lightweight, always works)
-    _fetch_metadata(result)
+    try:
+        retry_with_backoff(
+            lambda: _fetch_metadata(result),
+            max_retries=cfg.max_retries,
+            base_seconds=cfg.retry_base_seconds,
+            label=f"metadata:{video_id}",
+        )
+    except Exception as e:
+        if is_rate_limit_error(e):
+            blocked = True
+            result.error = str(e)[:200]
+        else:
+            logger.warning("[%s] Metadata fetch failed: %s", video_id, e)
 
-    # Level 1: youtube-transcript-api
-    if _try_level1(result, languages):
-        return result
+    if result.status != "NO_SPEECH":
+        try:
+            if _try_level1(result, languages):
+                return result
+        except Exception as e:
+            if is_rate_limit_error(e):
+                blocked = True
+                result.error = str(e)[:200]
 
-    # Level 2: yt-dlp auto-sub
-    if _try_level2(result, languages):
-        return result
+        try:
+            if _try_level2(result, languages):
+                return result
+        except Exception as e:
+            if is_rate_limit_error(e):
+                blocked = True
+                result.error = str(e)[:200]
 
-    # Level 3: Chrome headless
-    if _try_level3(result, languages):
-        return result
-
-    # Level 4: metadata-only
-    _finalize_no_transcript(result)
+    _finalize(result, blocked=blocked)
+    _last_block = blocked
     return result
 
 
-def _fetch_metadata(result: TranscriptResult):
-    """Fetch video metadata via yt-dlp (no download)."""
-    try:
-        ydl_opts = {
-            'quiet': True,
-            'skip_download': True,
-            'no_warnings': True,
-        }
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info = ydl.extract_info(
-                f'https://www.youtube.com/watch?v={result.video_id}',
-                download=False
-            )
-            result.title = info.get('title', 'Unknown')
-            result.description = info.get('description', '')
-            result.duration_seconds = info.get('duration')
-            result.publish_date = info.get('upload_date')
-
-            # Check if video has any captions at all
-            auto_caps = info.get('automatic_captions', {})
-            manual_subs = info.get('subtitles', {})
-            if not auto_caps and not manual_subs:
-                result.status = 'NO_SPEECH'
-                result.error = 'No captions available on YouTube'
-                logger.info(f"[{result.video_id}] No captions at all — NO_SPEECH")
-    except Exception as e:
-        logger.warning(f"[{result.video_id}] Metadata fetch failed: {e}")
+def _fetch_metadata(result: TranscriptResult) -> None:
+    with yt_dlp.YoutubeDL(_build_ydl_opts()) as ydl:
+        info = ydl.extract_info(
+            f"https://www.youtube.com/watch?v={result.video_id}",
+            download=False,
+        )
+    result.title = info.get("title", "Unknown")
+    result.description = info.get("description", "")
+    result.duration_seconds = info.get("duration")
+    result.publish_date = info.get("upload_date")
+    auto_caps = info.get("automatic_captions") or {}
+    manual_subs = info.get("subtitles") or {}
+    if not auto_caps and not manual_subs:
+        result.status = "NO_SPEECH"
+        result.error = "No captions available on YouTube"
 
 
 def _try_level1(result: TranscriptResult, languages: list[str]) -> bool:
-    """Level 1: youtube-transcript-api."""
-    if result.status == 'NO_SPEECH':
+    if result.status == "NO_SPEECH":
         return False
 
+    cfg = _config()
+
+    def _fetch():
+        api = _build_transcript_api()
+        transcript = api.fetch(result.video_id, languages=languages)
+        segments = [
+            {"start": s.start, "duration": s.duration, "text": s.text}
+            for s in transcript.snippets
+        ]
+        if not segments:
+            return None
+        result.segments = segments
+        result.language = transcript.language
+        result.source = "youtube-transcript-api"
+        result.status = "OK"
+        return True
+
     try:
-        ytt = YouTubeTranscriptApi()
-        transcript = ytt.fetch(result.video_id, languages=languages)
-
-        segments = []
-        for snippet in transcript.snippets:
-            segments.append({
-                'start': snippet.start,
-                'duration': snippet.duration,
-                'text': snippet.text,
-            })
-
-        if segments:
-            result.segments = segments
-            result.language = transcript.language
-            result.source = 'youtube-transcript-api'
-            result.status = 'OK'
+        out = retry_with_backoff(
+            _fetch,
+            max_retries=cfg.max_retries,
+            base_seconds=cfg.retry_base_seconds,
+            label=f"L1:{result.video_id}",
+        )
+        if out:
             logger.info(
-                f"[{result.video_id}] Level 1 OK: {len(segments)} segments, "
-                f"lang={result.language}"
+                "[%s] L1 OK: %d segments lang=%s",
+                result.video_id,
+                len(result.segments),
+                result.language,
             )
-            return True
-
+        return bool(out)
     except NoTranscriptFound:
-        logger.info(f"[{result.video_id}] Level 1: No transcript found for {languages}")
+        logger.info("[%s] L1: no transcript for %s", result.video_id, languages)
     except TranscriptsDisabled:
-        logger.info(f"[{result.video_id}] Level 1: Transcripts disabled")
+        logger.info("[%s] L1: transcripts disabled", result.video_id)
     except Exception as e:
-        err_name = type(e).__name__
-        logger.info(f"[{result.video_id}] Level 1 failed ({err_name}): {str(e)[:80]}")
-
+        if is_rate_limit_error(e):
+            raise
+        logger.info("[%s] L1 failed: %s", result.video_id, str(e)[:100])
     return False
 
 
 def _try_level2(result: TranscriptResult, languages: list[str]) -> bool:
-    """Level 2: yt-dlp auto-sub extraction."""
-    if result.status == 'NO_SPEECH':
+    if result.status == "NO_SPEECH":
         return False
 
-    try:
-        ydl_opts = {
-            'quiet': True,
-            'skip_download': True,
-            'writeautomaticsub': True,
-            'subtitleslangs': languages,
-            'subtitlesformat': 'json3',
-            'no_warnings': True,
-        }
+    cfg = _config()
+    langs_try = list(dict.fromkeys(languages + ["en", "hi"]))
 
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info = ydl.extract_info(
-                f'https://www.youtube.com/watch?v={result.video_id}',
-                download=False
+    def _run():
+        with tempfile.TemporaryDirectory() as tmp:
+            outtmpl = str(Path(tmp) / "%(id)s")
+            opts = _build_ydl_opts(
+                {
+                    "writeautomaticsub": True,
+                    "writesubtitles": True,
+                    "subtitleslangs": langs_try,
+                    "subtitlesformat": "json3/vtt/best",
+                    "skip_download": True,
+                    "outtmpl": outtmpl,
+                }
             )
+            with yt_dlp.YoutubeDL(opts) as ydl:
+                info = ydl.extract_info(
+                    f"https://www.youtube.com/watch?v={result.video_id}",
+                    download=True,
+                )
+                if not result.title:
+                    result.title = info.get("title", "Unknown")
 
-            # Check requested_subtitles for what was found
-            req_subs = info.get('requested_subtitles', {})
-            if not req_subs:
-                logger.info(f"[{result.video_id}] Level 2: No auto-subs available")
-                return False
+            # Find downloaded sub files
+            for lang in langs_try:
+                for pattern in (f"{result.video_id}.{lang}.json3", f"{result.video_id}.{lang}.vtt"):
+                    fpath = Path(tmp) / pattern
+                    if not fpath.exists():
+                        continue
+                    segments = (
+                        _parse_json3_file(fpath)
+                        if fpath.suffix == ".json3"
+                        else _parse_vtt_file(fpath)
+                    )
+                    if segments:
+                        result.segments = segments
+                        result.language = lang
+                        result.source = "yt-dlp-sub"
+                        result.status = "OK"
+                        return True
 
-            # Try each language
-            for lang in languages:
-                if lang in req_subs:
-                    sub_info = req_subs[lang]
-                    sub_url = sub_info.get('url')
-                    if sub_url:
-                        segments = _download_and_parse_json3(sub_url, ydl)
-                        if segments:
-                            result.segments = segments
-                            result.language = lang
-                            result.source = 'yt-dlp-auto-sub'
-                            result.status = 'OK'
-                            logger.info(
-                                f"[{result.video_id}] Level 2 OK: "
-                                f"{len(segments)} segments, lang={lang}"
-                            )
-                            return True
-
-    except Exception as e:
-        logger.info(f"[{result.video_id}] Level 2 failed: {str(e)[:80]}")
-
-    return False
-
-
-def _download_and_parse_json3(url: str, ydl) -> list[dict]:
-    """Download json3 subtitle URL and parse into segments."""
-    import json
-    try:
-        response = ydl.urlopen(url)
-        data = json.loads(response.read())
-        events = data.get('events', [])
-
-        segments = []
-        for ev in events:
-            segs = ev.get('segs', [])
-            if segs:
-                text = ''.join(s.get('utf8', '') for s in segs).strip()
-                if text and text != '\n':
-                    t_ms = ev.get('tStartMs', 0)
-                    d_ms = ev.get('dDurationMs', 0)
-                    segments.append({
-                        'start': t_ms / 1000.0,
-                        'duration': d_ms / 1000.0,
-                        'text': text,
-                    })
-        return segments
-    except Exception as e:
-        logger.warning(f"json3 parse failed: {e}")
-        return []
-
-
-def _try_level3(result: TranscriptResult, languages: list[str]) -> bool:
-    """Level 3: Chrome headless — scrape transcript panel."""
-    if result.status == 'NO_SPEECH':
+            # Fallback: requested_subtitles URL
+            with yt_dlp.YoutubeDL(_build_ydl_opts()) as ydl:
+                info = ydl.extract_info(
+                    f"https://www.youtube.com/watch?v={result.video_id}",
+                    download=False,
+                )
+            req_subs = info.get("requested_subtitles") or {}
+            for lang in langs_try:
+                if lang not in req_subs:
+                    continue
+                sub_url = req_subs[lang].get("url")
+                if not sub_url:
+                    continue
+                segments = _download_sub_url(sub_url)
+                if segments:
+                    result.segments = segments
+                    result.language = lang
+                    result.source = "yt-dlp-auto-sub"
+                    result.status = "OK"
+                    return True
         return False
 
     try:
-        from lib.chrome_fallback import fetch_transcript_via_chrome
-        segments, language = fetch_transcript_via_chrome(result.video_id, languages)
-
-        if segments:
-            result.segments = segments
-            result.language = language
-            result.source = 'chrome-headless'
-            result.status = 'OK'
+        ok = retry_with_backoff(
+            _run,
+            max_retries=cfg.max_retries,
+            base_seconds=cfg.retry_base_seconds,
+            label=f"L2:{result.video_id}",
+        )
+        if ok:
             logger.info(
-                f"[{result.video_id}] Level 3 OK: "
-                f"{len(segments)} segments, lang={language}"
+                "[%s] L2 OK: %d segments lang=%s",
+                result.video_id,
+                len(result.segments),
+                result.language,
             )
-            return True
-    except ImportError:
-        logger.info(f"[{result.video_id}] Level 3: chrome_fallback not available")
+        return ok
     except Exception as e:
-        logger.info(f"[{result.video_id}] Level 3 failed: {str(e)[:80]}")
-
+        if is_rate_limit_error(e):
+            raise
+        logger.info("[%s] L2 failed: %s", result.video_id, str(e)[:100])
     return False
 
 
-def _finalize_no_transcript(result: TranscriptResult):
-    """Level 4: Give up on transcript, save metadata only."""
-    if result.status != 'NO_SPEECH':
-        result.status = 'NO_TRANSCRIPT'
-        result.error = 'All extraction methods failed'
-    logger.info(f"[{result.video_id}] Final status: {result.status}")
+def _download_sub_url(url: str) -> list[dict]:
+    cfg = _config()
+    session = requests.Session()
+    path = cfg.cookies_path()
+    if path:
+        from lib.cookies_loader import load_session_with_cookies
+
+        session = load_session_with_cookies(path)
+    if cfg.proxy:
+        session.proxies = {"http": cfg.proxy, "https": cfg.proxy}
+    resp = session.get(url, timeout=30)
+    resp.raise_for_status()
+    if "json" in url or resp.text.strip().startswith("{"):
+        return _parse_json3_bytes(resp.content)
+    return _parse_vtt_text(resp.text)
+
+
+def _parse_json3_file(path: Path) -> list[dict]:
+    return _parse_json3_bytes(path.read_bytes())
+
+
+def _parse_json3_bytes(data: bytes) -> list[dict]:
+    try:
+        obj = json.loads(data)
+    except json.JSONDecodeError:
+        return []
+    segments = []
+    for ev in obj.get("events", []):
+        segs = ev.get("segs", [])
+        if not segs:
+            continue
+        text = "".join(s.get("utf8", "") for s in segs).strip()
+        if text and text != "\n":
+            t_ms = ev.get("tStartMs", 0)
+            d_ms = ev.get("dDurationMs", 0)
+            segments.append(
+                {"start": t_ms / 1000.0, "duration": d_ms / 1000.0, "text": text}
+            )
+    return segments
+
+
+def _parse_vtt_file(path: Path) -> list[dict]:
+    return _parse_vtt_text(path.read_text(encoding="utf-8", errors="ignore"))
+
+
+def _parse_vtt_text(text: str) -> list[dict]:
+    segments = []
+    lines = text.splitlines()
+    i = 0
+    timestamp_re = re.compile(
+        r"(\d{2}):(\d{2}):(\d{2})\.(\d{3})\s*-->\s*(\d{2}):(\d{2}):(\d{2})\.(\d{3})"
+    )
+
+    def _to_sec(h, m, s, ms) -> float:
+        return int(h) * 3600 + int(m) * 60 + int(s) + int(ms) / 1000.0
+
+    while i < len(lines):
+        m = timestamp_re.match(lines[i].strip())
+        if m:
+            start = _to_sec(*m.groups()[:4])
+            end = _to_sec(*m.groups()[4:])
+            i += 1
+            text_lines = []
+            while i < len(lines) and lines[i].strip() and "-->" not in lines[i]:
+                line = re.sub("<[^>]+>", "", lines[i]).strip()
+                if line:
+                    text_lines.append(line)
+                i += 1
+            if text_lines:
+                segments.append(
+                    {
+                        "start": start,
+                        "duration": max(0.1, end - start),
+                        "text": " ".join(text_lines),
+                    }
+                )
+            continue
+        i += 1
+    return segments
+
+
+def _finalize(result: TranscriptResult, blocked: bool = False) -> None:
+    if result.status == "OK":
+        return
+    if result.status == "NO_SPEECH":
+        logger.info("[%s] Final: NO_SPEECH", result.video_id)
+        return
+    if blocked:
+        result.status = "RATE_LIMITED"
+        result.error = result.error or "YouTube rate limit / IP block — retry later with cookies"
+        logger.warning("[%s] Final: RATE_LIMITED", result.video_id)
+        return
+    result.status = "NO_TRANSCRIPT"
+    result.error = result.error or "All extraction methods failed"
+    logger.info("[%s] Final: NO_TRANSCRIPT", result.video_id)

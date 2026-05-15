@@ -5,17 +5,57 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-30T00:44:34.368381+00:00",
-  "total_discovered": 90,
+  "last_updated": "2026-05-14T00:06:23.778480+00:00",
+  "total_discovered": 98,
   "ingestion_stats": {
-    "total": 88,
-    "ok": 77,
+    "total": 96,
+    "ok": 79,
     "low_quality": 0,
-    "no_transcript": 10,
+    "no_transcript": 18,
     "no_speech": 1
   },
-  "completion_percentage": "97.8%",
+  "completion_percentage": "98.0%",
   "videos": [
+    {
+      "video_id": "7r1UM0b8wbQ",
+      "title": "Content gives the new age asymmetrical returns! #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "4LRNVG64qP4",
+      "title": "What you wear decides if you get taken seriously! #shorts #communicationpsychology",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "Bkgqrd-3IUk",
+      "title": "Busting India\u2019s biggest communication myth in modern history! #shorts #communicationpsychology",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "ANGbL9UG_W0",
+      "title": "Your mind gets in the way before your communication skills do! #shorts #communicationpsychology",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "085aZYOg0Qk",
+      "title": "Can\u2019t articulate = Anxiety! #shorts #communicationpsychology #communicationcoach",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "LUQhNF-iDxs",
+      "title": "How UNSURE are you? #shorts #communicationcoach #communicationpsychology",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "UsXwx1bHn6A",
+      "title": "Body language to get taken seriously at work! #shortsfeed",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "0Y61jSlCJvk",
+      "title": "Ignore Red flags? #shorts",
+      "status": "NO_TRANSCRIPT"
+    },
     {
       "video_id": "sJnv2QS5XsA",
       "title": "Highly sensitive people need this!! #shorts",
@@ -73,8 +113,8 @@
     },
     {
       "video_id": "__1dzqvjty0",
-      "title": "What’s your Personality Color?! #shorts",
-      "status": "NO_TRANSCRIPT"
+      "title": "What\u2019s your Personality Color?! #shorts",
+      "status": "OK"
     },
     {
       "video_id": "AmSK_S_IbdE",
@@ -103,7 +143,7 @@
     },
     {
       "video_id": "Rooc1BtAb7Y",
-      "title": "If you can’t stop scrolling, use this refocus tool! #shortsfeed",
+      "title": "If you can\u2019t stop scrolling, use this refocus tool! #shortsfeed",
       "status": "OK"
     },
     {
@@ -169,7 +209,7 @@
     {
       "video_id": "_ovpuWxuil8",
       "title": "Increase your Emotional Intelligence with THIS time-delay technique! #shorts",
-      "status": "NO_TRANSCRIPT"
+      "status": "OK"
     },
     {
       "video_id": "SSoLCixEpqY",
@@ -178,7 +218,7 @@
     },
     {
       "video_id": "AHcLnQ3du8w",
-      "title": "Don’t be afraid to Fight! #shorts #conflictresolution",
+      "title": "Don\u2019t be afraid to Fight! #shorts #conflictresolution",
       "status": "OK"
     },
     {
@@ -238,7 +278,7 @@
     },
     {
       "video_id": "S07F2ToGaX8",
-      "title": "THIS IS WHY you should Stop caring about others’ opinions of you! #shorts #motivation",
+      "title": "THIS IS WHY you should Stop caring about others\u2019 opinions of you! #shorts #motivation",
       "status": "OK"
     },
     {
@@ -338,7 +378,7 @@
     },
     {
       "video_id": "rcquFIUdf74",
-      "title": "Are you a serial procrastinator?😞 #shorts #motivation #overcomeprocrastination",
+      "title": "Are you a serial procrastinator?\ud83d\ude1e #shorts #motivation #overcomeprocrastination",
       "status": "OK"
     },
     {
@@ -388,7 +428,7 @@
     },
     {
       "video_id": "xye_IBLf4xM",
-      "title": "Harsh truth for People Pleasers 👆 #shorts",
+      "title": "Harsh truth for People Pleasers \ud83d\udc46 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -438,17 +478,17 @@
     },
     {
       "video_id": "1KmYqPfa5FA",
-      "title": "What’s your biggest Weakness? #shorts",
+      "title": "What\u2019s your biggest Weakness? #shorts",
       "status": "OK"
     },
     {
       "video_id": "VUBSne10FKY",
-      "title": "1 Book for Peace of mind 💭❤️📖 #shorts  #bookrecommendations",
+      "title": "1 Book for Peace of mind \ud83d\udcad\u2764\ufe0f\ud83d\udcd6 #shorts  #bookrecommendations",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "YOJSScJ5sZI",
-      "title": "How to identify True Friends❤️✨💭   #shorts #truefriendship",
+      "title": "How to identify True Friends\u2764\ufe0f\u2728\ud83d\udcad   #shorts #truefriendship",
       "status": "OK"
     },
     {

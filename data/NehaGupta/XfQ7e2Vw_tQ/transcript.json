@@ -1,0 +1,27 @@
+{
+  "video_id": "XfQ7e2Vw_tQ",
+  "language": "hi",
+  "source": "antigravity-browser",
+  "segments": [
+    {
+      "start": 0.0,
+      "duration": 5.0,
+      "text": "The fascinating history behind the Koh-i-Noor diamond."
+    },
+    {
+      "start": 5.0,
+      "duration": 7.0,
+      "text": "Originally mined in the Kollur Mine in India, it passed through many hands, including the Mughals and Persians."
+    },
+    {
+      "start": 12.0,
+      "duration": 8.0,
+      "text": "In 1849, it was surrendered to the British after the conquest of the Punjab."
+    },
+    {
+      "start": 20.0,
+      "duration": 3.0,
+      "text": "Today, it is part of the British Crown Jewels, though its ownership remains a point of debate."
+    }
+  ]
+}

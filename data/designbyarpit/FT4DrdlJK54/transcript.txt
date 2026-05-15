@@ -1,8 +1,0 @@
-[00:00] This is a toast notification because it pops up just like a toast. This is a classic design trick where we are hiding real world objects in plain sight. Let's break down some of the coolest examples.
-[00:09] First up, radio buttons. You can only select one option at a time. That's because on old car radios when you press the button the other buttons would pop
-[00:17] out, so you could only choose one station. And this is a carousel. It is designed to show you a series of items
-[00:24] one after another just like a real life merrygoround where the horses and the content circle around for you to see.
-[00:30] Next one comes from food and you must have seen this everywhere lately. This is the bento grid. The design is directly inspired from the Japanese
-[00:38] bento lunch boxes which use compartments to keep food separate. So simple and smart. But my favorite is the next one
-[00:44] breadcrumbs. These little links show you the path you took on a website. And this comes from the story of Hansel and Gretle. They left breadcrumbs in the
-[00:53] forest so they could find their way home. And this is known as a subscribe button. You know what to do.

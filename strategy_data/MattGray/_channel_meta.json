@@ -4,17 +4,187 @@
   "languages": [
     "en"
   ],
-  "last_updated": "2026-03-30T09:53:12.019595+00:00",
-  "total_discovered": 932,
+  "last_updated": "2026-05-13T23:28:50.929867+00:00",
+  "total_discovered": 966,
   "ingestion_stats": {
-    "total": 17,
+    "total": 18,
     "ok": 8,
     "low_quality": 0,
-    "no_transcript": 9,
+    "no_transcript": 10,
     "no_speech": 0
   },
-  "completion_percentage": "1.8%",
+  "completion_percentage": "1.9%",
   "videos": [
+    {
+      "video_id": "CdjfHAQgm4Q",
+      "title": "how to connect with your audience (in 3 simple steps)",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "aw6G2jm38fY",
+      "title": "stop spreading yourself thin, do this instead",
+      "status": "pending"
+    },
+    {
+      "video_id": "fqmaI32Jnd4",
+      "title": "here's how to create amazing content",
+      "status": "pending"
+    },
+    {
+      "video_id": "FzwqWRFx-Ag",
+      "title": "ask yourself this question before doing anything else",
+      "status": "pending"
+    },
+    {
+      "video_id": "yadL-jSBbqY",
+      "title": "the most dangerous thing in your business",
+      "status": "pending"
+    },
+    {
+      "video_id": "H_RGt8B9kgg",
+      "title": "why do some accomplish more in two hours than others do in an entire week?",
+      "status": "pending"
+    },
+    {
+      "video_id": "M3JQ9WBA4To",
+      "title": "ask yourself this before you hire the next person to solve a problem",
+      "status": "pending"
+    },
+    {
+      "video_id": "a5H-o4GgZA8",
+      "title": "here's the thing that nobody tells you about hiring",
+      "status": "pending"
+    },
+    {
+      "video_id": "tgYAkLxWFM8",
+      "title": "Build the Infrastructure",
+      "status": "pending"
+    },
+    {
+      "video_id": "YuQ3pmjOm3A",
+      "title": "the difference between someone making 50K and 500K online",
+      "status": "pending"
+    },
+    {
+      "video_id": "JRIGE8FpmU0",
+      "title": "the operating system behind my $12M Company",
+      "status": "pending"
+    },
+    {
+      "video_id": "l2oy-YdHRjg",
+      "title": "treat your content like an index fund",
+      "status": "pending"
+    },
+    {
+      "video_id": "s1YmKmczJgc",
+      "title": "here's why tools beat lead magnets",
+      "status": "pending"
+    },
+    {
+      "video_id": "UktMOwUPDKI",
+      "title": "how to create 30 days of content in 4 hours",
+      "status": "pending"
+    },
+    {
+      "video_id": "xgzDexsn3fs",
+      "title": "my tech stack for 2026",
+      "status": "pending"
+    },
+    {
+      "video_id": "LYpPTGnvgLU",
+      "title": "the comeback protocol",
+      "status": "pending"
+    },
+    {
+      "video_id": "fDY4OE7mdB8",
+      "title": "the confidence equation",
+      "status": "pending"
+    },
+    {
+      "video_id": "CEG3Ys2Nhtg",
+      "title": "proof-led content",
+      "status": "pending"
+    },
+    {
+      "video_id": "bQv8IJMcC4g",
+      "title": "kill the \"entertainment\" myth",
+      "status": "pending"
+    },
+    {
+      "video_id": "mVdMGeyo_Kk",
+      "title": "master repeatable formats",
+      "status": "pending"
+    },
+    {
+      "video_id": "fMFJLR1vFyA",
+      "title": "be generous to a fault",
+      "status": "pending"
+    },
+    {
+      "video_id": "J15cwSE1a5c",
+      "title": "architect your say",
+      "status": "pending"
+    },
+    {
+      "video_id": "UCQqSWzFvA4",
+      "title": "build your offer stack",
+      "status": "pending"
+    },
+    {
+      "video_id": "uDGeQ28yeeU",
+      "title": "Make Discipline Automatic",
+      "status": "pending"
+    },
+    {
+      "video_id": "opraGFszres",
+      "title": "the power list",
+      "status": "pending"
+    },
+    {
+      "video_id": "uLfxtRKLwy0",
+      "title": "the content waterfall",
+      "status": "pending"
+    },
+    {
+      "video_id": "meOqpYtKcA8",
+      "title": "the five-line story framework",
+      "status": "pending"
+    },
+    {
+      "video_id": "9DdKer-4I0w",
+      "title": "turn stories into sales",
+      "status": "pending"
+    },
+    {
+      "video_id": "wzWuSAs07Go",
+      "title": "use your story as your unfair advantage",
+      "status": "pending"
+    },
+    {
+      "video_id": "vre4QEXU_SU",
+      "title": "psychology trick that keeps them watching",
+      "status": "pending"
+    },
+    {
+      "video_id": "GE4dQEUB10M",
+      "title": "storytelling is your fastest path to revenue.",
+      "status": "pending"
+    },
+    {
+      "video_id": "kRFwPfjazPI",
+      "title": "you can have the best offer in the world",
+      "status": "pending"
+    },
+    {
+      "video_id": "ZsnE0zX_E9M",
+      "title": "study the masters",
+      "status": "pending"
+    },
+    {
+      "video_id": "b3EfImRXtC0",
+      "title": "this is the reason I grew from 0 to 2 million followers in 14 months",
+      "status": "pending"
+    },
     {
       "video_id": "jiU8-AW_q-g",
       "title": "You're not broke because you don't have followers",
@@ -302,7 +472,7 @@
     },
     {
       "video_id": "Xu3m0-nJq9s",
-      "title": "How Loom AI Can 10x Your Output V4",
+      "title": "How Loom AI Can 10x Your Output",
       "status": "pending"
     },
     {

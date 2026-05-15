@@ -1,0 +1,148 @@
+{
+  "video_id": "kge880f9EVI",
+  "duration_seconds": 145,
+  "wps": 4.15,
+  "total_words": 602,
+  "language_mix": {
+    "hindi": 99.1,
+    "english": 0.9,
+    "total_chars": 2466
+  },
+  "hook": {
+    "type": "statement",
+    "text": "इंडिया में आज की ये सारी बड़ी खबरें अगले"
+  },
+  "closing": {
+    "type": "punchline_or_open",
+    "text": "इन्वेस्टिगेशन कर रही है।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "है",
+      "count": 24
+    },
+    {
+      "word": "के",
+      "count": 22
+    },
+    {
+      "word": "में",
+      "count": 16
+    },
+    {
+      "word": "से",
+      "count": 14
+    },
+    {
+      "word": "ने",
+      "count": 13
+    },
+    {
+      "word": "को",
+      "count": 13
+    },
+    {
+      "word": "और",
+      "count": 12
+    },
+    {
+      "word": "की",
+      "count": 11
+    },
+    {
+      "word": "का",
+      "count": 11
+    },
+    {
+      "word": "इस",
+      "count": 9
+    },
+    {
+      "word": "कि",
+      "count": 8
+    },
+    {
+      "word": "नहीं",
+      "count": 7
+    },
+    {
+      "word": "पुलिस",
+      "count": 7
+    },
+    {
+      "word": "कर",
+      "count": 6
+    },
+    {
+      "word": "किया",
+      "count": 6
+    },
+    {
+      "word": "एक",
+      "count": 6
+    },
+    {
+      "word": "इंडिया",
+      "count": 5
+    },
+    {
+      "word": "कहा",
+      "count": 5
+    },
+    {
+      "word": "एमएलए",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "ने कहा",
+      "count": 4
+    },
+    {
+      "phrase": "कहा कि",
+      "count": 4
+    },
+    {
+      "phrase": "के अकॉर्डिंग",
+      "count": 4
+    },
+    {
+      "phrase": "इंडिया में",
+      "count": 3
+    },
+    {
+      "phrase": "किया है",
+      "count": 3
+    },
+    {
+      "phrase": "के दो",
+      "count": 3
+    },
+    {
+      "phrase": "दो एमएलए",
+      "count": 3
+    },
+    {
+      "phrase": "सकता है",
+      "count": 3
+    },
+    {
+      "phrase": "है कि",
+      "count": 3
+    },
+    {
+      "phrase": "रहे हैं",
+      "count": 3
+    }
+  ],
+  "segment_count": 81
+}

@@ -1,0 +1,148 @@
+{
+  "video_id": "U0Gl5Fm8CeI",
+  "duration_seconds": 165,
+  "wps": 3.9,
+  "total_words": 643,
+  "language_mix": {
+    "hindi": 97.9,
+    "english": 2.1,
+    "total_chars": 2673
+  },
+  "hook": {
+    "type": "general_statement",
+    "text": "इंडिया की आज की सारी बड़ी खबरें अगले 3"
+  },
+  "closing": {
+    "type": "direct_cta",
+    "text": "अफेयर्स के लिए मुझे फॉलो जरूर करना।"
+  },
+  "audience_addressing": [
+    "neutral/third_person"
+  ],
+  "structure": "long_form_story",
+  "top_words": [
+    {
+      "word": "के",
+      "count": 25
+    },
+    {
+      "word": "को",
+      "count": 21
+    },
+    {
+      "word": "है",
+      "count": 19
+    },
+    {
+      "word": "में",
+      "count": 16
+    },
+    {
+      "word": "और",
+      "count": 15
+    },
+    {
+      "word": "ने",
+      "count": 9
+    },
+    {
+      "word": "हैं",
+      "count": 9
+    },
+    {
+      "word": "पर",
+      "count": 9
+    },
+    {
+      "word": "चीफ",
+      "count": 8
+    },
+    {
+      "word": "से",
+      "count": 7
+    },
+    {
+      "word": "इंडिया",
+      "count": 6
+    },
+    {
+      "word": "2026",
+      "count": 6
+    },
+    {
+      "word": "मिनिस्टर",
+      "count": 6
+    },
+    {
+      "word": "का",
+      "count": 6
+    },
+    {
+      "word": "किया",
+      "count": 6
+    },
+    {
+      "word": "मई",
+      "count": 5
+    },
+    {
+      "word": "भी",
+      "count": 5
+    },
+    {
+      "word": "नहीं",
+      "count": 5
+    },
+    {
+      "word": "इंडियन",
+      "count": 5
+    },
+    {
+      "word": "बीजेपी",
+      "count": 4
+    }
+  ],
+  "top_bigrams": [
+    {
+      "phrase": "मई 2026",
+      "count": 4
+    },
+    {
+      "phrase": "2026 को",
+      "count": 4
+    },
+    {
+      "phrase": "चीफ मिनिस्टर",
+      "count": 4
+    },
+    {
+      "phrase": "के बाद",
+      "count": 4
+    },
+    {
+      "phrase": "मिनिस्टर के",
+      "count": 3
+    },
+    {
+      "phrase": "किया है",
+      "count": 3
+    },
+    {
+      "phrase": "को लेकर",
+      "count": 3
+    },
+    {
+      "phrase": "क्रू मेंबर्स",
+      "count": 3
+    },
+    {
+      "phrase": "royal enfield",
+      "count": 3
+    },
+    {
+      "phrase": "पोजीशन पर",
+      "count": 3
+    }
+  ],
+  "segment_count": 88
+}

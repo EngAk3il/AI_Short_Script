@@ -5,20 +5,60 @@
     "hi",
     "en"
   ],
-  "last_updated": "2026-03-30T07:54:41.648700+00:00",
-  "total_discovered": 314,
+  "last_updated": "2026-05-14T00:02:30.116263+00:00",
+  "total_discovered": 322,
   "ingestion_stats": {
-    "total": 232,
-    "ok": 189,
+    "total": 242,
+    "ok": 191,
     "low_quality": 0,
-    "no_transcript": 43,
+    "no_transcript": 53,
     "no_speech": 0
   },
-  "completion_percentage": "73.9%",
+  "completion_percentage": "75.2%",
   "videos": [
     {
+      "video_id": "EVu6F7yMQxI",
+      "title": "Tamil Nadu\u2019s greatest river revival!",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "OfmWj7D5KY8",
+      "title": "How Cricket Bats are Made?",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "MYIIiXyx-y8",
+      "title": "Cricket Stumps Secret Backstory!",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "2iq8PpHLnXI",
+      "title": "Ferrero Rocher Secrets! \ud83e\udd2b",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "4abdMagI14w",
+      "title": "Reality of Samsung! \ud83e\udd2b",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "D2NLYUvNrAI",
+      "title": "Hidden Meanings Behind Popular Logos \ud83e\udd2b",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "Njtgh14zOeg",
+      "title": "Iran\u2019s Trump Card! \ud83e\udd2b",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
+      "video_id": "UVsJVlwwzPA",
+      "title": "Noida\u2019s New Mind-blowing Airport! \ud83e\udd2f",
+      "status": "NO_TRANSCRIPT"
+    },
+    {
       "video_id": "eSR9H2kI_rA",
-      "title": "India’s Greatest River Revival!",
+      "title": "India\u2019s Greatest River Revival!",
       "status": "OK"
     },
     {
@@ -38,7 +78,7 @@
     },
     {
       "video_id": "2XGzPFtmim0",
-      "title": "Trump’s Biggest Mistake?",
+      "title": "Trump\u2019s Biggest Mistake?",
       "status": "OK"
     },
     {
@@ -73,22 +113,22 @@
     },
     {
       "video_id": "Vq2VheK0xjQ",
-      "title": "Japan’s Incredible Civic Sense!",
+      "title": "Japan\u2019s Incredible Civic Sense!",
       "status": "OK"
     },
     {
       "video_id": "X7vMfkQd0-s",
-      "title": "How Big is Birla Group? 😲",
+      "title": "How Big is Birla Group? \ud83d\ude32",
       "status": "OK"
     },
     {
       "video_id": "1U0Cx2ZoB5w",
-      "title": "Singapore’s Cleanliness Model!",
+      "title": "Singapore\u2019s Cleanliness Model!",
       "status": "OK"
     },
     {
       "video_id": "kxq51_dNyrU",
-      "title": "Assam’s Mind Blowing Airport!",
+      "title": "Assam\u2019s Mind Blowing Airport!",
       "status": "OK"
     },
     {
@@ -98,7 +138,7 @@
     },
     {
       "video_id": "gUWxaBq3lH4",
-      "title": "Putin: Untold Story! 😲",
+      "title": "Putin: Untold Story! \ud83d\ude32",
       "status": "OK"
     },
     {
@@ -108,32 +148,32 @@
     },
     {
       "video_id": "f_JNXIKeQME",
-      "title": "How China Solved Air Pollution? 🤔",
+      "title": "How China Solved Air Pollution? \ud83e\udd14",
       "status": "OK"
     },
     {
       "video_id": "ywoCbh248wY",
-      "title": "Mukesh Ambani’s Strategy To Crush Bisleri!",
+      "title": "Mukesh Ambani\u2019s Strategy To Crush Bisleri!",
       "status": "OK"
     },
     {
       "video_id": "xtbD-jCNrgI",
-      "title": "Virat Kohli’s Mystery Fitness Tracker! 🤫",
+      "title": "Virat Kohli\u2019s Mystery Fitness Tracker! \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "KVAFwmZskH4",
-      "title": "The Secret Behind Bluetooth! 🤫",
+      "title": "The Secret Behind Bluetooth! \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "BkNlKcpzRK8",
-      "title": "The Secret behind Crocs! 🤫",
+      "title": "The Secret behind Crocs! \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "6-yzd-tpAio",
-      "title": "Hardik Pandya’s 20 Crore Watch! 😲",
+      "title": "Hardik Pandya\u2019s 20 Crore Watch! \ud83d\ude32",
       "status": "OK"
     },
     {
@@ -143,7 +183,7 @@
     },
     {
       "video_id": "yCro1bzhy-0",
-      "title": "Hidden Technology Behind Cricket Matches 🏏",
+      "title": "Hidden Technology Behind Cricket Matches \ud83c\udfcf",
       "status": "OK"
     },
     {
@@ -153,7 +193,7 @@
     },
     {
       "video_id": "pUFFUH7JbYE",
-      "title": "The Untold Story of Xi Jinping! 🤫",
+      "title": "The Untold Story of Xi Jinping! \ud83e\udd2b",
       "status": "OK"
     },
     {
@@ -168,27 +208,27 @@
     },
     {
       "video_id": "cl8X0q6kZKc",
-      "title": "Japan’s Most Mysterious Village 😱",
+      "title": "Japan\u2019s Most Mysterious Village \ud83d\ude31",
       "status": "OK"
     },
     {
       "video_id": "EaHt9CivDf4",
-      "title": "Kotak811 debit card = ₹6000 cashback + zero balance + UPI rewards 💸",
+      "title": "Kotak811 debit card = \u20b96000 cashback + zero balance + UPI rewards \ud83d\udcb8",
       "status": "OK"
     },
     {
       "video_id": "eLZSE1s9O-g",
-      "title": "China’s Secret Underground City 🤫",
+      "title": "China\u2019s Secret Underground City \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "haA4d2yiJUg",
-      "title": "Umpire’s Secret Toolkit! 🏏",
+      "title": "Umpire\u2019s Secret Toolkit! \ud83c\udfcf",
       "status": "OK"
     },
     {
       "video_id": "W8Xm-T7S-zM",
-      "title": "Doraemon Was Created By Mistake! 🤯",
+      "title": "Doraemon Was Created By Mistake! \ud83e\udd2f",
       "status": "OK"
     },
     {
@@ -203,92 +243,92 @@
     },
     {
       "video_id": "1nFBEwvi4EE",
-      "title": "How Chhota Bheem Conquered the World 🔥",
+      "title": "How Chhota Bheem Conquered the World \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "tyS9bcj-gwU",
-      "title": "China is Living in The Future! 😲",
+      "title": "China is Living in The Future! \ud83d\ude32",
       "status": "OK"
     },
     {
       "video_id": "rESXaaeJzoM",
-      "title": "International Space Station Explained! 🔥",
+      "title": "International Space Station Explained! \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "rpktYcly7K4",
-      "title": "Indian Education Dark Truth! 🤡",
+      "title": "Indian Education Dark Truth! \ud83e\udd21",
       "status": "OK"
     },
     {
       "video_id": "i2Qt-gtoNms",
-      "title": "Silent Heart Attack Epidemic! ❤️‍🩹",
+      "title": "Silent Heart Attack Epidemic! \u2764\ufe0f\u200d\ud83e\ude79",
       "status": "OK"
     },
     {
       "video_id": "3NEjXXNnXjM",
-      "title": "Flight black box Explained! ✈️",
+      "title": "Flight black box Explained! \u2708\ufe0f",
       "status": "OK"
     },
     {
       "video_id": "mei-Z5bzEbk",
-      "title": "History of Basketball 🏀",
+      "title": "History of Basketball \ud83c\udfc0",
       "status": "OK"
     },
     {
       "video_id": "nGeuEr8-udc",
-      "title": "How 2 Brothers Created Adidas & Puma 😮",
+      "title": "How 2 Brothers Created Adidas & Puma \ud83d\ude2e",
       "status": "OK"
     },
     {
       "video_id": "x5IK2YPTMyE",
-      "title": "India’s Unseen Crisis! 😲 #IN_Lenskart#PIDnumber",
+      "title": "India\u2019s Unseen Crisis! \ud83d\ude32 #IN_Lenskart#PIDnumber",
       "status": "OK"
     },
     {
       "video_id": "BkeCnvVJsGw",
-      "title": "India’s New Power 🔥",
+      "title": "India\u2019s New Power \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "UvM0hbIYtKc",
-      "title": "China Slowed Earth’s Rotation 😱",
+      "title": "China Slowed Earth\u2019s Rotation \ud83d\ude31",
       "status": "OK"
     },
     {
       "video_id": "-xDQyVSVSow",
-      "title": "Cricket Bat History! 😮",
+      "title": "Cricket Bat History! \ud83d\ude2e",
       "status": "OK"
     },
     {
       "video_id": "fnjvmvCTzxQ",
-      "title": "Indian Tourists Are Getting Scammed! 🤯",
+      "title": "Indian Tourists Are Getting Scammed! \ud83e\udd2f",
       "status": "OK"
     },
     {
       "video_id": "zmHMoj_mcNQ",
-      "title": "IPL’s New Bat Rule 🤯",
+      "title": "IPL\u2019s New Bat Rule \ud83e\udd2f",
       "status": "OK"
     },
     {
       "video_id": "kvEnE55RmrI",
-      "title": "Can Gold Make You Poor? 🤔",
+      "title": "Can Gold Make You Poor? \ud83e\udd14",
       "status": "OK"
     },
     {
       "video_id": "4Efdy2jBozE",
-      "title": "Dark Truth About Shin Chan! 🤐",
+      "title": "Dark Truth About Shin Chan! \ud83e\udd10",
       "status": "OK"
     },
     {
       "video_id": "fChVsr1qZX0",
-      "title": "Balaji Wafers Success Strategy! 🔥",
+      "title": "Balaji Wafers Success Strategy! \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "Jx1UJHlOPOg",
-      "title": "Great Wall of India 🇮🇳",
+      "title": "Great Wall of India \ud83c\uddee\ud83c\uddf3",
       "status": "OK"
     },
     {
@@ -303,7 +343,7 @@
     },
     {
       "video_id": "lw6pCwMphr0",
-      "title": "Water Purifier Companies are trapping you! 😲",
+      "title": "Water Purifier Companies are trapping you! \ud83d\ude32",
       "status": "OK"
     },
     {
@@ -313,67 +353,67 @@
     },
     {
       "video_id": "MoHqc2VY_74",
-      "title": "US President’s CRAZY Plane!",
+      "title": "US President\u2019s CRAZY Plane!",
       "status": "OK"
     },
     {
       "video_id": "OlaiZ1jhLNo",
-      "title": "Dr. Manmohan Singh’s Biography 🙏",
+      "title": "Dr. Manmohan Singh\u2019s Biography \ud83d\ude4f",
       "status": "OK"
     },
     {
       "video_id": "UIMfycVtiyo",
-      "title": "Reality of Chess Queen 👸",
+      "title": "Reality of Chess Queen \ud83d\udc78",
       "status": "OK"
     },
     {
       "video_id": "ZQWH0nQi-_M",
-      "title": "Secrets of White House 🤫",
+      "title": "Secrets of White House \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "O1j1EnQ5YBE",
-      "title": "Rubik’s Cube was an Accidental Invention 🤫",
+      "title": "Rubik\u2019s Cube was an Accidental Invention \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "EuMIBfWA3AE",
-      "title": "Mystery of Snakes & Ladders 🤫",
+      "title": "Mystery of Snakes & Ladders \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "4gNT7IEw8P8",
-      "title": "2.8 Crore Scam 😱",
+      "title": "2.8 Crore Scam \ud83d\ude31",
       "status": "OK"
     },
     {
       "video_id": "sL_IyYX8960",
-      "title": "Dhirubhai’s Secret Money Machine 🤑",
+      "title": "Dhirubhai\u2019s Secret Money Machine \ud83e\udd11",
       "status": "OK"
     },
     {
       "video_id": "-O8SouO7u1k",
-      "title": "Dabbawala Business Strategy! 🔥",
+      "title": "Dabbawala Business Strategy! \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "AfRGTb0_hDs",
-      "title": "Mystery Pocket in Your Jeans!👖🤫",
+      "title": "Mystery Pocket in Your Jeans!\ud83d\udc56\ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "ufu_MeVlbso",
-      "title": "Auto Rickshaw: Secret History 🤫",
+      "title": "Auto Rickshaw: Secret History \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "E-9QsCY0pCw",
-      "title": "HUL’s Crazy Business Strategy 🤯",
+      "title": "HUL\u2019s Crazy Business Strategy \ud83e\udd2f",
       "status": "OK"
     },
     {
       "video_id": "ZgGL36Yk4Cg",
-      "title": "Zomato’s SECRET Business 🤫",
+      "title": "Zomato\u2019s SECRET Business \ud83e\udd2b",
       "status": "OK"
     },
     {
@@ -383,62 +423,62 @@
     },
     {
       "video_id": "eTkIFVeWHcs",
-      "title": "Why Olympics Medalists Bite Their Medals? 🥇",
+      "title": "Why Olympics Medalists Bite Their Medals? \ud83e\udd47",
       "status": "OK"
     },
     {
       "video_id": "hi5BheCayNY",
-      "title": "Restaurants Sales Trick 🤐",
+      "title": "Restaurants Sales Trick \ud83e\udd10",
       "status": "OK"
     },
     {
       "video_id": "FCBLVJQpQu4",
-      "title": "Story of Meesho! 🔥",
+      "title": "Story of Meesho! \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "jqrcLUzA15s",
-      "title": "Kia & Hyundai are One Company 😮",
+      "title": "Kia & Hyundai are One Company \ud83d\ude2e",
       "status": "OK"
     },
     {
       "video_id": "ZjTzGpUIN9w",
-      "title": "Indian Team’s Secret Weapon 🤫",
+      "title": "Indian Team\u2019s Secret Weapon \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "5nGU4iAI4Gk",
-      "title": "India's Gold is Back ⭐️",
+      "title": "India's Gold is Back \u2b50\ufe0f",
       "status": "OK"
     },
     {
       "video_id": "Qn0Cd7ahgNU",
-      "title": "TATA’s Amazing Super Computer 🔥",
+      "title": "TATA\u2019s Amazing Super Computer \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "_qMa4i47o8U",
-      "title": "Zomato’s CRAZY Strategy 🔥",
+      "title": "Zomato\u2019s CRAZY Strategy \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "M8YJZSI5xTw",
-      "title": "Haldiram’s Genius Business Strategy 🔥",
+      "title": "Haldiram\u2019s Genius Business Strategy \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "RsczTPbWKaQ",
-      "title": "How to Build an E-Commerce Website for Free? 🤔",
+      "title": "How to Build an E-Commerce Website for Free? \ud83e\udd14",
       "status": "OK"
     },
     {
       "video_id": "OgA5WvHmIow",
-      "title": "This app is destroying Ola & Uber 🤯",
+      "title": "This app is destroying Ola & Uber \ud83e\udd2f",
       "status": "OK"
     },
     {
       "video_id": "DHIsB8uRxG0",
-      "title": "Mukesh Ambani’s New Business 🔥",
+      "title": "Mukesh Ambani\u2019s New Business \ud83d\udd25",
       "status": "OK"
     },
     {
@@ -448,112 +488,112 @@
     },
     {
       "video_id": "cEVZ4uFTB44",
-      "title": "Make a Website for FREE! 🔥",
+      "title": "Make a Website for FREE! \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "AoCgDO8iQLo",
-      "title": "Worlds Biggest SCAM? 🤯",
+      "title": "Worlds Biggest SCAM? \ud83e\udd2f",
       "status": "OK"
     },
     {
       "video_id": "AFj0OVewruc",
-      "title": "Zomato’s CRAZY New Feature🔥",
+      "title": "Zomato\u2019s CRAZY New Feature\ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "htiiHgHttqk",
-      "title": "Secret to Win at Shark Tank 🤫",
+      "title": "Secret to Win at Shark Tank \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "sIFNTonb1KY",
-      "title": "Tata’s Greatest Master Stroke 💯",
+      "title": "Tata\u2019s Greatest Master Stroke \ud83d\udcaf",
       "status": "OK"
     },
     {
       "video_id": "j34n7BwsU5g",
-      "title": "Rasna Success Strategy 🥤😋",
+      "title": "Rasna Success Strategy \ud83e\udd64\ud83d\ude0b",
       "status": "OK"
     },
     {
       "video_id": "HZNTJcQzrmo",
-      "title": "Fevicol Business Strategy 🔥",
+      "title": "Fevicol Business Strategy \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "Iax5A_EBYk0",
-      "title": "Why Gujaratis are so rich? 🤫",
+      "title": "Why Gujaratis are so rich? \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "OVEPa9LYKHw",
-      "title": "Why MARWARIS are Rich? 💰",
+      "title": "Why MARWARIS are Rich? \ud83d\udcb0",
       "status": "OK"
     },
     {
       "video_id": "8aNQoeglIlU",
-      "title": "Parachute Oil Business Strategy 🔥",
+      "title": "Parachute Oil Business Strategy \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "bmleDBTm60c",
-      "title": "Zudio SECRET Strategy 🤫",
+      "title": "Zudio SECRET Strategy \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "WiQFlUgrOq8",
-      "title": "Kota’s Secret History 🤯",
+      "title": "Kota\u2019s Secret History \ud83e\udd2f",
       "status": "OK"
     },
     {
       "video_id": "C79RmKseccE",
-      "title": "Sir Ratan Tata’s NEW Project 🐶",
+      "title": "Sir Ratan Tata\u2019s NEW Project \ud83d\udc36",
       "status": "OK"
     },
     {
       "video_id": "NzEh45PciYY",
-      "title": "CROREPATI Momo Waala 💯",
+      "title": "CROREPATI Momo Waala \ud83d\udcaf",
       "status": "OK"
     },
     {
       "video_id": "Iql7LIAWI-8",
-      "title": "Doms CRAZY Business Strategy 🔥",
+      "title": "Doms CRAZY Business Strategy \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "ZLwOV1wVOjE",
-      "title": "Story of India Gate Basmati Rice 🔥",
+      "title": "Story of India Gate Basmati Rice \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "yWZ-RVnauVs",
-      "title": "Italy’s Economic Crisis 🤫",
+      "title": "Italy\u2019s Economic Crisis \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "jS_YK5xwulM",
-      "title": "Why are Truck Drivers Protesting?? 🤔",
+      "title": "Why are Truck Drivers Protesting?? \ud83e\udd14",
       "status": "OK"
     },
     {
       "video_id": "2BjZJS4mqgY",
-      "title": "Why Louis Vuitton is so expensive? 🤫",
+      "title": "Why Louis Vuitton is so expensive? \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "hT_QIoQrRVE",
-      "title": "PM Modi ‘Wed in India’ Campaign 🔥",
+      "title": "PM Modi \u2018Wed in India\u2019 Campaign \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "J1aGGKOKGBo",
-      "title": "The Story of Samosa 🤫",
+      "title": "The Story of Samosa \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "soUuJ9KmthY",
-      "title": "India’s Gaganyaan Mission 🚀 ft. @NitishRajput",
+      "title": "India\u2019s Gaganyaan Mission \ud83d\ude80 ft. @NitishRajput",
       "status": "OK"
     },
     {
@@ -563,42 +603,42 @@
     },
     {
       "video_id": "geLmnkiYdoo",
-      "title": "Fogg Marketing Strategy 🔥",
+      "title": "Fogg Marketing Strategy \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "QOnyeUG8qHc",
-      "title": "Why was Sam Altman Fired? 🤫",
+      "title": "Why was Sam Altman Fired? \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "ao8hOpXaWNc",
-      "title": "The History of Cricket 🏏",
+      "title": "The History of Cricket \ud83c\udfcf",
       "status": "OK"
     },
     {
       "video_id": "C9lnw1mC8Ck",
-      "title": "India’s Richest Village 🤑 #shorts",
+      "title": "India\u2019s Richest Village \ud83e\udd11 #shorts",
       "status": "OK"
     },
     {
       "video_id": "hGEsUAD30Rw",
-      "title": "The Fall of Reliance Communication 📉 #shorts",
+      "title": "The Fall of Reliance Communication \ud83d\udcc9 #shorts",
       "status": "OK"
     },
     {
       "video_id": "KoTqt0ILXZU",
-      "title": "Mt. Everest is NOT the tallest! 🤫",
+      "title": "Mt. Everest is NOT the tallest! \ud83e\udd2b",
       "status": "OK"
     },
     {
       "video_id": "pDDg2KRG4qA",
-      "title": "He Made Sneakers from Garbage 🤯",
+      "title": "He Made Sneakers from Garbage \ud83e\udd2f",
       "status": "OK"
     },
     {
       "video_id": "Wi7pDX0xS50",
-      "title": "He Earns Crores Selling Agarbatti 🤑",
+      "title": "He Earns Crores Selling Agarbatti \ud83e\udd11",
       "status": "OK"
     },
     {
@@ -608,37 +648,37 @@
     },
     {
       "video_id": "bLY_h2RGXEc",
-      "title": "Jawan Movie Marketing Strategy 🔥#jawan #srk",
+      "title": "Jawan Movie Marketing Strategy \ud83d\udd25#jawan #srk",
       "status": "OK"
     },
     {
       "video_id": "LCWNf8_jhsg",
-      "title": "How A Poor American Kid Built Ford 🤯",
+      "title": "How A Poor American Kid Built Ford \ud83e\udd2f",
       "status": "OK"
     },
     {
       "video_id": "4IGTIUsE7NI",
-      "title": "ISRO Aditya L1 Mission Explained 🚀",
+      "title": "ISRO Aditya L1 Mission Explained \ud83d\ude80",
       "status": "OK"
     },
     {
       "video_id": "WCzAsFNYn_U",
-      "title": "ISRO beats NASA in this area 🚀",
+      "title": "ISRO beats NASA in this area \ud83d\ude80",
       "status": "OK"
     },
     {
       "video_id": "UdOzp6p8z3E",
-      "title": "Why Audi Logo has 4 Rings? 🤔",
+      "title": "Why Audi Logo has 4 Rings? \ud83e\udd14",
       "status": "OK"
     },
     {
       "video_id": "wP7RTYXke1w",
-      "title": "How Ratan Tata Sir Built India’s First Car 🚗🔥",
+      "title": "How Ratan Tata Sir Built India\u2019s First Car \ud83d\ude97\ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "eS70A6pmTgk",
-      "title": "🇮🇳 India’s Samudrayaan Mission!",
+      "title": "\ud83c\uddee\ud83c\uddf3 India\u2019s Samudrayaan Mission!",
       "status": "OK"
     },
     {
@@ -648,72 +688,72 @@
     },
     {
       "video_id": "zNPEuowhWwg",
-      "title": "💰Start a business using your car!",
+      "title": "\ud83d\udcb0Start a business using your car!",
       "status": "OK"
     },
     {
       "video_id": "vr3wOM4okG8",
-      "title": "Why is Rolex so expensive? 🤯",
+      "title": "Why is Rolex so expensive? \ud83e\udd2f",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "zaOnJcodC30",
-      "title": "Oppenheimer’s Biography in 1 Minute 🎩 #shorts",
+      "title": "Oppenheimer\u2019s Biography in 1 Minute \ud83c\udfa9 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "xtK3G9lBrhc",
-      "title": "How a Poor Teacher Built Havells 🔥 #shorts",
+      "title": "How a Poor Teacher Built Havells \ud83d\udd25 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "sI2tuNVk1BA",
-      "title": "Parle-G: Untold Story 🤫",
+      "title": "Parle-G: Untold Story \ud83e\udd2b",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "gNj8l2T3ROU",
-      "title": "Chandrayaan 3 was launched from here 🚀 ft. @kk.create.original",
+      "title": "Chandrayaan 3 was launched from here \ud83d\ude80 ft. @kk.create.original",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "ALR3FWJFOjs",
-      "title": "India's Best Strategy Against China! 🔥",
+      "title": "India's Best Strategy Against China! \ud83d\udd25",
       "status": "OK"
     },
     {
       "video_id": "-QXuRDGYkhE",
-      "title": "Will Threads kill Twitter? 🤯",
+      "title": "Will Threads kill Twitter? \ud83e\udd2f",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "7WX_BlFEKRg",
-      "title": "😱 Why Titanic Submarine Imploded? #shorts",
+      "title": "\ud83d\ude31 Why Titanic Submarine Imploded? #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "c7B9NotRSSg",
-      "title": "🤯 From Poor Doctor to Billionaire #shorts",
+      "title": "\ud83e\udd2f From Poor Doctor to Billionaire #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "7t8lpX5Up90",
-      "title": "🤫 SECRET savings app! 💰",
+      "title": "\ud83e\udd2b SECRET savings app! \ud83d\udcb0",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "i-wmIUriNro",
-      "title": "India’s New Weapon 🔥 #shorts",
+      "title": "India\u2019s New Weapon \ud83d\udd25 #shorts",
       "status": "OK"
     },
     {
       "video_id": "QtUDEzyMV08",
-      "title": "Japan’s Toxic Work Culture 😱 #shorts",
+      "title": "Japan\u2019s Toxic Work Culture \ud83d\ude31 #shorts",
       "status": "OK"
     },
     {
       "video_id": "N1VxEP9uqY4",
-      "title": "Apple Vision Pro 🔥🤯 #shorts",
+      "title": "Apple Vision Pro \ud83d\udd25\ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
@@ -723,172 +763,172 @@
     },
     {
       "video_id": "c80v7JNh3x4",
-      "title": "Nitin Gadkari’s E-Rickshaw Revolution 🤩 #shorts",
+      "title": "Nitin Gadkari\u2019s E-Rickshaw Revolution \ud83e\udd29 #shorts",
       "status": "OK"
     },
     {
       "video_id": "Tf-BLtfIk34",
-      "title": "Old vs New Parliament 🤔 #shorts",
+      "title": "Old vs New Parliament \ud83e\udd14 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "1DQ-UdVHjb0",
-      "title": "India’s Futuristic Village 🤯 #shorts",
+      "title": "India\u2019s Futuristic Village \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "aztLHg9jU3s",
-      "title": "🤯 USA Debt Crisis Explained #shorts",
+      "title": "\ud83e\udd2f USA Debt Crisis Explained #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "Kfl1THFVxZE",
-      "title": "🤫North Korea MYSTERY Hotel 🤐 #shorts",
+      "title": "\ud83e\udd2bNorth Korea MYSTERY Hotel \ud83e\udd10 #shorts",
       "status": "OK"
     },
     {
       "video_id": "T6hVmFijtas",
-      "title": "From Clerk to Crorepati 🔥#shorts",
+      "title": "From Clerk to Crorepati \ud83d\udd25#shorts",
       "status": "OK"
     },
     {
       "video_id": "AUTIZPV354U",
-      "title": "Kurkure Business Strategy 🤯 #shorts",
+      "title": "Kurkure Business Strategy \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "n5OmXE5dDKM",
-      "title": "🤐Vande Bharat Weird SECRET 🤫 #shorts",
+      "title": "\ud83e\udd10Vande Bharat Weird SECRET \ud83e\udd2b #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "HgfMzrejFKE",
-      "title": "The Ratan Tata & Shantanu Naidu Story 💯 #shorts #ratantata",
+      "title": "The Ratan Tata & Shantanu Naidu Story \ud83d\udcaf #shorts #ratantata",
       "status": "OK"
     },
     {
       "video_id": "_-H8E9qfk28",
-      "title": "🤯 WW2 Incredible Strategy #shorts",
-      "status": "NO_TRANSCRIPT"
+      "title": "\ud83e\udd2f WW2 Incredible Strategy #shorts",
+      "status": "OK"
     },
     {
       "video_id": "wXmBFK05dRA",
-      "title": "Heels were invented for MEN 🤯 #shorts",
+      "title": "Heels were invented for MEN \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "hW_rdI9Mr5Y",
-      "title": "HP SECRET business strategy 🤐 #shorts",
+      "title": "HP SECRET business strategy \ud83e\udd10 #shorts",
       "status": "OK"
     },
     {
       "video_id": "eILOs15V-Xw",
-      "title": "My Biggest Investment Learning 💯",
+      "title": "My Biggest Investment Learning \ud83d\udcaf",
       "status": "OK"
     },
     {
       "video_id": "kCz2J9HKpTg",
-      "title": "🤫 SECRET strategy behind free IPL 🤐 #shorts",
+      "title": "\ud83e\udd2b SECRET strategy behind free IPL \ud83e\udd10 #shorts",
       "status": "OK"
     },
     {
       "video_id": "N-ZPxDwdc2c",
-      "title": "🤯 Why 50% Indians live above this line? #shorts",
+      "title": "\ud83e\udd2f Why 50% Indians live above this line? #shorts",
       "status": "OK"
     },
     {
       "video_id": "PX7Nyj-LFTo",
-      "title": "India’s Greatest University 💯 #shorts",
+      "title": "India\u2019s Greatest University \ud83d\udcaf #shorts",
       "status": "OK"
     },
     {
       "video_id": "IhtFVNI4YPY",
-      "title": "🤫 Mystery of Lonar Lake #shorts",
+      "title": "\ud83e\udd2b Mystery of Lonar Lake #shorts",
       "status": "OK"
     },
     {
       "video_id": "rj4Mo0mKSgY",
-      "title": "Shocking decision by China 🤯 #shorts",
+      "title": "Shocking decision by China \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "Jd53wel4j8U",
-      "title": "🤫 Restaurant Menu Secrets 🤐 #shorts",
+      "title": "\ud83e\udd2b Restaurant Menu Secrets \ud83e\udd10 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "mOO4NK969Xs",
-      "title": "₹300 Crore ki Toffee 🤯 #shorts",
+      "title": "\u20b9300 Crore ki Toffee \ud83e\udd2f #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "QHBw621YmC8",
-      "title": "Crorepati Samose Wala 💰🤑#shorts",
+      "title": "Crorepati Samose Wala \ud83d\udcb0\ud83e\udd11#shorts",
       "status": "OK"
     },
     {
       "video_id": "qbjYigHNPSk",
-      "title": "Why Pakistan Economic Crisis is a concern for India 🇮🇳 ? #shorts",
+      "title": "Why Pakistan Economic Crisis is a concern for India \ud83c\uddee\ud83c\uddf3 ? #shorts",
       "status": "OK"
     },
     {
       "video_id": "lSPIQJ_lUpQ",
-      "title": "Japan is DYING?? 😱#shorts",
+      "title": "Japan is DYING?? \ud83d\ude31#shorts",
       "status": "OK"
     },
     {
       "video_id": "YjLa2-kqwUo",
-      "title": "Why CIGARETTE Health Warning doesn’t work? 🚬 #shorts",
+      "title": "Why CIGARETTE Health Warning doesn\u2019t work? \ud83d\udeac #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "2a-HUyNk2Us",
-      "title": "Parker Pen’s Mind Blowing Facts 🤫🔥 #shorts",
+      "title": "Parker Pen\u2019s Mind Blowing Facts \ud83e\udd2b\ud83d\udd25 #shorts",
       "status": "OK"
     },
     {
       "video_id": "4BUoAGa1P7w",
-      "title": "Tupperware Party Marketing Strategy 🤫🤯#shorts",
+      "title": "Tupperware Party Marketing Strategy \ud83e\udd2b\ud83e\udd2f#shorts",
       "status": "OK"
     },
     {
       "video_id": "pU4cKHN5Xl0",
-      "title": "Biggest Gun Ever 🤯🔥#shorts",
+      "title": "Biggest Gun Ever \ud83e\udd2f\ud83d\udd25#shorts",
       "status": "OK"
     },
     {
       "video_id": "IzA4iDxg-Iw",
-      "title": "My Mutual Fund Portfolio Revealed! 🔥 #shorts",
+      "title": "My Mutual Fund Portfolio Revealed! \ud83d\udd25 #shorts",
       "status": "OK"
     },
     {
       "video_id": "3STtOGd5XJo",
-      "title": "India’s Masterplan 🔥 ft @mohak_mangal #shorts",
+      "title": "India\u2019s Masterplan \ud83d\udd25 ft @mohak_mangal #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "iZotpoMVEUQ",
-      "title": "When Russia saved India 🇮🇳 #shorts",
+      "title": "When Russia saved India \ud83c\uddee\ud83c\uddf3 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "l3ft6kEC2oo",
-      "title": "Dhirubhai Ambani vs Manu Manek 🔥 #shorts",
+      "title": "Dhirubhai Ambani vs Manu Manek \ud83d\udd25 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "c0bzQjOsUSc",
-      "title": "Chinese Spy Balloon Explained   🤯 #shorts",
+      "title": "Chinese Spy Balloon Explained   \ud83e\udd2f #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "mPb75OQmXMk",
-      "title": "Why don’t government print unlimited MONEY? #shorts",
+      "title": "Why don\u2019t government print unlimited MONEY? #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "DXdbskIcpug",
-      "title": "Budget 2023 Key Takeaways 🔥 #shorts",
+      "title": "Budget 2023 Key Takeaways \ud83d\udd25 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -898,27 +938,27 @@
     },
     {
       "video_id": "KMimiu0BuOg",
-      "title": "CRAZY War Strategy 🤯 #shorts #history #ww1",
+      "title": "CRAZY War Strategy \ud83e\udd2f #shorts #history #ww1",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "0wkqHxa8jbY",
-      "title": "The MYSTERY of Iron Pillar 🤫🤐 #mystery #shorts",
+      "title": "The MYSTERY of Iron Pillar \ud83e\udd2b\ud83e\udd10 #mystery #shorts",
       "status": "OK"
     },
     {
       "video_id": "0c3uf6b-iHk",
-      "title": "3rd Fact will SURPRISE you 🤯 #creditcard #facts #shorts",
+      "title": "3rd Fact will SURPRISE you \ud83e\udd2f #creditcard #facts #shorts",
       "status": "OK"
     },
     {
       "video_id": "JqBZ16Uld4s",
-      "title": "Bollywood ka THE END?? 🤔 #shorts",
+      "title": "Bollywood ka THE END?? \ud83e\udd14 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "St09F4zE44M",
-      "title": "Why are Indians scared of the stock market? 🤔 #shorts",
+      "title": "Why are Indians scared of the stock market? \ud83e\udd14 #shorts",
       "status": "OK"
     },
     {
@@ -928,87 +968,87 @@
     },
     {
       "video_id": "ESb2DJEbdW8",
-      "title": "This film actress was also a SPY 🕵️‍♀️ 🤯 #shorts",
+      "title": "This film actress was also a SPY \ud83d\udd75\ufe0f\u200d\u2640\ufe0f \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "iloMDAOlZxI",
-      "title": "MARVEL ki Business Strategy 🔥🤯 #shorts",
+      "title": "MARVEL ki Business Strategy \ud83d\udd25\ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "CCY5S_uZkrg",
-      "title": "TATA Salt ki Brilliant Strategy 🔥 ft. @rajshamani | #shorts",
+      "title": "TATA Salt ki Brilliant Strategy \ud83d\udd25 ft. @rajshamani | #shorts",
       "status": "OK"
     },
     {
       "video_id": "Mw4csF0nG0w",
-      "title": "Classmate ki SUCCESS Strategy 🔥💯 #shorts",
+      "title": "Classmate ki SUCCESS Strategy \ud83d\udd25\ud83d\udcaf #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "ItTpau-jgdo",
-      "title": "This story will blow your mind 🤯 #shorts",
+      "title": "This story will blow your mind \ud83e\udd2f #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "8vLkt-OFdE8",
-      "title": "Zomato ka biggest SECRET 🤫🤐 #shorts",
+      "title": "Zomato ka biggest SECRET \ud83e\udd2b\ud83e\udd10 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "bhYupt99lcc",
-      "title": "Fevicol ki SUCCESS Story 💯🔥 #shorts",
+      "title": "Fevicol ki SUCCESS Story \ud83d\udcaf\ud83d\udd25 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "f4Pd7zTAbT8",
-      "title": "Kellogg’s SECRET Marketing Trick 🤐🤫 #shorts",
+      "title": "Kellogg\u2019s SECRET Marketing Trick \ud83e\udd10\ud83e\udd2b #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "xaA8SrYiTrQ",
-      "title": "Indigo Amazing Business Strategy 🔥 #shorts",
+      "title": "Indigo Amazing Business Strategy \ud83d\udd25 #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "fDvukgF66g8",
-      "title": "₹150 Crore ka LOSS | Marketing Mistake #shorts",
+      "title": "\u20b9150 Crore ka LOSS | Marketing Mistake #shorts",
       "status": "OK"
     },
     {
       "video_id": "YW79XBDIwNM",
-      "title": "Chai Sutta Bar Marketing Strategy 💯🔥 #shorts",
+      "title": "Chai Sutta Bar Marketing Strategy \ud83d\udcaf\ud83d\udd25 #shorts",
       "status": "OK"
     },
     {
       "video_id": "4tq3NblyC34",
-      "title": "Maharana Pratap INSPIRATION🔥🤯 | #shorts",
+      "title": "Maharana Pratap INSPIRATION\ud83d\udd25\ud83e\udd2f | #shorts",
       "status": "OK"
     },
     {
       "video_id": "AqvAWftRcK8",
-      "title": "Colgate Marketing Strategy | Watch till END 😉 | #shorts",
+      "title": "Colgate Marketing Strategy | Watch till END \ud83d\ude09 | #shorts",
       "status": "OK"
     },
     {
       "video_id": "Bs44y1FZy1g",
-      "title": "Why do prices end with 9? 🤔 #shorts",
+      "title": "Why do prices end with 9? \ud83e\udd14 #shorts",
       "status": "OK"
     },
     {
       "video_id": "tBueZgRr0so",
-      "title": "How did Qatar become so rich?? 🤑 | Collab with @A2Motivation  #shorts",
+      "title": "How did Qatar become so rich?? \ud83e\udd11 | Collab with @A2Motivation  #shorts",
       "status": "OK"
     },
     {
       "video_id": "Hd6NrhVS5OA",
-      "title": "Apple’s Ecosystem Trap (EXPOSED) 🤫🤯 #shorts",
+      "title": "Apple\u2019s Ecosystem Trap (EXPOSED) \ud83e\udd2b\ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "TRuhOAFfBa4",
-      "title": "Japan’s Germ Attack on China 🦠😱 | Biological Warfare #shorts",
+      "title": "Japan\u2019s Germ Attack on China \ud83e\udda0\ud83d\ude31 | Biological Warfare #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -1018,12 +1058,12 @@
     },
     {
       "video_id": "yxp09Qz5gJk",
-      "title": "Fanta our Hitler ka SECRET connection 🤐🤫 #shorts",
+      "title": "Fanta our Hitler ka SECRET connection \ud83e\udd10\ud83e\udd2b #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "cRiqKpzCaNw",
-      "title": "TATA’s Strategy to Transform Air India 🔥🤯 #shorts",
+      "title": "TATA\u2019s Strategy to Transform Air India \ud83d\udd25\ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
@@ -1038,17 +1078,17 @@
     },
     {
       "video_id": "7ktqhVJxO8c",
-      "title": "3 UNSEEN images that will surprise you!! 🤯 #shorts",
+      "title": "3 UNSEEN images that will surprise you!! \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "6KNiem4GdDc",
-      "title": "Bata is not an Indian Company! 🤯 #shorts",
+      "title": "Bata is not an Indian Company! \ud83e\udd2f #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "VW99GZKNnxc",
-      "title": "Goa has 2 Independence days 🤯 #shorts",
+      "title": "Goa has 2 Independence days \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
@@ -1058,12 +1098,12 @@
     },
     {
       "video_id": "apvAQ1Fudxc",
-      "title": "Twitter is shutting down? 🤯 #shorts",
+      "title": "Twitter is shutting down? \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "zCKVS7afwSc",
-      "title": "Google ke saath hua SCAM 🤯 #shorts",
+      "title": "Google ke saath hua SCAM \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
@@ -1073,57 +1113,57 @@
     },
     {
       "video_id": "7VspyGk_3Io",
-      "title": "Amazon’s Smart Marketing Trick 🤯😳 #shorts",
+      "title": "Amazon\u2019s Smart Marketing Trick \ud83e\udd2f\ud83d\ude33 #shorts",
       "status": "OK"
     },
     {
       "video_id": "rTqG5pbKeYY",
-      "title": "The Ghost Army 😱 #shorts",
+      "title": "The Ghost Army \ud83d\ude31 #shorts",
       "status": "OK"
     },
     {
       "video_id": "x_lm9THctCg",
-      "title": "Amazon selling alexa devices in LOSS 🤯🤯🤯 #shorts",
+      "title": "Amazon selling alexa devices in LOSS \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "MCtyGaB6RaA",
-      "title": "YouTube started as a Dating Site 🤯🤯 #shorts",
+      "title": "YouTube started as a Dating Site \ud83e\udd2f\ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "Zwk99XGU1QI",
-      "title": "Sunfeast ki sabse badi galti 😳 #shorts",
+      "title": "Sunfeast ki sabse badi galti \ud83d\ude33 #shorts",
       "status": "OK"
     },
     {
       "video_id": "bv4z9StHMsY",
-      "title": "Colgate GENIUS Marketing Strategy 😳🪥🦷 #shorts",
+      "title": "Colgate GENIUS Marketing Strategy \ud83d\ude33\ud83e\udea5\ud83e\uddb7 #shorts",
       "status": "OK"
     },
     {
       "video_id": "rz_mp3l9ikE",
-      "title": "SECRET Business model 🤐🤫 #shorts",
+      "title": "SECRET Business model \ud83e\udd10\ud83e\udd2b #shorts",
       "status": "OK"
     },
     {
       "video_id": "cc7cWsSc1P4",
-      "title": "IKEA ka secret business 🤫🤐 #shorts #businesscasestudy",
+      "title": "IKEA ka secret business \ud83e\udd2b\ud83e\udd10 #shorts #businesscasestudy",
       "status": "OK"
     },
     {
       "video_id": "SpZdJLIHjDo",
-      "title": "How DUBAI became rich?? 🤑 #shorts #dubai",
+      "title": "How DUBAI became rich?? \ud83e\udd11 #shorts #dubai",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "o1cAGH-o_mk",
-      "title": "Indians Tricked Britishers 🤩| Anecdotal Story | #shorts",
+      "title": "Indians Tricked Britishers \ud83e\udd29| Anecdotal Story | #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "JhZUYdbBVLk",
-      "title": "Ferrari Unusual Marketing Strategy 🤔 #shorts",
+      "title": "Ferrari Unusual Marketing Strategy \ud83e\udd14 #shorts",
       "status": "OK"
     },
     {
@@ -1133,32 +1173,32 @@
     },
     {
       "video_id": "ISER-WJ4iO8",
-      "title": "Facebook paid 1500 Crore to a painter 🤯 #shorts",
+      "title": "Facebook paid 1500 Crore to a painter \ud83e\udd2f #shorts",
       "status": "OK"
     },
     {
       "video_id": "WjC9LBIZVp4",
-      "title": "Mukesh Ambani’s Toy Company | Marketing Strategy #shorts",
+      "title": "Mukesh Ambani\u2019s Toy Company | Marketing Strategy #shorts",
       "status": "OK"
     },
     {
       "video_id": "TLJL88TW9ac",
-      "title": "The Inspiring Story of Honda 🫡 | Business Story #shorts",
+      "title": "The Inspiring Story of Honda \ud83e\udee1 | Business Story #shorts",
       "status": "OK"
     },
     {
       "video_id": "huV20lZ4Xqs",
-      "title": "Pepsi’s Biggest Mistake 😰 | #shorts",
+      "title": "Pepsi\u2019s Biggest Mistake \ud83d\ude30 | #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "kVAcEOk8sNE",
-      "title": "Maggi Comeback Strategy 🤯 | Marketing Case Study #shorts",
+      "title": "Maggi Comeback Strategy \ud83e\udd2f | Marketing Case Study #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "FkHVaMyh7U4",
-      "title": "Virtual Influencers Explained 🤯 #shorts",
+      "title": "Virtual Influencers Explained \ud83e\udd2f #shorts",
       "status": "NO_TRANSCRIPT"
     },
     {
@@ -1173,7 +1213,7 @@
     },
     {
       "video_id": "n86bHvXTjSI",
-      "title": "Ratan Tata’s New Startup 🫡 | Business Case Study #shorts",
+      "title": "Ratan Tata\u2019s New Startup \ud83e\udee1 | Business Case Study #shorts",
       "status": "OK"
     },
     {
@@ -1189,16 +1229,16 @@
     {
       "video_id": "hTC7f9slVAU",
       "title": "Physics Wallah Biography in one minute | Alakh Pandey Sir #shorts #pw #pwians",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "VplGqG1C48c",
       "title": "Diwali Special | Best time to start investing! #shorts #diwali",
-      "status": "pending"
+      "status": "NO_TRANSCRIPT"
     },
     {
       "video_id": "p_K6viUU3pQ",
-      "title": "Red Bull Marketing Strategy (MINDBLOWING) 🤯 #shorts",
+      "title": "Red Bull Marketing Strategy (MINDBLOWING) \ud83e\udd2f #shorts",
       "status": "pending"
     },
     {
@@ -1218,12 +1258,12 @@
     },
     {
       "video_id": "ZEnZ8TCAU2E",
-      "title": "Coca-Cola was a medicine 🤯 | History of Coke #shorts",
+      "title": "Coca-Cola was a medicine \ud83e\udd2f | History of Coke #shorts",
       "status": "pending"
     },
     {
       "video_id": "r2JMf0X2jNc",
-      "title": "Gujratis Own 50% of U.S. Hotels 🤯 | Business Case Study #shorts",
+      "title": "Gujratis Own 50% of U.S. Hotels \ud83e\udd2f | Business Case Study #shorts",
       "status": "pending"
     },
     {
@@ -1238,22 +1278,22 @@
     },
     {
       "video_id": "bheYxqQKsvk",
-      "title": "Paper Boat Marketing Strategy 💯 #shorts",
+      "title": "Paper Boat Marketing Strategy \ud83d\udcaf #shorts",
       "status": "pending"
     },
     {
       "video_id": "8xrsDjii24k",
-      "title": "IKEA Marketing Strategy 🤯🤯 #shorts #marketingstrategy",
+      "title": "IKEA Marketing Strategy \ud83e\udd2f\ud83e\udd2f #shorts #marketingstrategy",
       "status": "pending"
     },
     {
       "video_id": "w-kw896l35g",
-      "title": "Domino’s Logo Hidden Meaning (EXPLAINED) #shorts",
+      "title": "Domino\u2019s Logo Hidden Meaning (EXPLAINED) #shorts",
       "status": "pending"
     },
     {
       "video_id": "XpzaooAKO0c",
-      "title": "McDonald’s Marketing Strategy | Case Study #shorts",
+      "title": "McDonald\u2019s Marketing Strategy | Case Study #shorts",
       "status": "pending"
     },
     {
@@ -1263,12 +1303,12 @@
     },
     {
       "video_id": "qdicIfmQRPU",
-      "title": "Starbucks Marketing Strategy 🤯 | Marketing Case Study #shorts",
+      "title": "Starbucks Marketing Strategy \ud83e\udd2f | Marketing Case Study #shorts",
       "status": "pending"
     },
     {
       "video_id": "a7oDwHdEhqM",
-      "title": "The Popcorn Scam 🤯 | Pricing Strategy #shorts",
+      "title": "The Popcorn Scam \ud83e\udd2f | Pricing Strategy #shorts",
       "status": "pending"
     },
     {
@@ -1278,17 +1318,17 @@
     },
     {
       "video_id": "4w1gFmjZUU4",
-      "title": "McDonald’s Biggest SCAM 🤯🤯🤯 | Marketing Case Study #shorts",
+      "title": "McDonald\u2019s Biggest SCAM \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f | Marketing Case Study #shorts",
       "status": "pending"
     },
     {
       "video_id": "52jhgnk1Lrc",
-      "title": "Micky Mouse ka surprising fact 🤯🤯 #shorts #factsinhindi",
+      "title": "Micky Mouse ka surprising fact \ud83e\udd2f\ud83e\udd2f #shorts #factsinhindi",
       "status": "pending"
     },
     {
       "video_id": "o1AYan0gf-Q",
-      "title": "From Sweeper to Millionaire 🤑🤑🤑 #shorts",
+      "title": "From Sweeper to Millionaire \ud83e\udd11\ud83e\udd11\ud83e\udd11 #shorts",
       "status": "pending"
     },
     {
@@ -1313,7 +1353,7 @@
     },
     {
       "video_id": "_1jb45eDxSE",
-      "title": "McDonald’s ka asli Business Model 🤯 | Business Case Study #shorts",
+      "title": "McDonald\u2019s ka asli Business Model \ud83e\udd2f | Business Case Study #shorts",
       "status": "pending"
     },
     {
@@ -1323,12 +1363,12 @@
     },
     {
       "video_id": "uJV9azvNmYk",
-      "title": "Why Nirma Failed?? 🤕 Business Case Study #shorts",
+      "title": "Why Nirma Failed?? \ud83e\udd15 Business Case Study #shorts",
       "status": "pending"
     },
     {
       "video_id": "DadkrwdBywo",
-      "title": "Next Level Golmaal 🫢🫢 #shorts",
+      "title": "Next Level Golmaal \ud83e\udee2\ud83e\udee2 #shorts",
       "status": "pending"
     },
     {
@@ -1343,7 +1383,7 @@
     },
     {
       "video_id": "FiaJPx3gRWI",
-      "title": "Putin’s Crazy Secret (EXPOSED) #shorts #putin",
+      "title": "Putin\u2019s Crazy Secret (EXPOSED) #shorts #putin",
       "status": "pending"
     },
     {
@@ -1353,47 +1393,47 @@
     },
     {
       "video_id": "ROwDxDTRcs4",
-      "title": "DARK TRUTH about Nike Tagline 🤯🤯 #shorts #businessfact",
+      "title": "DARK TRUTH about Nike Tagline \ud83e\udd2f\ud83e\udd2f #shorts #businessfact",
       "status": "pending"
     },
     {
       "video_id": "lTGxKzjsG5s",
-      "title": "Koi bhi School E Grade kyo use nahi karta?? 🤔",
+      "title": "Koi bhi School E Grade kyo use nahi karta?? \ud83e\udd14",
       "status": "pending"
     },
     {
       "video_id": "nq_xayVU98w",
-      "title": "Godrej ki surprising story 🤯 #shorts #businesscasestudy",
+      "title": "Godrej ki surprising story \ud83e\udd2f #shorts #businesscasestudy",
       "status": "pending"
     },
     {
       "video_id": "Woh2S4cWsdw",
-      "title": "Pt. Nehru ne ki thi Lakme ki shuruat 🤯",
+      "title": "Pt. Nehru ne ki thi Lakme ki shuruat \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "gJJi3G8Lc64",
-      "title": "Goa ki independence ka sach 🤯",
+      "title": "Goa ki independence ka sach \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "54YJLJUlkU8",
-      "title": "McDonald’s ke Clown ki MYSTERY 🤫",
+      "title": "McDonald\u2019s ke Clown ki MYSTERY \ud83e\udd2b",
       "status": "pending"
     },
     {
       "video_id": "a_auwGFrlhA",
-      "title": "How did Dinosaurs Die? 🦕🤯",
+      "title": "How did Dinosaurs Die? \ud83e\udd95\ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "8OXQ46TpA8A",
-      "title": "iPhone ka naya feature 🤯",
+      "title": "iPhone ka naya feature \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "KYapU9fO0Qg",
-      "title": "🤯 Mind Blowing Marketing Trick",
+      "title": "\ud83e\udd2f Mind Blowing Marketing Trick",
       "status": "pending"
     },
     {
@@ -1403,87 +1443,87 @@
     },
     {
       "video_id": "ME7WXQb8K8I",
-      "title": "Mukesh Ambani ka Master Plan 🤯",
+      "title": "Mukesh Ambani ka Master Plan \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "l24IpYEB1As",
-      "title": "But why??? 🤔🤔",
+      "title": "But why??? \ud83e\udd14\ud83e\udd14",
       "status": "pending"
     },
     {
       "video_id": "c2QmWRVsNN8",
-      "title": "Parachute oil ki success story 🤯🤯🤯🤯",
+      "title": "Parachute oil ki success story \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "_JveSNZ3rDY",
-      "title": "Credit Cards ki surprising history 🤯🤯🤯",
+      "title": "Credit Cards ki surprising history \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "wFOtEItIkIk",
-      "title": "🤫 Secret Discount Technique at Belgian Waffle",
+      "title": "\ud83e\udd2b Secret Discount Technique at Belgian Waffle",
       "status": "pending"
     },
     {
       "video_id": "aOQ-D72j60A",
-      "title": "Sir Ratan Tata ka naya startup 🫡",
+      "title": "Sir Ratan Tata ka naya startup \ud83e\udee1",
       "status": "pending"
     },
     {
       "video_id": "BlXjxJ4BtS8",
-      "title": "Rakesh Jhunjhunwala ki Kahaani 🫡",
+      "title": "Rakesh Jhunjhunwala ki Kahaani \ud83e\udee1",
       "status": "pending"
     },
     {
       "video_id": "LPPyXxx-XIE",
-      "title": "Zomato aise karega 10 Min me delivery 🤯🤯",
+      "title": "Zomato aise karega 10 Min me delivery \ud83e\udd2f\ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "95gV3IyMo2g",
-      "title": "Elon Musk in Debt 🤯🤯",
+      "title": "Elon Musk in Debt \ud83e\udd2f\ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "BlThZF6zyAA",
-      "title": "China Taiwan Conflict Explained 🤯",
+      "title": "China Taiwan Conflict Explained \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "MW8IZgLx0e8",
-      "title": "iPhone is dead?? 💀 #shorts",
+      "title": "iPhone is dead?? \ud83d\udc80 #shorts",
       "status": "pending"
     },
     {
       "video_id": "WtKVqvmOd2I",
-      "title": "What were they thinking? 🤔",
+      "title": "What were they thinking? \ud83e\udd14",
       "status": "pending"
     },
     {
       "video_id": "N94as3bjTqc",
-      "title": "Dove’s Biggest Marketing Mistake 🥲",
+      "title": "Dove\u2019s Biggest Marketing Mistake \ud83e\udd72",
       "status": "pending"
     },
     {
       "video_id": "pDd2cMtQfAA",
-      "title": "Vicks is an Ayurvedic Product 🤯",
+      "title": "Vicks is an Ayurvedic Product \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "tXQguJD5ov0",
-      "title": "Cola wars 🤯 #shorts",
+      "title": "Cola wars \ud83e\udd2f #shorts",
       "status": "pending"
     },
     {
       "video_id": "QoVmQZqw930",
-      "title": "Coca Cola Marketing Trick 🤯",
+      "title": "Coca Cola Marketing Trick \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "yj1pXK2qeHg",
-      "title": "3 Things not to do with a credit card ✋",
+      "title": "3 Things not to do with a credit card \u270b",
       "status": "pending"
     },
     {
@@ -1498,17 +1538,17 @@
     },
     {
       "video_id": "Bj1JyZeKAOE",
-      "title": "IKEA marketing trick 🤯",
+      "title": "IKEA marketing trick \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "Fi8v6TRKTFs",
-      "title": "WHY?? 🤯",
+      "title": "WHY?? \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "QQRw7H3QwF8",
-      "title": "Mukesh Ambani Secret Business 🤫",
+      "title": "Mukesh Ambani Secret Business \ud83e\udd2b",
       "status": "pending"
     },
     {
@@ -1518,72 +1558,72 @@
     },
     {
       "video_id": "LL2WreLWSoU",
-      "title": "Rolls Royce Marketing Trick 🤯",
+      "title": "Rolls Royce Marketing Trick \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "PEmHAiitRq8",
-      "title": "Here’s how Maggi was invented 🍝",
+      "title": "Here\u2019s how Maggi was invented \ud83c\udf5d",
       "status": "pending"
     },
     {
       "video_id": "ifJuaNvedBM",
-      "title": "IKEA is actually a food company 🤯🤯🤯",
+      "title": "IKEA is actually a food company \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "ZgIuHqViiWI",
-      "title": "The Popcorn Scam 🤑",
+      "title": "The Popcorn Scam \ud83e\udd11",
       "status": "pending"
     },
     {
       "video_id": "6z5YNTRLXdk",
-      "title": "Apple’s secret customer 🤯",
+      "title": "Apple\u2019s secret customer \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "cwjSV9ZSVQM",
-      "title": "Colgate Brilliant Marketing Strategy 🤯",
+      "title": "Colgate Brilliant Marketing Strategy \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "pzmd62dQoI0",
-      "title": "Here’s how Fanta was invented 🤯",
+      "title": "Here\u2019s how Fanta was invented \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "Gu6zJb5_oR4",
-      "title": "This story about Elon Musk will surprise you 🤯",
+      "title": "This story about Elon Musk will surprise you \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "dy6mPqkCwLA",
-      "title": "Did you know? 🤯🤯🤯",
+      "title": "Did you know? \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "ON5auUBj2Pc",
-      "title": "Maggi doesn’t sell noodles 🤯",
+      "title": "Maggi doesn\u2019t sell noodles \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "n3Y8MkmNucY",
-      "title": "Kit Kat Secret Ingredient will shock you 🤯",
+      "title": "Kit Kat Secret Ingredient will shock you \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "5cOn61PhCoE",
-      "title": "KFC’s Marketing Mistake 🤯",
+      "title": "KFC\u2019s Marketing Mistake \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "LVtB-2x9oUI",
-      "title": "Zara Marketing Strategy 🤯",
+      "title": "Zara Marketing Strategy \ud83e\udd2f",
       "status": "pending"
     },
     {
       "video_id": "lWL_nz5KgeQ",
-      "title": "Physics Wallah Inspiring Journey 💯",
+      "title": "Physics Wallah Inspiring Journey \ud83d\udcaf",
       "status": "pending"
     }
   ]

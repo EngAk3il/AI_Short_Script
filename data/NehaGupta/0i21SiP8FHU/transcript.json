@@ -1,0 +1,22 @@
+{
+  "video_id": "0i21SiP8FHU",
+  "language": "en",
+  "source": "antigravity-browser",
+  "segments": [
+    {
+      "start": 0.0,
+      "duration": 16.0,
+      "text": "The Technician path: You love the craft, you do the work yourself, and you scale by raising prices."
+    },
+    {
+      "start": 16.0,
+      "duration": 16.0,
+      "text": "The Businessman path: You scale by hiring people, building systems, and using machines."
+    },
+    {
+      "start": 32.0,
+      "duration": 3.0,
+      "text": "The businessman must learn manufacturing and supply—it's a different game than the craft itself."
+    }
+  ]
+}
