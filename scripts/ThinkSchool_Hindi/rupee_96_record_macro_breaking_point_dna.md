@@ -9,11 +9,8 @@
 
 | Field | Value |
 |-------|-------|
-| **Pattern name** | SHOCK ₹ → LEKIN DOMINO → LESSON |
-| **Narrative arc** | rupee crash → crude+FII → founder hedge |
-| **Trigger** | डर + मैक्रो |
-| **Assignment hook** | रुपया 96/$ रिकॉर्ड लो! क्रूड $110 + FII बिकवाली—Sensex भी गिरा। |
-| **Adapted opener** | रुपया 96.05/$ — पहली बार 96 के पार। लेकिन पीछे क्या चल रहा है? |
+| **Pattern name** | SHOCK ₹ → LEKIN → LESSON |
+| **Adapted opener** | रुपया 96/$ — पहली बार 96 के पार! |
 
 ---
 
@@ -23,46 +20,27 @@
 |-------|-------|
 | **Video ID** | `ZMmfkpfUFW4` |
 | **Source file** | `data/ThinkSchool_Hindi/ZMmfkpfUFW4/transcript.txt` |
-| **deep_hooks pattern** | HOOK → BUILD → LESSON |
-| **Why this reference** | Trial-batch / **`cost of failure is less`** framing |
-
-### What we took from this transcript
-
-| # | Reference device | This script |
-|---|------------------|-------------|
-| 1 | number shock + question | 96.05/$ |
-| 2 | linked facts | crude, FII, Sensex |
-| 3 | `लेकिन` | inflation return |
-| 4 | lesson close | pricing power |
-
-### Reference excerpt (verbatim — rhythm source)
-
-```
-[00:17] द कॉस्ट ऑफ़ फेलियर इज़ लेस।
-```
 
 ---
 
 ## FULL SCRIPT
 
-[00:00] रुपया 96.05/$ — पहली बार 96 के पार। लेकिन पीछे क्या चल रहा है?
+[00:00] रुपया **96.05/$** — पहली बार 96 के पार!
 
-[00:08] जब रुपया कमज़ोर होता है, इम्पोर्ट बिल भारी पड़ता है — Brent crude $110 के करीब। साथ ही FII ने equities से लगभग ₹2 लाख करोड़ पुल किया, रिपोर्ट्स के अनुसार।
+[00:05] लेकिन पीछे क्या? Brent **$110**। FII ने ~₹2 लाख करोड़ pull — रिपोर्ट्स के अनुसार।
 
-[00:18] मतलब मार्केट ने भी जवाब दिया: Sensex 160 पॉइंट्स नीचे — इन्फ्लेशन कंसर्न वापस।
+[00:14] Sensex 160 points नीचे। inflation वापस।
 
-[00:28] बिजनेस लेसन: D2C या manufacturing हो — FX और crude दोनों इनपुट कॉस्ट हिलाते हैं। cost of failure is less जब pricing power और inventory buffer प्लान करते हो।
+[00:22] बिजनेस लेसन: FX + crude = input cost हिलता है। cost of failure is less जब pricing power + buffer।
 
-[00:38] अगर आज कोई founder India में स्केल करना चाहता है — पहला स्टेप क्या होगा? कमेंट में लिखो। बिज़नेस लेसन्स के लिए चैनल को follow karo।
+[00:32] लेकिन असली: founder India में scale करे — पहला step क्या? कमेंट। follow karo।
 
 ---
 
 ### DNA Adherence Audit
 
-- Opening mimics: shock + `लेकिन` question in line 1 ✅  
-- Teaches one chain — rupee → crude/FII → market → founder lesson — not headline stack ✅  
-- `लेकिन`, `जब`, `मतलब`, `cost of failure`, entrepreneur ✅  
-- Viewer questions mapped in WATCH-THROUGH MAP ✅  
+- Opening mimics: reference shock device → `रुपया **96.05/$** — पहली बार 96 के पार!…` ✅  
+- Viral STOP: `96/$ — पहली बार` ✅ | `लेकिन असली` ✅  
 
 ---
 
@@ -70,10 +48,10 @@
 
 | Phase | Time | Viewer question (why they stay) | Beat |
 |-------|------|-----------------------------------|------|
-| STOP | 0–8s | "96 का मतलब?" | 96/$ + lekin |
-| TRAP | 8–18s | "क्यों गिरा?" | जब rupee weak → crude/FII |
-| BUILD | 18–28s | "मार्केट?" | Sensex + inflation |
-| CLOSE | 28–38s | "मेरा बिज़नेस?" | founder lesson |
+| STOP | 0–5s | "96?" | record punch |
+| TRAP | 5–22s | "क्यों?" | crude + FII |
+| TWIST | 28–34s | "मेरा startup?" | लेकिन असली |
+| CLOSE | 32–34s | | comment |
 
 ### 📚 References & Sources
 

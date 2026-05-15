@@ -164,6 +164,40 @@ Every row needs a **question the viewer still needs answered** until CLOSE.
 - Viewer questions mapped in WATCH-THROUGH MAP ✅
 ```
 
+## Rule 2h: Viral energy (structure alone is not enough)
+
+A script can pass Rule 2e–2f and still **fail on feed** — it reads like homework. Viral Shorts = **unresolved tension in second 1**, not “let me explain.”
+
+### STOP line (0–3s) — mandatory
+
+| FAIL (scroll) | PASS (stop) |
+|---------------|-------------|
+| `उन्नाव केस — जहाँ दिल्ली हाई कोर्ट ने…` (case name first) | `सेंगर को जेल से बाहर? SC ने रोक दिया!` |
+| `जब ग्लोबल क्रूड तेजी से…` (mechanism first) | `₹500 करोड़ रोज़ का घाटा — पेट्रोल महंगा फिर भी!` |
+| 25+ word opener | **≤14 words** punch, then second breath |
+| No number/name in first line | **₹ / % / brand / person** in line 1 |
+
+**Weapons (pick one in line 1):** paradox · number shock · betrayal · `!` injustice · `आखिर क्या` · `सरप्राइज़` · `इस तरह से…किल/धोखा` · superlative (`सबसे बड़ा`)
+
+Mechanism (`जब…तो…`) starts **line 2+**, never line 1.
+
+### Pacing (match reference WPS ~3.3–3.7)
+
+- **Staccato beats:** `X। Y। Z।` — three short facts back-to-back at least once.
+- **Fast / slow:** stack numbers fast → one slow “मतलब…” line → twist slow (`लेकिन असली…`).
+- **Memorable detail:** one weird-specific fact (samosa: 56% कम तेल; LPG: 15 kg → वजन कम) — not only macro stats.
+
+### TWIST line
+
+Must include **`लेकिन असली`** or clear perspective flip — viewer should think “oh… OH.”
+
+### DNA audit (add)
+
+```markdown
+- Viral STOP: <first 6–10 words> = shock/paradox/number ✅
+- Line 1 word count: ≤14 punch (+ optional breath) ✅
+```
+
 ## Rule 2g: Pre-flight checklist (agent — before PRODUCTION READY)
 
 - [ ] Read **full** `data/<creator>/<ref_id>/transcript.txt` (not excerpt only)
@@ -172,6 +206,7 @@ Every row needs a **question the viewer still needs answered** until CLOSE.
 - [ ] Segment count ±1 vs reference; line length similar
 - [ ] `WATCH-THROUGH MAP` has **Viewer question** column filled
 - [ ] Facts only from verified URLs in references table
+- [ ] **Rule 2h:** line 1 = shock (not case-name/context); ≤14-word punch; `लेकिन असली` twist
 - [ ] `python3 validate_script.py ...` passes (fix warnings that are errors in disguise)
 
 ## Rule 3: Anti-Repetition

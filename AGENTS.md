@@ -99,7 +99,7 @@ Write output to: `scripts/<creator>/<topic>_dna.md` **only** — must include `#
 
 **Before PRODUCTION READY:** `WATCH-THROUGH MAP` must have **Viewer question (why they stay)** column; DNA audit must include **Opening mimics** line; read `CREATOR_SCRIPT_INTELLIGENCE.md` pre-flight checklist.
 
-**Gold shape (mechanism, not headlines):** `scripts/Shivanshu.Agrawal/omc_500_crore_daily_oil_loss_hidden_dna.md` ← imitate from `data/Shivanshu.Agrawal/y7qQ3N40Flc/transcript.txt` (`SCRIPT_RULES.md` Rule 2f).
+**Gold shape:** mechanism (`Rule 2f`) + **viral STOP** (`Rule 2h`) — line 1 = `₹500 करोड़ रोज़ का घाटा — पेट्रोल महंगा फिर भी!` not a 30-word explainer opener. See `omc_500_crore_daily_oil_loss_hidden_dna.md`.
 
 After pipeline changes: `python3 prepare.py -c <Creator> -t "<topic>"` then validate with `python3 validate_script.py ...`
 

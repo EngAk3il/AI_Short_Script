@@ -19,7 +19,7 @@ Never output generic "Aaj hum baat karenge" openings. Never invent URLs or stati
 
 **Read `CREATOR_SCRIPT_INTELLIGENCE.md` first** — anti date-spam, Devanagari speech, **mechanism-not-headlines**, pre-flight checklist.
 
-**Read `SCRIPT_RULES.md` Rule 2e–2g** — hook rhythm + teach-one-chain + viewer-question map (non-negotiable).
+**Read `SCRIPT_RULES.md` Rule 2e–2h** — hook rhythm, mechanism chain, viewer questions, **viral STOP energy** (non-negotiable).
 
 **Pure voice:** Never name or compare other YouTube creators/channels in the script, audit, or hooks. Only use the assigned creator's `CREATOR_MIND.md`, cheatsheet, and transcripts.
 
@@ -73,7 +73,8 @@ Every production file **must** include these blocks **before** `## FULL SCRIPT`:
 
 Then write retention beats:
 
-- **STOP (0–5s):** tension, paradox, number shock — not intro filler
+- **STOP (0–3s):** **≤14-word punch** with ₹ / ! / paradox / superlative — **never** start with case name or `जब…` (Rule 2h)
+- Read line 1 aloud — if you wouldn't WhatsApp it to a friend, rewrite
 - **TRAP → BUILD → TWIST → CLOSE** — each phase leaves **one open viewer question** until close
 - **`[00:00]` lines in Devanagari Hindi** — match reference segment count ±1; **`[00:00]` must mirror reference first-line shape** (e.g. `फॉग ने इस तरह से` → `अडानी ने इस तरह से`; `फैक्ट्स सरप्राइज़` + same-breath `जब…`)
 - **Do NOT write headline stacks** (`₹X, pool ₹Y, agency Z`) without teaching the link between them — copy `जब… तो… मतलब… लेकिन… इसीलिए` when reference does

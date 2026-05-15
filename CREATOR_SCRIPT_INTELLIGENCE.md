@@ -85,6 +85,20 @@ Count in the reference:
 
 **If any box fails → rewrite FULL SCRIPT, do not patch the hook only.**
 
+### Viral energy (why “compliant” scripts still flop)
+
+| Homework voice | Viral voice |
+|----------------|-------------|
+| Starts with case name / geography | Starts with **shock** (₹, !, paradox) |
+| Every line same speed | **Staccato** facts → slow “मतलब” → slow twist |
+| Abstract (“D2C pressure”) | **Named** (Suta, Bombay Shaving, ₹900 करोड़ समोसा parallel) |
+| `जब…` in line 1 | Punch line 1, `जब…` line 2+ |
+
+**Shivanshu viral opens (copy energy):** `₹900 करोड़ की कंपनी` · `फॉग ने इस तरह से…किल किया` · `फैक्ट्स सरप्राइज़`  
+**Niharika viral opens:** `590 करोड़ का स्कैम! आखिर क्या हुआ?` · `लेकिन SC ने…असंवैधानिक`
+
+Pre-flight viral: read line 1 aloud — if you wouldn’t send it to a friend as “dekh ye”, rewrite.
+
 ---
 
 ## Per-creator voice (from real transcripts, not guesses)

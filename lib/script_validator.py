@@ -195,6 +195,31 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
             "(जब/मतलब/लेकिन/इसीलिए). Teach one chain — see SCRIPT_RULES.md Rule 2f"
         )
 
+    # Viral STOP: first [00:00] line length and shock markers (Rule 2h)
+    first_line_m = re.search(r"^\[00:00\]\s*(.+)$", script_body, re.M)
+    if first_line_m:
+        first_line = first_line_m.group(1).strip()
+        first_words = first_line.split()
+        shock_markers = re.search(
+            r"!|₹|Rs\.?|\$|\d+\s*करोड़|सबसे|शॉक|सरप्राइज़|धोखा|स्कैम|आखिर|पहली बार|"
+            r"इस तरह से|किल किया|टूट|गिरा|रोक|बंद|असंवैधानिक|घाटा|नुकसान",
+            first_line,
+            re.I,
+        )
+        if len(first_words) > 22:
+            v.warnings.append(
+                f"Viral STOP weak: line 1 has {len(first_words)} words (target ≤14 punch + breath). "
+                "See SCRIPT_RULES.md Rule 2h"
+            )
+        if not shock_markers:
+            v.warnings.append(
+                "Viral STOP weak: line 1 missing shock marker (₹, !, paradox, आखिर, सरप्राइज़). Rule 2h"
+            )
+    if script_body and not re.search(r"लेकिन\s+असली|लेकिन\s+असल", script_body, re.I):
+        v.warnings.append(
+            "Missing viral TWIST phrase (लेकिन असली / लेकिन असल). See SCRIPT_RULES.md Rule 2h"
+        )
+
     # Roman-heavy script body
     devanagari = len(re.findall(r"[\u0900-\u097F]", script_body))
     latin_words = len(re.findall(r"\b[a-zA-Z]{4,}\b", script_body))
