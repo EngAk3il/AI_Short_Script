@@ -33,7 +33,6 @@ Personal finance, gold, SIP, salary, celebrity money lessons — **“batati hoo
 `Batati hoon` · `Video ko last tak dekho` · `Mujhe follow karna mat bhulna` · `Yes you heard it right` · `Aage batati hoon` · `Comment mein yes`
 
 ## NEVER
-Pure politics · GenZway “natak” · skip CTA · Shivanshu cold documentary with no “tum”
 
 ## CTA (mandatory)
 `Mujhe follow karna mat bhulna` + often share/tag friends

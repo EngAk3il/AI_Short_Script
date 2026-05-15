@@ -14,8 +14,6 @@ His core belief: **"Har cheez ke peeche ek fascinating story hai — logon ko ba
 
 His relationship with the audience is that of a **museum audio guide** — informative, neutral, respectful. He NEVER insults the audience. He NEVER says "tum log" or "bhai". He talks ABOUT things, not TO people.
 
-He is NOT a brand critic (like GenZway). He is NOT a psychology creator (like hellooipsita). He is NOT opinionated. He is a **neutral fact-presenter** who trusts the audience to draw their own conclusions.
-
 ---
 
 ## 2. Content Pillars (from 181 REAL videos)
@@ -115,8 +113,6 @@ Step 6: Resolution with specific numbers/outcome
 Step 7: CTA: "ऐसी और वीडियो के लिए चैनल को सब्सक्राइब करें"
 ```
 
-**CRITICAL: The narrative is ALWAYS chronological. He takes you through time methodically. He NEVER jumps around or stacks evidence like GenZway.**
-
 ---
 
 ## 6. Closing Types (From 181 REAL closings)
@@ -149,7 +145,7 @@ Step 7: CTA: "ऐसी और वीडियो के लिए चैनल 
 - **Range: 1.11 – 4.72 WPS**
 - **Tone: Wikipedia voiced by a curious storyteller** — Flat, factual, but not boring.
 - **No dramatic pauses** — He moves steadily from fact to fact.
-- **Clean Hindi grammar** — Unlike GenZway's messy overlapping sentences, Shivanshu speaks in clean, complete Hindi sentences.
+- **Clean Hindi grammar** — Un.
 - **No vocal emotion** — He doesn't raise his voice for surprises. The FACTS carry the emotion.
 
 ---

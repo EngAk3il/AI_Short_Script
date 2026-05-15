@@ -70,8 +70,18 @@ Every generated script MUST include a `📚 References & Sources` section at the
 ## Rule 2: Pure DNA Adherence
 
 - Every script must follow the creator's DNA profile exactly
-- Include a DNA Adherence Audit section after the script table
-- No cross-contamination between creator voices
+- Include a DNA Adherence Audit section after the script body
+- **Never name other YouTube creators or channels** in the script, audit, or hooks — describe forbidden traits only (e.g. "no bro slang", not "not GenZway")
+- Voice comes only from the assigned creator's `CREATOR_MIND.md`, cheatsheet, `deep_hooks.md`, and transcripts
+
+## Rule 2b: Transcript structure (MANDATORY — per topic)
+
+> **Do not use one markdown table format for every creator.**
+
+1. After `prepare.py`, read **REQUIRED FORMAT** at the bottom of `*_context.md` — it names a **matched reference video** (`data/<creator>/<video_id>/transcript.txt`).
+2. **Copy that transcript's shape** — usually `[00:00]` inline lines, domino chains, or temple lists — not a generic 4-column table copied from another channel.
+3. In DNA Audit, state: `Structure matched: <video_id> — <archetype key>`.
+4. If topic is legal/civic (Niharika), geo/domino (Informed Citizen), or heritage list (Neha), pick the archetype `prepare.py` injected — do not override with Shivanshu/KK table format.
 
 ## Rule 3: Anti-Repetition
 

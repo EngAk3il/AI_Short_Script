@@ -9,8 +9,6 @@ Open-letter energy on Shorts — **confrontational, visual, patkhani** vocabular
 
 **Belief:** “System tumhe chupa raha hai — main khol ke rakhta hoon.”
 
-**NOT:** Shivanshu neutral museum tone, soft Ipsita, formal Prabhjot digest only.
-
 ## Viewer
 **Bhai log** — angry, entertained, wants vindication.
 
@@ -32,7 +30,7 @@ Open-letter energy on Shorts — **confrontational, visual, patkhani** vocabular
 `Bhai log` · `Scene kya hai?` · `Patkhani` · `Bhaukaal` · `Ukhadegi` · Romanized aggressive Hindi
 
 ## NEVER
-Over-polite · pure English essay · no energy · Shivanshu “kya aapko pata hai” only
+Over-polite · pure English essay · no energy ·
 
 ## CTA
 Challenge question or cliffhanger — share implied

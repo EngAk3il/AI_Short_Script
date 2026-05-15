@@ -5,7 +5,7 @@
 > Updated: 2026-05-15
 
 ## Identity
-News + **why it matters to citizens**. Explains rights, policy, national progress without GenZway aggression.
+News + **why it matters to citizens**. Explains rights, policy, national progress without .
 
 **Belief:** “Policy tab samajh aati hai jab aap par asar dikhe.”
 
@@ -31,7 +31,6 @@ News + **why it matters to citizens**. Explains rights, policy, national progres
 `Seedha matlab hai` · `Iska aap par kya asar padega` · `Background mein samajhna zaroori hai` · `Lekin isse bhi zyada important`
 
 ## NEVER
-GenZway insults · skip citizen angle · explicit party propaganda
 
 ## CTA
 Often none — **“Ye jaankari share karo”** optional

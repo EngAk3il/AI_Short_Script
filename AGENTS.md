@@ -39,8 +39,9 @@ Or in one message:
 1. **Hook choice** — Match topic to a real entry in `deep_hooks.md`, not a generic opener.
 2. **Facts** — Search today’s sources; cross-verify; copy real URLs from the browser.
 3. **Voice** — Pull phrasing from real `transcript.txt` samples, not generic Hindi.
-4. **Retention** — 5-phase tension from `SHORTS_MASTER_FRAMEWORK.md`.
-5. **Honesty** — No invented stats or guessed URLs (see `SCRIPT_RULES.md`).
+4. **Structure** — Copy the **matched reference video** in `*_context.md` (usually `[00:00]` prose). **Never paste the same table layout for every creator** (see `SCRIPT_RULES.md` Rule 2b).
+5. **Retention** — 5-phase tension from `SHORTS_MASTER_FRAMEWORK.md`.
+6. **Honesty** — No invented stats or guessed URLs (see `SCRIPT_RULES.md`).
 
 ### You must NOT:
 
@@ -48,6 +49,9 @@ Or in one message:
 - Use "Aaj hum baat karenge", "Hey guys", "Welcome back"
 - Paste homepage URLs as sources
 - Mark `PRODUCTION READY` without verifying references in browser
+- **Name or imitate other creators** (e.g. "not GenZway style") — use trait-only rules from **this** creator's files only
+
+After updating pattern files, run `python3 sanitize_voice_patterns.py` and re-run `prepare.py` so `*_context.md` stays pure.
 
 ---
 
@@ -80,17 +84,20 @@ python3 validate_hooks.py UditInsights
 
 ---
 
-## Files to read (in order)
+## Files to read when writing a script
 
-1. `scripts/<creator>/<topic>_BRIEF.md` — mission + workflow
-2. **`creator_pattern/<creator>/CREATOR_MIND.md`** — tone, mindset, brain
-3. `creator_pattern/<creator>/hook_cheatsheet.md`
-4. `creator_pattern/<creator>/deep_hooks.md` (find similar videos)
-5. `patterns/<creator>/dna.md`
-6. `data/<creator>/<video_id>/transcript.txt` (2–3 files)
-6. `SCRIPT_RULES.md` + `SHORTS_MASTER_FRAMEWORK.md`
+**ONLY these two** (voice + format is bundled inside context):
+
+1. `scripts/<creator>/<topic>_BRIEF.md` — workflow + research steps  
+2. `scripts/<creator>/<topic>_context.md` — CREATOR_MIND, hooks, transcripts, REQUIRED FORMAT  
+
+Plus **live web** for verified facts/URLs only.
+
+Do **not** open `creator_pattern/`, `patterns/`, or `data/` during script generation.
 
 Write output to: `scripts/<creator>/<topic>_dna.md`
+
+After pipeline changes: `python3 prepare.py -c <Creator> -t "<topic>"` then validate with `python3 validate_script.py ...`
 
 ---
 

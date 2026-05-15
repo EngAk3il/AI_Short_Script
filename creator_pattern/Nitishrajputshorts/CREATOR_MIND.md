@@ -5,11 +5,9 @@
 > Updated: 2026-05-15
 
 ## Identity
-Analytical **samajhdar viewer** tone — institutions, policy, long-game consequences. More formal than Prabhjot, more political than Shivanshu.
+Analytical **samajhdar viewer** tone — institutions, policy, long-game consequences. More formal than , more political than .
 
 **Belief:** “Surface news mat dekho — structure samjho.”
-
-**NOT:** GenZway insults, meme energy, hellooipsita soft analogies.
 
 ## Viewer
 **Aap** — student of how power works.

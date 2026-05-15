@@ -19,7 +19,7 @@ Shivanshu compresses **brand origins, India facts, geopolitics, science** into 6
 **Core belief:**  
 “Har cheez ke peeche ek fascinating story hai — logon ko bas maloom nahi hai.”
 
-**He is NOT:** GenZway (no “bhai”, no corporate prosecution), news shoutcaster, opinion columnist, or personal vlogger.
+**Avoid:** bro slang (“bhai”, “tum log”), corporate prosecution framing, shoutcaster outrage, opinion columns, personal vlogging.
 
 ---
 
@@ -48,7 +48,7 @@ Shivanshu compresses **brand origins, India facts, geopolitics, science** into 6
 CURIOSITY → wonder → structured depth → quiet awe (not outrage)
 ```
 
-Never aggression. Never devotional hype (that’s NehaGupta).
+Never aggression. Never devotional or temple-tour hype tone.
 
 ---
 
@@ -98,7 +98,7 @@ Never aggression. Never devotional hype (that’s NehaGupta).
 - “Bhai” / “tum log” / “gandi tarah” / corporate “chor” language
 - Personal opinions (“bahut ganda hai”, “sharam ki baat”)
 - Personal stories about himself
-- GenZway-style betrayal framing
+- Betrayal/prosecution framing (“chor”, “naatak”, “loot”)
 - Generic openers (“aaj hum baat karenge”)
 
 ---
@@ -117,14 +117,13 @@ Alt: **“Aise explainer videos ke liye mujhe follow kariye.”**
 - [ ] “Lekin” + “Isliye” used in body (not stuffed in hook only)
 - [ ] Third-person narration dominant
 - [ ] Hook type matches a `deep_hooks.md` template
-- [ ] No cross-contamination from GenZway / Prabhjot
+- [ ] Pure Shivanshu voice only — no borrowed hooks, CTAs, or slang from other channels
 
 ---
 
 ## 12. Also read
 
 - `deep_hooks.md` · `patterns/Shivanshu.Agrawal/dna.md`
-
 
 ## Hook cheatsheet
 
@@ -152,7 +151,6 @@ Alt: **“Aise explainer videos ke liye mujhe follow kariye.”**
 ## CTA
 `Aisi aur video ke liye channel ko subscribe karein.`
 
-
 ## DNA (patterns/dna.md)
 
 # Shivanshu.Agrawal — Creator DNA Profile (v2 — Full 181-Transcript Immersion) 🧬
@@ -170,8 +168,6 @@ Shivanshu.Agrawal is a **Documentary Narrator for the Instagram Generation**. He
 His core belief: **"Har cheez ke peeche ek fascinating story hai — logon ko bas maloom nahi hai."**
 
 His relationship with the audience is that of a **museum audio guide** — informative, neutral, respectful. He NEVER insults the audience. He NEVER says "tum log" or "bhai". He talks ABOUT things, not TO people.
-
-He is NOT a brand critic (like GenZway). He is NOT a psychology creator (like hellooipsita). He is NOT opinionated. He is a **neutral fact-presenter** who trusts the audience to draw their own conclusions.
 
 ---
 
@@ -272,8 +268,6 @@ Step 6: Resolution with specific numbers/outcome
 Step 7: CTA: "ऐसी और वीडियो के लिए चैनल को सब्सक्राइब करें"
 ```
 
-**CRITICAL: The narrative is ALWAYS chronological. He takes you through time methodically. He NEVER jumps around or stacks evidence like GenZway.**
-
 ---
 
 ## 6. Closing Types (From 181 REAL closings)
@@ -306,7 +300,7 @@ Step 7: CTA: "ऐसी और वीडियो के लिए चैनल 
 - **Range: 1.11 – 4.72 WPS**
 - **Tone: Wikipedia voiced by a curious storyteller** — Flat, factual, but not boring.
 - **No dramatic pauses** — He moves steadily from fact to fact.
-- **Clean Hindi grammar** — Unlike GenZway's messy overlapping sentences, Shivanshu speaks in clean, complete Hindi sentences.
+- **Clean Hindi grammar** — Un.
 - **No vocal emotion** — He doesn't raise his voice for surprises. The FACTS carry the emotion.
 
 ---
@@ -358,7 +352,15 @@ He starts with a hook that makes you curious, takes you through the historical j
 
 ---
 
-## 11. Dynamic Generati
+## 11. Dynamic Generation Rules (Anti-Static Script System)
+
+> [!CAUTION] **This DNA is a MINDSET MAP, not a copy-paste template.**
+> Every script must feel like a FRESH Shivanshu documentary short.
+
+### Topic Angle Rotation
+Shivanshu tells ORIGIN STORIES. But the SPECIFIC narrative formula must vary:
+- **Formula A: Person → Struggle → Innovation** — "A poor farmer's son built a ₹4 lakh crore company" (Henry Ford)
+- **Formula B: Problem → Solution → Consequence** — "Spa
 
 ## Framework excerpt
 
@@ -465,24 +467,32 @@ Resolution. But not too neat.
 
 The best closes leave ONE thought that the viewer carries with them.
 
-**Per-creator close formulas:**
-- **GenZway:** Hard verdict. No CTA. "Tum hamesha woh rahouge jinka attention bika ja raha hai."
-- **Shivanshu:** "Ultimately, [philosophical truth]." Then subscribe CTA.
-- **Finsaheli:** Personal lesson + "Mujhe follow karna mat bhulna."
-- **Ipsita:** "Think about it." Always.
-- **OpenLetterYT:** "100% likh ke deta hoon yahi hone wala hai."
-- **PrabhjotSpeaks:** Open question + "Aise aur ke liye follow zaroor karna."
-- **KKCreate:** Ends on open question. No CTA.
-- **MangeshShinde:** "Meri ye waali baat zaroor yaad rakhna — [prediction]."
-- **Nitish:** "Isliye yeh sirf [surface story] nahi, [deeper signal] hai."
-
+**Close formula (this channel only):**
+- **This channel:** "Ultimately, [philosophical truth]." Then subscribe CTA.
 ---
 
 ## THE WATCH-THROUGH FORMULA
 
 ```
 0s   → STOP:  ego/betrayal/paradox hook
-5s   → TRAP:  parti
+5s   → TRAP:  partial info, need for resolution
+20s  → BUILD: evidence stacking (fast-slow rhythm)
+45s  → TWIST: perspective shift — "oh I never thought of it that way"
+60s  → CLOSE: one memorable thought + creator-specific CTA
+```
+
+If viewer drops at any phase, it's because:
+- **0s drop** → Hook didn't create tension
+- **5s drop** → Trap didn't promise enough payoff
+- **20s drop** → Build had too much filler
+- **45s drop** → Twist was expected or too weak
+- **60s drop** → Close was too generic
+
+---
+
+## THE LINE-LENGTH RULE
+
+Shorts are not READ. They 
 
 ## Script rules excerpt
 

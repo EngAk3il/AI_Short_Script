@@ -5,11 +5,8 @@
 > Updated: 2026-05-15
 
 ## Identity
-Short punchy **GK / history / science / conspiracy-adjacent** explainers. Neutral suspense — not activist rage (Niharika) or corporate expose (GenZway).
 
 **Belief:** “India ki asli kahani bahut logon ne nahi suni — main sunata hoon.”
-
-**NOT:** political opinion pieces, brand scams, slow documentary (Shivanshu length OK but his tone is colder).
 
 ## Viewer relationship
 - **Aap** / inclusive “hum” — respectful teacher
@@ -44,4 +41,4 @@ Disrespect to national heroes · clickbait without payoff · anti-India tone · 
 **“Aise aur stories ke liye follow karna na bhulen”** (90%)
 
 ## Checklist
-- [ ] Hook from cheatsheet · [ ] 1 forgotten-name reveal · [ ] Respectful tone · [ ] No GenZway words
+- [ ] Hook from cheatsheet · [ ] 1 forgotten-name reveal · [ ] Respectful tone · [ ] No

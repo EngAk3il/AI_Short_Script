@@ -1,41 +1,47 @@
 # Commander Satheesan: Kerala's CM Story 📈 — NIHARIKA CHOUDHARY DNA
 
-**Hook Type:** Inspirational biography / political drama  
+**Hook Type:** BIOGRAPHY — internal Congress race win  
 **Status:** PRODUCTION READY  
+**Structure matched:** `yLg0odaDIiM` — inspirational_bio (arc + timeline beats)  
+**Post timing:** Sunday 11:00 AM–1:00 PM IST | **Location:** Thiruvananthapuram, Kerala
 
 ---
 
-| Timestamp | Script | Pattern |
-|-----------|--------|---------|
-| [00:00] | Kerala ke naye CM V.D. Satheesan ko ghar-ghar mein 'Commander' kehte hain — 14 May 2026 ko unhone tight Congress CM race jeet li. | **HOOK** |
-| [00:10] | Ye sirf election win nahi — andar ke 3 factions ko peeche chhod kar UDF ka 16th Chief Minister banne ka story hai. | **DRAMA** |
-| [00:22] | 18 May ko Central Stadium par oath — 21 ministers ke saath grand ceremony plan hai. | **TIMELINE** |
-| [00:32] | Inspiration angle: Satheesan long-time organisation man hain — sudden celebrity nahi, ground worker rise. | **BIO** |
-| [00:42] | Political journeys aise simple Hindi mein samajhne ke liye follow karo. | **CTA** |
+## FULL SCRIPT
+
+[00:00] Kerala CM race mein 'Commander' VD Satheesan ne 14 May 2026 ko tight fight jeet li — UDF ka 16th Chief Minister banne ja rahe hain. Headline yahi thi, lekin story usse badi hai.
+
+[00:08] Aakhir kya hua? Congress ke andar teen factions push kar rahe the — Satheesan ne consensus build karke sabko peeche chhoda. Ye sudden celebrity win nahi, organisation ka rise hai.
+
+[00:16] 18 May ko Thiruvananthapuram ke Central Stadium par oath — lagbhag 21 ministers ke saath ceremony. Chair change se pehle coalition pressure aur delivery test dono shuru.
+
+[00:24] Satheesan long-time party worker hain — ground connect strong, faction manager bhi. CM pad par ab governance prove karna hoga, sirf nickname nahi.
+
+[00:32] Simple words mein: 'Commander' isliye kehate hain kyunki unhone discipline se internal fight manage ki — ab wahi skill public delivery par chahiye.
+
+[00:40] Kerala politics aapko inspire karti hai ya confuse? Aap kya sochte hain — Satheesan strong CM ban payenge? Comment mein likhein.
 
 ---
-
-
 
 ### DNA Adherence Audit
 
-1. Hook type matched to creator pattern library ✅
-2. Signature voice markers present ✅
-3. All stats traceable to references table ✅
+- Structure matched: **yLg0odaDIiM** — `inspirational_bio` (hook → Aakhir kya hua → timeline → lesson)  
+- `Aakhir kya hua`, `Simple words mein`, `Aap kya sochte hain` ✅  
+
+---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Tension beat |
-|-------|------|--------------|
-| STOP | 0–5s | Number/policy shock — scroll stop |
-| TRAP | 5–20s | Mechanism named; full answer withheld |
-| BUILD | 20–45s | Evidence + creator signature pivots |
-| TWIST | 45–55s | Hidden economic/political layer revealed |
-| CLOSE | 55–60s | Takeaway + subscribe/follow CTA |
+| Phase | Time | Beat |
+|-------|------|------|
+| STOP | 0–5s | Commander wins CM race |
+| TRAP | 5–16s | Three factions inside Congress |
+| BUILD | 16–32s | Oath date + governance test |
+| CLOSE | 32–40s | Open question CTA |
 
 ### 📚 References & Sources
 
 | # | Data Point Used | Source | Link |
 |---|----------------|--------|------|
-| 1 | VD Satheesan 'Commander' wins tight Kerala CM race May 14 2026 | The New Indian Express | https://www.newindianexpress.com/states/kerala/2026/May/14/commander-replaces-captain-vd-satheesan-has-last-laugh-in-tight-kerala-cm-race |
-| 2 | Kerala Congress govt oath May 18 Satheesan CM designate | Economic Times | https://m.economictimes.com/news/elections/assembly-elections/kerala/kerala-congress-govt-to-take-oath-on-may-18-says-cm-designate-satheesan/amp_articleshow/131099552.cms |
+| 1 | VD Satheesan wins Kerala CM race May 14 2026; Commander nickname | The New Indian Express | https://www.newindianexpress.com/states/kerala/2026/May/14/commander-replaces-captain-vd-satheesan-has-last-laugh-in-tight-kerala-cm-race |
+| 2 | Oath May 18 Central Stadium ~21 ministers | Economic Times | https://m.economictimes.com/news/elections/assembly-elections/kerala/kerala-congress-govt-to-take-oath-on-may-18-says-cm-designate-satheesan/amp_articleshow/131099552.cms |

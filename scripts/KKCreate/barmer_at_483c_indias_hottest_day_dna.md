@@ -30,11 +30,10 @@
 
 | Phase | Time | Tension beat |
 |-------|------|--------------|
-| STOP | 0–5s | Number/policy shock — scroll stop |
-| TRAP | 5–20s | Mechanism named; full answer withheld |
-| BUILD | 20–45s | Evidence + creator signature pivots |
-| TWIST | 45–55s | Hidden economic/political layer revealed |
-| CLOSE | 55–60s | Takeaway + subscribe/follow CTA |
+| STOP | 0–5s | Nostalgia → Barmer 48.3°C shock |
+| TRAP | 5–20s | IMD red alert named, impact withheld |
+| BUILD | 20–40s | Vox-pop + warm nights escalation |
+| CLOSE | 50–55s | Mausam punchline (no subscribe) |
 
 ### 📚 References & Sources
 

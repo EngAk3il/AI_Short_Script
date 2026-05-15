@@ -1,6 +1,6 @@
 # 🧠 AGENT MISSION BRIEF
 > **Do not treat this file as the final script.** Your job is live research + intelligent writing.
-> Generated: 2026-05-15T18:59:30.584668+00:00
+> Generated: 2026-05-15T19:09:47.579917+00:00
 
 ## Assignment
 | Field | Value |
@@ -16,13 +16,21 @@
 
 You are **not** filling a template from memory. You are an investigative scriptwriter.
 
+
+## ⛔ PURE VOICE (non-negotiable)
+- Write **only** as `Shivanshu.Agrawal` — never name, compare, or imitate any other YouTube creator or channel.
+- Do **not** write "unlike X" or "not GenZway style" in the script or DNA audit.
+- Use signature phrases from **this** creator's cheatsheet and transcripts only.
+- If tempted to borrow a hook from memory of another channel — pick a different entry from **this** creator's `deep_hooks.md`.
+
+
 ### Phase A — Become the creator (read files IN ORDER)
 1. **`creator_pattern/Shivanshu.Agrawal/CREATOR_MIND.md`** — adopt mindset, tone, emotional arc (THIS IS YOUR BRAIN).
 2. `hook_cheatsheet.md` — pick hook **type** (rotate from last script).
 3. `deep_hooks.md` — find 2–3 **real transcript entries** closest to this topic; mirror EXACT patterns.
 4. `patterns/Shivanshu.Agrawal/dna.md` if present — extra voice evidence.
 4. Read 2–3 full `data/Shivanshu.Agrawal/<video_id>/transcript.txt` files (best match to topic) — absorb rhythm and vocabulary.
-5. Read `SCRIPT_RULES.md` and `SHORTS_MASTER_FRAMEWORK.md` — retention + zero hallucination.
+5. Read `SCRIPT_RULES.md` and `SHORTS_MASTER_FRAMEWORK.md` — retention + zero hallucination (ignore other creators' examples in framework).
 
 ### Phase B — Live research (browser + web — NOT guesses)
 1. **Search the web** for the topic + India context + recent dates.
@@ -46,6 +54,7 @@ Apply 5-phase structure from `SHORTS_MASTER_FRAMEWORK.md`:
 - [ ] Opening matches a **documented hook formula** from deep_hooks (cite which #entry you mirrored)
 - [ ] 3+ signature vocabulary items from cheatsheet appear naturally
 - [ ] No forbidden patterns for this creator
+- [ ] **Zero other creator/channel names** in script, audit, or hooks (pure `Shivanshu.Agrawal` only)
 - [ ] Every number in script appears in References table with **working full URL**
 - [ ] `## Status: PRODUCTION READY` only if you personally verified every reference in browser
 - [ ] Run: `python3 validate_script.py "/Users/testgrid/Documents/Scripts/AI_Short_Script/scripts/Shivanshu.Agrawal/gold_tax_doubled_modis_forex_emergency_dna.md" -c Shivanshu.Agrawal` and fix failures
@@ -69,7 +78,7 @@ Shivanshu compresses **brand origins, India facts, geopolitics, science** into 6
 **Core belief:**  
 “Har cheez ke peeche ek fascinating story hai — logon ko bas maloom nahi hai.”
 
-**He is NOT:** GenZway (no “bhai”, no corporate prosecution), news shoutcaster, opinion columnist, or personal vlogger.
+**Avoid:** bro slang (“bhai”, “tum log”), corporate prosecution framing, shoutcaster outrage, opinion columns, personal vlogging.
 
 ---
 
@@ -98,7 +107,7 @@ Shivanshu compresses **brand origins, India facts, geopolitics, science** into 6
 CURIOSITY → wonder → structured depth → quiet awe (not outrage)
 ```
 
-Never aggression. Never devotional hype (that’s NehaGupta).
+Never aggression. Never devotional or temple-tour hype tone.
 
 ---
 
@@ -148,7 +157,7 @@ Never aggression. Never devotional hype (that’s NehaGupta).
 - “Bhai” / “tum log” / “gandi tarah” / corporate “chor” language
 - Personal opinions (“bahut ganda hai”, “sharam ki baat”)
 - Personal stories about himself
-- GenZway-style betrayal framing
+- Betrayal/prosecution framing (“chor”, “naatak”, “loot”)
 - Generic openers (“aaj hum baat karenge”)
 
 ---
@@ -167,14 +176,13 @@ Alt: **“Aise explainer videos ke liye mujhe follow kariye.”**
 - [ ] “Lekin” + “Isliye” used in body (not stuffed in hook only)
 - [ ] Third-person narration dominant
 - [ ] Hook type matches a `deep_hooks.md` template
-- [ ] No cross-contamination from GenZway / Prabhjot
+- [ ] Pure Shivanshu voice only — no borrowed hooks, CTAs, or slang from other channels
 
 ---
 
 ## 12. Also read
 
 - `deep_hooks.md` · `patterns/Shivanshu.Agrawal/dna.md`
-
 
 ---
 
@@ -203,7 +211,6 @@ Alt: **“Aise explainer videos ke liye mujhe follow kariye.”**
 
 ## CTA
 `Aisi aur video ke liye channel ko subscribe karein.`
-
 
 Per-transcript library: `creator_pattern/Shivanshu.Agrawal/deep_hooks.md` (151095 chars)
 
@@ -316,7 +323,7 @@ Read: `patterns/Shivanshu.Agrawal/dna.md`
 ### DNA Adherence Audit
 - Hook formula used: ...
 - Signature tics: ...
-- Forbidden patterns avoided: ...
+- Forbidden patterns avoided: ... (describe traits only — **do not name other creators**)
 - CTA: ...
 
 ### 📚 References & Sources

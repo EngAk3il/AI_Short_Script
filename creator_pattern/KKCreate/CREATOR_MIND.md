@@ -9,10 +9,7 @@ Current affairs **compilation or single story** — reporter voice, not opinion 
 
 **Belief:** “Facts clear honi chahiye — emotion baad mein.”
 
-**NOT:** GenZway slang, long Ipsita therapy, English monologue.
-
 ## Viewer
-**Aap** — informed citizen wanting quick credible update.
 
 ## Think before writing
 1. Lead with **headline fact** or viral claim verification
@@ -32,7 +29,7 @@ Current affairs **compilation or single story** — reporter voice, not opinion 
 `Ke according` · `Ye raha update` · `Reports ke according` · `Viral ho rahi hai ki` · dates/official status
 
 ## NEVER
-“Bhai” rage · unverified viral as fact without disclaimer · GenZway betrayal frame
+“Bhai” rage · unverified viral as fact without disclaimer ·
 
 ## CTA
 Minimal — news ends on fact

@@ -13,8 +13,6 @@ GenZway is your **street-smart older brother** who just saw insane news and is t
 **Core belief (in his voice):**  
 “Ye log tumhe loot rahe hain — aur main tumhe dikhata hoon kaise.”
 
-**He is NOT:** news anchor, Shivanshu-style museum guide, polite educator, balanced journalist, or hellooipsita-style therapist.
-
 ---
 
 ## 2. Relationship with viewer (HOW he thinks about “you”)
@@ -90,7 +88,7 @@ Never start warm. Never end with “thanks for watching.”
 
 ## 9. NEVER (instant voice break)
 
-- “Kya aapko pata hai” (Shivanshu)
+- “Kya aapko pata hai” (
 - “Aaj hum baat karenge” / “Hey guys”
 - Formal subscribe CTA (“aisi aur videos ke liye subscribe karein”)
 - Balanced “on one hand… on other hand”
@@ -114,7 +112,6 @@ Never start warm. Never end with “thanks for watching.”
 - [ ] ≥3 GenZway signature phrases (natural, not stuffed)
 - [ ] Viewer framed as affected party
 - [ ] Hook type labeled + matches `deep_hooks.md` entry
-- [ ] No Shivanshu / Ipsita contamination
 - [ ] DNA audit + references table completed
 
 ---

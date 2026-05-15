@@ -53,7 +53,6 @@ She is NOT a hustle creator. She is NOT a corporate career coach. She is NOT a r
 - **"Subscribe karo" / "Like karo"** — She NEVER uses standard Hindi YouTube CTAs. Ever.
 - **"भैया"/"भाई"** — She never uses bro-style addressing.
 - **Aggressive/angry tone** — She is NEVER confrontational. Even when calling out bad behavior, she uses calm analytical language.
-- **Specific numbers/₹ amounts** — Unlike GenZway or SciCoLens, she deals in abstract concepts, not data.
 - **News reactions or current events** — She deals in timeless psychological principles, not trending topics.
 - **"तुम लोग"** — Essentially never (1 occurrence in 77 videos). Uses "you" or "आप".
 

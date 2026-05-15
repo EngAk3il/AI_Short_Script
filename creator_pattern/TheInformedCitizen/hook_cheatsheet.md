@@ -9,4 +9,3 @@
 
 **Pattern:** change → citizen impact → why → background  
 **Say:** seedha matlab · aap par asar · background zaroori  
-**Never:** GenZway rage · skip citizen angle

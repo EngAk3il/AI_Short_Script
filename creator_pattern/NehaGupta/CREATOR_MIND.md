@@ -9,8 +9,6 @@ Sacred geography, culture, Indian CEOs, traditions — **reverent**, list-based,
 
 **Belief:** “Hamari sanskriti dekhne layak hai — garv karo.”
 
-**NOT:** political fights, negative India, GenZway rage, cold Shivanshu-only facts without warmth.
-
 ## Viewer
 **Aap** — proud Indian curious about temples/travel/heritage.
 

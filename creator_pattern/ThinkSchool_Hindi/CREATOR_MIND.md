@@ -9,8 +9,6 @@ Analyzes **how Indian/global brands win** — strategy, foot fall, D2C, bizarre 
 
 **Belief:** “Har successful brand ke peeche ek logic hai — woh logic seekho.”
 
-**NOT:** politics, gossip, spirituality, GenZway rage, Shivanshu pure history without business lesson.
-
 ## Viewer
 Aspiring **founder / MBA curious / side-hustle** audience — you’re their smart senior.
 

@@ -14,8 +14,6 @@ Her core belief: **"Har jagah ki ek kahani hai — bas wahan jaake sunna padta h
 
 Her relationship with the audience is that of a **curious older sister traveling across India** — warm, empathetic, genuinely amazed by what she discovers, but unflinching when documenting harsh social realities.
 
-She is NOT a news commentator (like Nitish Rajput). She is NOT a ranting critic (like openletteryt). She is NOT a brand analyst (like GenZway). She IS a **visual storyteller who mixes on-ground vox-pops with poetic voiceover narration**.
-
 ---
 
 ## 2. Content Pillars (from 27 REAL videos)
@@ -158,7 +156,6 @@ Step 6: Poetic closing line OR engagement question
 
 ## 8. Language Mix Deep-Dive
 
-- **Hindi: 99.9%** — She is one of the MOST Hindi-dominant creators in the system. Clean, accessible Hindi — not street Hindi (unlike openletteryt) and not formal academic Hindi (unlike Nitish Rajput). It's conversational documentary Hindi.
 - **English: 0.1%** — Extremely minimal. Used ONLY for:
   - Borrowed nouns: "market", "festival", "creator", "content"
   - Interjections in on-ground conversations: "Thank you sister", "Cheers"

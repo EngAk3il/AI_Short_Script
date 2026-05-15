@@ -14,7 +14,7 @@
 | [00:22] | Lekin ICRA ke estimate ke mutabiq jab global crude $105-110 per barrel par ho, tab bhi auto fuels aur domestic LPG par OMCs ko roz ~Rs 500 crore ka loss hota hai — hike ke baad bhi. | 3.0 | **[SIGNATURE: LEKIN]** Visual: Crude barrel $105-110 + loss counter Rs 500 Cr/day. |
 | [00:33] | Isliye petroleum minister Hardeep Singh Puri ne bataya ki cumulative under-recoveries lagbhag Rs 1.98 lakh crore tak pahunch chuki hain — pehle unhone ~Rs 1,000 crore daily loss ka zikr kiya tha jab crude aur zyada expensive tha. | 3.1 | **[SIGNATURE: ISLIYE]** Visual: Under-recovery mountain chart Rs 1.98 lakh cr. |
 | [00:44] | Ultimately, agar West Asia conflict aur crude elevated rahe, toh experts kehte hain aur retail hikes aane ki sambhavna hai — kyunki Rs 3 ki relief mathematically losses cover nahi karti. | 3.0 | **[ULTIMATELY]** Visual: Hormuz map + second hike warning graphic. |
-| [00:55] | Indian economy ki aisi hidden layers ke liye subscribe karein. | 3.2 | **[CTA]** Visual: Subscribe. |
+| [00:58] | Aisi aur video ke liye channel ko subscribe karein. | 3.2 | **[CTA exact]** Visual: Subscribe. |
 
 ---
 
@@ -31,7 +31,7 @@
 
 | Phase | Time | Tension beat |
 |-------|------|--------------|
-| STOP | 0–5s | Number/policy shock — scroll stop |
+| STOP | 0–5s | Rs 500 Cr/day loss despite Rs 3 hike |
 | TRAP | 5–20s | Mechanism named; full answer withheld |
 | BUILD | 20–45s | Evidence + creator signature pivots |
 | TWIST | 45–55s | Hidden economic/political layer revealed |

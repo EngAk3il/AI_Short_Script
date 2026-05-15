@@ -2,7 +2,10 @@
 
 Topic: 4.5 Million Indians in UAE Soft Power
 
-## CREATOR MIND (read first)
+> **Agents:** Use ONLY this file + `*_BRIEF.md` for voice. Do not open creator_pattern/ or data/.
+
+
+## CREATOR MIND
 
 # CREATOR MIND: NehaGupta
 
@@ -14,8 +17,6 @@ Topic: 4.5 Million Indians in UAE Soft Power
 Sacred geography, culture, Indian CEOs, traditions — **reverent**, list-based, comment engagement.
 
 **Belief:** “Hamari sanskriti dekhne layak hai — garv karo.”
-
-**NOT:** political fights, negative India, GenZway rage, cold Shivanshu-only facts without warmth.
 
 ## Viewer
 **Aap** — proud Indian curious about temples/travel/heritage.
@@ -46,7 +47,6 @@ Politics · mock religion · aggressive tone · slang
 ## Checklist
 - [ ] Warm tone · [ ] ≥2 place names · [ ] Pride not politics
 
-
 ## Hook cheatsheet
 
 # HOOK CHEATSHEET: NehaGupta
@@ -61,12 +61,70 @@ Politics · mock religion · aggressive tone · slang
 **Say:** mahima aparampar · garv · zaroor dekhne chahiye  
 **Never:** politics · negative India
 
+## Topic-matched hooks (mirror rhythm — do not copy facts)
+
+### Match score 3
+# POWER PATTERNS (aggregated)
+
+1. **Hook → stacked facts → close** — dominant in news/explainer shorts
+2. **Question or shock open** — retention in first 3 seconds
+3. **Creator-specific CTA** — see CREATOR_MIND.md for exact phrases
+
+
 
 ## DNA (patterns/dna.md)
 
 (none)
 
-## Framework excerpt
+## Transcript samples (COPY RHYTHM FROM THESE)
+
+[Video: qp_ptIZBdy0 | qp_ptIZBdy0]
+[00:00] क्या आप जानते हैं कि इंडिया में बिंदी सिर्फ एक श्रृंगार नहीं बल्कि एक पहचान भी है?
+[00:05] वेस्ट बंगाल में आपको दिखेगी बड़ी लाल गोल बिंदी जिसके किनारे चंदन की कलाकारी यानी कोल्का आर्ट होता है।
+[00:12] वहीं महाराष्ट्र में आपको दिखेगी अर्धचंद्राकार यानी चंद्रकोर बिंदी जो वहां की पहचान है।
+[00:19] राजस्थान और गुजरात में औरतें तीन छोटी काली बिंदियां लगाती हैं।
+[00:25] और साउथ इंडिया में आपको दिखेगा हॉरिजॉन्टल विभूति जिसके ऊपर कुमकुम लगा होता है।
+[00:32] तो आपकी स्टेट की बिंदी कैसी है? कमेंट्स में बताएं।
+
+---
+
+[Video: qzCUD0hyXIY | qzCUD0hyXIY]
+[00:00] आजादी से पहले भारतीय सिक्कों पर ब्रिटिश राजा और रानी की फोटो होती थी।
+[00:09] लेकिन आजादी के बाद भारत ने तय किया कि हम किसी शासक के चेहरे के बजाय राष्ट्रीय प्रतीकों का इस्तेमाल करेंगे।
+[00:15] 1950 के आसपास ₹1 का सिक्का आया जिस पर गेहूं की बालियां (भुट्टा) बनी हुई थी।
+[00:23] ये इस बात का प्रतीक है कि भारत एक कृषि प्रधान देश है जहां 60% से ज्यादा लोग खेती से जुड़े हैं।
+[00:32] ₹1 का सिक्का इसलिए चुना गया क्योंकि ये सबसे ज्यादा चलन में रहने वाला सिक्का है।
+
+---
+
+[Video: yLg0odaDIiM | yLg0odaDIiM]
+[00:00] Raghav Chadha's move to BJP and its constitutional implications.
+[00:04] Normally, an MP/MLA changing parties is disqualified under the anti-defection law.
+[00:08] However, if 2/3 of a party's members join another party, it is considered a merger.
+[00:16] Since 7 out of 10 AAP MPs joined BJP, no one was disqualified.
+[00:25] Similar instances happened with TDP in 2019 and Congress in Goa.
+[00:34] While legally valid, the video questions the impact on public trust.
+
+---
+
+[Video: kYwFn-NK0js | kYwFn-NK0js]
+[00:04] All 14 Indian Prime Ministers so far have spoken Hindi and English.
+[00:21] Nehru, Shastri, and Vajpayee spoke Hindi, English, and Urdu. Modi speaks Hindi, English, and Gujarati.
+[00:36] Manmohan Singh speaks four languages: Hindi, English, Punjabi, and Urdu.
+[00:41] Indira Gandhi spoke six: English, French, German, Punjabi, Bengali, and Hindi.
+[00:46] P.V. Narasimha Rao spoke the most: 17 languages in total (11 Indian, 6 foreign).
+
+---
+
+[Video: amEF5ncgnt8 | amEF5ncgnt8]
+[00:00] Unusual non-vegetarian sweets in India.
+[00:05] In Bhopal, 'Kaleji Anas ki Kheer' is made with goat liver and pineapple.
+[00:10] Fish Lukma in Bhopal are gulab jamuns made with boiled fish and milk.
+[00:15] Lucknow is famous for 'Ande ka Halwa' (egg halwa).
+[00:20] 'Murg Zarda' is sweet rice served with chicken, common at some Muslim weddings.
+[00:25] Goa's traditional Baath cake was originally made with goat milk.
+
+## Retention framework (this channel only)
 
 # 🧠 SHORTS SCRIPT MASTER FRAMEWORK
 ## The System Behind Every Script That Gets Watched Till End
@@ -171,26 +229,18 @@ Resolution. But not too neat.
 
 The best closes leave ONE thought that the viewer carries with them.
 
-**Per-creator close formulas:**
-- **GenZway:** Hard verdict. No CTA. "Tum hamesha woh rahouge jinka attention bika ja raha hai."
-- **Shivanshu:** "Ultimately, [philosophical truth]." Then subscribe CTA.
-- **Finsaheli:** Personal lesson + "Mujhe follow karna mat bhulna."
-- **Ipsita:** "Think about it." Always.
-- **OpenLetterYT:** "100% likh ke deta hoon yahi hone wala hai."
-- **PrabhjotSpeaks:** Open question + "Aise aur ke liye follow zaroor karna."
-- **KKCreate:** Ends on open question. No CTA.
-- **MangeshShinde:** "Meri ye waali baat zaroor yaad rakhna — [prediction]."
-- **Nitish:** "Isliye yeh sirf [surface story] nahi, [deeper signal] hai."
-
+**Close formula (this channel only):**
 ---
 
 ## THE WATCH-THROUGH FORMULA
 
 ```
 0s   → STOP:  ego/betrayal/paradox hook
-5s   → TRAP:  parti
+5s   → TRAP:  partial info, need for resolution
+20s  → BUILD: evidence stacking (fast-slow rhythm)
+45s  → TWIST: perspective shift — "
 
-## Script rules excerpt
+## Script rules
 
 # Script Generation Rules 📋
 
@@ -237,47 +287,10 @@ Every generated script MUST include a `📚 References & Sources` section at the
 - URLs must link to the **specific article/page/PDF** where the information was found
 - Format as a markdown table with columns: `#`, `Data Point Used`, `Source`, `Link`
 
-### Example (CORRECT ✅):
-```
-| 1 | Peak power demand 256.1 GW | Energy — Economic Times | https://energy.economictimes.indiatimes.com/news/power/indias-peak-power-demand-hits-record-256-gw/120621345 |
-```
+### Exampl
 
-### Example (WRONG ❌):
-```
-| 1 | Peak power demand 256.1 GW | Economic Times | https://economictimes.indiatimes.com |
-```
-
-### Template:
-```markdown
----
-
-### 📚 References & Sources:
-
-| # | Data Point Used | Source | Link |
-|---|----------------|--------|------|
-| 1 | [exact data point] | [publication na
-
-## Top transcript samples
-
-[Video: qp_ptIZBdy0 | qp_ptIZBdy0]
-[00:00] क्या आप जानते हैं कि इंडिया में बिंदी सिर्फ एक श्रृंगार नहीं बल्कि एक पहचान भी है?
-[00:05] वेस्ट बंगाल में आपको दिखेगी बड़ी लाल गोल बिंदी जिसके किनारे चंदन की कलाकारी यानी कोल्का आर्ट होता है।
-[00:12] वहीं महाराष्ट्र में आपको दिखेगी अर्धचंद्राकार यानी चंद्रकोर बिंदी जो वहां की पहचान है।
-[00:19] राजस्थान और गुजरात में औरतें तीन छोटी काली बिंदियां लगाती हैं।
-[00:25] और साउथ इंडिया में आपको दिखेगा हॉरिजॉन्टल विभूति जिसके ऊपर कुमकुम लगा होता है।
-[00:32] तो आपकी स्टेट की बिंदी कैसी है? कमेंट्स में बताएं।
----
-[Video: qzCUD0hyXIY | qzCUD0hyXIY]
-[00:00] आजादी से पहले भारतीय सिक्कों पर ब्रिटिश राजा और रानी की फोटो होती थी।
-[00:09] लेकिन आजादी के बाद भारत ने तय किया कि हम किसी शासक के चेहरे के बजाय राष्ट्रीय प्रतीकों का इस्तेमाल करेंगे।
-[00:15] 1950 के आसपास ₹1 का सिक्का आया जिस पर गेहूं की बालियां (भुट्टा) बनी हुई थी।
-[00:23] ये इस बात का प्रतीक है कि भारत एक कृषि प्रधान देश है जहां 60% से ज्यादा लोग खेती से जुड़े हैं।
-[00:32] ₹1 का सिक्का इसलिए चुना गया क्योंकि ये सबसे ज्यादा चलन में रहने वाला सिक्का है।
----
-[Video: yLg0odaDIiM | yLg0odaDIiM]
-[00:00] Raghav Chadha's move to BJP and its constitutional implications.
-[00:04] Normally, an MP/MLA changing parties is disqualified under the anti-defection law.
-[00:08] However, if 2/3 of a party's members join another party, it is considered a merger.
-[00:16] Since 7 out of 10 AAP MPs joined BJP, no one was disqualified.
-[00:25] Similar instances happened with TDP in 2019 and Congress in Goa.
-[00:34] While legally valid, the video questions the impact on public trust.
+## REQUIRED FORMAT: NehaGupta
+- **NOT a news timestamp table.** Use **Director notes + fenced Hindi script blocks** (line breaks every 2–5 words)
+- **4–5 blocks**, ~60–75s — reverent, poetic, heritage pride
+- **Must include:** sacred geography hook, `darshan`, `hamari sanskriti` or `garv`, `Comment mein [X] zarur likhein`
+- **NOT:** breaking-news anchor tone, political attack, Shivanshu-style data table

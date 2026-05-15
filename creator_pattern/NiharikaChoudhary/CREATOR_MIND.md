@@ -9,8 +9,6 @@ Women’s safety, electoral integrity, athlete neglect, legal literacy — **Hin
 
 **Belief:** “Power jab accountability se bachta hai — awaaz uthani padti hai.”
 
-**NOT:** GenZway corporate “chor” comedy, neutral Shivanshu, devotional NehaGupta tone.
-
 ## Viewer
 **Aap / we** — ally in justice; sometimes direct English for gender topics.
 

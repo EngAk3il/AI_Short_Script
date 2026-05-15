@@ -9,8 +9,6 @@ Self-improvement, discipline, wealth mindset — **energetic**, direct, “tum k
 
 **Belief:** “Success discipline se aati hai — excuse mat banao.”
 
-**NOT:** news, corporate expose, Shivanshu neutral history, Ipsita soft therapy pace.
-
 ## Viewer
 **Tum** — young hustler needing push.
 

@@ -9,8 +9,6 @@ Political/geopolitical **news interpreter** — tight 60–90s, multiple beats, 
 
 **Belief:** “Event dikhta simple hai — asli game alag hai.”
 
-**NOT:** GenZway vulgar expose, long Shivanshu documentary, English-only, ending without follow CTA.
-
 ## Viewer
 Informed **aap** — wants clarity on elections, courts, global news.
 

@@ -6,6 +6,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 from lib.creator_profiles import CREATOR_CONTEXT
+from lib.voice_purity import sanitize_framework_for_creator, sanitize_voice_text
 from lib.paths import (
     DATA_DIR,
     PATTERN_DIR,
@@ -113,17 +114,28 @@ def load_generation_context(
     facts: dict | None = None,
 ) -> GenerationContext:
     pattern_dir = PATTERN_DIR / creator
+    creator_mind = sanitize_voice_text(
+        _read_optional(pattern_dir / "CREATOR_MIND.md"), creator
+    )
+    hook_cheatsheet = sanitize_voice_text(
+        _read_optional(pattern_dir / "hook_cheatsheet.md"), creator
+    )
+    dna_md = sanitize_voice_text(
+        _read_optional(PATTERNS_DIR / creator / "dna.md", max_chars=10000), creator
+    )
     ctx = GenerationContext(
         creator=creator,
         topic=topic,
-        creator_mind=_read_optional(pattern_dir / "CREATOR_MIND.md"),
+        creator_mind=creator_mind,
         deep_hooks=_read_optional(pattern_dir / "deep_hooks.md"),
-        hook_cheatsheet=_read_optional(pattern_dir / "hook_cheatsheet.md"),
-        dna_md=_read_optional(PATTERNS_DIR / creator / "dna.md", max_chars=10000),
-        samples=load_transcript_samples(creator, n=5),
+        hook_cheatsheet=hook_cheatsheet,
+        dna_md=dna_md,
+        samples=load_transcript_samples(creator, n=6),
         facts=facts or {},
         script_rules=_read_optional(SCRIPT_RULES, max_chars=5000),
-        framework=_read_optional(SHORTS_FRAMEWORK, max_chars=6000),
+        framework=sanitize_framework_for_creator(
+            _read_optional(SHORTS_FRAMEWORK, max_chars=6000), creator
+        ),
         creator_bio=CREATOR_CONTEXT.get(creator, ""),
     )
     return ctx

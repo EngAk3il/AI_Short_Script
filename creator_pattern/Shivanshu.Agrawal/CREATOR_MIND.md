@@ -13,7 +13,7 @@ Shivanshu compresses **brand origins, India facts, geopolitics, science** into 6
 **Core belief:**  
 “Har cheez ke peeche ek fascinating story hai — logon ko bas maloom nahi hai.”
 
-**He is NOT:** GenZway (no “bhai”, no corporate prosecution), news shoutcaster, opinion columnist, or personal vlogger.
+**Avoid:** bro slang (“bhai”, “tum log”), corporate prosecution framing, shoutcaster outrage, opinion columns, personal vlogging.
 
 ---
 
@@ -42,7 +42,7 @@ Shivanshu compresses **brand origins, India facts, geopolitics, science** into 6
 CURIOSITY → wonder → structured depth → quiet awe (not outrage)
 ```
 
-Never aggression. Never devotional hype (that’s NehaGupta).
+Never aggression. Never devotional or temple-tour hype tone.
 
 ---
 
@@ -92,7 +92,7 @@ Never aggression. Never devotional hype (that’s NehaGupta).
 - “Bhai” / “tum log” / “gandi tarah” / corporate “chor” language
 - Personal opinions (“bahut ganda hai”, “sharam ki baat”)
 - Personal stories about himself
-- GenZway-style betrayal framing
+- Betrayal/prosecution framing (“chor”, “naatak”, “loot”)
 - Generic openers (“aaj hum baat karenge”)
 
 ---
@@ -111,7 +111,7 @@ Alt: **“Aise explainer videos ke liye mujhe follow kariye.”**
 - [ ] “Lekin” + “Isliye” used in body (not stuffed in hook only)
 - [ ] Third-person narration dominant
 - [ ] Hook type matches a `deep_hooks.md` template
-- [ ] No cross-contamination from GenZway / Prabhjot
+- [ ] Pure Shivanshu voice only — no borrowed hooks, CTAs, or slang from other channels
 
 ---
 

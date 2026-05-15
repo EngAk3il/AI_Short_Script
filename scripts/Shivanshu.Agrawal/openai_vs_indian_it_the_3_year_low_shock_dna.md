@@ -14,7 +14,7 @@
 | [00:22] | Lekin ye sirf ek din ki volatility nahi lag rahi — HSBC ne warning di ki AI spending traditional IT budgets ko 'crowd out' kar sakti hai, aur sector Year-to-Date lagbhag 25.4 pratishat neeche hai. | 3.0 | **[SIGNATURE: LEKIN]** Visual: HSBC headline + YTD -25.4% bar chart. |
 | [00:33] | Isliye startups jo IT giants par depend karte hain, unke contracts aur hiring dono par pressure dikhega — kyunki clients ab code maintain karwane ke bajay AI automation par paisa shift kar rahe hain. | 3.1 | **[SIGNATURE: ISLIYE]** Visual: Startup office + AI vs outsourcing split screen. |
 | [00:44] | Ultimately, Indian IT ka model decades se 'labour arbitrage' par tha — ab sawal ye hai ki kya ye companies khud AI products banakar naya cycle start kar payengi, ya margin permanently compress ho jayega. | 3.0 | **[ULTIMATELY]** Visual: Timeline 1990s outsourcing → 2026 AI pivot. |
-| [00:55] | Tech-business documentaries ke liye subscribe karein. | 3.2 | **[CTA]** Visual: Subscribe. |
+| [00:58] | Aisi aur video ke liye channel ko subscribe karein. | 3.2 | **[CTA exact]** Visual: Subscribe. |
 
 ---
 

@@ -8,4 +8,3 @@
 | Civic | `Aap kya sochte hain?` |
 
 **Tone:** passionate · legal clarity · stand with whistleblowers  
-**Never:** vulgar GenZway · dismiss victims

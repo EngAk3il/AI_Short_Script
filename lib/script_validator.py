@@ -72,8 +72,11 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
             v.errors.append(f"Forbidden opener phrase: '{phrase}'")
 
     # Required sections
+    neha_script_ok = creator == "NehaGupta" and re.search(
+        r"Director:|^```", markdown, re.M | re.I
+    )
     for name, pattern in REQUIRED_SECTIONS:
-        if pattern.search(markdown):
+        if pattern.search(markdown) or (name == "script" and neha_script_ok):
             score += 20
         else:
             v.passed = False
@@ -87,13 +90,36 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
 
     rows = _count_table_rows(markdown)
     timestamp_markers = len(re.findall(r"\[00:\d{2}\]|0:\d{2}\s*to|0:\d{2}\s*—", markdown))
-    if rows >= 6 or timestamp_markers >= 4:
+    fenced_lines = len(re.findall(r"^```", markdown, re.M))
+    director_blocks = len(re.findall(r"\*\*\[Director:", markdown, re.I))
+    neha_style = creator == "NehaGupta" and (
+        fenced_lines >= 2 or director_blocks >= 2 or len(re.findall(r"^```", markdown, re.M)) >= 8
+    )
+    script_section = bool(
+        re.search(r"##\s*SCRIPT|```\n|Director:", markdown, re.I)
+    )
+    if rows >= 6 or timestamp_markers >= 4 or neha_style or (creator == "NehaGupta" and script_section):
         score += 20
     else:
         v.passed = False
         v.errors.append(
-            f"Need ≥6 table rows or ≥4 timestamp sections; rows={rows}, markers={timestamp_markers}"
+            f"Need ≥6 table rows, ≥4 timestamps, or NehaGupta director/script blocks; "
+            f"rows={rows}, markers={timestamp_markers}, fenced={fenced_lines}"
         )
+
+    if creator:
+        try:
+            from lib.script_formats import check_voice_markers
+
+            voice_errors = check_voice_markers(markdown, creator)
+            for err in voice_errors:
+                if "exact CTA" in err or "Forbidden" in err:
+                    v.passed = False
+                    v.errors.append(err)
+                else:
+                    v.warnings.append(err)
+        except ImportError:
+            pass
 
     # Status
     if "PRODUCTION READY" in markdown or "Status:" in markdown:

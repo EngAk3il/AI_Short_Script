@@ -17,6 +17,8 @@ description: >-
 
 Never output generic "Aaj hum baat karenge" openings. Never invent URLs or statistics.
 
+**Pure voice:** Never name or compare other YouTube creators/channels in the script, audit, or hooks. Only use the assigned creator's `CREATOR_MIND.md`, cheatsheet, and transcripts.
+
 ---
 
 ## Workflow
@@ -39,26 +41,31 @@ Open `scripts/<Creator>/<slug>_BRIEF.md`.
 
 Trusted: LiveMint, Economic Times, Moneycontrol, Reuters, The Hindu, official company/gov sites.
 
-### 3. Learn voice (read files IN ORDER — do not guess)
+### 3. Learn voice (ONLY from prepared bundle)
 
 | # | File | Purpose |
 |---|------|---------|
-| 1 | `creator_pattern/<C>/CREATOR_MIND.md` | **Mindset, tone, arc, NEVER rules** |
-| 2 | `creator_pattern/<C>/hook_cheatsheet.md` | Hook templates, CTA |
-| 3 | `creator_pattern/<C>/deep_hooks.md` | Per-video patterns — closest match to topic |
-| 4 | `patterns/<C>/dna.md` | Extra voice evidence |
-| 5 | `data/<C>/<video_id>/transcript.txt` | Real rhythm and phrases |
+| 1 | `scripts/<C>/<topic>_context.md` | **Everything:** mind, cheatsheet, hooks, transcripts, format |
+| 2 | `scripts/<C>/<topic>_BRIEF.md` | Workflow + research rules |
 
-### 4. Write for retention
+Do **not** open `creator_pattern/`, `patterns/`, or `data/` — samples are already inside `*_context.md`.
 
-Use `SHORTS_MASTER_FRAMEWORK.md`:
+### 4. Match transcript structure (before writing)
+
+In `*_context.md`, scroll to **REQUIRED FORMAT (from real transcript)**:
+
+- Note **Matched archetype** + **reference video ID**
+- Read the **reference transcript excerpt** — mirror its shape (`[00:00]` lines, domino chain, temple list, etc.)
+- **Do not** default to a 4-column markdown table for all creators
+
+### 5. Write for retention
 
 - **STOP (0–5s):** tension, paradox, number shock — not intro filler
 - **TRAP → BUILD → TWIST → CLOSE**
-- Include **WATCH-THROUGH MAP** and **DNA Adherence Audit**
+- Include **WATCH-THROUGH MAP** and **DNA Adherence Audit** (name reference video ID)
 - End with creator's real CTA style from cheatsheet
 
-### 5. References table (mandatory)
+### 6. References table (mandatory)
 
 ```markdown
 ### 📚 References & Sources
@@ -67,7 +74,7 @@ Use `SHORTS_MASTER_FRAMEWORK.md`:
 
 Every stat in the script must appear here with a **verified full article URL**.
 
-### 6. Validate
+### 7. Validate
 
 ```bash
 python3 validate_script.py scripts/<Creator>/<file>_dna.md -c <Creator>
@@ -89,6 +96,6 @@ Remove "AWAITING AGENT" / placeholder text.
 
 - Hook type named + tied to a real `deep_hooks.md` entry
 - 3+ signature phrases from cheatsheet
-- 8+ timestamp rows or clear phase sections
+- 6+ `[00:00]` lines OR creator-native structure from reference transcript (not a copied cross-creator table)
 - Zero hallucinated facts
 - Reads like the **creator**, not a generic AI narrator

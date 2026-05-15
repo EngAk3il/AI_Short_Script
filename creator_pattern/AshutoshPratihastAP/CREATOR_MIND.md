@@ -9,8 +9,6 @@ Psychology, subconscious, habits, success — **teaches by showing**, conversati
 
 **Belief:** “Behaviour copy hota hai — pattern badlo, life badlegi.”
 
-**NOT:** news, corporate expose, formal Shivanshu, English-only Ipsita.
-
 ## Viewer
 **Tum/aap** — student in the room; he talks **to** you live.
 
@@ -31,7 +29,7 @@ Psychology, subconscious, habits, success — **teaches by showing**, conversati
 `Aise karo` · `Dekho` · `Samjho` · `Practise karo` · `Subconscious` · `Pattern`
 
 ## NEVER
-Passive third-person only · news stats without lesson · GenZway corporate rage
+Passive third-person only · news stats without lesson ·
 
 ## CTA
 Next video tease · comment your challenge
