@@ -77,12 +77,16 @@ If voice guidance is missing from the context file, run `python3 prepare.py -c {
 
 ### Phase C — Write script (intelligence, not templates)
 - Write `[00:00]` lines in the **same shape** as the reference transcript analysis block.
+- **Devanagari** in FULL SCRIPT (brands/tickers in English OK). Roman body = fail.
+- **`[00:00]` hook** = reference **first-line device** (e.g. `फॉग ने इस तरह से` → `अडानी ने इस तरह से`; `फैक्ट्स सरप्राइज़` + same-breath `जब…`).
+- **Teach one chain** if reference teaches how (जब→तो→मतलब→लेकिन→इसीलिए). **Never** stack 3+ stats without linking sentences.
 - **Tone from transcript**; **facts from articles** — never paste headline Hindi as the hook.
 - Do **not** repeat the same calendar date in multiple lines.
-- 5-phase retention inside the reference rhythm (not a generic table).
+- **WATCH-THROUGH MAP** must include column: `Viewer question (why they stay)` for every phase.
 
 ### Phase D — Self-audit
-- [ ] `reference_video` ID named; opening mimics reference pattern
+- [ ] `reference_video` ID named; **Opening mimics:** quote ref first 6–10 words → script first 6–10 words
+- [ ] **Not headline stack** — each beat answers the previous viewer question
 - [ ] Date density ≤ reference (usually 0–1 in speech)
 - [ ] Hook adapted from a **Topic-matched hooks** EXACT HOOK (quote first words in audit)
 - [ ] Phrases used appear in reference OR CREATOR_MIND (no borrowed creator-isms)

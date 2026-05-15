@@ -109,6 +109,71 @@ Every finished script file must contain **only** these sections in order (no sep
 
 Agents must **read** `data/<creator>/<video_id>/transcript.txt` (or excerpt in prepare context) before writing — the DNA file must **name the video ID** and show the copy mapping.
 
+## Rule 2e: Hindi speech + hook rhythm (non-negotiable)
+
+- **`## FULL SCRIPT` must be in Devanagari Hindi** (creator's on-camera language). Roman/English only for brands, tickers, legal terms (Adani, NTA, $18M, D2C).
+- **`[00:00]` hook line** must mirror the reference transcript's **first line shape** — same opener device, not a wire headline:
+  - Reference: `फॉग ने इस तरह से...` → Script: `अडानी ग्रुप ने इस तरह से...` (not "Gautam Adani ne US civil court mein...")
+  - Reference: `यह घर चारों तरफ से पानी से घिरा...` → Script: `यह शहर बाहर से बिजली मंगवा रहा...`
+  - Reference: `मणिपुर में है पूरी दुनिया का सबसे बड़ा...` → Script: `तिरुपति में है भारत का सबसे विचित्र...`
+- **Segment count** = reference ±1; **line length** = short if reference is short, long if reference is long.
+- **DNA audit** must quote: `Opening mimics: "<first 6–10 words of reference>" → "<first 6–10 words of script>"`
+- Wrong reference video (e.g. Ramnami story for Gangamma Jatra) = instant redo.
+
+## Rule 2f: Retention = teach one chain (not headline stack)
+
+People stay for **unresolved questions**, not for a list of numbers. If the viewer can leave after line 1 knowing the whole story, the script failed.
+
+### What the viewer must get (every script)
+
+| After each beat | Viewer should think… |
+|-----------------|----------------------|
+| Hook | "Wait — that can't be right?" |
+| Beat 2 | "Oh, *how* does that work?" |
+| Middle | "So that's why…" (one link clearer) |
+| Twist (`लेकिन`) | "I didn't expect that" |
+| Close (`इसीलिए` / CTA) | "Now I get what it means for me" |
+
+### WATCH-THROUGH MAP (required column)
+
+```markdown
+| Phase | Time | Viewer question (why they stay) | Beat |
+```
+
+Every row needs a **question the viewer still needs answered** until CLOSE.
+
+### Mechanism vs headline stack (anti-hallucination)
+
+| FAIL (do not write) | PASS (imitate reference) |
+|---------------------|--------------------------|
+| `₹500 करोड़ नुकसान, pool ₹1.98 लाख करोड़, ICRA hike` | `जब क्रूड ऊपर और पंप कीमत पीछे → हर लीटर घाटा → ₹3 के बाद भी ₹500 करोड़/दिन` |
+| Hook = assignment `hook_hindi` pasted in Roman | Hook = **reference first-line shape** in Devanagari |
+| Reference = wrong video (mapping table lies) | Reference teaches **same narrative job** (how / list / legal / geo) |
+| 4 stats, zero taught links | Each `[00:00]` answers the **previous** open question |
+
+**Shivanshu mechanism references** (e.g. `y7qQ3N40Flc` LPG): after `फैक्ट्स सरप्राइज़`, start **`जब…`** in the **same breath** — teach pump → refinery → cap → loss, not agency names.
+
+**Gold example (OMC topic, shape from `y7qQ3N40Flc`):**  
+`पेट्रोल महंगा हुआ, फिर भी… फैक्ट्स सरप्राइज़ कर देंगे — जब आप पंप पर ₹3 देखते हैं तो लगता है फायदा, लेकिन…`
+
+### DNA Adherence Audit (required lines)
+
+```markdown
+- Opening mimics: "<reference first 6–10 words>" → "<script first 6–10 words>"
+- Teaches [one chain / list / legal meaning] — not headline stack ✅
+- Viewer questions mapped in WATCH-THROUGH MAP ✅
+```
+
+## Rule 2g: Pre-flight checklist (agent — before PRODUCTION READY)
+
+- [ ] Read **full** `data/<creator>/<ref_id>/transcript.txt` (not excerpt only)
+- [ ] Reference video matches **narrative job** (mechanism / list / digest / geo)
+- [ ] `[00:00]` = reference opener shape + **Devanagari**
+- [ ] Segment count ±1 vs reference; line length similar
+- [ ] `WATCH-THROUGH MAP` has **Viewer question** column filled
+- [ ] Facts only from verified URLs in references table
+- [ ] `python3 validate_script.py ...` passes (fix warnings that are errors in disguise)
+
 ## Rule 3: Anti-Repetition
 
 - Rotate hook types across scripts for the same creator

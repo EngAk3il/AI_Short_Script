@@ -10,7 +10,9 @@
 1. **Wrong phrases stuffed in** — e.g. forcing `Dar-asal` / `Aaiye samajhte hain` on The Informed Citizen when their geo Shorts open with **`दोस्तों, [state] की geography...`** (see `data/TheInformedCitizen/TsiWJSld98s/transcript.txt`).
 2. **Date spam** — User JSON had `2026-05-14`; agents repeated it every line. **Real Niharika/Neha transcripts almost never say years or "May 14" in speech.** Dates belong in the references table, not in every beat.
 3. **News-anchor Hindi** — Generic "14 May ko SC ne..." instead of that creator's hook from `deep_hooks.md` (verbatim rhythm).
-4. **Same skeleton for everyone** — Markdown tables copied from Shivanshu onto Neha/Niharika.
+4. **Romanized script body** — Writing `Tirupati mein Gangamma...` when transcripts are **Devanagari**. The hook dies in Roman; user scrolls past.
+5. **Wrong reference + fake mapping** — Citing `6-JWJUVkuPg` (Ramnami) for Gangamma while the opener is generic English news.
+6. **Same skeleton for everyone** — Markdown tables copied from Shivanshu onto Neha/Niharika.
 
 ---
 
@@ -30,7 +32,8 @@ Count in the reference:
 | How many `[00:00]` lines? | Write the **same count** (±1). |
 | Words per line? | Short (8–15) vs long (25–40) — **match**. |
 | Dates in speech? | If **0**, you get **max 1 date** in full script. |
-| Opening words? | Copy **pattern** (question / दोस्तों / Kya aap jaante / Aakhir kya). |
+| Opening words? | Copy **pattern** in **Devanagari** (question / दोस्तों / क्या आप जानते / आखिर क्या / ने इस तरह से / यह ___ है). |
+| Roman in script? | **No** — except brand names and unavoidable tickers. |
 | CTA? | Copy **type** (comment state name / follow / no subscribe). |
 
 ### Step 3 — Hook from `deep_hooks.md`, not from headlines
@@ -54,6 +57,33 @@ Count in the reference:
 - Hook adapted from deep_hooks entry: "<EXACT HOOK first line...>"
 - Did NOT use: [phrases this creator never says]
 ```
+
+### Step 6 — Mechanism vs headline (why viewers stay)
+
+**Shivanshu reference transcripts (e.g. `y7qQ3N40Flc`) teach HOW things work** — `जब रिफाइनरी में... तो... इसीलिए... लेकिन...` — not a list of news numbers.
+
+| Bad (user scrolls) | Good (user stays) |
+|--------------------|-------------------|
+| "₹500 करोड़ नुकसान, pool ₹1.98 लाख करोड़, ICRA hike" | "जब क्रूड ऊपर और पंप कीमत पीछे → हर लीटर घाटा → ₹3 के बाद भी ₹500 करोड़/दिन" |
+| Facts without one taught chain | Each `[00:00]` line answers the **previous** open question |
+| English labels: wallet, structural, retail | Hindi: जेब, असलियत, पंप |
+
+**WATCH-THROUGH MAP must include column: `Viewer question (why they stay)`** — one unresolved question per phase until CLOSE.
+
+**Shivanshu.Agrawal:** After hook, start mechanism in **same breath** as reference (`फैक्ट्स सरप्राइज़। जब...`). Target **7–9** `[00:00]` beats, **long lines** where reference has long lines.
+
+### Agent pre-flight (copy before marking PRODUCTION READY)
+
+```
+□ Read full reference transcript.txt aloud once
+□ [00:00] same DEVICE as reference (not topic headline in English)
+□ Script teaches ONE chain / list / case — not 4 unlinked stats
+□ WATCH-THROUGH: every phase has "Viewer question (why they stay)"
+□ DNA audit quotes: Opening mimics: "..." → "..."
+□ validate_script.py passed
+```
+
+**If any box fails → rewrite FULL SCRIPT, do not patch the hook only.**
 
 ---
 

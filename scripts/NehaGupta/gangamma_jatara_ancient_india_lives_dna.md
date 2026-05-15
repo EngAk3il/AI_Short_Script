@@ -47,34 +47,35 @@
 
 ## FULL SCRIPT
 
-[00:00] देवभूमि आंध्र के इस चमत्कारी त्योहार के दर्शन किए क्या? **Gangamma Jatara** — Tirupati ke paas, jahan **1000 saal** purana mela aaj bhi zinda hai.
+[00:00] देवभूमि आंध्र के इस चमत्कारी त्योहार के दर्शन किए क्या? **गंगम्मा जातरा** — तिरुपति के पास, जहाँ **1000 साल** पुराना मेला आज भी ज़िंदा है।
 
-[00:08] Narayanavanam se **Gangamma Ammavari** ki murti nikal kar Tirupati ke **Sri Govindaraja Swamy** temple tak yatra — yeh sirf mela nahi, living heritage hai.
+[00:08] नारायणवनम से **गंगम्मा अम्मावारी** की मूर्ति निकलकर तिरुपति के **श्री गोविंदराज स्वामी** मंदिर तक यात्रा — यह सिर्फ मेला नहीं, लिविंग हेरिटेज है।
 
-[00:16] Jahan lakhon shraddhalu **Gangamma** naam lete hain — **Pothuraju** dance, **Thimmaraju** vesham, aur **Chandamama** procession — har beat mein purana Bharat dikhta hai.
+[00:16] जहाँ लाखों श्रद्धालु **गंगम्मा** नाम लेते हैं — **पोथुराजू** डांस, **थिम्मराजू** वेशम, और **चंदमामा** जुलूस — हर बीट में पुराना भारत दिखता है।
 
-[00:24] Temple town ki galiyon mein bhakti aur folk art ek saath — **Tirumala** ke paas yeh festival apni alag pehchaan rakhta hai.
+[00:24] टेम्पल टाउन की गलियों में भक्ति और फोक आर्ट एक साथ — **तिरुमला** के पास यह फेस्टिवल अपनी अलग पहचान रखता है।
 
-[00:32] Andhra ki dharti par maa ka naam gunjta hai. **Bolo Jai Mata Di!** Comment mein batayiye — aapne Gangamma Jatara dekha hai kya?
+[00:32] आंध्र की धरती पर माँ का नाम गूँजता है। **बोलो जय माता दी!** कमेंट में बताइए — आपने गंगम्मा जातरा देखा है क्या?
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: दर्शन किए क्या → LIST → JAI MATA DI ✅  
-- Reference: **hxWwtztLxLY** — opener + list + close ✅  
-- Devotional Hindi, no wire dates ✅  
+- Opening mimics: `देवभूमि हिमाचल के इन` → `देवभूमि आंध्र के इस` ✅  
+- Teaches one chain — list of sacred beats → living heritage — not headline stack ✅  
+- `दर्शन किए क्या`, `जहाँ`, `बोलो जय माता दी` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–8s | दर्शन किए क्या? |
-| TRAP | 8–16s | Procession route |
-| BUILD | 16–24s | Folk rituals |
-| CLOSE | 24–32s | Jai Mata Di + comment |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–8s | "क्या है यह?" | दर्शन किए क्या + 1000 साल |
+| TRAP | 8–16s | "यात्रा कहाँ?" | procession route |
+| BUILD | 16–24s | "क्या देखने को?" | folk rituals |
+| CLOSE | 24–32s | "गए थे?" | Jai Mata Di |
 
 ### 📚 References & Sources
 

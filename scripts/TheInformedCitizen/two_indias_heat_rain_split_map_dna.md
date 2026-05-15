@@ -13,7 +13,7 @@
 | **Narrative arc** | Geography lesson → split map → citizen action |
 | **Trigger** | डर + भूगोल |
 | **Assignment hook** | भारत दो हिस्सों में! राजस्थान में लू, असम में बाढ़—IMD का स्प्लिट मैप |
-| **Adapted opener** | दोस्तों, ab India ki weather geography ek hi time par do alag stories jhel rahi hai — is video se samjhte hain |
+| **Adapted opener** | दोस्तों, अब भारत की वेदर ज्योग्राफी एक ही समय पर दो अलग कहानियाँ झेल रही है — |
 
 ---
 
@@ -30,7 +30,7 @@
 
 | # | Reference device | This script |
 |---|------------------|-------------|
-| 1 | `दोस्तों, बिहार की ज्योग्राफी... इस वीडियो से समझाता हूं` | `दोस्तों... is video se samjhte hain` |
+| 1 | `दोस्तों, बिहार की ज्योग्राफी... इस वीडियो से समझाता हूं` | `दोस्तों... इस वीडियो से समझते हैं` |
 | 2 | Numbered geographic regions | West heat belt vs NE/south rain belt |
 | 3 | `लेकिन` contrast between zones | Heatwave vs pre-monsoon showers |
 | 4 | `अब नेक्स्ट... कमेंट करके बताइए... फॉलो` | Comment next state + follow |
@@ -46,36 +46,38 @@
 
 ## FULL SCRIPT
 
-[00:00] दोस्तों, ab India ki weather geography ek hi time par do alag stories jhel rahi hai — is video se samjhte hain. IMD ke hisab se kuch jagah **above-normal heatwave days**, kuch jagah **heavy pre-monsoon rain**.
+[00:00] दोस्तों, अब भारत की वेदर ज्योग्राफी एक ही समय पर दो अलग कहानियाँ झेल रही है — इस वीडियो से समझते हैं। IMD के हिसाब से कुछ जगह **above-normal heatwave days**, कुछ जगह **heavy pre-monsoon rain**।
 
-[00:10] Pehla belt: Rajasthan, Gujarat, Maharashtra — loo aur heatwave alerts zyada. VISUAL: map west red. Barmer jaise shehron mein record highs charcha mein.
+[00:10] पहला बेल्ट: राजस्थान, गुजरात, महाराष्ट्र — लू और हीटवेव अलर्ट ज़्यादा। VISUAL: map west red। बाड़मेर जैसे शहरों में रिकॉर्ड हाई चर्चा में।
 
-[00:18] Lekin northeast aur southern peninsula ko showers mil rahe hain — thunder, lightning, isolated heavy rain. VISUAL: east/south blue.
+[00:18] **लेकिन** नॉर्थईस्ट और साउथ पेनिनसुला को शावर्स मिल रहे हैं — थंडर, लाइटनिंग, isolated heavy rain। VISUAL: east/south blue।
 
-[00:26] Southwest monsoon Andaman Sea ki taraf **May ke end** tak onset ho sakta hai — northwest heat ko thoda soften kar sakta hai, lekin abhi har zone ka alert alag hai.
+[00:26] जब साउथवेस्ट मोनसून अंडमान सी की तरफ **मई के अंत** तक ऑनसेट होता है, नॉर्थवेस्ट हीट थोड़ा सॉफ्ट हो सकता है — **लेकिन** अभी हर ज़ोन का अलर्ट अलग है।
 
-[00:34] Seedha matlab aapke liye: apne state ka IMD bulletin dekho — national average aapke gaon ka mausam nahi batata.
+[00:34] सीधा मतलब आपके लिए: अपने स्टेट का IMD बुलेटिन देखो — नेशनल एवरेज आपके गाँव का मौसम नहीं बताता।
 
-[00:42] Ab next aap kis state ki geography map dekhna chahenge? Comment karke zarur batayiye. Informative Citizen ko follow zarur kar lo.
+[00:42] अब नेक्स्ट आप किस स्टेट की ज्योग्राफी मैप देखना चाहेंगे? कमेंट करके ज़रूर बताइए। Informative Citizen को फॉलो ज़रूर कर लो।
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: दोस्तों GEO → REGIONS → COMMENT CTA ✅  
-- Reference: **TsiWJSld98s** — opener + close copied ✅  
-- `दोस्तों`, `Seedha matlab`, `लेकिन` ✅ | Dates in speech: **0** ✅  
+- Opening mimics: `दोस्तों, बिहार की ज्योग्राफी` → `दोस्तों, अब भारत की वेदर` ✅  
+- Teaches one chain — split map → two belts → your bulletin — not headline stack ✅  
+- `दोस्तों`, `सीधा मतलब`, `लेकिन` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
+- Dates in speech: **0** ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–10s | दोस्तों + split headline |
-| TRAP | 10–26s | Red west / blue east map |
-| BUILD | 26–34s | Monsoon nuance + seedha matlab |
-| CLOSE | 34–42s | Comment + follow |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–10s | "दो इंडिया?" | दोस्तों + split headline |
+| TRAP | 10–18s | "मेरा राज्य कहाँ?" | red west / blue east |
+| BUILD | 18–34s | "मॉनसून कब?" | onset nuance + सीधा मतलब |
+| CLOSE | 34–42s | "नेक्स्ट मैप?" | comment + follow |
 
 ### 📚 References & Sources
 

@@ -9,11 +9,11 @@
 
 | Field | Value |
 |-------|-------|
-| **Pattern name** | KYA AAP JAANTE HAIN → REGIONAL FACTS → COMMENT CTA |
-| **Narrative arc** | Curiosity hook → state/region comparison → personal relevance |
+| **Pattern name** | KYA AAP JAANTE HAIN → MECHANISM → COMMENT CTA |
+| **Narrative arc** | Curiosity hook → how deal works → your account |
 | **Trigger** | जिज्ञासा + पैसा |
 | **Assignment hook** | RBL Bank UAE में बिक गई! आपके खाते पर क्या असर? |
-| **Adapted opener** | Kya aap jaante hain ki India ka ek private bank UAE ke sovereign fund ko stake bech raha hai? |
+| **Adapted opener** | क्या आप जानते हैं कि भारत का एक प्राइवेट बैंक UAE के sovereign fund को स्टेक बेच रहा है? |
 
 ---
 
@@ -24,14 +24,14 @@
 | **Video ID** | `qp_ptIZBdy0` |
 | **Source file** | `data/NehaGupta/qp_ptIZBdy0/transcript.txt` |
 | **deep_hooks pattern** | HOOK → BUILD (regional list) → CLOSE |
-| **Why this reference** | **`क्या आप जानते हैं`** + region-by-region facts + comment ask |
+| **Why this reference** | **`क्या आप जानते हैं`** + layered facts + comment ask |
 
 ### What we took from this transcript
 
 | # | Reference device | This script |
 |---|------------------|-------------|
 | 1 | `क्या आप जानते हैं कि...` | Bank deal curiosity open |
-| 2 | Region → distinct fact lines | UAE stake % → RBI approval → customer impact |
+| 2 | Region → distinct fact lines | stake % → RBI → customer impact |
 | 3 | `वहीं...` contrast beat | Retail vs strategic investor |
 | 4 | `कमेंट्स में बताएं` close | RBL customer? comment |
 
@@ -47,34 +47,35 @@
 
 ## FULL SCRIPT
 
-[00:00] Kya aap jaante hain ki **RBL Bank** ab UAE ke **ADQ** sovereign fund ko **60% stake** bech raha hai — yeh sirf headline nahi, aapke wallet ka signal bhi ho sakta hai?
+[00:00] क्या आप जानते हैं कि **RBL Bank** अब UAE के **ADQ** sovereign fund को **60% stake** बेच रहा है — यह सिर्फ हेडलाइन नहीं, आपके वॉलेट का सिग्नल भी हो सकता है?
 
-[00:08] Deal value lagbhag **Rs 16,630 crore** — RBI approval pending. Matlab: foreign capital aayega, lekin control shift bhi.
+[00:08] जब बैंक इतना बड़ा स्टेक बेचता है, मतलब पूंजी आएगी — **लेकिन** कंट्रोल भी शिफ्ट होगा। डील लगभग **₹16,630 करोड़** — RBI की मंज़ूरी अभी पेंडिंग।
 
-[00:16] Vahi bank jisme aapka salary account ya credit card ho — ab governance UAE-linked investor ke saath change hoga. Retail customers ke liye branch band hone ka immediate signal nahi, lekin brand identity shift hoga.
+[00:16] वहीं बैंक जिसमें आपका सैलरी अकाउंट या क्रेडिट कार्ड हो — अब गवर्नेंस UAE-linked इन्वेस्टर के साथ बदलेगी। रिटेल के लिए ब्रांच बंद होने का तुरंत सिग्नल नहीं, **लेकिन** ब्रांड आइडेंटिटी शिफ्ट होगी।
 
-[00:24] Mumbai HQ wala yeh private lender pehle se capital raise dhoondh raha tha — ab strategic buyer mil gaya. Shareholders ke liye premium; depositors ke liye **RBI rules** hi safety net hain.
+[00:24] मुंबई HQ वाला यह प्राइवेट लेंडर पहले से कैपिटल रेज़ ढूँढ रहा था — अब स्ट्रैटेजिक बायर मिल गया। शेयरहोल्डर्स के लिए प्रीमियम; डिपॉज़िटर्स के लिए **RBI rules** ही सेफ्टी नेट हैं।
 
-[00:32] Toh aap RBL customer ho? Comments mein batayiye — deal fair lagegi? Finance explainers ke liye follow karo.
+[00:32] तो आप RBL कस्टमर हो? कमेंट्स में बताइए — डील फेयर लगेगी? फाइनेंस एक्सप्लेनर्स के लिए फॉलो करो।
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: KYA AAP JAANTE → FACTS → COMMENT ✅  
-- Reference: **qp_ptIZBdy0** — question + layered facts + comment ✅  
-- Numbers from verified sources only ✅  
+- Opening mimics: `क्या आप जानते हैं कि इंडिया में` → `क्या आप जानते हैं कि भारत का` ✅  
+- Teaches one chain — stake sale → control shift → depositor safety — not headline stack ✅  
+- `क्या आप जानते हैं`, `मतलब`, `लेकिन`, `वहीं`, `कमेंट्स में` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–8s | Kya jaante hain + 60% stake |
-| TRAP | 8–16s | Deal value + RBI |
-| BUILD | 16–24s | Customer impact |
-| CLOSE | 24–32s | Comment CTA |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–8s | "मेरा बैंक?" | क्या जानते हैं + 60% |
+| TRAP | 8–16s | "पैसा सुरक्षित?" | जब stake → RBI pending |
+| BUILD | 16–24s | "अकाउंट बंद?" | retail vs governance |
+| CLOSE | 24–32s | "फेयर?" | comment CTA |
 
 ### 📚 References & Sources
 

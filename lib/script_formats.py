@@ -6,8 +6,8 @@ import re
 
 VOICE_MARKERS: dict[str, dict[str, list[str]]] = {
     "Shivanshu.Agrawal": {
-        "required_any": ["lekin", "isliye"],
-        "required_one_of": ["actually", "ultimately", "kya aapko pata hai"],
+        "required_any": ["lekin", "लेकिन", "isliye", "इसीलिए"],
+        "required_one_of": ["actually", "ultimately", "Ultimately", "क्या आपको पता है", "मतलब"],
         "cta_any": [
             "aisi aur video ke liye channel ko subscribe",
             "aise explainer videos ke liye mujhe follow",
@@ -39,6 +39,12 @@ VOICE_MARKERS: dict[str, dict[str, list[str]]] = {
         "required_one_of": ["business", "lesson", "matlab", "entrepreneur"],
         "cta_any": ["follow karo", "follow karein"],
         "forbidden": ["bhai", "naatak"],
+    },
+    "SportsEdge": {
+        "required_any": ["science", "system", "execution"],
+        "required_one_of": ["swing", "wicket", "powerplay", "stadium", "scam", "dressing"],
+        "cta_any": ["follow", "comment", "agli"],
+        "forbidden": ["bhai", "aaj hum baat"],
     },
     "NiharikaChoudhary": {
         "required_any": ["simple", "matlab", "aapko"],

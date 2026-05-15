@@ -40,8 +40,9 @@ Or in one message:
 2. **Facts** — Search today’s sources; cross-verify; copy real URLs from the browser.
 3. **Voice** — Imitate the **named reference video** in context (segment count, opener, **date density ~0**), not generic news Hindi.
 4. **Structure** — Copy the **matched reference video** in `*_context.md` (usually `[00:00]` prose). **Never paste the same table layout for every creator** (see `SCRIPT_RULES.md` Rule 2b).
-5. **Retention** — 5-phase tension from `SHORTS_MASTER_FRAMEWORK.md`.
-6. **Honesty** — No invented stats or guessed URLs (see `SCRIPT_RULES.md`).
+5. **Retention** — 5-phase tension from `SHORTS_MASTER_FRAMEWORK.md`; **each beat leaves one open question** (see Rule 2f).
+6. **Mechanism, not headlines** — If the reference teaches *how* something works (`जब… तो… मतलब…`), the script must teach one linked chain for the topic — never a stack of Rs/₹ stats without explaining the link (`SCRIPT_RULES.md` Rule 2f–2g).
+7. **Honesty** — No invented stats or guessed URLs (see `SCRIPT_RULES.md`).
 
 ### You must NOT:
 
@@ -94,7 +95,11 @@ Plus **live web** for verified facts/URLs only (tone **never** from headlines).
 
 Do **not** open `creator_pattern/`, `patterns/`, or `data/` during script generation — reference transcript is inside context.
 
-Write output to: `scripts/<creator>/<topic>_dna.md` **only** — must include `## HOOK PATTERN`, `## REFERENCE TRANSCRIPT` (with video ID + mapping table + verbatim excerpt), then `## FULL SCRIPT`. See `SCRIPT_RULES.md` Rule 2d.
+Write output to: `scripts/<creator>/<topic>_dna.md` **only** — must include `## HOOK PATTERN`, `## REFERENCE TRANSCRIPT` (with video ID + mapping table + verbatim excerpt), then `## FULL SCRIPT`. See `SCRIPT_RULES.md` Rule 2d–2g.
+
+**Before PRODUCTION READY:** `WATCH-THROUGH MAP` must have **Viewer question (why they stay)** column; DNA audit must include **Opening mimics** line; read `CREATOR_SCRIPT_INTELLIGENCE.md` pre-flight checklist.
+
+**Gold shape (mechanism, not headlines):** `scripts/Shivanshu.Agrawal/omc_500_crore_daily_oil_loss_hidden_dna.md` ← imitate from `data/Shivanshu.Agrawal/y7qQ3N40Flc/transcript.txt` (`SCRIPT_RULES.md` Rule 2f).
 
 After pipeline changes: `python3 prepare.py -c <Creator> -t "<topic>"` then validate with `python3 validate_script.py ...`
 

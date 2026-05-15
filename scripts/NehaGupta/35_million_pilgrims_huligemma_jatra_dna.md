@@ -10,7 +10,7 @@
 | Field | Value |
 |-------|-------|
 | **Pattern name** | दर्शन किए क्या? → SCALE LIST → JAI MATA DI |
-| **Narrative arc** | Devotional hook → massive pilgrimage facts → pride close |
+| **Narrative arc** | Devotional hook → pilgrimage scale list → pride close |
 | **Trigger** | आश्चर्य + भक्ति |
 | **Assignment hook** | 3.5 करोड़ श्रद्धालु! हुलीगेम्मा जात्रा—कर्नाटक का सबसे बड़ा मेला |
 | **Adapted opener** | देवभूमि कर्नाटक के इस चमत्कारी मेले के दर्शन किए क्या? |
@@ -31,7 +31,7 @@
 | # | Reference device | This script |
 |---|------------------|-------------|
 | 1 | `देवभूमि... दर्शन किए क्या?` | Karnataka version |
-| 2 | Named places in sequence | Koppal → Huligemma temple → fairground scale |
+| 2 | Named places in sequence | Koppal → Huligemma temple → fairground |
 | 3 | `जहां...` visual detail | 35 million pilgrims line |
 | 4 | `बोलो जय माता दी!` | Karnataka pride close |
 
@@ -47,34 +47,35 @@
 
 ## FULL SCRIPT
 
-[00:00] देवभूमि कर्नाटक के इस चमत्कारी मेले के दर्शन किए क्या? **Huligemma Jatra** — Koppal district mein, jahan har saal **crores** shraddhalu aate hain.
+[00:00] देवभूमि कर्नाटक के इस चमत्कारी मेले के दर्शन किए क्या? **हुलीगेम्मा जात्रा** — कोप्पल ज़िले में, जहाँ हर साल **करोड़ों** श्रद्धालु आते हैं।
 
-[00:08] **Huligemma Devi** temple ke paas mela ground — jahan **35 million** tak ka footfall report hota hai, yeh sirf local fair nahi, South India ka mega pilgrimage hai.
+[00:08] **हुलीगेम्मा देवी** मंदिर के पास मेला ग्राउंड — जहाँ **35 million** तक का फुटफॉल रिपोर्ट होता है, यह सिर्फ लोकल फेयर नहीं, साउथ इंडिया का मेगा तीर्थ है।
 
-[00:16] Jahan **Bullock Cart** procession, **Karnataka folk** dance aur **Devi** ki murti ke darshan ke liye din-raat queue — har kone mein purana Bharat zinda hai.
+[00:16] जहाँ **बैलगाड़ी** जुलूस, **कर्नाटक फोक** डांस और **देवी** की मूर्ति के दर्शन के लिए दिन-रात कतार — हर कोने में पुराना भारत ज़िंदा है।
 
-[00:24] **Koppal** ki dharti par maa ka naam gunjta hai — **Hubballi** se lekar **Bellary** tak bhakti ka wave.
+[00:24] **कोप्पल** की धरती पर माँ का नाम गूँजता है — **हुब्बल्ली** से लेकर **बेल्लारी** तक भक्ति की लहर।
 
-[00:32] Karnataka ki vadiyon mein maa basati hain. **Bolo Jai Mata Di!** Comment mein batayiye — aap kab gaye the Huligemma Jatra?
+[00:32] कर्नाटक की वादियों में माँ बसती हैं। **बोलो जय माता दी!** कमेंट में बताइए — आप कब गए थे हुलीगेम्मा जात्रा?
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: दर्शन किए क्या → SCALE LIST → JAI MATA DI ✅  
-- Reference: **hxWwtztLxLY** — same structure as Gangamma script ✅  
-- No calendar date spam ✅  
+- Opening mimics: `देवभूमि हिमाचल के इन` → `देवभूमि कर्नाटक के इस` ✅  
+- Teaches one chain — place list → scale → devotion close — not headline stack ✅  
+- `दर्शन किए क्या`, `जहाँ`, `बोलो जय माता दी` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–8s | दर्शन किए क्या? + 35M hook |
-| TRAP | 8–16s | Temple + scale |
-| BUILD | 16–24s | Folk procession |
-| CLOSE | 24–32s | Jai Mata Di |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–8s | "कितना बड़ा?" | दर्शन किए क्या + scale |
+| TRAP | 8–16s | "कहाँ होता?" | temple + 35M |
+| BUILD | 16–24s | "क्या देखने को?" | procession list |
+| CLOSE | 24–32s | "गए थे?" | Jai Mata Di |
 
 ### 📚 References & Sources
 

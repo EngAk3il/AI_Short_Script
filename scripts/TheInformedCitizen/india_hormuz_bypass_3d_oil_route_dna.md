@@ -10,10 +10,10 @@
 | Field | Value |
 |-------|-------|
 | **Pattern name** | KYA HOGA AGAR → SUPPLY CHAIN DOMINO |
-| **Narrative arc** | Question shock → economic impact chain → energy security |
+| **Narrative arc** | Question shock → how route works → Plan B → citizen wallet |
 | **Trigger** | डर + स्ट्रैटेजी |
 | **Assignment hook** | हॉर्मुज़ बंद! भारत अब UAE के फुजैराह पोर्ट से तेल लाएगा? 3D मैप पर समझें प्लान |
-| **Adapted opener** | Kya hoga agar Hormuz long-term block ho jaye? Hamari economy par seedha asar padega |
+| **Adapted opener** | क्या होगा अगर स्ट्रेट ऑफ हॉर्मुज़ लंबे समय तक बंद हो जाए? |
 
 ---
 
@@ -24,16 +24,16 @@
 | **Video ID** | `MV0iICFivJk` |
 | **Source file** | `data/TheInformedCitizen/MV0iICFivJk/transcript.txt` |
 | **deep_hooks pattern** | QUESTION → CONTEXT → ANSWER/EVIDENCE → CLOSE |
-| **Why this reference** | **`Kya hoga agar`** + `seedha asar` + supply domino |
+| **Why this reference** | **`क्या होगा अगर`** + `सीधा असर` + supply domino |
 
 ### What we took from this transcript
 
 | # | Reference device | This script |
 |---|------------------|-------------|
-| 1 | `क्या होगा अगर भारत ने...` | `Kya hoga agar Hormuz...` |
-| 2 | `हमारी इकोनॉमी पर इसका सीधा असर` | Fuel/LPG inflation link |
+| 1 | `क्या होगा अगर भारत ने...` | `क्या होगा अगर हॉर्मुज़...` |
+| 2 | `हमारी इकोनॉमी पर इसका सीधा असर` | fuel/LPG inflation link |
 | 3 | 4 short segments | Fujairah map beats |
-| 4 | National interest frame | Energy security diplomacy |
+| 4 | National interest frame | energy security diplomacy |
 
 ### Reference excerpt (verbatim — rhythm source)
 
@@ -46,36 +46,38 @@
 
 ## FULL SCRIPT
 
-[00:00] Kya hoga agar Strait of Hormuz long-term disrupt ho jaye? Hamari economy par iska seedha asar padega — crude aur LPG dono isi geometry se aate hain.
+[00:00] क्या होगा अगर स्ट्रेट ऑफ हॉर्मुज़ लंबे समय तक डिसरप्ट हो जाए? हमारी इकोनॉमी पर इसका सीधा असर पड़ेगा — क्रूड और LPG दोनों इसी ज्योमेट्री से आते हैं।
 
-[00:08] Isliye India UAE ke **Fujairah** port route explore kar raha hai — offload karke Hormuz bypass. VISUAL: 3D map red chokepoint, green Fujairah arrow.
+[00:08] जब टैंकर हॉर्मुज़ से नहीं निकल पाते, तो भारत UAE के **फुजैराह** पोर्ट रूट एक्सप्लोर करता है — ऑफलोड करके बायपास। VISUAL: 3D map red chokepoint, green Fujairah arrow।
 
-[00:16] Modi UAE tour par strategic petroleum reserve aur LPG pacts bhi table par — sirf emergency nahi, buffer bhi.
+[00:16] मोदी UAE टूर पर स्ट्रैटेजिक पेट्रोलियम रिज़र्व और LPG पैक्ट्स भी टेबल पर — सिर्फ इमरजेंसी नहीं, बफर भी।
 
-[00:24] Lekin isse bhi zyada important: 40-50 ships ab bhi west of Hormuz fasi hain — diplomacy pehle, routes parallel.
+[00:24] **लेकिन** इससे भी ज़्यादा ज़रूरी: 40-50 जहाज अभी भी हॉर्मुज़ के पश्चिम में फंसे हैं — डिप्लोमेसी पहले, रूट पैरलल।
 
-[00:32] Seedha matlab aapke liye: pump price aur cylinder cost is route par depend. Background mein samajhna zaroori hai.
+[00:32] सीधा मतलब आपके लिए: पंप प्राइस और सिलेंडर कॉस्ट इस रूट पर डिपेंड। बैकग्राउंड में समझना ज़रूरी है।
 
-[00:40] Map explainers ke liye follow karo.
+[00:40] मैप एक्सप्लेनर्स के लिए फॉलो करो।
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: KYA HOGA AGAR → DOMINO ✅  
-- Reference: **MV0iICFivJk** — question open + seedha asar ✅  
-- Distinct from `50_indian_ships_trapped` (punch headline) — same topic, different hook pattern ✅  
+- Opening mimics: `क्या होगा अगर भारत ने` → `क्या होगा अगर स्ट्रेट ऑफ` ✅  
+- Teaches one chain — choke → Fujairah bypass → wallet — not headline stack ✅  
+- `सीधा मतलब`, `बैकग्राउंड में`, `लेकिन इससे भी ज़्यादा` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
+- Distinct from ships-trapped script (question vs punch hook) ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–8s | Kya hoga agar Hormuz blocks |
-| TRAP | 8–16s | Fujairah map Plan B |
-| BUILD | 16–32s | Reserves + trapped ships context |
-| CLOSE | 32–40s | Citizen wallet |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–8s | "मेरी इकोनॉमी पर?" | क्या होगा अगर + सीधा असर |
+| TRAP | 8–16s | "प्लान B क्या?" | जब टैंकर फंसे → Fujairah |
+| BUILD | 16–24s | "बफर है?" | reserves + trapped ships |
+| CLOSE | 24–40s | "पंप पर क्या?" | citizen wallet + follow |
 
 ### 📚 References & Sources
 

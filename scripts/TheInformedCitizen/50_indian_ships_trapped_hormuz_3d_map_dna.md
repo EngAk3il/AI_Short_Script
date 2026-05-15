@@ -10,10 +10,10 @@
 | Field | Value |
 |-------|-------|
 | **Pattern name** | PUNCH HEADLINE → LEKIN PIVOT → STRATEGIC COST |
-| **Narrative arc** | Shock mistake/crisis → hidden consequence → map + citizen impact |
+| **Narrative arc** | Shock chokepoint → how many stuck → Plan B → pump geometry |
 | **Trigger** | डर + 3D मैप |
 | **Assignment hook** | हॉर्मुज़ में 50 भारतीय जहाज फंसे! 3D मैप पर समझो—फुजैराह रूट भारत का प्लान B |
-| **Adapted opener** | भारत की energy lifeline: Strait of Hormuz — ab **40-50 India-bound ships** fasi hain |
+| **Adapted opener** | भारत की सबसे बड़ी एनर्जी चोकपॉइंट: स्ट्रेट ऑफ हॉर्मुज़ — |
 
 ---
 
@@ -30,10 +30,10 @@
 
 | # | Reference device | This script |
 |---|------------------|-------------|
-| 1 | `भारत की सबसे बड़ी गलती:` punch open | Hormuz chokepoint crisis headline |
-| 2 | `लेकिन` twist beat | 11 ships out / 13 still stuck |
-| 3 | 3 short segments (~17 words) | 6 beats, map VISUAL cues |
-| 4 | Strategic closing | Seedha matlab fuel/LPG |
+| 1 | `भारत की सबसे बड़ी गलती:` punch open | energy chokepoint crisis |
+| 2 | `लेकिन` twist beat | 11 out / 13 still stuck |
+| 3 | 3 short segments (~17 words) | 6 beats, map VISUAL |
+| 4 | Strategic closing | सीधा मतलब fuel/LPG |
 
 ### Reference excerpt (verbatim — rhythm source)
 
@@ -47,36 +47,38 @@
 
 ## FULL SCRIPT
 
-[00:00] भारत की सबसे बड़ी energy chokepoint: Strait of Hormuz — ab lagbhag **40-50 India-bound ships** west side par navigate nahi kar pa rahi.
+[00:00] भारत की सबसे बड़ी एनर्जी चोकपॉइंट: स्ट्रेट ऑफ हॉर्मुज़ — अब लगभग **40-50 India-bound जहाज** पश्चिम तरफ नेविगेट नहीं कर पा रहे।
 
-[00:06] Diplomacy se **11 ships** nikal chuki hain — lekin **13 ships** ab bhi Persian Gulf mein hain, MEA ke mutabiq baaki ko safe passage chahiye.
+[00:06] डिप्लोमेसी से **11 जहाज** निकल चुके हैं — **लेकिन 13 जहाज** अभी भी पर्शियन गल्फ में हैं, MEA के मुताबिक बाकी को सेफ पैसेज चाहिए।
 
-[00:12] India-Iran BRICS sidelines par isi issue par baat karegi. VISUAL: 3D map — red Hormuz block, tanker icons trapped.
+[00:12] India-Iran BRICS साइडलाइन्स पर इसी इश्यू पर बात करेगी। VISUAL: 3D map — red Hormuz block, tanker icons trapped।
 
-[00:18] Plan B: UAE **Fujairah** route se oil offload — Hormuz bypass explore. Green arrow Indian ports tak.
+[00:18] प्लान B: UAE **फुजैराह** रूट से ऑयल ऑफलोड — हॉर्मुज़ बायपास। ग्रीन एरो Indian ports तक।
 
-[00:24] Seedha matlab aapke liye: crude + LPG supply line par pressure — yeh navy headline nahi, pump price ka geometry hai.
+[00:24] सीधा मतलब आपके लिए: क्रूड + LPG सप्लाई लाइन पर प्रेशर — यह नेवी हेडलाइन नहीं, पंप प्राइस की ज्योमेट्री है।
 
-[00:30] Background mein samajhna zaroori hai. Comment mein next map topic — Informative Citizen follow karo.
+[00:30] बैकग्राउंड में समझना ज़रूरी है। कमेंट में नेक्स्ट मैप टॉपिक — Informative Citizen फॉलो करो।
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: PUNCH → LEKIN → STRATEGIC ✅  
-- Reference: **o5JD2kPJBig** — 3-segment punch + lekin ✅  
-- `Seedha matlab aapke liye`, `Background mein` ✅ | Dates in speech: **0** ✅  
+- Opening mimics: `भारत की सबसे बड़ी गलती:` → `भारत की सबसे बड़ी एनर्जी चोकपॉइंट:` ✅  
+- Teaches one chain — trapped → partial exit → bypass → pump — not headline stack ✅  
+- `सीधा मतलब`, `बैकग्राउंड में`, `लेकिन` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
+- Dates in speech: **0** ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–6s | Ships trapped headline |
-| TRAP | 6–18s | 11 out / 13 stuck + map |
-| BUILD | 18–24s | Fujairah Plan B |
-| CLOSE | 24–30s | Citizen fuel impact |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–6s | "कितने फंसे?" | chokepoint + 40-50 ships |
+| TRAP | 6–12s | "निकले या नहीं?" | 11 out lekin 13 stuck |
+| BUILD | 12–18s | "प्लान B?" | Fujairah map |
+| CLOSE | 18–30s | "मेरे पंप पर?" | wallet geometry |
 
 ### 📚 References & Sources
 

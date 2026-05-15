@@ -10,10 +10,10 @@
 | Field | Value |
 |-------|-------|
 | **Pattern name** | CONTRAST → AAKHIR KYA → ALLY CTA |
-| **Narrative arc** | OUTRAGE (leak) → explain rights/schedule → stand with students |
+| **Narrative arc** | OUTRAGE (leak noise) → explain schedule/rights → stand with students |
 | **Trigger** | गुस्सा + स्पष्टीकरण |
 | **Assignment hook** | NEET फिर से 21 जून को! पेपर लीक के बाद NTA का नया शेड्यूल—20 लाख छात्रों को क्या करना है? |
-| **Adapted opener** | आपको न्यूज़ चैनल्स paper-leak theories दिखा रहे होंगे — **lekin** agar aap NEET aspirant ho, abhi sirf ek cheez matter karti hai |
+| **Adapted opener** | आपको न्यूज़ चैनल्स पेपर-लीक थ्योरी ज़रूर दिखा रहे होंगे — **लेकिन** अगर आप NEET एस्पिरेंट हो… |
 
 ---
 
@@ -24,16 +24,16 @@
 | **Video ID** | `2NfOAbs9xd8` |
 | **Source file** | `data/NiharikaChoudhary/2NfOAbs9xd8/transcript.txt` |
 | **deep_hooks pattern** | HOOK → BUILD (detailed explainer) → CLOSE |
-| **Why this reference** | Same **contrast hook** (world news vs domestic crisis) — adapted for students vs leak noise |
+| **Why this reference** | Contrast hook (world news vs domestic crisis) — adapted for students vs leak noise |
 
 ### What we took from this transcript
 
 | # | Reference device | This script |
 |---|------------------|-------------|
-| 1 | `आपको न्यूज़ चैनल्स... दिखा रहे होंगे। लेकिन अपने ही देश में...` | News noise vs **your** NEET action list |
-| 2 | `Aakhir` / explain what really happened | `Aakhir kya badla?` on schedule |
-| 3 | Human cost + long beats (~20–30 words) | Admit card, fee, city correction beats |
-| 4 | `Simple words mein` / civic ally close | Prep checklist + `Aap kya sochte hain?` |
+| 1 | `आपको न्यूज़ चैनल्स... दिखा रहे होंगे। लेकिन अपने ही देश में...` | नॉइज़ vs **your** NEET action list |
+| 2 | `Aakhir` / explain what really happened | `आखिर क्या बदला?` on schedule |
+| 3 | Human cost + long beats (~20–30 words) | admit card, fee, city correction |
+| 4 | `Simple words mein` / civic ally close | prep checklist + `Aap kya sochte hain?` |
 
 ### Reference excerpt (verbatim — rhythm source)
 
@@ -47,37 +47,38 @@
 
 ## FULL SCRIPT
 
-[00:00] आपको न्यूज़ चैनल्स paper-leak theories aur political blame game zaroor dikha rahe honge — lekin agar aap NEET aspirant ho, abhi sirf ek cheez matter karti hai: NTA ne **re-exam** ka schedule announce kar diya hai.
+[00:00] आपको न्यूज़ चैनल्स पेपर-लीक थ्योरी और पॉलिटिकल ब्लेम गेम ज़रूर दिखा रहे होंगे — **लेकिन** अगर आप NEET एस्पिरेंट हो, अभी सिर्फ एक चीज़ मैटर करती है: NTA ने **री-एग्ज़ाम** का शेड्यूल अनाउंस कर दिया है।
 
-[00:12] Aakhir kya badla? Pehli test cancel hui thi leak allegations ke baad — ab fresh exam **21 June** ko, **2 baje se 5:15 baje** tak, aur attendance marking ke liye **15 minute extra**.
+[00:12] आखिर क्या बदला? पहली टेस्ट लीक अलिगेशन के बाद कैंसिल हुई थी — अब फ्रेश एग्ज़ाम **21 जून** को, **2 बजे से 5:15 बजे** तक, और अटेंडेंस मार्किंग के लिए **15 मिनट एक्स्ट्रा**।
 
-[00:24] Admit card **14 June tak** naye issue honge. Exam city change karna ho toh correction window dubara khulegi — bahut students relocate ho chuke honge cancel ke baad.
+[00:24] एडमिट कार्ड **14 जून तक** नए इश्यू होंगे। एग्ज़ाम सिटी बदलनी हो तो करेक्शन विंडो दोबारा खुलेगी — कई स्टूडेंट्स कैंसिल के बाद रीलोकेट हो चुके हैं।
 
-[00:36] Sabse badi relief: **koi extra fee nahi** — jo fee pehle pay ki thi, refund hogi. Double charge ka tension mat lo.
+[00:36] सबसे बड़ी राहत: **कोई एक्स्ट्रा फी नहीं** — जो फी पहले पे की थी, रिफंड होगी। डबल चार्ज का टेंशन मत लो।
 
-[00:44] Simple words mein: panic scroll kam karo, admit card download karo, city confirm karo, revision plan banao. System ne galti ki — lekin tumhara future ab bhi tumhari mehnat par hai.
+[00:44] सिंपल वर्ड्स में: पैनिक स्क्रॉल कम करो, एडमिट कार्ड डाउनलोड करो, सिटी कन्फर्म करो, रिवीज़न प्लान बनाओ। सिस्टम ने गलती की — **लेकिन** तुम्हारा फ्यूचर अब भी तुम्हारी मेहनत पर है।
 
-[00:54] Aap kya sochte hain — re-exam fair lagega? NEET wale dosto ko share karo. Follow karo aise student-first explainers ke liye.
+[00:54] आप क्या सोचते हैं — री-एग्ज़ाम फेयर लगेगा? NEET वाले दोस्तों को शेयर करो। स्टूडेंट-फर्स्ट एक्सप्लेनर्स के लिए फॉलो करो।
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: CONTRAST → AAKHIR KYA → ALLY CTA ✅  
-- Reference: **2NfOAbs9xd8** — contrast opener + long beats + law-and-order energy for students ✅  
-- Phrases: `Aakhir kya`, `Simple words mein`, `Aap kya sochte hain` ✅  
-- Dates in speech: **1** (21 June for exam day only) ✅  
+- Opening mimics: `आपको न्यूज़ चैनल्स... दिखा रहे होंगे। लेकिन` → same device, NEET topic ✅  
+- Teaches one chain — cancel → re-exam rules → student actions — not headline stack ✅  
+- `आखिर क्या`, `सिंपल वर्ड्स में`, `आप क्या सोचते हैं`, `लेकिन` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
+- Dates in speech: **1** (21 June exam day only) ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–5s | Leak noise vs YOUR action |
-| TRAP | 5–24s | Schedule + admit card |
-| BUILD | 24–44s | No fee + prep list |
-| CLOSE | 44–54s | Opinion + share |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–12s | "मेरा एग्ज़ाम कब?" | contrast + re-exam announce |
+| TRAP | 12–24s | "टाइमिंग/एडमिट?" | आखिर क्या बदला |
+| BUILD | 24–44s | "फी दोबारा?" | no extra fee + prep list |
+| CLOSE | 44–54s | "फेयर?" | opinion + share |
 
 ### 📚 References & Sources
 

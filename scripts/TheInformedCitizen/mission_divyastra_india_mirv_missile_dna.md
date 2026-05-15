@@ -10,10 +10,10 @@
 | Field | Value |
 |-------|-------|
 | **Pattern name** | DOMINO ESCALATION → LEKIN CITIZEN LENS |
-| **Narrative arc** | Headline shock → layers of meaning → deterrence for aap |
+| **Narrative arc** | Test headline → how MIRV works → deterrence meaning → aap lens |
 | **Trigger** | गर्व + डिफेंस |
 | **Assignment hook** | Mission Divyastra! एक मिसाइल, कई वारहेड—5000 किमी रेंज पर चीन-पाक तक |
-| **Adapted opener** | India ne Agni-5 **'Divyastra'** test kiya — ek missile, multiple warheads, alag targets |
+| **Adapted opener** | देखो, भारत ने Agni-5 **'Divyastra'** टेस्ट किया — **लेकिन** यह परेड नहीं… |
 
 ---
 
@@ -46,36 +46,37 @@
 
 ## FULL SCRIPT
 
-[00:00] Dekho, India ne Agni-5 **'Divyastra'** MIRV test kiya — ek missile, multiple warheads, Indian Ocean mein alag-alag targets. Yeh parade nahi, strategic shift hai.
+[00:00] देखो, भारत ने Agni-5 **'Divyastra'** MIRV टेस्ट किया — एक मिसाइल, कई वारहेड, इंडियन ओशन में अलग-अलग टारगेट। **लेकिन** यह परेड नहीं, स्ट्रैटेजिक शिफ्ट है।
 
-[00:08] MIRV matlab Multiple Independently targetable Reentry Vehicle — ek delivery system, kai simultaneous deterrence points. Range class **5,000+ km** — Odisha se test.
+[00:08] MIRV मतलब Multiple Independently targetable Reentry Vehicle — जब एक डिलीवरी सिस्टम कई डिटरेंस पॉइंट्स एक साथ कवर करता है। रेंज क्लास **5,000+ km** — ओडिशा से टेस्ट।
 
-[00:16] Defence minister ne capability boost kaha — lekin isse bhi zyada important: yeh **deterrence** hai, daily ration bill par kal direct asar nahi.
+[00:16] डिफेंस मिनिस्टर ने कैपेबिलिटी बूस्ट कहा — **लेकिन** इससे भी ज़्यादा ज़रूरी: यह **डिटरेंस** है, कल के राशन बिल पर सीधा असर नहीं।
 
-[00:24] India ab US-Russia-China jaisi MIRV club mein. VISUAL: trajectory map + warhead split.
+[00:24] भारत अब US-Russia-China जैसी MIRV क्लब में। VISUAL: trajectory map + warhead split।
 
-[00:32] Seedha matlab aapke liye: long-term security layer — war hype nahi, posture. Background mein samajhna zaroori hai.
+[00:32] सीधा मतलब आपके लिए: लॉन्ग-टर्म सिक्योरिटी लेयर — वॉर हाइप नहीं, पोस्चर। बैकग्राउंड में समझना ज़रूरी है।
 
-[00:40] Defense map Shorts ke liye follow karo.
+[00:40] डिफेंस मैप Shorts के लिए फॉलो करो।
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: DOMINO → LEKIN CITIZEN ✅  
-- Reference: **MYvS4pE9iIU** — dekho/lekin layers ✅  
-- `Seedha matlab`, `Background mein`, `लेकिन isse bhi zyada` ✅  
+- Opening mimics: `देखो, यह तो... लेकिन` → `देखो, भारत ने... लेकिन यह परेड नहीं` ✅  
+- Teaches one chain — test → MIRV मतलब → deterrence vs daily bill — not headline stack ✅  
+- `सीधा मतलब`, `बैकग्राउंड में`, `लेकिन इससे भी ज़्यादा` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–8s | Divyastra test |
-| TRAP | 8–16s | MIRV explained |
-| BUILD | 16–32s | Deterrence + club |
-| CLOSE | 32–40s | Citizen framing |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–8s | "क्या नया?" | Divyastra + lekin shift |
+| TRAP | 8–16s | "MIRV क्या?" | जब एक मिसाइल → कई टारगेट |
+| BUILD | 16–24s | "मेरी जेब?" | deterrence not ration |
+| CLOSE | 24–40s | "क्लब में?" | posture + follow |
 
 ### 📚 References & Sources
 

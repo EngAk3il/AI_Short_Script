@@ -10,10 +10,10 @@
 | Field | Value |
 |-------|-------|
 | **Pattern name** | INJUSTICE REVERSAL → LEGAL EXPLAIN → CIVIC ASK |
-| **Narrative arc** | OUTRAGE → how dare you → rights explained → aap kya sochte hain |
+| **Narrative arc** | OUTRAGE → how order worked → rights → aap kya sochte hain |
 | **Trigger** | गुस्सा + कानून |
 | **Assignment hook** | सुप्रीम कोर्ट ने सेंगर को राहत नहीं दी! Unnao केस में सज़ा निलंबन रद्द—आपके अधिकार क्या हैं? |
-| **Adapted opener** | Unnao case — jahan sentence suspend hui thi, **lekin** Supreme Court ne relief set aside kar di |
+| **Adapted opener** | उन्नाव केस — जहाँ सज़ा सस्पेंड हुई थी, **लेकिन** सुप्रीम कोर्ट ने राहत सेट असाइड कर दी |
 
 ---
 
@@ -30,9 +30,9 @@
 
 | # | Reference device | This script |
 |---|------------------|-------------|
-| 1 | `...बताया गया था, लेकिन सुप्रीम कोर्ट ने...` | Suspend order **lekin** SC set aside |
-| 2 | `Aakhir kya था` unpack | `Aakhir kya tha` — sentence suspension meaning |
-| 3 | `Aap khud sochiye` civic stake | Survivor voice + accountability |
+| 1 | `...बताया गया था, लेकिन सुप्रीम कोर्ट ने...` | सस्पेंड ऑर्डर **लेकिन** SC set aside |
+| 2 | `Aakhir kya था` unpack | `आखिर क्या था` — sentence suspension मतलब |
+| 3 | `Aap khud sochiye` civic stake | सर्वाइवर की आवाज़ + जवाबदेही |
 | 4 | Short 4-beat pacing (~8s gaps) | 5 tight legal beats |
 
 ### Reference excerpt (verbatim — rhythm source)
@@ -47,36 +47,38 @@
 
 ## FULL SCRIPT
 
-[00:00] Unnao case — jahan Delhi High Court ne Kuldeep Singh Sengar ki life sentence **suspend** kar di thi, wahan Supreme Court ne us relief ko **set aside** kar diya hai.
+[00:00] उन्नाव केस — जहाँ दिल्ली हाई कोर्ट ने कुलदीप सिंह सेंगर की लाइफ सेंस **सस्पेंड** कर दी थी, वहाँ सुप्रीम कोर्ट ने उस राहत को **सेट असाइड** कर दिया है।
 
-[00:08] Aakhir kya tha is order mein? 'Sentence suspension' matlab convict ko jail se bahar rehne ki permission — HC ne allow kiya tha, SC keh raha hai: dubara suno, **survivor ke lawyers** ko mauka do.
+[00:08] आखिर क्या था इस ऑर्डर में? जब कोर्ट 'सेंटेंस सस्पेंशन' देती है, मतलब कन्विक्ट को जेल से बाहर रहने की इजाज़त — HC ने अलाउ किया था, SC कह रहा है: दोबारा सुनो, **सर्वाइवर के वकीलों** को मौका दो।
 
-[00:15] Yeh sirf ek case file nahi — jab power accountability se bachta hai, law and order fail dikhta hai. Survivor tab minor thi; POCSO track par prosecution thi.
+[00:16] यह सिर्फ एक केस फाइल नहीं — जब पावर जवाबदेही से बचती है, लॉ एंड ऑर्डर फेल दिखता है। सर्वाइवर तब माइनर थीं; POCSO ट्रैक पर प्रोसेक्यूशन था।
 
-[00:22] SC ne pehle hi relief **stay** ki thi; ab poora order set aside — automatic bail wapas nahi.
+[00:24] SC ने पहले ही राहत **स्टे** की थी; अब पूरा ऑर्डर सेट असाइड — ऑटोमैटिक बेल वापस नहीं।
 
-[00:30] Simple words mein: court bina survivor ki awaaz sune faisla nahi kar sakta. Aap khud sochiye — yeh fair hai?
+[00:32] सिंपल वर्ड्स में: कोर्ट बिना सर्वाइवर की आवाज़ सुने फैसला नहीं कर सकता। आप खुद सोचिए — यह फेयर है?
 
-[00:38] Aap kya sochte hain? Comment mein likhein. Legal explainers ke liye follow karo.
+[00:40] आप क्या सोचते हैं? कमेंट में लिखें। लीगल एक्सप्लेनर्स के लिए फॉलो करो।
 
 ---
 
 ### DNA Adherence Audit
 
-- Hook pattern: INJUSTICE REVERSAL → LEGAL EXPLAIN ✅  
-- Reference: **8EEqmu6MVwY** — lekin SC + Aakhir kya + aap khud sochiye ✅  
+- Opening mimics: `बताया गया था, लेकिन सुप्रीम कोर्ट` → `सस्पेंड कर दी थी, वहाँ सुप्रीम कोर्ट` ✅  
+- Teaches one chain — suspension → SC set aside → survivor hearing — not headline stack ✅  
+- `आखिर क्या था`, `आप खुद सोचिए`, `आप क्या सोचते हैं`, `सिंपल वर्ड्स में` ✅  
+- Viewer questions mapped in WATCH-THROUGH MAP ✅  
 - Dates in speech: **0** ✅  
 
 ---
 
 ## WATCH-THROUGH MAP
 
-| Phase | Time | Beat |
-|-------|------|------|
-| STOP | 0–8s | SC blocks relief |
-| TRAP | 8–22s | What suspension means |
-| BUILD | 22–30s | Survivor + stay context |
-| CLOSE | 30–38s | Rights + CTA |
+| Phase | Time | Viewer question (why they stay) | Beat |
+|-------|------|-----------------------------------|------|
+| STOP | 0–8s | "राहत मिल गई थी?" | SC ने सेट असाइड |
+| TRAP | 8–16s | "सस्पेंशन का मतलब?" | जब-मतलब legal chain |
+| BUILD | 16–24s | "बेल वापस?" | स्टे + POCSO context |
+| CLOSE | 24–40s | "मेरे लिए क्या?" | fair? + CTA |
 
 ### 📚 References & Sources
 

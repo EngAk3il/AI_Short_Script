@@ -17,7 +17,9 @@ description: >-
 
 Never output generic "Aaj hum baat karenge" openings. Never invent URLs or statistics.
 
-**Read `CREATOR_SCRIPT_INTELLIGENCE.md` first** — explains why wire-copy dates and wrong phrases (e.g. forced `Dar-asal` on Informed Citizen) fail.
+**Read `CREATOR_SCRIPT_INTELLIGENCE.md` first** — anti date-spam, Devanagari speech, **mechanism-not-headlines**, pre-flight checklist.
+
+**Read `SCRIPT_RULES.md` Rule 2e–2g** — hook rhythm + teach-one-chain + viewer-question map (non-negotiable).
 
 **Pure voice:** Never name or compare other YouTube creators/channels in the script, audit, or hooks. Only use the assigned creator's `CREATOR_MIND.md`, cheatsheet, and transcripts.
 
@@ -72,11 +74,18 @@ Every production file **must** include these blocks **before** `## FULL SCRIPT`:
 Then write retention beats:
 
 - **STOP (0–5s):** tension, paradox, number shock — not intro filler
-- **TRAP → BUILD → TWIST → CLOSE**
-- **`[00:00]` lines** — match reference segment count ±1; copy opener/close devices from excerpt
-- **DNA Adherence Audit** — confirm hook pattern + reference video ID
-- **WATCH-THROUGH MAP** + **📚 References & Sources** (≥2 verified article URLs)
+- **TRAP → BUILD → TWIST → CLOSE** — each phase leaves **one open viewer question** until close
+- **`[00:00]` lines in Devanagari Hindi** — match reference segment count ±1; **`[00:00]` must mirror reference first-line shape** (e.g. `फॉग ने इस तरह से` → `अडानी ने इस तरह से`; `फैक्ट्स सरप्राइज़` + same-breath `जब…`)
+- **Do NOT write headline stacks** (`₹X, pool ₹Y, agency Z`) without teaching the link between them — copy `जब… तो… मतलब… लेकिन… इसीलिए` when reference does
+- Roman script body = fail. English only for brands/tickers.
+- **DNA Adherence Audit** must include: `Opening mimics: "<ref words>" → "<script words>"` and `Teaches one chain — not headline stack`
+- **WATCH-THROUGH MAP** must have column **`Viewer question (why they stay)`** on every row
+- **📚 References & Sources** (≥2 verified article URLs)
 - End with creator's real CTA from cheatsheet — **no calendar dates in every beat** unless the reference transcript uses them
+
+### Pre-flight (before PRODUCTION READY)
+
+Copy checklist from `CREATOR_SCRIPT_INTELLIGENCE.md` — if any box fails, **rewrite FULL SCRIPT** (do not only fix the hook).
 
 ### 6. References table (mandatory)
 
@@ -108,7 +117,18 @@ Remove "AWAITING AGENT" / placeholder text.
 ## Quality bar
 
 - Hook type named + tied to a real `deep_hooks.md` entry
+- Reference video **matches narrative job** (mechanism / list / legal / geo — not random)
 - 3+ signature phrases from cheatsheet
 - 6+ `[00:00]` lines OR creator-native structure from reference transcript (not a copied cross-creator table)
+- Viewer can answer **why they stayed** after each beat (see WATCH-THROUGH column)
 - Zero hallucinated facts
-- Reads like the **creator**, not a generic AI narrator
+- Reads like the **creator**, not a generic AI narrator or news ticker
+
+## Anti-patterns (instant fail — do not ship)
+
+| Do not | Do instead |
+|--------|------------|
+| Paste assignment `hook_hindi` as `[00:00]` | Adapt reference **first line device** |
+| Stack stats with no `जब/मतलब/तो/लेकिन/इसीलिए` | Teach one causal chain |
+| Wrong reference video in mapping table | Pick transcript that does the **same job** |
+| English/Roman script body | Devanagari (see Shivanshu OMC gold example in Rule 2f) |

@@ -157,6 +157,53 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
             "match reference transcript (usually 0–1 dates in speech). See CREATOR_SCRIPT_INTELLIGENCE.md"
         )
 
+    # Retention map: viewer question column (Rule 2f)
+    if re.search(r"WATCH-THROUGH", markdown, re.I):
+        if not re.search(
+            r"viewer\s+question|why\s+they\s+stay|दर्शक\s+सोच",
+            markdown,
+            re.I,
+        ):
+            v.warnings.append(
+                "WATCH-THROUGH MAP missing 'Viewer question (why they stay)' column — see SCRIPT_RULES.md Rule 2f"
+            )
+
+    # DNA audit: opening mimics line (Rule 2e)
+    if re.search(r"DNA\s+(Adherence\s+)?Audit", markdown, re.I):
+        if not re.search(r"opening\s+mimics\s*:", markdown, re.I):
+            v.warnings.append(
+                "DNA Adherence Audit must include: Opening mimics: \"<ref>\" → \"<script>\""
+            )
+
+    # Headline-stack heuristic: many money stats, weak teaching connectors
+    teaching_markers = len(
+        re.findall(
+            r"जब|मतलब|इसीलिए|लेकिन|तो\s+लगता|ने\s+देखा|इस\s+तरह\s+से|सरप्राइज़",
+            script_body,
+        )
+    )
+    money_stat_lines = len(
+        re.findall(
+            r"^\[00:\d{2}\].*(?:₹|Rs\.?|\$|\d+\s*करोड़|\d+\s*लाख)",
+            script_body,
+            re.I | re.M,
+        )
+    )
+    if money_stat_lines >= 3 and teaching_markers < 2:
+        v.warnings.append(
+            "Possible headline stack: many ₹/stat lines but few teaching connectors "
+            "(जब/मतलब/लेकिन/इसीलिए). Teach one chain — see SCRIPT_RULES.md Rule 2f"
+        )
+
+    # Roman-heavy script body
+    devanagari = len(re.findall(r"[\u0900-\u097F]", script_body))
+    latin_words = len(re.findall(r"\b[a-zA-Z]{4,}\b", script_body))
+    if devanagari > 80 and latin_words >= 25:
+        v.warnings.append(
+            f"Script may be too Roman-heavy ({latin_words} long English words). "
+            "FULL SCRIPT should be Devanagari — Rule 2e"
+        )
+
     v.score = min(score, v.max_score)
     if v.score < 60 and v.passed:
         v.warnings.append(f"Retention quality score low: {v.score}/100")
