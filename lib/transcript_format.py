@@ -3,14 +3,18 @@
 from __future__ import annotations
 
 import json
-import re
 from dataclasses import dataclass
 from pathlib import Path
 
 from lib.paths import DATA_DIR
 from lib.script_formats import OUTPUT_FORMAT
+from lib.transcript_analysis import (
+    analyze_transcript_text,
+    find_best_transcript_for_topic,
+    format_analysis_block,
+)
 
-# Archetypes learned from data/<creator>/*/transcript.txt + deep_hooks NARRATIVE PATTERN
+# Archetypes: narrative pattern hints only. Reference video resolved by topic search when possible.
 ARCHETYPES: dict[str, dict[str, dict]] = {
     "NiharikaChoudhary": {
         "legal_explainer": {
@@ -18,55 +22,47 @@ ARCHETYPES: dict[str, dict[str, dict]] = {
                 "court", "sc ", "supreme", "law", "legal", "rape", "sentence", "bail",
                 "unnao", "sengar", "rights", "constitutional", "hc ", "high court",
             ],
-            "reference_video": "8EEqmu6MVwY",
-            "reference_title": "Electoral bonds / SC legal explainer rhythm",
+            "fallback_video": "8EEqmu6MVwY",
             "pattern": "HOOK → BUILD (micro punch) → CLOSE",
-            "structure": """Use **ingested timestamp prose only** (no markdown table):
-```
-[00:00] Shock ruling or term + court action in one breath.
-[00:08] `Aakhir kya tha` — unpack what the order actually means in plain Hindi.
-[00:15] Civic stake — `aap khud sochiye` / accountability / victim voice.
-[00:22] One fact beat (date, who must be heard, what happens next).
-[00:30] `Simple words mein` — one-line takeaway for the viewer.
-[00:38] Opinion CTA — `Aap kya sochte hain?` + comment / follow journalist.
-```""",
+            "structure": """Mirror reference `[00:00]` lines — **no dates in every beat** (reference has ~0 dates in speech).
+
+1. Open: ruling/term + shock in one breath (like electoral-bonds legal Short).
+2. `Aakhir kya tha` / `Aakhir kya hua` — what the order **means** for people.
+3. Civic stake — victim/accountability; `Aap khud sochiye` if reference uses it.
+4. One concrete legal fact (who must be heard, what was set aside) — **no calendar spam**.
+5. Optional: `Simple words mein` only if explaining a legal term.
+6. Close: `Aap kya sochte hain?` + comment / follow.""",
         },
         "question_evidence": {
             "keywords": [
                 "scam", "bank", "idfc", "kharge", "fuel", "petrol", "modi", "crisis",
                 "economic", "hike", "political", "government", "explained",
             ],
-            "reference_video": "7FHRhFFa28I",
-            "reference_title": "IDFC scam — Aakhir kya hua question chain",
+            "fallback_video": "7FHRhFFa28I",
             "pattern": "QUESTION → CONTEXT → ANSWER/EVIDENCE → CLOSE",
-            "structure": """Use **ingested timestamp prose** (no table):
-```
-[00:00] `!` headline shock OR `Aakhir kya hua?` on the news event.
-[00:06] What happened — one concrete fact (Rs, date, who said what).
-[00:12] `Lekin` — second layer (why opposition/government framing differs).
-[00:18] Wallet or citizen impact in simple Hindi.
-[00:26] `Simple words mein` / `Seedha matlab` — what changes for aap.
-[00:34] Balanced line (both narratives) without partisan cheerleading.
-[00:42] `Aap kya sochte hain?` comment CTA.
-```""",
+            "structure": """Mirror IDFC-style `Aakhir kya hua?` chain — **max 1 date in full script**.
+
+1. Headline shock or `Aakhir kya hua?` on the event.
+2. What happened — Rs / who said (one beat).
+3. `Lekin` — second layer (opposition vs government framing).
+4. Wallet impact in her Hindi (not wire copy).
+5. Balanced line — both sides, no cheerleading.
+6. `Aap kya sochte hain?`""",
         },
         "inspirational_bio": {
             "keywords": [
                 "satheesan", "cm ", "kerala", "commander", "biography", "inspiration",
                 "leader", "oath", "congress", "race", "story",
             ],
-            "reference_video": "yLg0odaDIiM",
-            "reference_title": "Human arc / political biography beats",
-            "pattern": "HOOK → BUILD (detailed explainer) → CLOSE",
-            "structure": """Use **ingested timestamp prose** (no table):
-```
-[00:00] Name + win + nickname hook in one line.
-[00:08] `Aakhir kya hua` — internal party fight / factions in plain words.
-[00:16] Timeline beat (swearing-in date, venue) — specific, not vague.
-[00:24] Human arc — organisation person vs celebrity; what changes as CM.
-[00:32] `Simple words mein` — why nickname matters for governance test.
-[00:40] Open question CTA — inspire or challenge, not attack.
-```""",
+            "fallback_video": "wBsuIbQ2ZR8",
+            "pattern": "HOOK → BUILD → CLOSE",
+            "structure": """Human arc Short — question or contrast open, **not news ticker dates**.
+
+1. Name + win + nickname.
+2. `Aakhir kya hua` — internal fight in plain words.
+3. What changes for state (oath venue, coalition) — one time reference OK.
+4. Organisation person vs celebrity framing.
+5. Open question CTA — inspire, don't attack.""",
         },
     },
     "TheInformedCitizen": {
@@ -75,58 +71,45 @@ ARCHETYPES: dict[str, dict[str, dict]] = {
                 "hormuz", "oil", "route", "map", "3d", "uae", "fujairah", "energy",
                 "strait", "pipeline", "geography", "port", "bypass", "modi tour",
             ],
-            "reference_video": "FO2JWEO1BrQ",
-            "reference_title": "Mount Kailash — long domino build + map facts",
+            "fallback_video": "TsiWJSld98s",
             "pattern": "HOOK → BUILD (detailed explainer) → CLOSE",
-            "structure": """Use **flowing [00:00] timestamp prose** — NOT Shivanshu 4-column table:
-```
-[00:00] Open with place/route mystery or blocked chokepoint; say you will map it.
-[00:07] Fact layer 1 (geography / port / why Hormuz matters) — `VISUAL: 3D map`.
-[00:15] `Lekin` pivot — alternate route (e.g. Fujairah) step by step on map.
-[00:23] Fact layer 2 (LPG, strategic reserves, tour context).
-[00:31] `Dar-asal` or `लेकिन असलियत में` — what this means for India's supply.
-[00:39] `Aaiye samajhte hain` — chain: blockade → route → storage → price risk.
-[00:47] `Seedha matlab aapke liye` — petrol/LPG/inflation link.
-[00:55] Soft subscribe — informative / map explainers.
-```""",
+            "structure": """**Real geo open:** `दोस्तों, [topic]...` + map layers — NOT fake `Dar-asal` unless reference has it.
+
+1. `दोस्तों` + why this route/place matters for India.
+2. Map beat 1 — chokepoint / region (editor: 3D map).
+3. `Lekin` — alternate path or second fact.
+4. Citizen impact — petrol/LPG/inflation link (`Seedha matlab` if natural).
+5. Comment which topic next + follow (like Rajasthan geo Short).""",
         },
         "geo_punch": {
             "keywords": [
                 "heat", "heatwave", "rain", "imd", "monsoon", "climate", "weather",
                 "rajasthan", "barmer", "split", "flood", "lou", "temperature",
             ],
-            "reference_video": "ldNmNRVPlkc",
-            "reference_title": "Aravalli — headline punch + environmental stakes",
+            "fallback_video": "ldNmNRVPlkc",
             "pattern": "HOOK → BUILD (micro punch) → CLOSE",
-            "structure": """Use **short punch open + timestamp prose**:
-```
-[00:00] `!` or shocking headline — split India / two climates at once.
-[00:06] Name regions on map — west heat belt vs NE/south rain belt.
-[00:12] One IMD-style fact (above-normal heatwave days / heavy rain alert).
-[00:18] `VISUAL: map` — colour west red, east blue; pin Barmer or sample city.
-[00:24] `Lekin` — monsoon onset nuance (Andaman / early June relief).
-[00:30] `Seedha matlab aapke liye` — what to do in your state.
-[00:38] Share + subscribe for map Shorts.
-```""",
+            "structure": """Aravalli-style punch headline → stakes — short segments.
+
+1. `!` headline — two climates / one country split.
+2. Name west vs east regions on map.
+3. One IMD-type fact — no date in every line.
+4. `Seedha matlab aapke liye` — what to do in your region.
+5. Share / follow map channel.""",
         },
         "defense_chain": {
             "keywords": [
-                "agni", "missile", "mirv", "divyastra", "defence", "defense", "warhead",
-                "rajnath", "strategic", "china", "pakistan", "test", "odisha",
+                "agni", "missile", "mirv", "divyastra", "defence", "defense",
+                "warhead", "rajnath", "strategic", "china", "pakistan", "test", "odisha",
             ],
-            "reference_video": "MYvS4pE9iIU",
-            "reference_title": "Arctic / strategic — domino escalation chain",
+            "fallback_video": "MYvS4pE9iIU",
             "pattern": "HOOK → BUILD (detailed explainer) → CLOSE",
-            "structure": """Use **domino-chain timestamp prose** (like geo-war explainers):
-```
-[00:00] Test headline + range shock; promise to decode tech in plain Hindi.
-[00:08] What MIRV is — one missile, multiple independent targets.
-[00:16] Test facts: date, Odisha, Indian Ocean impacts — `VISUAL: trajectory map`.
-[00:24] Minister/strategic quote beat — capability, not chest-thumping only.
-[00:32] `Aaiye samajhte hain` — deterrence vs daily life for citizen.
-[00:40] Regional angle (credible reach) without warmongering.
-[00:48] `Seedha matlab` + informative subscribe CTA.
-```""",
+            "structure": """Domino escalation (Arctic-style) — long flowing Hindi, map for trajectory.
+
+1. Test/capability headline — what changed.
+2. Explain tech in plain Hindi (MIRV = one missile, many targets).
+3. Strategic meaning — deterrence, not war hype.
+4. `Seedha matlab aapke liye` / background line from CREATOR_MIND.
+5. Soft informative subscribe if reference closes that way.""",
         },
     },
     "NehaGupta": {
@@ -135,57 +118,45 @@ ARCHETYPES: dict[str, dict[str, dict]] = {
                 "jatra", "devotee", "mandir", "temple", "festival", "mahotsav", "darshan",
                 "karnataka", "huligemma", "pilgrim", "bhakt", "seva", "meal",
             ],
-            "reference_video": "hxWwtztLxLY",
-            "reference_title": "Devbhoomi temple list + Jai Mata Di close",
+            "fallback_video": "hxWwtztLxLY",
             "pattern": "HOOK → BUILD (standard short) → CLOSE",
-            "structure": """Use **Neha's real [00:00] list rhythm** — NOT news tables, NOT Shivanshu director blocks unless paired with timestamps:
-```
-[00:00] Place + festival name — scale hook (lakhs/crore footfall).
-[00:05] Beat 1 — dates + what happens (Maharathotsava / peak day).
-[00:12] Beat 2 — Mahadasoha / free meals / seva detail.
-[00:19] Beat 3 — why it matters spiritually (`darshan`, `hamari sanskriti`).
-[00:26] Visual line — crowd, chariot, kitchen (for editor).
-[00:32] Pride line — `garv` / heritage, not politics.
-[00:38] `Comment mein 'जय माता' likhein` or topic-specific comment ask.
-```""",
+            "structure": """Temple/festival **list rhythm** — `Devbhoomi`/place open, **no news dates**.
+
+1. Region + festival + scale (lakhs) — not "May 11-14, 2026" repeatedly.
+2. Peak moment / Maharathotsava / crowd visual.
+3. Seva / Mahadasoha / free meals.
+4. `darshan` + `hamari sanskriti` pride.
+5. `Comment mein 'जय माता'` or place-specific ask.""",
         },
         "heritage_mystery": {
             "keywords": [
                 "oath", "ceremony", "astrology", "pandal", "stadium", "kerala", "satheesan",
                 "swearing", "muhurat", "sacred", "ritual", "shapath",
             ],
-            "reference_video": "qp_ptIZBdy0",
-            "reference_title": "Kya aap jaante hain — cultural discovery",
-            "pattern": "QUESTION → CONTEXT → ANSWER/EVIDENCE → CLOSE",
-            "structure": """Use **क्या आप जानते हैं open + timestamp beats**:
-```
-[00:00] `Kya aap jaante hain` — ceremony fact that sounds unbelievable?
-[00:05] Venue + scale (3000-seat pandal, Central Stadium).
-[00:12] Date + political moment framed as ritual, not debate.
-[00:19] Astrology / muhurat angle — curious tone, not mockery.
-[00:25] `Hamari sanskriti` — faith + public life blend.
-[00:32] `Darshan` moment language for the crowd/ritual feel.
-[00:38] Comment CTA — place name or 'Kerala'.
-```""",
+            "fallback_video": "qp_ptIZBdy0",
+            "pattern": "QUESTION → CONTEXT → CLOSE",
+            "structure": """`Kya aap jaante hain` discovery — curious, not political debate.
+
+1. Question hook — surprising ceremony fact.
+2. Place + scale (pandal, stadium).
+3. Ritual/astrology angle — respectful curiosity.
+4. `hamari sanskriti` / `darshan` language.
+5. Comment CTA — place name.""",
         },
         "diaspora_pride": {
             "keywords": [
                 "uae", "diaspora", "indian", "million", "expat", "soft power", "investment",
                 "modi visit", "abroad", "global", "pride", "dubai",
             ],
-            "reference_video": "qp_ptIZBdy0",
-            "reference_title": "Regional pride list — adapt to diaspora facts",
-            "pattern": "QUESTION → CONTEXT → ANSWER/EVIDENCE → CLOSE",
-            "structure": """Use **discovery question + numbered pride beats**:
-```
-[00:00] `Kya aap jaante hain` — how many Indians live in UAE?
-[00:05] Number + Modi visit news peg (May 2026).
-[00:12] Investment / energy partnership fact (one stat, sourced).
-[00:19] Who diaspora is — doctors, nurses, engineers as ambassadors.
-[00:25] `Hamari sanskriti` abroad — temples, festivals, community.
-[00:32] `Garv` + humble line (don't boast, celebrate).
-[00:38] `Comment mein 'UAE' likhein` if family is there.
-```""",
+            "fallback_video": "qp_ptIZBdy0",
+            "pattern": "QUESTION → CONTEXT → CLOSE",
+            "structure": """Regional pride discovery — **no "May 2026" in every line**.
+
+1. `Kya aap jaante hain` — diaspora number.
+2. Who they are (doctors, nurses, engineers).
+3. `hamari sanskriti` abroad.
+4. `Garv` + humble tone.
+5. Comment `UAE` if family there.""",
         },
     },
 }
@@ -199,16 +170,11 @@ class TranscriptArchetype:
     reference_video: str
     reference_title: str
     structure: str
-    excerpt: str = ""
-
-
-def _topic_blob(topic: str) -> str:
-    return topic.lower()
+    analysis_block: str = ""
 
 
 def pick_archetype(creator: str, topic: str) -> TranscriptArchetype:
-    """Score topic keywords against archetypes; return best match with transcript excerpt."""
-    blob = _topic_blob(topic)
+    blob = topic.lower()
     catalog = ARCHETYPES.get(creator, {})
     if not catalog:
         return TranscriptArchetype(
@@ -216,8 +182,8 @@ def pick_archetype(creator: str, topic: str) -> TranscriptArchetype:
             creator=creator,
             pattern="HOOK → BUILD → CLOSE",
             reference_video="",
-            reference_title="(no archetype catalog)",
-            structure=OUTPUT_FORMAT.get(creator, "- Use [00:00] timestamp prose from samples."),
+            reference_title="(no archetype)",
+            structure=OUTPUT_FORMAT.get(creator, "- Use [00:00] prose from samples."),
         )
 
     best_key = ""
@@ -232,53 +198,73 @@ def pick_archetype(creator: str, topic: str) -> TranscriptArchetype:
         best_key = next(iter(catalog))
 
     spec = catalog[best_key]
-    vid = spec["reference_video"]
-    excerpt = _load_transcript_excerpt(creator, vid, max_chars=1800)
+    fallback = spec["fallback_video"]
+
+    # Prefer topic-matched transcript over static fallback
+    video_id = fallback
+    title = spec.get("reference_title", fallback)
+    text = ""
+    analysis_block = ""
+
+    topic_matches = find_best_transcript_for_topic(creator, topic, limit=1)
+    if topic_matches:
+        video_id, text, analysis = topic_matches[0]
+        meta_path = DATA_DIR / creator / video_id / "metadata.json"
+        if meta_path.exists():
+            try:
+                title = json.loads(meta_path.read_text()).get("title", video_id)
+            except json.JSONDecodeError:
+                title = video_id
+        analysis_block = format_analysis_block(video_id, title, text, analysis)
+    else:
+        path = DATA_DIR / creator / fallback / "transcript.txt"
+        if path.exists():
+            text = path.read_text(encoding="utf-8", errors="ignore")
+            analysis = analyze_transcript_text(text)
+            meta_path = DATA_DIR / creator / fallback / "metadata.json"
+            if meta_path.exists():
+                try:
+                    title = json.loads(meta_path.read_text()).get("title", fallback)
+                except json.JSONDecodeError:
+                    pass
+            analysis_block = format_analysis_block(fallback, title, text, analysis)
 
     return TranscriptArchetype(
         key=best_key,
         creator=creator,
         pattern=spec["pattern"],
-        reference_video=vid,
-        reference_title=spec["reference_title"],
+        reference_video=video_id,
+        reference_title=title,
         structure=spec["structure"],
-        excerpt=excerpt,
+        analysis_block=analysis_block,
     )
 
 
-def _load_transcript_excerpt(creator: str, video_id: str, max_chars: int = 1800) -> str:
-    path = DATA_DIR / creator / video_id / "transcript.txt"
-    if not path.exists():
-        return "(transcript not found — use structure template above)"
-    text = path.read_text(encoding="utf-8", errors="ignore").strip()
-    meta_path = DATA_DIR / creator / video_id / "metadata.json"
-    title = video_id
-    if meta_path.exists():
-        try:
-            title = json.loads(meta_path.read_text()).get("title", title)
-        except json.JSONDecodeError:
-            pass
-    return f"**[Reference: {video_id} | {title}]**\n```\n{text[:max_chars]}\n```"
-
-
 def format_instructions_for_bundle(creator: str, topic: str) -> str:
-    """Block injected into *_context.md — agents must follow this, not generic table."""
     arch = pick_archetype(creator, topic)
-    lines = [
-        "\n## REQUIRED FORMAT (from real transcript — NOT a generic table)\n",
-        f"**Matched archetype:** `{arch.key}`",
-        f"**Narrative pattern:** {arch.pattern}",
-        f"**Copy structure from:** {arch.reference_title} (`{arch.reference_video}`)",
-        "",
-        arch.structure,
-        "",
-        "### Reference transcript excerpt (mirror line length & connectors)\n",
-        arch.excerpt,
-        "",
-        "**Rules:**",
-        "- Write the script body in the same shape as the excerpt (usually `[00:00]` lines).",
-        "- Do NOT use another creator's table format (e.g. Shivanshu 4-column) unless excerpt shows it.",
-        "- Name the matched `reference_video` in your DNA Adherence Audit.",
-    ]
-    return "\n".join(lines)
-
+    hooks_note = (
+        "Pick **EXACT HOOK** from Topic-matched hooks — adapt sentence shape, swap facts. "
+        "Do NOT open like a news ticker (`14 May 2026 ko...`)."
+    )
+    return "\n".join(
+        [
+            "\n## REQUIRED FORMAT (imitate reference video — intelligence required)\n",
+            f"**Matched archetype:** `{arch.key}`",
+            f"**Narrative pattern:** {arch.pattern}",
+            f"**Primary reference video:** `{arch.reference_video}` — {arch.reference_title}",
+            "",
+            "### Structure guide (beats — not a table)\n",
+            arch.structure,
+            "",
+            hooks_note,
+            "",
+            arch.analysis_block or "(no transcript analysis — ingest data for this creator)",
+            "",
+            "### Hard rules\n",
+            "- **Date density:** match reference (see analysis above). Never repeat the same date in 3+ lines.",
+            "- **Phrases:** only use signature phrases **present in reference** or listed in CREATOR_MIND.",
+            "- **Segment count & length:** match reference analysis.",
+            "- Read `CREATOR_SCRIPT_INTELLIGENCE.md` if unsure.",
+            "- Name `reference_video` + hook source in DNA Adherence Audit.",
+        ]
+    )

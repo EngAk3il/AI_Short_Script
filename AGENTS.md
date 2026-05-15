@@ -38,7 +38,7 @@ Or in one message:
 
 1. **Hook choice** — Match topic to a real entry in `deep_hooks.md`, not a generic opener.
 2. **Facts** — Search today’s sources; cross-verify; copy real URLs from the browser.
-3. **Voice** — Pull phrasing from real `transcript.txt` samples, not generic Hindi.
+3. **Voice** — Imitate the **named reference video** in context (segment count, opener, **date density ~0**), not generic news Hindi.
 4. **Structure** — Copy the **matched reference video** in `*_context.md` (usually `[00:00]` prose). **Never paste the same table layout for every creator** (see `SCRIPT_RULES.md` Rule 2b).
 5. **Retention** — 5-phase tension from `SHORTS_MASTER_FRAMEWORK.md`.
 6. **Honesty** — No invented stats or guessed URLs (see `SCRIPT_RULES.md`).
@@ -86,16 +86,15 @@ python3 validate_hooks.py UditInsights
 
 ## Files to read when writing a script
 
-**ONLY these two** (voice + format is bundled inside context):
+1. **`CREATOR_SCRIPT_INTELLIGENCE.md`** — how to imitate transcripts; anti date-spam; per-creator truth (read once per session)  
+2. `scripts/<creator>/<topic>_BRIEF.md` — workflow  
+3. `scripts/<creator>/<topic>_context.md` — reference video analysis, EXACT hooks, REQUIRED FORMAT  
 
-1. `scripts/<creator>/<topic>_BRIEF.md` — workflow + research steps  
-2. `scripts/<creator>/<topic>_context.md` — CREATOR_MIND, hooks, transcripts, REQUIRED FORMAT  
+Plus **live web** for verified facts/URLs only (tone **never** from headlines).
 
-Plus **live web** for verified facts/URLs only.
+Do **not** open `creator_pattern/`, `patterns/`, or `data/` during script generation — reference transcript is inside context.
 
-Do **not** open `creator_pattern/`, `patterns/`, or `data/` during script generation.
-
-Write output to: `scripts/<creator>/<topic>_dna.md`
+Write output to: `scripts/<creator>/<topic>_dna.md` **only** — must include `## HOOK PATTERN`, `## REFERENCE TRANSCRIPT` (with video ID + mapping table + verbatim excerpt), then `## FULL SCRIPT`. See `SCRIPT_RULES.md` Rule 2d.
 
 After pipeline changes: `python3 prepare.py -c <Creator> -t "<topic>"` then validate with `python3 validate_script.py ...`
 

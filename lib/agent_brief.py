@@ -4,7 +4,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from pathlib import Path
 
-from lib.generation_context import GenerationContext
+from lib.generation_context import GenerationContext, _read_optional
 from lib.hook_excerpt import excerpt_deep_hooks
 from lib.paths import SCRIPTS_DIR
 from lib.transcript_format import format_instructions_for_bundle
@@ -63,29 +63,29 @@ If voice guidance is missing from the context file, run `python3 prepare.py -c {
 
 ## ⚡ Workflow (in order)
 
-### Phase A — Absorb voice (context file only)
-1. Read **`{bundle_path.name}`** top to bottom once.
-2. Pick hook type from **Hook cheatsheet** + **Topic-matched hooks** section.
-3. Copy rhythm from **Transcript samples** — sentence length, connectors, CTA style.
-4. Read **REQUIRED FORMAT** at bottom of context — match the **named reference video** structure (usually `[00:00]` prose, not a generic table).
+### Phase A — Absorb voice (context file only) — **read `CREATOR_SCRIPT_INTELLIGENCE.md` first**
+1. Open **Reference transcript** in `{bundle_path.name}` — note **date count in speech** (often **zero**).
+2. Read that transcript **aloud** once; count segments and words per line — **match both**.
+3. Pick hook from **Topic-matched hooks** — adapt **EXACT HOOK** rhythm (do not write wire copy like `14 May 2026 ko...`).
+4. Copy connectors **only if reference uses them** (e.g. Niharika: `Aakhir kya`; Informed Citizen geo: `दोस्तों`; Neha: `Kya aap jaante hain`).
 
-### Phase B — Live research (web only — for facts/URLs)
-1. Search topic + India + 2026 dates.
-2. Open **≥3 reputable articles**; confirm every stat on-page.
+### Phase B — Live research (web only — for facts/URLs, NOT tone)
+1. Search topic + verify claims in **≥3 articles**.
+2. Dates go in **references table** and **at most once** in spoken script unless reference uses more.
 3. Copy **full article URLs** from the address bar.
 4. Unverifiable claims → omit or `[UNVERIFIED]`.
 
-### Phase C — Write script
-- Match **REQUIRED FORMAT** exactly — copy the **matched reference transcript** shape from context.
-- Mirror transcript **rhythm** (line length, connectors like `Aakhir kya hua` / `Dar-asal`), not generic news Hindi.
-- 5-phase retention: STOP → TRAP → BUILD → TWIST → CLOSE.
+### Phase C — Write script (intelligence, not templates)
+- Write `[00:00]` lines in the **same shape** as the reference transcript analysis block.
+- **Tone from transcript**; **facts from articles** — never paste headline Hindi as the hook.
+- Do **not** repeat the same calendar date in multiple lines.
+- 5-phase retention inside the reference rhythm (not a generic table).
 
 ### Phase D — Self-audit
-- [ ] Structure matches REQUIRED FORMAT + reference video named in audit
-- [ ] ≥3 signature phrases from context cheatsheet (natural, not stuffed)
-- [ ] Copied CTA **verbatim** where context specifies exact wording
-- [ ] Hook tied to a topic-matched hook entry (name it in metadata)
-- [ ] No other creator/channel names anywhere
+- [ ] `reference_video` ID named; opening mimics reference pattern
+- [ ] Date density ≤ reference (usually 0–1 in speech)
+- [ ] Hook adapted from a **Topic-matched hooks** EXACT HOOK (quote first words in audit)
+- [ ] Phrases used appear in reference OR CREATOR_MIND (no borrowed creator-isms)
 - [ ] References table with verified full URLs
 - [ ] Run: `python3 validate_script.py "{output_script}" -c {ctx.creator}`
 
@@ -124,6 +124,8 @@ def build_context_bundle(ctx: GenerationContext) -> str:
         ctx.framework[:3500],
         "\n## Script rules\n",
         ctx.script_rules[:2500],
+        "\n## Intelligence guide (mandatory)\n",
+        _read_optional(Path(__file__).resolve().parent.parent / "CREATOR_SCRIPT_INTELLIGENCE.md", 4000),
         format_instructions_for_bundle(ctx.creator, ctx.topic),
     ]
     return "\n".join(parts)

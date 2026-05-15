@@ -13,6 +13,11 @@ FORBIDDEN_OPENERS = [
 ]
 
 REQUIRED_SECTIONS = [
+    ("hook_pattern", re.compile(r"##\s*HOOK\s+PATTERN", re.I)),
+    (
+        "reference_transcript",
+        re.compile(r"##\s*REFERENCE\s+TRANSCRIPT|What we took from this transcript", re.I),
+    ),
     (
         "script",
         re.compile(
@@ -129,6 +134,28 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
     if "[UNVERIFIED" in markdown:
         v.passed = False
         v.errors.append("Contains [UNVERIFIED] markers — research or remove claims")
+
+    # Date spam in spoken script (wire-copy anti-pattern)
+    script_body = markdown
+    if "## FULL SCRIPT" in markdown:
+        script_body = markdown.split("## FULL SCRIPT", 1)[-1].split("###", 1)[0]
+    elif "## SCRIPT" in markdown:
+        script_body = markdown.split("## SCRIPT", 1)[-1].split("###", 1)[0]
+    date_hits = len(
+        re.findall(
+            r"\b20\d{2}\b|"
+            r"\b\d{1,2}\s+may\s+20\d{2}\b|"
+            r"\bmay\s+\d{1,2},?\s+20\d{2}\b|"
+            r"14\s+may|15\s+may|may\s+14|may\s+15",
+            script_body,
+            re.I,
+        )
+    )
+    if date_hits >= 3:
+        v.warnings.append(
+            f"Date spam detected ({date_hits} calendar refs in script) — "
+            "match reference transcript (usually 0–1 dates in speech). See CREATOR_SCRIPT_INTELLIGENCE.md"
+        )
 
     v.score = min(score, v.max_score)
     if v.score < 60 and v.passed:

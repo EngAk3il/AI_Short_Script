@@ -47,9 +47,9 @@ VOICE_MARKERS: dict[str, dict[str, list[str]]] = {
         "forbidden": ["bhai", "gandi tarah"],
     },
     "TheInformedCitizen": {
-        "required_any": ["dar-asal", "aaiye samajhte hain"],
-        "required_one_of": ["matlab", "isliye"],
-        "cta_any": ["subscribe karein", "informative"],
+        "required_any": ["seedha matlab", "doston", "दोस्तों"],
+        "required_one_of": ["matlab", "background", "lekin"],
+        "cta_any": ["subscribe", "follow", "comment", "share karo", "बताएं"],
         "forbidden": ["bhai", "naatak"],
     },
 }
@@ -102,9 +102,10 @@ OUTPUT_FORMAT: dict[str, str] = {
 """,
     "TheInformedCitizen": """
 ## REQUIRED FORMAT: TheInformedCitizen (default — overridden per topic in context)
-- **Primary shape:** flowing `[00:00]` domino-chain Hindi (geo/defense) — `VISUAL: map` inline, not Shivanshu 4-column table
-- **Must include:** `Dar-asal` or `लेकिन असलियत में`, `Aaiye samajhte hain`, `Seedha matlab aapke liye`
-- Match reference video length/rhythm from context bundle
+- **Geo Shorts:** open `दोस्तों, [region] की geography...` — match reference in context (NOT wire-news dates)
+- **Citizen impact:** `Seedha matlab aapke liye`, `Background mein samajhna zaroori hai` — from CREATOR_MIND
+- **Do NOT** force `Dar-asal` / `Aaiye samajhte hain` unless the matched reference transcript uses them
+- Flowing `[00:00]` prose + map cues; never Shivanshu 4-column table
 """,
 }
 

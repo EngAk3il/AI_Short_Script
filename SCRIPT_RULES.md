@@ -83,6 +83,32 @@ Every generated script MUST include a `📚 References & Sources` section at the
 3. In DNA Audit, state: `Structure matched: <video_id> — <archetype key>`.
 4. If topic is legal/civic (Niharika), geo/domino (Informed Citizen), or heritage list (Neha), pick the archetype `prepare.py` injected — do not override with Shivanshu/KK table format.
 
+## Rule 2c: Dates in spoken script (anti wire-copy)
+
+- **Research dates in browser** — they belong in the **references table** and in your notes.
+- **Spoken script:** match the reference transcript's date density. For most ingested Niharika/Neha/Informed Citizen Shorts that is **zero dates in speech**.
+- **Maximum:** one calendar date in the full script unless the reference uses more.
+- **Forbidden pattern:** repeating `14 May 2026` / `15 May 2026` in multiple `[00:00]` lines (news ticker Hindi).
+- Prefer: `is hafte`, `abhi`, `court ne order diya`, `kal ki hearing` — how creators actually talk.
+
+Read **`CREATOR_SCRIPT_INTELLIGENCE.md`** before writing.
+
+## Rule 2d: `*_dna.md` production file (mandatory sections)
+
+Every finished script file must contain **only** these sections in order (no separate `*_BRIEF.md` / `*_context.md` required in repo):
+
+1. **Title + Status** — creator name, post timing if known  
+2. **`## HOOK PATTERN`** — table: pattern name, narrative arc, assignment hook (Hindi), adapted opener line  
+3. **`## REFERENCE TRANSCRIPT`** — video ID, `data/<creator>/<id>/transcript.txt`, narrative pattern from `deep_hooks`  
+4. **`### What we took from this transcript`** — table mapping reference device → this script line  
+5. **`### Reference excerpt (verbatim)`** — 3–8 lines from ingested transcript (rhythm source, not facts)  
+6. **`## FULL SCRIPT`** — `[00:00]` lines matching reference segment count ±1  
+7. **`### DNA Adherence Audit`** — confirm hook + reference + phrase checklist  
+8. **`## WATCH-THROUGH MAP`**  
+9. **`### 📚 References & Sources`** — verified URLs only  
+
+Agents must **read** `data/<creator>/<video_id>/transcript.txt` (or excerpt in prepare context) before writing — the DNA file must **name the video ID** and show the copy mapping.
+
 ## Rule 3: Anti-Repetition
 
 - Rotate hook types across scripts for the same creator
