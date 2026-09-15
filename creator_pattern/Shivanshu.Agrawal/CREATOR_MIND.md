@@ -97,10 +97,19 @@ Never aggression. Never devotional or temple-tour hype tone.
 
 ---
 
-## 10. CTA (exact wording when used)
+## 10. CTA (from 189 transcripts — rotate in batches)
 
-**“Aisi aur video ke liye channel ko subscribe karein.”**  
-Alt: **“Aise explainer videos ke liye mujhe follow kariye.”**
+~**30%** use a direct subscribe line; ~**45%** end on punchline only (no CTA). When scripting a **batch**, do **not** paste the same CTA on every file.
+
+| Variant (Romanized) | Transcript source | When |
+|---------------------|-------------------|------|
+| `Aisi aur video ke liye channel ko subscribe karein.` | `c80v7JNh3x4`, DNA Type A | Default — often **woven** into last fact beat |
+| `Aisi aur videos ke liye channel ko subscribe kariye.` | `geLmnkiYdoo`, `QtUDEzyMV08` | Brand/strategy closes |
+| `Aise aur video ke liye channel ko subscribe karein.` | `akZCyFenbAY`, `eS70A6pmTgk` | Geo/policy or conglomerate |
+| `Aisi aur videos ke liye mujhe follow kariye.` | `4Efdy2jBozE` | Rare alt — use only if subscribe already used in batch |
+| *(no CTA)* | `y7qQ3N40Flc`, `8aNQoeglIlU` | Mechanism refs often **punchline-only** — add subscribe only if batch needs explicit CTA |
+
+**Woven close (preferred when CTA used):** last fact + CTA in **one** `[00:00]` line — e.g. `…number one brand hai. Aisi aur videos ke liye channel ko subscribe kariye.`
 
 ---
 

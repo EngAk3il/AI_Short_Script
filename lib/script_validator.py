@@ -31,6 +31,40 @@ REQUIRED_SECTIONS = [
 ]
 
 HOOK_META = re.compile(r"\[HOOK TYPE(?: USED)?:\s*([^\]]+)\]", re.I)
+TIMESTAMP_LINE = re.compile(r"\[\d{2}:\d{2}\]")
+
+# Rule 2h — minimum ~2 minutes spoken
+MIN_SCRIPT_WORDS = 360
+MIN_SCRIPT_WORDS_SLOW = 320  # KKCreate, NehaGupta, hellooipsita
+SLOW_WPS_CREATORS = frozenset({"KKCreate", "NehaGupta", "hellooipsita"})
+MIN_LAST_TIMESTAMP_SEC = 115  # [01:55]
+MIN_TIMESTAMP_BEATS = 12
+PREFERRED_TIMESTAMP_BEATS = 14
+
+
+def _extract_script_body(markdown: str) -> str:
+    if "## FULL SCRIPT" in markdown:
+        return markdown.split("## FULL SCRIPT", 1)[-1].split("###", 1)[0]
+    if "## SCRIPT" in markdown:
+        return markdown.split("## SCRIPT", 1)[-1].split("###", 1)[0]
+    return markdown
+
+
+def _spoken_word_count(script_body: str) -> int:
+    lines = []
+    for line in script_body.splitlines():
+        if TIMESTAMP_LINE.search(line):
+            lines.append(TIMESTAMP_LINE.sub("", line).strip())
+    text = " ".join(lines) if lines else script_body
+    text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
+    return len(re.findall(r"[\w\u0900-\u097F]+", text, re.UNICODE))
+
+
+def _last_timestamp_seconds(script_body: str) -> int | None:
+    stamps = re.findall(r"\[(\d{2}):(\d{2})\]", script_body)
+    if not stamps:
+        return None
+    return max(int(m) * 60 + int(s) for m, s in stamps)
 
 
 @dataclass
@@ -68,6 +102,7 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
     v = ScriptValidation(passed=True, max_score=100)
     text_lower = markdown.lower()
     score = 0
+    script_body = _extract_script_body(markdown)
 
     # Forbidden openers in first 500 chars
     head = text_lower[:500]
@@ -94,7 +129,9 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
         v.warnings.append("No explicit HOOK TYPE metadata — add [HOOK TYPE: ...] at top")
 
     rows = _count_table_rows(markdown)
-    timestamp_markers = len(re.findall(r"\[00:\d{2}\]|0:\d{2}\s*to|0:\d{2}\s*—", markdown))
+    timestamp_markers = len(TIMESTAMP_LINE.findall(script_body)) or len(
+        re.findall(r"\[00:\d{2}\]|0:\d{2}\s*to|0:\d{2}\s*—", markdown)
+    )
     fenced_lines = len(re.findall(r"^```", markdown, re.M))
     director_blocks = len(re.findall(r"\*\*\[Director:", markdown, re.I))
     neha_style = creator == "NehaGupta" and (
@@ -136,11 +173,6 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
         v.errors.append("Contains [UNVERIFIED] markers — research or remove claims")
 
     # Date spam in spoken script (wire-copy anti-pattern)
-    script_body = markdown
-    if "## FULL SCRIPT" in markdown:
-        script_body = markdown.split("## FULL SCRIPT", 1)[-1].split("###", 1)[0]
-    elif "## SCRIPT" in markdown:
-        script_body = markdown.split("## SCRIPT", 1)[-1].split("###", 1)[0]
     date_hits = len(
         re.findall(
             r"\b20\d{2}\b|"
@@ -178,13 +210,15 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
     # Headline-stack heuristic: many money stats, weak teaching connectors
     teaching_markers = len(
         re.findall(
-            r"जब|मतलब|इसीलिए|लेकिन|तो\s+लगता|ने\s+देखा|इस\s+तरह\s+से|सरप्राइज़",
+            r"जब|मतलब|इसीलिए|लेकिन|तो\s+लगता|ने\s+देखा|इस\s+तरह\s+से|सरप्राइज़|"
+            r"\bjab\b|\bmatlab\b|\blekin\b|\bisliye\b|\balso\b|is tarah se|surprise",
             script_body,
+            re.I,
         )
     )
     money_stat_lines = len(
         re.findall(
-            r"^\[00:\d{2}\].*(?:₹|Rs\.?|\$|\d+\s*करोड़|\d+\s*लाख)",
+            r"^\[\d{2}:\d{2}\].*(?:₹|Rs\.?|\$|\d+\s*करोड़|\d+\s*लाख)",
             script_body,
             re.I | re.M,
         )
@@ -195,38 +229,48 @@ def validate_script(markdown: str, creator: str = "") -> ScriptValidation:
             "(जब/मतलब/लेकिन/इसीलिए). Teach one chain — see SCRIPT_RULES.md Rule 2f"
         )
 
-    # Viral STOP: first [00:00] line length and shock markers (Rule 2h)
-    first_line_m = re.search(r"^\[00:00\]\s*(.+)$", script_body, re.M)
-    if first_line_m:
-        first_line = first_line_m.group(1).strip()
-        first_words = first_line.split()
-        shock_markers = re.search(
-            r"!|₹|Rs\.?|\$|\d+\s*करोड़|सबसे|शॉक|सरप्राइज़|धोखा|स्कैम|आखिर|पहली बार|"
-            r"इस तरह से|किल किया|टूट|गिरा|रोक|बंद|असंवैधानिक|घाटा|नुकसान",
-            first_line,
-            re.I,
+    # Rule 2h — minimum 2-minute script
+    spoken_words = _spoken_word_count(script_body)
+    min_words = (
+        MIN_SCRIPT_WORDS_SLOW if creator in SLOW_WPS_CREATORS else MIN_SCRIPT_WORDS
+    )
+    if spoken_words and spoken_words < min_words:
+        v.passed = False
+        v.errors.append(
+            f"Script too short for 2-min target: {spoken_words} spoken words "
+            f"(need ≥{min_words}). See SCRIPT_RULES.md Rule 2h"
         )
-        if len(first_words) > 22:
-            v.warnings.append(
-                f"Viral STOP weak: line 1 has {len(first_words)} words (target ≤14 punch + breath). "
-                "See SCRIPT_RULES.md Rule 2h"
-            )
-        if not shock_markers:
-            v.warnings.append(
-                "Viral STOP weak: line 1 missing shock marker (₹, !, paradox, आखिर, सरप्राइज़). Rule 2h"
-            )
-    if script_body and not re.search(r"लेकिन\s+असली|लेकिन\s+असल", script_body, re.I):
+    elif spoken_words and spoken_words < min_words + 20:
         v.warnings.append(
-            "Missing viral TWIST phrase (लेकिन असली / लेकिन असल). See SCRIPT_RULES.md Rule 2h"
+            f"Script borderline short ({spoken_words} words; target ≥{min_words} for ~2:00)"
         )
 
-    # Roman-heavy script body
-    devanagari = len(re.findall(r"[\u0900-\u097F]", script_body))
-    latin_words = len(re.findall(r"\b[a-zA-Z]{4,}\b", script_body))
-    if devanagari > 80 and latin_words >= 25:
+    last_ts = _last_timestamp_seconds(script_body)
+    if last_ts is not None and last_ts < MIN_LAST_TIMESTAMP_SEC:
+        v.passed = False
+        v.errors.append(
+            f"Last timestamp [{last_ts // 60:02d}:{last_ts % 60:02d}] is under 2 minutes "
+            f"(need ≥[01:55]). See SCRIPT_RULES.md Rule 2h"
+        )
+    if timestamp_markers < MIN_TIMESTAMP_BEATS:
+        v.passed = False
+        v.errors.append(
+            f"Need ≥{MIN_TIMESTAMP_BEATS} `[00:00]` beats for 2-min script; "
+            f"found {timestamp_markers}"
+        )
+    elif timestamp_markers < PREFERRED_TIMESTAMP_BEATS:
         v.warnings.append(
-            f"Script may be too Roman-heavy ({latin_words} long English words). "
-            "FULL SCRIPT should be Devanagari — Rule 2e"
+            f"Prefer ≥{PREFERRED_TIMESTAMP_BEATS} beats for explainers; found {timestamp_markers}"
+        )
+
+    # Rule 2e — Romanized Hinglish default (not pure Devanagari)
+    devanagari = len(re.findall(r"[\u0900-\u097F]", script_body))
+    latin_words = len(re.findall(r"\b[a-zA-Z]{3,}\b", script_body))
+    if devanagari > 180 and latin_words < 50:
+        v.passed = False
+        v.errors.append(
+            "FULL SCRIPT is mostly Devanagari — use Romanized Hinglish (Latin letters). "
+            "See SCRIPT_RULES.md Rule 2e"
         )
 
     v.score = min(score, v.max_score)

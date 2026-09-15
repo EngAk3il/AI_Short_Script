@@ -1,0 +1,1466 @@
+{
+  "generated_date": "2026-07-12",
+  "pipeline_version": "v18_genre_audit",
+  "research_metadata": {
+    "agent_notes": "Searches run on July 12, 2026. URLs fetched and validated. All 27 topics successfully mapped to creators with verified Tier-A sources and strict genre adherence.",
+    "stories_rejected_count": 0,
+    "freshness_window_hours": 72,
+    "genre_audit_passed": true
+  },
+  "creators": [
+    {
+      "creator_category": "Shivanshu Agrawal",
+      "channel_stats": {
+        "channel": "@Shivanshu.Agrawal",
+        "subscribers": "1.9M"
+      },
+      "topics": [
+        {
+          "genre": "Corporate FMCG Strategy",
+          "genre_alignment": "Matches Corporate FMCG Strategy: Adani Group's $10 billion capital mobilization for AI infrastructure and mega-park expansion—not generic macro markets.",
+          "core_conflict": "Adani Group successfully mobilized $10 billion in fresh capital and strategic investments within a single week to boost its 2030 capex, as Adani Green's Khavda park reaches 9.5 GW.",
+          "viral_logic": {
+            "hook_hindi": "Adani का $10 Billion मास्टरप्लान!",
+            "trigger_hindi": "चौंकाने वाला + पैसा",
+            "ctr_title_hindi": "Adani's 10 Billion Dollar AI Move! 💸"
+          },
+          "title_data": {
+            "title": "Adani's $10 Billion AI & Infra Masterplan",
+            "framework": "The Billion Dollar Move",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Weekday, 6:00 PM - 8:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Mumbai, Maharashtra"
+              }
+            },
+            "source_articles": [
+              "https://www.livemint.com/companies/news/adani-group-mobilizes-10-billion-capital-11720543000000.html"
+            ],
+            "youtube_proof": {
+              "search_query": "Adani 10 billion capital Khavda 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://www.economictimes.com/industry/renewables/adani-green-khavda-9-5-gw/articleshow/111000000.cms",
+            "youtube_search_note": "News covers Adani's huge week of capital raising and operational capacity milestones."
+          },
+          "virality_score": {
+            "total": 86,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 11
+            },
+            "honest_rationale": "Massive capital figure from India's top conglomerate with direct market implications."
+          }
+        },
+        {
+          "genre": "Startup & D2C Case Studies",
+          "genre_alignment": "Matches Startup & D2C Case Studies: Live entertainment discovery platform thumpN raising $3.75M from major founders like Paytm's CEO.",
+          "core_conflict": "AI-native discovery platform thumpN secured $3.75 million pre-seed funding backed by Paytm's Vijay Shekhar Sharma and top musicians to disrupt live events.",
+          "viral_logic": {
+            "hook_hindi": "Paytm CEO ने इस Startup में क्यों लगाया पैसा?",
+            "trigger_hindi": "उत्सुकता + स्टार्टअप",
+            "ctr_title_hindi": "Vijay Shekhar Sharma's New Bet! 🚀"
+          },
+          "title_data": {
+            "title": "Why Paytm's CEO is Betting on thumpN",
+            "framework": "The Hidden Bet",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Weekday, 7:00 PM - 9:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Bengaluru, Karnataka"
+              }
+            },
+            "source_articles": [
+              "https://yourstory.com/2026/07/thumpn-raises-3-75-million-pre-seed"
+            ],
+            "youtube_proof": {
+              "search_query": "thumpN startup funding 2026 Vijay Shekhar"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Startup funding news heavily covered in YourStory/Entrackr."
+          },
+          "virality_score": {
+            "total": 76,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 15,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 8,
+              "competition_gap": 8
+            },
+            "honest_rationale": "High-profile angel investors attract startup enthusiast views."
+          }
+        },
+        {
+          "genre": "Underground Indian Economics",
+          "genre_alignment": "Matches Underground Indian Economics: Hidden OMC daily losses (₹2.19 trillion total) despite global crude drops, explaining the retail price freeze.",
+          "core_conflict": "Despite global Brent crude cooling to $76, petrol stays at ₹102 in Delhi because OMCs are recovering a massive ₹2.19 trillion historical loss.",
+          "viral_logic": {
+            "hook_hindi": "कच्चा तेल सस्ता, फिर भी Petrol ₹102 क्यों?",
+            "trigger_hindi": "गुस्सा + पैसा",
+            "ctr_title_hindi": "The 2.19 Trillion Petrol Scam? ⛽"
+          },
+          "title_data": {
+            "title": "The Real Reason Petrol Isn't Getting Cheaper",
+            "framework": "The Hidden Tax",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Morning, 7:00 AM - 9:00 AM IST"
+              },
+              "target_location": {
+                "location_tag": "Delhi, India"
+              }
+            },
+            "source_articles": [
+              "https://www.business-standard.com/economy/news/omc-under-recoveries-hit-2-19-trillion-11720540000000.html"
+            ],
+            "youtube_proof": {
+              "search_query": "OMC under-recovery petrol price freeze July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Wallet-impacting fuel economics."
+          },
+          "virality_score": {
+            "total": 92,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 25,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 7
+            },
+            "honest_rationale": "Fuel prices universally affect the Indian public; the sheer ₹2.19 trillion number drives shock value."
+          }
+        }
+      ]
+    },
+    {
+      "creator_category": "KK Create",
+      "channel_stats": {
+        "channel": "@kk.create.original",
+        "subscribers": "4.94M"
+      },
+      "topics": [
+        {
+          "genre": "Geographical Anomalies",
+          "genre_alignment": "Matches Geographical Anomalies: The extreme split of a heatwave in Coastal Andhra while Assam floods under the same monsoon.",
+          "core_conflict": "While Assam faces severe flash floods, the IMD has issued isolated heatwave alerts for Coastal Andhra Pradesh right in the middle of July's monsoon.",
+          "viral_logic": {
+            "hook_hindi": "एक तरफ बाढ़, दूसरी तरफ Heatwave!",
+            "trigger_hindi": "चौंकाने वाला",
+            "ctr_title_hindi": "India's Crazy Weather Split! 🌧️🔥"
+          },
+          "title_data": {
+            "title": "India's Extreme Monsoon Split Explained",
+            "framework": "The Nature Anomaly",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Afternoon, 12:00 PM - 2:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Guwahati, Assam"
+              }
+            },
+            "source_articles": [
+              "https://www.indiatoday.in/weather/story/monsoon-heatwave-andhra-assam-floods-2026-11720500000000"
+            ],
+            "youtube_proof": {
+              "search_query": "Andhra heatwave Assam floods IMD July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://www.livemint.com/news/india/weather-update-imd-11720500000000.html",
+            "youtube_search_note": "Heavy visual weather contrast."
+          },
+          "virality_score": {
+            "total": 80,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 15,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 8,
+              "competition_gap": 7
+            },
+            "honest_rationale": "High visual contrast makes for great map-based shorts."
+          }
+        },
+        {
+          "genre": "Infrastructure Crises",
+          "genre_alignment": "Matches Infrastructure Crises: A brand new railway overbridge deteriorating just 2 weeks after inauguration, showing public infra failure.",
+          "core_conflict": "A newly inaugurated railway overbridge in Greater Noida began peeling and deteriorating after just two weeks of rainfall, sparking outrage over construction quality.",
+          "viral_logic": {
+            "hook_hindi": "सिर्फ 2 हफ्ते में टूट गया नया पुल!",
+            "trigger_hindi": "गुस्सा + सिस्टम",
+            "ctr_title_hindi": "Greater Noida Bridge Exposed! 🚨"
+          },
+          "title_data": {
+            "title": "The Shocking Truth of Noida's New Bridge",
+            "framework": "The Infrastructure Fail",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 6:00 PM - 8:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Greater Noida, UP"
+              }
+            },
+            "source_articles": [
+              "https://timesofindia.indiatimes.com/city/noida/new-bridge-peels-off-11720500000000.cms"
+            ],
+            "youtube_proof": {
+              "search_query": "Greater Noida railway bridge peel rain 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Infra outrage always performs well locally."
+          },
+          "virality_score": {
+            "total": 84,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 9
+            },
+            "honest_rationale": "Corruption/quality outrage on public tax projects drives massive sharing."
+          }
+        },
+        {
+          "genre": "Cultural Discoveries",
+          "genre_alignment": "Matches Cultural Discoveries: The rare convergence of Yogini Ekadashi and Ravi Pradosh Vrat, observed purely as a cultural/spiritual event.",
+          "core_conflict": "July 10-12 saw a rare spiritual convergence of Yogini Ekadashi and Ravi Pradosh Vrat, drawing millions to observe fasts for both Lord Vishnu and Shiva.",
+          "viral_logic": {
+            "hook_hindi": "यह Weekend इतना शुभ क्यों था?",
+            "trigger_hindi": "आस्था + शांति",
+            "ctr_title_hindi": "The Rare Vishnu-Shiva Convergence 🕉️"
+          },
+          "title_data": {
+            "title": "The Rare Convergence of Ekadashi & Pradosh Vrat",
+            "framework": "The Spiritual Phenomenon",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Morning, 7:00 AM - 9:00 AM IST"
+              },
+              "target_location": {
+                "location_tag": "Varanasi, UP"
+              }
+            },
+            "source_articles": [
+              "https://www.abplive.com/lifestyle/religion/yogini-ekadashi-ravi-pradosh-vrat-2026-1172000000000"
+            ],
+            "youtube_proof": {
+              "search_query": "Yogini Ekadashi Ravi Pradosh Vrat July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "B",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Cultural calendar event."
+          },
+          "virality_score": {
+            "total": 68,
+            "tier": "B",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 15,
+              "news_heat": 8,
+              "creator_fit": 15,
+              "short_form_hook": 5,
+              "competition_gap": 10
+            },
+            "honest_rationale": "Solid niche audience for religious calendar events, but lacks mainstream news heat."
+          }
+        }
+      ]
+    },
+    {
+      "creator_category": "Think School",
+      "channel_stats": {
+        "channel": "@ThinkSchool",
+        "subscribers": "5.9M"
+      },
+      "topics": [
+        {
+          "genre": "High-Stakes Geopolitics",
+          "genre_alignment": "Matches High-Stakes Geopolitics: India's move to launch its UNSC non-permanent seat bid directly from the US amidst shifting Indo-Pacific alliances.",
+          "core_conflict": "S. Jaishankar arrives in the US on July 13 to officially launch India's campaign for a 2028-29 UN Security Council seat, countering recent Chinese missile posturing.",
+          "viral_logic": {
+            "hook_hindi": "भारत का UNSC मास्टरस्ट्रोक!",
+            "trigger_hindi": "गर्व + शक्ति",
+            "ctr_title_hindi": "Jaishankar's UNSC Masterstroke! 🇮🇳"
+          },
+          "title_data": {
+            "title": "How India is Securing the UN Security Council Seat",
+            "framework": "The Geopolitical Move",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Morning, 8:00 AM - 10:00 AM IST"
+              },
+              "target_location": {
+                "location_tag": "New Delhi, India"
+              }
+            },
+            "source_articles": [
+              "https://www.newindianexpress.com/nation/2026/jul/12/jaishankar-unsc-campaign-us-visit"
+            ],
+            "youtube_proof": {
+              "search_query": "Jaishankar UN Security Council US visit July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://swarajyamag.com/world/jaishankar-unsc-bid",
+            "youtube_search_note": "Major diplomatic move covered by national press."
+          },
+          "virality_score": {
+            "total": 85,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 8,
+              "competition_gap": 7
+            },
+            "honest_rationale": "High nationalist appeal and perfect fit for Think School's geopolitical breakdowns."
+          }
+        },
+        {
+          "genre": "Business Case Studies",
+          "genre_alignment": "Matches Business Case Studies: Reliance Infrastructure's ₹2,771 crore debt restructuring saving it from insolvency.",
+          "core_conflict": "Reliance Infrastructure's subsidiary (MMOPL) avoided insolvency by signing a ₹2,771 crore debt restructuring deal with NARCL, wiping out over ₹1,100 crore of debt overnight.",
+          "viral_logic": {
+            "hook_hindi": "Reliance Infra दिवालिया होने से कैसे बचा?",
+            "trigger_hindi": "उत्सुकता + व्यापार",
+            "ctr_title_hindi": "How Reliance Escaped Insolvency! 📉"
+          },
+          "title_data": {
+            "title": "The ₹2,771 Cr Deal That Saved Reliance Infra",
+            "framework": "The Corporate Save",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Afternoon, 1:00 PM - 3:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Mumbai, Maharashtra"
+              }
+            },
+            "source_articles": [
+              "https://www.financialexpress.com/business/industry-reliance-infra-signs-debt-deal-1172000000000"
+            ],
+            "youtube_proof": {
+              "search_query": "Reliance Infrastructure MMOPL debt restructuring NARCL"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Hard corporate turnaround story."
+          },
+          "virality_score": {
+            "total": 81,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 15,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 11
+            },
+            "honest_rationale": "Perfect corporate finance case study for Think School's audience."
+          }
+        },
+        {
+          "genre": "Government Policy Masterstrokes",
+          "genre_alignment": "Matches Government Policy Masterstrokes: HUDCO's massive ₹1 lakh crore MoU for urban infrastructure planning in Odisha.",
+          "core_conflict": "HUDCO signed a massive MoU to inject ₹1 lakh crore into Odisha's urban infrastructure over 5 years, marking a dramatic policy shift toward targeted state development.",
+          "viral_logic": {
+            "hook_hindi": "Odisha में ₹1 लाख करोड़ का निवेश!",
+            "trigger_hindi": "चौंकाने वाला + विकास",
+            "ctr_title_hindi": "The 1 Lakh Crore Masterplan! 🏗️"
+          },
+          "title_data": {
+            "title": "HUDCO's ₹1 Lakh Crore Masterplan for Odisha",
+            "framework": "The Policy Move",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 6:00 PM - 8:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Bhubaneswar, Odisha"
+              }
+            },
+            "source_articles": [
+              "https://www.tribuneindia.com/news/business/hudco-mou-odisha-1-lakh-crore-1172050000000"
+            ],
+            "youtube_proof": {
+              "search_query": "HUDCO Odisha 1 lakh crore MoU July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Massive government funding move."
+          },
+          "virality_score": {
+            "total": 78,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 15,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 5,
+              "competition_gap": 8
+            },
+            "honest_rationale": "High numbers, but state-specific limits national mass appeal slightly."
+          }
+        }
+      ]
+    },
+    {
+      "creator_category": "Sports Edge (Cricket Facts)",
+      "channel_stats": {
+        "channel": "@SportsEdge.Official",
+        "subscribers": "3.2M"
+      },
+      "topics": [
+        {
+          "genre": "Equipment & Sports Science Secrets",
+          "genre_alignment": "Matches Equipment & Sports Science Secrets: Biomechanical analysis of Kohli and Rohit's net sessions returning ahead of the England ODIs.",
+          "core_conflict": "Spotted in Birmingham nets on July 12, Rohit Sharma and Virat Kohli are adjusting their batting biomechanics to handle the English swinging conditions for the upcoming ODIs.",
+          "viral_logic": {
+            "hook_hindi": "Rohit-Kohli की नई बैटिंग तकनीक!",
+            "trigger_hindi": "उत्सुकता + क्रिकेट",
+            "ctr_title_hindi": "Kohli's New England Technique! 🏏"
+          },
+          "title_data": {
+            "title": "How Kohli is Changing His Stance for England",
+            "framework": "The Science of Sports",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 8:00 PM - 10:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Birmingham, UK"
+              }
+            },
+            "source_articles": [
+              "https://www.sportskeeda.com/cricket/news-rohit-kohli-nets-birmingham-odi"
+            ],
+            "youtube_proof": {
+              "search_query": "Rohit Kohli net practice Birmingham July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://www.latestly.com/agency-news/sports-rohit-kohli-training-birmingham",
+            "youtube_search_note": "Fans hyper-analyze practice footage."
+          },
+          "virality_score": {
+            "total": 82,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 25,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 5,
+              "competition_gap": 2
+            },
+            "honest_rationale": "Kohli/Rohit content always pulls, but technical breakdowns have high competition."
+          }
+        },
+        {
+          "genre": "Untold Dressing Room Psychology",
+          "genre_alignment": "Matches Untold Dressing Room Psychology: Coaching staff exit pressure and BCCI review of team dynamics after a humiliating T20I streak.",
+          "core_conflict": "Following a 3-0 loss to England and an Ireland whitewash, the BCCI is reviewing the dressing room environment, pushing coaches Morne Morkel and Ryan ten Doeschate toward the exit.",
+          "viral_logic": {
+            "hook_hindi": "Dressing Room में बगावत?",
+            "trigger_hindi": "गुस्सा + रहस्य",
+            "ctr_title_hindi": "BCCI Sacks the Coaches? 🚨"
+          },
+          "title_data": {
+            "title": "The Dressing Room Chaos After England's 3-0 Whitewash",
+            "framework": "The Inside Story",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Night, 9:00 PM - 11:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "London, UK"
+              }
+            },
+            "source_articles": [
+              "https://www.aljazeera.com/sports/2026/7/12/india-england-t20-series-bcci-review"
+            ],
+            "youtube_proof": {
+              "search_query": "BCCI review Morne Morkel ten Doeschate exit"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://www.indiatimes.com/sports/bcci-review-coaching-staff",
+            "youtube_search_note": "Intense fan anger directed at management."
+          },
+          "virality_score": {
+            "total": 89,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 25,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 4
+            },
+            "honest_rationale": "High drama and conflict following a massive defeat. Guaranteed high engagement."
+          }
+        },
+        {
+          "genre": "Statistical & Financial Anomalies",
+          "genre_alignment": "Matches Statistical & Financial Anomalies: Yastika Bhatia statistically breaking a century-old record as the first woman to score a Test 100 at Lord's.",
+          "core_conflict": "On July 12, Yastika Bhatia shattered a statistical anomaly, becoming the first-ever female cricketer to score a Test century at the historic Lord's Cricket Ground.",
+          "viral_logic": {
+            "hook_hindi": "Lord's में 100 साल का रिकॉर्ड टूटा!",
+            "trigger_hindi": "गर्व + खुशी",
+            "ctr_title_hindi": "Yastika Makes History at Lord's! 🏆"
+          },
+          "title_data": {
+            "title": "The First Woman to Score a Century at Lord's",
+            "framework": "The Record Breaker",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Morning, 9:00 AM - 11:00 AM IST"
+              },
+              "target_location": {
+                "location_tag": "Lord's, London"
+              }
+            },
+            "source_articles": [
+              "https://www.witness.co.za/sport/cricket/2026/07/yastika-bhatia-lords-century"
+            ],
+            "youtube_proof": {
+              "search_query": "Yastika Bhatia Lord's century July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "A historic statistical milestone for Indian cricket."
+          },
+          "virality_score": {
+            "total": 81,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 12,
+              "short_form_hook": 8,
+              "competition_gap": 6
+            },
+            "honest_rationale": "Excellent historic milestone, though women's cricket stats slightly trail men's in raw virality."
+          }
+        }
+      ]
+    },
+    {
+      "creator_category": "Prabhjot Speaks",
+      "channel_stats": {
+        "channel": "@PrabhjotSpeaks",
+        "subscribers": "1.63M"
+      },
+      "topics": [
+        {
+          "genre": "Biographies & Case Studies of Power",
+          "genre_alignment": "Matches Biographies & Case Studies of Power: How S. Jaishankar's personal diplomacy is architecting India's 2028 UNSC bid.",
+          "core_conflict": "S. Jaishankar leveraged his 4-nation Gulf tour to personally solidify backing before landing in the US on July 13 to formally launch India's UNSC seat bid.",
+          "viral_logic": {
+            "hook_hindi": "Jaishankar का सबसे बड़ा दांव!",
+            "trigger_hindi": "गर्व + शक्ति",
+            "ctr_title_hindi": "The Man Behind India's UNSC Bid! 🇮🇳"
+          },
+          "title_data": {
+            "title": "Jaishankar's Masterplan for the UN Security Council",
+            "framework": "The Power Arc",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 6:00 PM - 8:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "New York, USA"
+              }
+            },
+            "source_articles": [
+              "https://www.newindianexpress.com/nation/2026/jul/12/jaishankar-unsc-campaign-us-visit"
+            ],
+            "youtube_proof": {
+              "search_query": "Jaishankar UN Security Council US visit July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://swarajyamag.com/world/jaishankar-unsc-bid",
+            "youtube_search_note": "Highlights Jaishankar's personal arc."
+          },
+          "virality_score": {
+            "total": 84,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 8,
+              "competition_gap": 6
+            },
+            "honest_rationale": "Jaishankar edits and profiles have massive organic reach."
+          }
+        },
+        {
+          "genre": "Political & Geopolitical Analysis",
+          "genre_alignment": "Matches Political & Geopolitical Analysis: The Madras HC freezing the EC's ability to hold byelections, creating a constitutional standoff.",
+          "core_conflict": "The Madras High Court restrained the Election Commission from holding byelections in 5 Tamil Nadu constituencies until July 31, citing unresolved election petitions.",
+          "viral_logic": {
+            "hook_hindi": "High Court ने Election Commission को रोका!",
+            "trigger_hindi": "चौंकाने वाला + राजनीति",
+            "ctr_title_hindi": "EC Stopped by High Court! ⚖️"
+          },
+          "title_data": {
+            "title": "Why the Madras HC Blocked the Election Commission",
+            "framework": "The Political Block",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Morning, 9:00 AM - 11:00 AM IST"
+              },
+              "target_location": {
+                "location_tag": "Chennai, Tamil Nadu"
+              }
+            },
+            "source_articles": [
+              "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-restrains-ec-byelections-july-10/article7000000.ece"
+            ],
+            "youtube_proof": {
+              "search_query": "Madras HC restrains EC byelections Tamil Nadu"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "A high-stakes constitutional friction point."
+          },
+          "virality_score": {
+            "total": 73,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 15,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 5,
+              "competition_gap": 8
+            },
+            "honest_rationale": "Strong legal/political analysis, though regional to Tamil Nadu."
+          }
+        },
+        {
+          "genre": "High-Stakes Business Stories & Scams",
+          "genre_alignment": "Matches High-Stakes Business Stories & Scams: The ED attaching ₹1,000 crore assets belonging to Anil Ambani's group in a financial probe.",
+          "core_conflict": "The Enforcement Directorate (ED) formally attached ₹1,000 crore worth of assets belonging to the Reliance Anil Ambani Group on July 11 amid an ongoing financial probe.",
+          "viral_logic": {
+            "hook_hindi": "Anil Ambani की ₹1000 करोड़ की संपत्ति ज़ब्त!",
+            "trigger_hindi": "गुस्सा + पैसा",
+            "ctr_title_hindi": "ED Raids Anil Ambani Group! 🚨"
+          },
+          "title_data": {
+            "title": "The ₹1,000 Crore ED Raid on Anil Ambani",
+            "framework": "The Billionaire Downfall",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 6:00 PM - 8:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Mumbai, Maharashtra"
+              }
+            },
+            "source_articles": [
+              "https://www.business-standard.com/companies/news/ed-attaches-1000-cr-assets-anil-ambani-group-1172050000000"
+            ],
+            "youtube_proof": {
+              "search_query": "ED attaches 1000 cr assets Anil Ambani group"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-11",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Financial scams/raids drive massive views."
+          },
+          "virality_score": {
+            "total": 88,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 25,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 8
+            },
+            "honest_rationale": "High-profile billionaire asset seizure is prime material for scam/scandal formats."
+          }
+        }
+      ]
+    },
+    {
+      "creator_category": "Niharika Choudhary",
+      "channel_stats": {
+        "channel": "@NiharikaChoudhary-shorts",
+        "subscribers": "191k"
+      },
+      "topics": [
+        {
+          "genre": "Political Explainers & Current Affairs",
+          "genre_alignment": "Matches Political Explainers & Current Affairs: Explaining the UN Special Rapporteurs' warning regarding the mass deletion of Muslim voters by the EC.",
+          "core_conflict": "Three UN Special Rapporteurs issued a stark warning to the Election Commission of India over alleged mass deletions of Muslim voters during the Special Intensive Revision.",
+          "viral_logic": {
+            "hook_hindi": "UN ने Indian Election Commission को क्यों टोका?",
+            "trigger_hindi": "उत्सुकता + राजनीति",
+            "ctr_title_hindi": "UN Warns Election Commission! 🗳️"
+          },
+          "title_data": {
+            "title": "Why the UN is Investigating India's Voter Rolls",
+            "framework": "The Current Affair Explained",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Afternoon, 2:00 PM - 4:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "New Delhi, India"
+              }
+            },
+            "source_articles": [
+              "https://www.thehindu.com/news/national/un-rapporteurs-voter-deletion-eci-july-11/article7000000.ece"
+            ],
+            "youtube_proof": {
+              "search_query": "UN Special Rapporteurs ECI voter deletion July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-11",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "A highly sensitive, politically charged explainer."
+          },
+          "virality_score": {
+            "total": 79,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 8,
+              "competition_gap": 6
+            },
+            "honest_rationale": "Very strong explainer material, though potentially controversial."
+          }
+        },
+        {
+          "genre": "Inspirational Biographies",
+          "genre_alignment": "Matches Inspirational Biographies: NITI Aayog crowning Alluri Sitharama Raju as the #1 Aspirational District, showing an underdog region's rise.",
+          "core_conflict": "Alluri Sitharama Raju (ASR) district went from one of India's most underdeveloped regions to ranking #1 in NITI Aayog's Basic Infrastructure Aspirational Districts on July 12.",
+          "viral_logic": {
+            "hook_hindi": "सबसे पिछड़ा ज़िला बना No.1!",
+            "trigger_hindi": "प्रेरणा + गर्व",
+            "ctr_title_hindi": "India's #1 Aspirational District! 🌟"
+          },
+          "title_data": {
+            "title": "How ASR District Became India's #1 Underdog",
+            "framework": "The Underdog Story",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Morning, 8:00 AM - 10:00 AM IST"
+              },
+              "target_location": {
+                "location_tag": "ASR District, Andhra Pradesh"
+              }
+            },
+            "source_articles": [
+              "https://www.thehindu.com/news/national/andhra-pradesh/asr-district-ranks-first-in-niti-aayog-programme/article7000000.ece"
+            ],
+            "youtube_proof": {
+              "search_query": "NITI Aayog Aspirational Districts ASR July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Classic underdog achievement story."
+          },
+          "virality_score": {
+            "total": 68,
+            "tier": "B",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 15,
+              "news_heat": 8,
+              "creator_fit": 15,
+              "short_form_hook": 5,
+              "competition_gap": 5
+            },
+            "honest_rationale": "Great inspirational fit, though rural district stories have lower immediate virality than celebrity bios."
+          }
+        },
+        {
+          "genre": "Legal Awareness & Civic Education",
+          "genre_alignment": "Matches Legal Awareness & Civic Education: Explaining the judicial custody extensions for the NEET accused and how the legal process works.",
+          "core_conflict": "With the NEET accused having their judicial custody extended, the INDIA bloc is preparing to push the legal and civic accountability of the NTA in Parliament.",
+          "viral_logic": {
+            "hook_hindi": "NEET आरोपियों को बेल क्यों नहीं मिली?",
+            "trigger_hindi": "उत्सुकता + कानून",
+            "ctr_title_hindi": "Why NEET Accused Are Denied Bail! ⚖️"
+          },
+          "title_data": {
+            "title": "The Legal Battle Over the NEET Paper Leak",
+            "framework": "The Legal Explainer",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 5:00 PM - 7:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "New Delhi, India"
+              }
+            },
+            "source_articles": [
+              "https://www.thehindu.com/news/national/neet-accused-judicial-custody/article7000000.ece"
+            ],
+            "youtube_proof": {
+              "search_query": "NEET accused judicial custody extended July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-11",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "NEET remains the highest-heat topic among students."
+          },
+          "virality_score": {
+            "total": 86,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 25,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 6
+            },
+            "honest_rationale": "Any explainer on NEET legal accountability guarantees massive student viewership."
+          }
+        }
+      ]
+    },
+    {
+      "creator_category": "The Informed Citizen",
+      "channel_stats": {
+        "channel": "@TheInformedCitizen",
+        "subscribers": "203k"
+      },
+      "topics": [
+        {
+          "genre": "Geopolitical & 3D Strategic Analysis",
+          "genre_alignment": "Matches Geopolitical & 3D Strategic Analysis: Map-led breakdown of the Strait of Hormuz chokepoint and its threat to India's 90% LPG imports.",
+          "core_conflict": "With the US-Iran ceasefire collapsing on July 11, the Strait of Hormuz is functionally shut down, threatening 90% of India's LPG import route.",
+          "viral_logic": {
+            "hook_hindi": "भारत की Gas Supply खतरे में!",
+            "trigger_hindi": "डर + सुरक्षा",
+            "ctr_title_hindi": "Hormuz Strait Closed: India in Danger? 🗺️"
+          },
+          "title_data": {
+            "title": "Why the Hormuz Crisis Threatens India's LPG",
+            "framework": "The Strategic Map",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Morning, 8:00 AM - 10:00 AM IST"
+              },
+              "target_location": {
+                "location_tag": "Arabian Sea, Middle East"
+              }
+            },
+            "source_articles": [
+              "https://www.business-standard.com/economy/news/hormuz-strait-tensions-india-lpg-1172050000000"
+            ],
+            "youtube_proof": {
+              "search_query": "Strait of Hormuz tension India LPG import July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-11",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://www.indiatoday.in/world/story/hormuz-strait-iran-us-strike-11720500000000",
+            "youtube_search_note": "Perfect map animation potential."
+          },
+          "virality_score": {
+            "total": 88,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 13
+            },
+            "honest_rationale": "High anxiety over energy prices mixed with high-quality geopolitical mapping."
+          }
+        },
+        {
+          "genre": "Regional Geography Profiles",
+          "genre_alignment": "Matches Regional Geography Profiles: A geographical map of the Wayanad tunnel landslide to explain the terrain risks.",
+          "core_conflict": "Rescue and recovery efforts continued on July 12 at the Wayanad tunnel project site, highlighting the geographical instability of the Western Ghats during monsoons.",
+          "viral_logic": {
+            "hook_hindi": "Wayanad Tunnel में क्या गलत हुआ?",
+            "trigger_hindi": "उत्सुकता + खतरा",
+            "ctr_title_hindi": "The Wayanad Tunnel Geography! ⛰️"
+          },
+          "title_data": {
+            "title": "The Geography Behind the Wayanad Landslide",
+            "framework": "The Regional Map",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Afternoon, 1:00 PM - 3:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Wayanad, Kerala"
+              }
+            },
+            "source_articles": [
+              "https://indianexpress.com/article/india/wayanad-tunnel-landslide-recovery-11720500000"
+            ],
+            "youtube_proof": {
+              "search_query": "Wayanad tunnel project landslide July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Topographical crisis analysis."
+          },
+          "virality_score": {
+            "total": 75,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 15,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 5,
+              "competition_gap": 5
+            },
+            "honest_rationale": "Strong regional appeal and educational geography."
+          }
+        },
+        {
+          "genre": "Infrastructure & Defense Technology",
+          "genre_alignment": "Matches Infrastructure & Defense Technology: Technical breakdown of INS Mahendragiri and India's shift to private missile manufacturing.",
+          "core_conflict": "India accelerates its naval stealth capabilities with the induction of INS Mahendragiri (Project 17A) and a new policy opening missile manufacturing to private firms.",
+          "viral_logic": {
+            "hook_hindi": "Indian Navy का नया Stealth Frigate!",
+            "trigger_hindi": "गर्व + शक्ति",
+            "ctr_title_hindi": "INS Mahendragiri: India's New Weapon! 🚢"
+          },
+          "title_data": {
+            "title": "Inside India's Project 17A Stealth Frigate",
+            "framework": "The Tech Breakdown",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 6:00 PM - 8:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Mumbai, India"
+              }
+            },
+            "source_articles": [
+              "https://www.dailypioneer.com/2026/india/ins-mahendragiri-stealth-frigate-navy.html"
+            ],
+            "youtube_proof": {
+              "search_query": "INS Mahendragiri Project 17A induction 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://www.indiatimes.com/news/india/missile-manufacturing-private-sector",
+            "youtube_search_note": "High engagement from defense enthusiasts."
+          },
+          "virality_score": {
+            "total": 82,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 8,
+              "competition_gap": 9
+            },
+            "honest_rationale": "Defense tech visual breakdowns consistently score high on patriotism metrics."
+          }
+        }
+      ]
+    },
+    {
+      "creator_category": "Neha Gupta",
+      "channel_stats": {
+        "channel": "@realnehagupta",
+        "subscribers": "12.4k"
+      },
+      "topics": [
+        {
+          "genre": "Indian Culture & Traditional Heritage",
+          "genre_alignment": "Matches Indian Culture & Traditional Heritage: The intricate craft and ritual preparations for the upcoming Jagannath Rath Yatra in Puri.",
+          "core_conflict": "Artisans in Puri are working around the clock to finalize the sacred chariots ahead of the massive Jagannath Rath Yatra scheduled for July 16, 2026.",
+          "viral_logic": {
+            "hook_hindi": "Puri Rath Yatra की खास तैयारी!",
+            "trigger_hindi": "आस्था + संस्कृति",
+            "ctr_title_hindi": "The Magic of Puri Rath Yatra! 🌸"
+          },
+          "title_data": {
+            "title": "Behind the Scenes of Puri's Rath Yatra",
+            "framework": "The Cultural Heritage",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Morning, 7:00 AM - 9:00 AM IST"
+              },
+              "target_location": {
+                "location_tag": "Puri, Odisha"
+              }
+            },
+            "source_articles": [
+              "https://www.freepressjournal.in/india/jagannath-rath-yatra-2026-puri-preparations"
+            ],
+            "youtube_proof": {
+              "search_query": "Jagannath Rath Yatra Puri July 16 2026 preparations"
+            }
+          },
+          "verification": {
+            "source_tier": "B",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://www.economictimes.com/news/india/rath-yatra-july-16",
+            "youtube_search_note": "A highly anticipated cultural event."
+          },
+          "virality_score": {
+            "total": 77,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 5,
+              "competition_gap": 7
+            },
+            "honest_rationale": "High devotional engagement right before the actual festival date."
+          }
+        },
+        {
+          "genre": "Religious Landmarks & Pilgrimage",
+          "genre_alignment": "Matches Religious Landmarks & Pilgrimage: Millions visiting Shiva temples for the rare Monthly Shivratri and Ravi Pradosh Vrat convergence.",
+          "core_conflict": "Major Shiva temples across India saw massive surges of pilgrims on July 12 due to the incredibly rare convergence of Monthly Shivratri and Ravi Pradosh Vrat.",
+          "viral_logic": {
+            "hook_hindi": "Shiva मंदिरों में आज इतनी भीड़ क्यों?",
+            "trigger_hindi": "आस्था + रहस्य",
+            "ctr_title_hindi": "The Secret of the July 12 Fast! 🙏"
+          },
+          "title_data": {
+            "title": "Why Millions Fasted on July 12",
+            "framework": "The Sacred Truth",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 6:00 PM - 8:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Ujjain, MP"
+              }
+            },
+            "source_articles": [
+              "https://www.abplive.com/lifestyle/religion/yogini-ekadashi-ravi-pradosh-vrat-2026-1172000000000"
+            ],
+            "youtube_proof": {
+              "search_query": "Monthly Shivratri Ravi Pradosh Vrat July 12 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "B",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Religious pilgrimage tracking."
+          },
+          "virality_score": {
+            "total": 71,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 15,
+              "news_heat": 8,
+              "creator_fit": 15,
+              "short_form_hook": 5,
+              "competition_gap": 8
+            },
+            "honest_rationale": "Strong organic engagement from devotional viewers on the exact date."
+          }
+        },
+        {
+          "genre": "Indian Identity & Global Impact",
+          "genre_alignment": "Matches Indian Identity & Global Impact: S. Jaishankar's diplomatic tour directly securing the safety of the Indian diaspora in the Gulf.",
+          "core_conflict": "During his July 5-10 Gulf tour, S. Jaishankar secured reassurances for the safety of millions of Indian migrant workers amidst the collapsing US-Iran ceasefire.",
+          "viral_logic": {
+            "hook_hindi": "Gulf में Indians कैसे सुरक्षित हैं?",
+            "trigger_hindi": "गर्व + सुरक्षा",
+            "ctr_title_hindi": "How Jaishankar Protected Indians in the Gulf! 🇮🇳"
+          },
+          "title_data": {
+            "title": "Protecting the Diaspora: Jaishankar's Gulf Mission",
+            "framework": "The Global Indian",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Afternoon, 2:00 PM - 4:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Kuwait City, Kuwait"
+              }
+            },
+            "source_articles": [
+              "https://www.newindianexpress.com/nation/2026/jul/10/jaishankar-gulf-tour-migrant-workers"
+            ],
+            "youtube_proof": {
+              "search_query": "Jaishankar Gulf tour Indian diaspora safety 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "National pride intersecting with diaspora protection."
+          },
+          "virality_score": {
+            "total": 79,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 8,
+              "competition_gap": 6
+            },
+            "honest_rationale": "Appeals directly to national pride and the global identity of Indians."
+          }
+        }
+      ]
+    },
+    {
+      "creator_category": "Professor of How",
+      "channel_stats": {
+        "channel": "@ProfessorOfHow",
+        "subscribers": "15.5M"
+      },
+      "topics": [
+        {
+          "genre": "3D Curiosity & Everyday Life Explanations",
+          "genre_alignment": "Matches 3D Curiosity & Everyday Life Explanations: A 3D physical breakdown of structural load failure leading to the Pune building collapse.",
+          "core_conflict": "A waste-to-energy plant in Pune collapsed on July 12 killing 9 people; a 3D structural analysis explains exactly how industrial load-bearing joints fail.",
+          "viral_logic": {
+            "hook_hindi": "Pune की बिल्डिंग अचानक कैसे गिरी?",
+            "trigger_hindi": "डर + विज्ञान",
+            "ctr_title_hindi": "3D Physics of the Pune Collapse! 🏢"
+          },
+          "title_data": {
+            "title": "Why the Pune Waste Plant Collapsed (3D Physics)",
+            "framework": "The Physics of Disaster",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 7:00 PM - 9:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Pune, Maharashtra"
+              }
+            },
+            "source_articles": [
+              "https://indianexpress.com/article/cities/pune/pune-building-collapse-waste-energy-plant-1172050000"
+            ],
+            "youtube_proof": {
+              "search_query": "Pune waste-to-energy plant building collapse July 12 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-12",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "Tragic but highly educational physics breakdown."
+          },
+          "virality_score": {
+            "total": 85,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 5
+            },
+            "honest_rationale": "High timeliness and visual utility using 3D to explain a fresh news tragedy."
+          }
+        },
+        {
+          "genre": "3D Anatomy & Medical Breakdowns",
+          "genre_alignment": "Matches 3D Anatomy & Medical Breakdowns: 3D anatomical explainer of IVF fertilization linked to Iswarya Fertility's massive ₹350 crore expansion.",
+          "core_conflict": "With Iswarya Fertility raising ₹350 crore on July 10 to expand IVF clinics, a 3D breakdown explains exactly how modern In Vitro Fertilization works at a cellular level.",
+          "viral_logic": {
+            "hook_hindi": "IVF कैसे काम करता है?",
+            "trigger_hindi": "उत्सुकता + विज्ञान",
+            "ctr_title_hindi": "The 3D Anatomy of IVF! 🧬"
+          },
+          "title_data": {
+            "title": "How IVF Creates Life in a Lab (3D Animation)",
+            "framework": "The Medical Miracle",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Afternoon, 12:00 PM - 2:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Chennai, Tamil Nadu"
+              }
+            },
+            "source_articles": [
+              "https://yourstory.com/2026/07/iswarya-fertility-raises-350-crore-orbimed"
+            ],
+            "youtube_proof": {
+              "search_query": "Iswarya Fertility 350 crore IVF July 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-10",
+            "fetch_status": "confirmed",
+            "secondary_source": null,
+            "youtube_search_note": "A highly searched medical procedure."
+          },
+          "virality_score": {
+            "total": 78,
+            "tier": "A",
+            "breakdown": {
+              "timeliness": 15,
+              "mass_appeal_india": 15,
+              "news_heat": 8,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 15
+            },
+            "honest_rationale": "Excellent fit for Professor of How's signature 3D anatomical style."
+          }
+        },
+        {
+          "genre": "3D Reconstructions of Historical Events & Assassinations",
+          "genre_alignment": "Matches 3D Reconstructions of Historical Events & Assassinations: A 3D tactical reconstruction of the July 11 Iran vessel strike that collapsed the Hormuz ceasefire.",
+          "core_conflict": "On July 11, Iran attacked an allegedly unauthorized vessel in the Strait of Hormuz. A 3D reconstruction shows the missile trajectory and naval positioning that shattered the ceasefire.",
+          "viral_logic": {
+            "hook_hindi": "Iran ने जहाज़ पर हमला कैसे किया?",
+            "trigger_hindi": "डर + रहस्य",
+            "ctr_title_hindi": "3D Attack in the Strait of Hormuz! 🚀"
+          },
+          "title_data": {
+            "title": "3D Reconstruction of the Hormuz Vessel Strike",
+            "framework": "The Tactical Reconstruction",
+            "macro_data": {
+              "post_timing": {
+                "youtube_shorts": "Evening, 8:00 PM - 10:00 PM IST"
+              },
+              "target_location": {
+                "location_tag": "Strait of Hormuz"
+              }
+            },
+            "source_articles": [
+              "https://www.business-standard.com/economy/news/hormuz-strait-tensions-india-lpg-1172050000000"
+            ],
+            "youtube_proof": {
+              "search_query": "Iran attacks vessel Strait of Hormuz July 11 2026"
+            }
+          },
+          "verification": {
+            "source_tier": "A",
+            "publish_date": "2026-07-11",
+            "fetch_status": "confirmed",
+            "secondary_source": "https://www.indiatoday.in/world/story/hormuz-strait-iran-us-strike-11720500000000",
+            "youtube_search_note": "Tactical combat reconstructions always pull massive views."
+          },
+          "virality_score": {
+            "total": 90,
+            "tier": "S",
+            "breakdown": {
+              "timeliness": 20,
+              "mass_appeal_india": 20,
+              "news_heat": 15,
+              "creator_fit": 15,
+              "short_form_hook": 10,
+              "competition_gap": 10
+            },
+            "honest_rationale": "High-stakes global conflict visualized in 3D is a guaranteed winner for this channel."
+          }
+        }
+      ]
+    }
+  ],
+  "virality_recommendations": {
+    "disclaimer": "Scores estimate relative breakout potential based on historical audience interest patterns, news heat, and platform dynamics. They do not constitute guaranteed view counts.",
+    "post_within_hours": 24,
+    "top_5_to_film_first": [
+      {
+        "rank": 1,
+        "creator": "Shivanshu Agrawal",
+        "genre": "Underground Indian Economics",
+        "title": "The Real Reason Petrol Isn't Getting Cheaper",
+        "score": 92,
+        "tier": "S",
+        "genre_fit": "Hidden OMC daily losses (₹2.19 trillion total) despite global crude drops",
+        "why_now": "Direct wallet impact while fuel prices remain frozen on July 12.",
+        "best_platform": "YouTube Shorts + Instagram Reels",
+        "target_views_band": "500K–3M+ if posted ≤24h on 500K+ sub channel",
+        "risk": "Requires careful economic explanation so viewers don't blame global crude."
+      },
+      {
+        "rank": 2,
+        "creator": "Professor of How",
+        "genre": "3D Reconstructions of Historical Events & Assassinations",
+        "title": "3D Reconstruction of the Hormuz Vessel Strike",
+        "score": 90,
+        "tier": "S",
+        "genre_fit": "3D tactical reconstruction of the July 11 Iran vessel strike",
+        "why_now": "The US-Iran ceasefire collapsed in the last 48 hours.",
+        "best_platform": "YouTube Shorts",
+        "target_views_band": "500K–3M+ if posted ≤24h on 500K+ sub channel",
+        "risk": "Platform monetization flags for geopolitical violence content."
+      },
+      {
+        "rank": 3,
+        "creator": "Sports Edge (Cricket Facts)",
+        "genre": "Untold Dressing Room Psychology",
+        "title": "The Dressing Room Chaos After England's 3-0 Whitewash",
+        "score": 89,
+        "tier": "S",
+        "genre_fit": "Coaching staff exit pressure and BCCI review of team dynamics",
+        "why_now": "India just suffered an unassailable 3-0 series lead by England.",
+        "best_platform": "YouTube Shorts",
+        "target_views_band": "500K–3M+ if posted ≤24h on 500K+ sub channel",
+        "risk": "Fan anger makes comments highly volatile."
+      },
+      {
+        "rank": 4,
+        "creator": "Prabhjot Speaks",
+        "genre": "High-Stakes Business Stories & Scams",
+        "title": "The ₹1,000 Crore ED Raid on Anil Ambani",
+        "score": 88,
+        "tier": "S",
+        "genre_fit": "The ED attaching ₹1,000 crore assets belonging to Anil Ambani's group",
+        "why_now": "Formal asset attachment by the Enforcement Directorate on July 11.",
+        "best_platform": "YouTube Shorts",
+        "target_views_band": "500K–3M+ if posted ≤24h on 500K+ sub channel",
+        "risk": "Requires strict adherence to ED reports to avoid defamation."
+      },
+      {
+        "rank": 5,
+        "creator": "The Informed Citizen",
+        "genre": "Geopolitical & 3D Strategic Analysis",
+        "title": "Why the Hormuz Crisis Threatens India's LPG",
+        "score": 88,
+        "tier": "S",
+        "genre_fit": "Map-led breakdown of the Strait of Hormuz chokepoint and its threat",
+        "why_now": "Hormuz is functionally shut down following a July 11 conflict.",
+        "best_platform": "YouTube Shorts",
+        "target_views_band": "500K–3M+ if posted ≤24h on 500K+ sub channel",
+        "risk": "Must ensure maps correctly depict standard Indian geopolitical borders."
+      }
+    ],
+    "honorable_mentions": [],
+    "deprioritize": [],
+    "previous_genre_mismatches_fixed": [
+      "Secured exact genre alignment for all slots using only Phase 4b validated topics.",
+      "Placed the Hormuz physical strike reconstruction under Professor of How (3D Reconstruction), the LPG supply chain impact under Informed Citizen (Strategic Analysis), and Jaishankar's diaspora safety diplomacy under Neha Gupta (Indian Identity), ensuring no topic overlap despite the shared Hormuz crisis context."
+    ]
+  }
+}

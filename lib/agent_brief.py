@@ -77,7 +77,8 @@ If voice guidance is missing from the context file, run `python3 prepare.py -c {
 
 ### Phase C — Write script (intelligence, not templates)
 - Write `[00:00]` lines in the **same shape** as the reference transcript analysis block.
-- **Devanagari** in FULL SCRIPT (brands/tickers in English OK). Roman body = fail.
+- **Romanized Hinglish** in FULL SCRIPT (Latin letters; brands/tickers in English OK). Pure Devanagari wall = fail unless context mandates.
+- **≥2:00 spoken** — ≥360 words, last timestamp ≥`[01:55]` (SCRIPT_RULES.md Rule 2h).
 - **`[00:00]` hook** = reference **first-line device** (e.g. `फॉग ने इस तरह से` → `अडानी ने इस तरह से`; `फैक्ट्स सरप्राइज़` + same-breath `जब…`).
 - **Teach one chain** if reference teaches how (जब→तो→मतलब→लेकिन→इसीलिए). **Never** stack 3+ stats without linking sentences.
 - **Tone from transcript**; **facts from articles** — never paste headline Hindi as the hook.

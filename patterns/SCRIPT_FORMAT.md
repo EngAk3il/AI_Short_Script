@@ -4,9 +4,7 @@
 > Analyzed from existing scripts: hellooipsita (4), SciCoLens (1), CleoAbram (1).
 > NEVER deviate from this format.
 
-> [!CAUTION] **ALL HINDI SCRIPTS MUST USE ROMANIZED HINDI (Roman/Latin letters)**
-> Write "Kya aapne kabhi socha hai" — NOT "क्या आपने कभी सोचा है"
-> This applies to ALL creators. NEVER use Devanagari script.
+> [!CAUTION] **DEFAULT: Romanized Hindi (Latin letters)** for `## FULL SCRIPT` — e.g. `Kya aapne kabhi socha hai` not Devanagari wall. **Exception:** `*_context.md` REQUIRED FORMAT explicitly mandates Devanagari for that creator/topic (rare). Same as `SCRIPT_RULES.md` Rule 2e.
 
 ---
 

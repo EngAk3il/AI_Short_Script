@@ -19,5 +19,12 @@
 ## NEVER
 `bhai` · `tum log` · outrage/prosecution · personal opinion
 
-## CTA
-`Aisi aur video ke liye channel ko subscribe karein.`
+## CTA (rotate — never same line on every script in a batch)
+| Line | From transcript |
+|------|-----------------|
+| `Aisi aur video ke liye channel ko subscribe karein.` | `c80v7JNh3x4` |
+| `Aisi aur videos ke liye channel ko subscribe kariye.` | `geLmnkiYdoo` |
+| `Aise aur video ke liye channel ko subscribe karein.` | `akZCyFenbAY` |
+| Punchline only, no CTA | `y7qQ3N40Flc`, `8aNQoeglIlU` |
+
+Prefer **woven** close: resolution fact + CTA in one beat.

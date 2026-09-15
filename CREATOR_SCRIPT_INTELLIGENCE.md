@@ -10,9 +10,10 @@
 1. **Wrong phrases stuffed in** — e.g. forcing `Dar-asal` / `Aaiye samajhte hain` on The Informed Citizen when their geo Shorts open with **`दोस्तों, [state] की geography...`** (see `data/TheInformedCitizen/TsiWJSld98s/transcript.txt`).
 2. **Date spam** — User JSON had `2026-05-14`; agents repeated it every line. **Real Niharika/Neha transcripts almost never say years or "May 14" in speech.** Dates belong in the references table, not in every beat.
 3. **News-anchor Hindi** — Generic "14 May ko SC ne..." instead of that creator's hook from `deep_hooks.md` (verbatim rhythm).
-4. **Romanized script body** — Writing `Tirupati mein Gangamma...` when transcripts are **Devanagari**. The hook dies in Roman; user scrolls past.
-5. **Wrong reference + fake mapping** — Citing `6-JWJUVkuPg` (Ramnami) for Gangamma while the opener is generic English news.
-6. **Same skeleton for everyone** — Markdown tables copied from Shivanshu onto Neha/Niharika.
+4. **Pure Devanagari script walls** — Writing full script in Devanagari when on-camera delivery is **Romanized Hinglish** (`Tirupati mein Gangamma...`, `matlab`, `lekin`). Ingest may be Devanagari; **output is still Romanized** unless context explicitly requires Devanagari.
+5. **Too short (<2 min)** — 8–11 beats / 70–90s feels rushed; target **≥120s spoken**, **≥360 words**, last stamp **`[01:55]`+**.
+6. **Wrong reference + fake mapping** — Citing `6-JWJUVkuPg` (Ramnami) for Gangamma while the opener is generic English news.
+7. **Same skeleton for everyone** — Markdown tables copied from Shivanshu onto Neha/Niharika.
 
 ---
 
@@ -29,11 +30,13 @@ Count in the reference:
 
 | Check | Action |
 |-------|--------|
-| How many `[00:00]` lines? | Write the **same count** (±1). |
-| Words per line? | Short (8–15) vs long (25–40) — **match**. |
+| How many `[00:00]` lines? | **≥14** for explainers (2 min); or reference count ±1 if reference is already long. |
+| Total words (FULL SCRIPT)? | **≥360** Romanized words (≥320 for slow WPS creators). |
+| Last timestamp? | **`[01:55]` minimum** — prefer `[02:00]+`. |
+| Words per line? | Short (8–15) vs long (25–45) — **match reference density**. |
 | Dates in speech? | If **0**, you get **max 1 date** in full script. |
-| Opening words? | Copy **pattern** in **Devanagari** (question / दोस्तों / क्या आप जानते / आखिर क्या / ने इस तरह से / यह ___ है). |
-| Roman in script? | **No** — except brand names and unavoidable tickers. |
+| Opening words? | Copy **pattern** in **Romanized Hinglish** (question / doston / kya aap jaante / aakhir kya / ne is tarah se / yeh ___ hai). |
+| Script alphabet? | **Romanized default** — brands/tickers in English OK. Devanagari only if context mandates. |
 | CTA? | Copy **type** (comment state name / follow / no subscribe). |
 
 ### Step 3 — Hook from `deep_hooks.md`, not from headlines
@@ -70,7 +73,9 @@ Count in the reference:
 
 **WATCH-THROUGH MAP must include column: `Viewer question (why they stay)`** — one unresolved question per phase until CLOSE.
 
-**Shivanshu.Agrawal:** After hook, start mechanism in **same breath** as reference (`फैक्ट्स सरप्राइज़। जब...`). Target **7–9** `[00:00]` beats, **long lines** where reference has long lines.
+**Shivanshu.Agrawal:** After hook, start mechanism in **same breath** as reference (`facts surprise kar denge — jab...`). Target **≥14** beats and **≥2:00** for explainers; **long Romanized lines** where reference has long lines.
+
+**All creators (default):** `## FULL SCRIPT` = **Romanized Hinglish**. Minimum **120 seconds** spoken — see `SCRIPT_RULES.md` Rule **2h**.
 
 ### Agent pre-flight (copy before marking PRODUCTION READY)
 
@@ -85,19 +90,24 @@ Count in the reference:
 
 **If any box fails → rewrite FULL SCRIPT, do not patch the hook only.**
 
-### Viral energy (why “compliant” scripts still flop)
+### Step 7 — Viral flow (why scripts still feel “AI” after structure passes)
 
-| Homework voice | Viral voice |
-|----------------|-------------|
-| Starts with case name / geography | Starts with **shock** (₹, !, paradox) |
-| Every line same speed | **Staccato** facts → slow “मतलब” → slow twist |
-| Abstract (“D2C pressure”) | **Named** (Suta, Bombay Shaving, ₹900 करोड़ समोसा parallel) |
-| `जब…` in line 1 | Punch line 1, `जब…` line 2+ |
+Structure (HOOK PATTERN, viewer column) is **not** enough. Read the reference `transcript.txt` **aloud** and match **pacing + connectors**, not just topic.
 
-**Shivanshu viral opens (copy energy):** `₹900 करोड़ की कंपनी` · `फॉग ने इस तरह से…किल किया` · `फैक्ट्स सरप्राइज़`  
-**Niharika viral opens:** `590 करोड़ का स्कैम! आखिर क्या हुआ?` · `लेकिन SC ने…असंवैधानिक`
+| Transcript signal | Copy in script | Do NOT |
+|-------------------|----------------|--------|
+| Shivanshu `ने इस तरह से` / `फैक्ट्स सरप्राइज़` | Named brand/person + shock in line 1; chain with `और इसीलिए`, `आल्सो`, `फाइनली` | CAC, AOV, analyst, essay paragraphs |
+| Shivanshu LPG (`y7qQ3N40Flc`) | `जब…` starts in **same breath** as hook; long process lines | Stat stack without process |
+| Niharika bonds (`8EEqmu6MVwY`) | `…लेकिन SC…` then **own beat**: `आखिर क्या था?` | Legal English wall in hook |
+| TheInformedCitizen (`MV0iICFivJk`) | **6s beats**: question → सीधा असर → fact | 30-word single `[00:00]` |
+| TheInformedCitizen (`o5JD2kPJBig`) | `सबसे बड़ी गलती:` punch → `लेकिन` at ~6s | Soft geography essay |
+| KKCreate (`8Mpwirtw01g`) | Superlative → list escalates → vox-pop Q | One-line ritual dump |
+| Prabhjot (`BYuiFKs77GU`) | 2–4s micro-beats; `लेकिन` **alone on a line** sometimes | Long digest sentences |
+| ThinkSchool | `बिज़नेस लैब` / insight + `लेकिन` + `कॉस्ट ऑफ फेलियर` | Macro headline stack only |
 
-Pre-flight viral: read line 1 aloud — if you wouldn’t send it to a friend as “dekh ye”, rewrite.
+**Wrong reference = wrong flow.** Example: D2C bleed → use `M8YJZSI5xTw` (ने इस तरह से + gap) + `QHBw621YmC8` (`लेकिन एक प्रॉब्लम थी`), not only a generic news hook.
+
+**Gold listen-test:** If the script sounds like a blog post read aloud, rewrite. If it sounds like one breath rushing to the next fact, it’s closer.
 
 ---
 
@@ -109,6 +119,18 @@ Pre-flight viral: read line 1 aloud — if you wouldn’t send it to a friend as
 - **Rarely:** calendar dates in every line; "Simple words mein" every video (use when explaining law).
 - **Hooks:** injustice, question, contrast — see `creator_pattern/NiharikaChoudhary/deep_hooks.md`.
 - **Reference examples:** `8EEqmu6MVwY` (legal term → danger), `7FHRhFFa28I` (Aakhir kya hua scam).
+
+**Timestamp + density (mandatory for Niharika):**
+
+| Wrong | Right (from `Jp4QTu9GAQg`, `2NfOAbs9xd8`, `-MPsKmt903A`) |
+|-------|-------------------------------------------------------------|
+| 5–6 beats in 40s | **8–10 beats in 60–75s** |
+| `[00:00]` then `[00:24]` (16s gap) | **~7–8s gaps** between beats (6s for IDFC-style short refs only) |
+| 1 fact per line | **2–3 facts per beat** (names, numbers, dates, institutions) |
+| `आखिर क्या` inside a paragraph | **Own line** after hook: `[00:08] आखिर क्या था/बदला?` |
+| Short ref `8EEqmu6MVwY` (15s) as pacing model | Use it for **hook device only**; pace from **`Jp4QTu9GAQg`** (65s, 10 beats) |
+
+Before `PRODUCTION READY`: add **Timestamp cadence** table; read script aloud — total time **≥2:00** for explainers (Niharika included).
 
 ### TheInformedCitizen
 

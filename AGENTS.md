@@ -38,11 +38,12 @@ Or in one message:
 
 1. **Hook choice** — Match topic to a real entry in `deep_hooks.md`, not a generic opener.
 2. **Facts** — Search today’s sources; cross-verify; copy real URLs from the browser.
-3. **Voice** — Imitate the **named reference video** in context (segment count, opener, **date density ~0**), not generic news Hindi.
-4. **Structure** — Copy the **matched reference video** in `*_context.md` (usually `[00:00]` prose). **Never paste the same table layout for every creator** (see `SCRIPT_RULES.md` Rule 2b).
-5. **Retention** — 5-phase tension from `SHORTS_MASTER_FRAMEWORK.md`; **each beat leaves one open question** (see Rule 2f).
-6. **Mechanism, not headlines** — If the reference teaches *how* something works (`जब… तो… मतलब…`), the script must teach one linked chain for the topic — never a stack of Rs/₹ stats without explaining the link (`SCRIPT_RULES.md` Rule 2f–2g).
-7. **Honesty** — No invented stats or guessed URLs (see `SCRIPT_RULES.md`).
+3. **Voice** — Imitate the **named reference video** in context (segment count, opener, **date density ~0**), not generic news Hindi. **`## FULL SCRIPT` in Romanized Hinglish** (Latin letters) — see Rule 2e.
+4. **Length** — **≥2 minutes spoken** (~360+ words, ≥12 beats, last stamp `[01:55]`+) — see Rule 2h.
+5. **Structure** — Copy the **matched reference video** in `*_context.md` (usually `[00:00]` prose). **Never paste the same table layout for every creator** (see `SCRIPT_RULES.md` Rule 2b).
+6. **Retention** — 5-phase tension from `SHORTS_MASTER_FRAMEWORK.md`; **each beat leaves one open question** (see Rule 2f).
+7. **Mechanism, not headlines** — If the reference teaches *how* something works (`jab… matlab… lekin…`), the script must teach one linked chain — never a stat stack (`SCRIPT_RULES.md` Rule 2f–2g).
+8. **Honesty** — No invented stats or guessed URLs (see `SCRIPT_RULES.md`).
 
 ### You must NOT:
 
@@ -50,6 +51,7 @@ Or in one message:
 - Use "Aaj hum baat karenge", "Hey guys", "Welcome back"
 - Paste homepage URLs as sources
 - Mark `PRODUCTION READY` without verifying references in browser
+- Ship **pure Devanagari** script walls or **sub-2-minute** scripts (validator enforces Rule 2e–2h)
 - **Name or imitate other creators** (e.g. "not GenZway style") — use trait-only rules from **this** creator's files only
 
 After updating pattern files, run `python3 sanitize_voice_patterns.py` and re-run `prepare.py` so `*_context.md` stays pure.
@@ -99,7 +101,7 @@ Write output to: `scripts/<creator>/<topic>_dna.md` **only** — must include `#
 
 **Before PRODUCTION READY:** `WATCH-THROUGH MAP` must have **Viewer question (why they stay)** column; DNA audit must include **Opening mimics** line; read `CREATOR_SCRIPT_INTELLIGENCE.md` pre-flight checklist.
 
-**Gold shape:** mechanism (`Rule 2f`) + **viral STOP** (`Rule 2h`) — line 1 = `₹500 करोड़ रोज़ का घाटा — पेट्रोल महंगा फिर भी!` not a 30-word explainer opener. See `omc_500_crore_daily_oil_loss_hidden_dna.md`.
+**Gold shape (mechanism, not headlines):** `scripts/Shivanshu.Agrawal/omc_500_crore_daily_oil_loss_hidden_dna.md` ← imitate from `data/Shivanshu.Agrawal/y7qQ3N40Flc/transcript.txt` (`SCRIPT_RULES.md` Rule 2f).
 
 After pipeline changes: `python3 prepare.py -c <Creator> -t "<topic>"` then validate with `python3 validate_script.py ...`
 

@@ -17,9 +17,9 @@ description: >-
 
 Never output generic "Aaj hum baat karenge" openings. Never invent URLs or statistics.
 
-**Read `CREATOR_SCRIPT_INTELLIGENCE.md` first** — anti date-spam, Devanagari speech, **mechanism-not-headlines**, pre-flight checklist.
+**Read `CREATOR_SCRIPT_INTELLIGENCE.md` first** — anti date-spam, **Romanized Hinglish** speech, **≥2 min runtime**, **mechanism-not-headlines**, pre-flight checklist.
 
-**Read `SCRIPT_RULES.md` Rule 2e–2h** — hook rhythm, mechanism chain, viewer questions, **viral STOP energy** (non-negotiable).
+**Read `SCRIPT_RULES.md` Rule 2e–2h** — Romanized delivery + hook rhythm + teach-one-chain + **2-minute minimum** + viewer-question map (non-negotiable).
 
 **Pure voice:** Never name or compare other YouTube creators/channels in the script, audit, or hooks. Only use the assigned creator's `CREATOR_MIND.md`, cheatsheet, and transcripts.
 
@@ -73,12 +73,11 @@ Every production file **must** include these blocks **before** `## FULL SCRIPT`:
 
 Then write retention beats:
 
-- **STOP (0–3s):** **≤14-word punch** with ₹ / ! / paradox / superlative — **never** start with case name or `जब…` (Rule 2h)
-- Read line 1 aloud — if you wouldn't WhatsApp it to a friend, rewrite
+- **STOP (0–5s):** tension, paradox, number shock — not intro filler
 - **TRAP → BUILD → TWIST → CLOSE** — each phase leaves **one open viewer question** until close
-- **`[00:00]` lines in Devanagari Hindi** — match reference segment count ±1; **`[00:00]` must mirror reference first-line shape** (e.g. `फॉग ने इस तरह से` → `अडानी ने इस तरह से`; `फैक्ट्स सरप्राइज़` + same-breath `जब…`)
-- **Do NOT write headline stacks** (`₹X, pool ₹Y, agency Z`) without teaching the link between them — copy `जब… तो… मतलब… लेकिन… इसीलिए` when reference does
-- Roman script body = fail. English only for brands/tickers.
+- **`[00:00]` lines in Romanized Hinglish** (Latin letters) — **≥14 beats**, **≥360 words**, last stamp **`[01:55]`+** (Rule 2h); mirror reference first-line **device** (e.g. `Fog ne is tarah se` → `Adani group ne is tarah se`; `facts surprise` + same-breath `jab…`)
+- **Do NOT write headline stacks** (`₹X, pool ₹Y, agency Z`) without teaching the link — copy `jab… matlab… lekin… isliye` when reference does
+- Pure Devanagari script body = fail (unless context explicitly requires Devanagari). Brands/tickers in English OK.
 - **DNA Adherence Audit** must include: `Opening mimics: "<ref words>" → "<script words>"` and `Teaches one chain — not headline stack`
 - **WATCH-THROUGH MAP** must have column **`Viewer question (why they stay)`** on every row
 - **📚 References & Sources** (≥2 verified article URLs)
@@ -132,4 +131,4 @@ Remove "AWAITING AGENT" / placeholder text.
 | Paste assignment `hook_hindi` as `[00:00]` | Adapt reference **first line device** |
 | Stack stats with no `जब/मतलब/तो/लेकिन/इसीलिए` | Teach one causal chain |
 | Wrong reference video in mapping table | Pick transcript that does the **same job** |
-| English/Roman script body | Devanagari (see Shivanshu OMC gold example in Rule 2f) |
+| Pure Devanagari script wall | **Romanized Hinglish** (see Rule 2e; ≥2 min in Rule 2h) |

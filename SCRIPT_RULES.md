@@ -1,7 +1,7 @@
 # Script Generation Rules 📋
 
 > These rules MUST be followed for EVERY script generated in this system.
-> Last updated: 2026-05-12
+> Last updated: 2026-05-15
 
 ## Rule 0: ZERO HALLUCINATION (ABSOLUTE)
 
@@ -105,20 +105,38 @@ Every finished script file must contain **only** these sections in order (no sep
 6. **`## FULL SCRIPT`** — `[00:00]` lines matching reference segment count ±1  
 7. **`### DNA Adherence Audit`** — confirm hook + reference + phrase checklist  
 8. **`## WATCH-THROUGH MAP`**  
-9. **`### 📚 References & Sources`** — verified URLs only  
+9. **`## RESEARCHED RAW DATA`** — bullet points of all key factual data points, statistics, and figures gathered during live research  
+10. **`### 📚 References & Sources`** — verified URLs only  
 
 Agents must **read** `data/<creator>/<video_id>/transcript.txt` (or excerpt in prepare context) before writing — the DNA file must **name the video ID** and show the copy mapping.
 
-## Rule 2e: Hindi speech + hook rhythm (non-negotiable)
+## Rule 2e: Romanized Hinglish speech + hook rhythm (non-negotiable)
 
-- **`## FULL SCRIPT` must be in Devanagari Hindi** (creator's on-camera language). Roman/English only for brands, tickers, legal terms (Adani, NTA, $18M, D2C).
+- **`## FULL SCRIPT` must be in Romanized Hindi (Latin letters)** — the on-camera style this repo uses: `Ek IPL season ki reach...`, `matlab`, `lekin`, `isliye`. Mix natural English for brands, stats, sports/business terms (JioStar, CTV, reach, playoff, broadcast).
+- **Pure Devanagari walls are wrong** unless `*_context.md` **REQUIRED FORMAT** explicitly says Devanagari for that creator/topic (rare). Ingested transcripts may be Devanagari — still **write Romanized** for delivery; copy the **opener device**, not the script alphabet.
 - **`[00:00]` hook line** must mirror the reference transcript's **first line shape** — same opener device, not a wire headline:
-  - Reference: `फॉग ने इस तरह से...` → Script: `अडानी ग्रुप ने इस तरह से...` (not "Gautam Adani ne US civil court mein...")
-  - Reference: `यह घर चारों तरफ से पानी से घिरा...` → Script: `यह शहर बाहर से बिजली मंगवा रहा...`
-  - Reference: `मणिपुर में है पूरी दुनिया का सबसे बड़ा...` → Script: `तिरुपति में है भारत का सबसे विचित्र...`
-- **Segment count** = reference ±1; **line length** = short if reference is short, long if reference is long.
-- **DNA audit** must quote: `Opening mimics: "<first 6–10 words of reference>" → "<first 6–10 words of script>"`
+  - Reference: `फॉग ने इस तरह से...` → Script: `Fog ne is tarah se...` / `Adani group ne is tarah se...` (not a pasted English headline)
+  - Reference: `यह घर चारों तरफ से...` → Script: `Yeh ghar charon taraf se...`
+  - Reference: `मणिपुर में है पूरी दुनिया का सबसे बड़ा...` → Script: `Manipur mein hai poori duniya ka sabse bada...`
+- **Segment count** = reference ±1 **or enough beats to hit Rule 2h** (whichever is larger).
+- **Line length** = match reference density; for explainers use **long multi-clause lines** (25–45 words) where the reference does.
+- **DNA audit** must quote: `Opening mimics: "<first 6–10 words of reference>" → "<first 6–10 words of script>"` (reference may be Devanagari; script line in Romanized).
 - Wrong reference video (e.g. Ramnami story for Gangamma Jatra) = instant redo.
+
+## Rule 2h: Minimum runtime — 2 minutes spoken (mandatory)
+
+Shorts that die in 40–70s feel thin on camera. **Every `## FULL SCRIPT` must target ≥2 minutes (120s) wall-clock when read aloud** at the creator's pace.
+
+| Check | Minimum |
+|-------|---------|
+| **Last timestamp** | `[01:55]` or later (prefer `[02:00]`–`[02:15]`) |
+| **Word count** (FULL SCRIPT body only) | **≥360 words** @ ~3.0 WPS, or **≥320** @ ~2.7 WPS for slow creators (KKCreate, Neha) |
+| **Beats** | **≥14** `[00:00]` lines for explainers; **≥12** only if reference is a proven sub-60s format and context allows |
+| **Metadata** | Header must state: `Target runtime: ≥2:00 spoken \| ~360+ words (Romanized Hinglish)` |
+
+**How to fill 2 minutes without fluff:** teach **one mechanism chain** with extra layers (context → how → twist → who pays → fan takeaway → CTA) — not repeated stats or date spam.
+
+`python3 validate_script.py` enforces word count + last timestamp; fix failures before `PRODUCTION READY`.
 
 ## Rule 2f: Retention = teach one chain (not headline stack)
 
@@ -147,7 +165,7 @@ Every row needs a **question the viewer still needs answered** until CLOSE.
 | FAIL (do not write) | PASS (imitate reference) |
 |---------------------|--------------------------|
 | `₹500 करोड़ नुकसान, pool ₹1.98 लाख करोड़, ICRA hike` | `जब क्रूड ऊपर और पंप कीमत पीछे → हर लीटर घाटा → ₹3 के बाद भी ₹500 करोड़/दिन` |
-| Hook = assignment `hook_hindi` pasted in Roman | Hook = **reference first-line shape** in Devanagari |
+| Hook = assignment `hook_hindi` pasted as wire copy | Hook = **reference first-line shape** in **Romanized Hinglish** |
 | Reference = wrong video (mapping table lies) | Reference teaches **same narrative job** (how / list / legal / geo) |
 | 4 stats, zero taught links | Each `[00:00]` answers the **previous** open question |
 
@@ -164,50 +182,22 @@ Every row needs a **question the viewer still needs answered** until CLOSE.
 - Viewer questions mapped in WATCH-THROUGH MAP ✅
 ```
 
-## Rule 2h: Viral energy (structure alone is not enough)
-
-A script can pass Rule 2e–2f and still **fail on feed** — it reads like homework. Viral Shorts = **unresolved tension in second 1**, not “let me explain.”
-
-### STOP line (0–3s) — mandatory
-
-| FAIL (scroll) | PASS (stop) |
-|---------------|-------------|
-| `उन्नाव केस — जहाँ दिल्ली हाई कोर्ट ने…` (case name first) | `सेंगर को जेल से बाहर? SC ने रोक दिया!` |
-| `जब ग्लोबल क्रूड तेजी से…` (mechanism first) | `₹500 करोड़ रोज़ का घाटा — पेट्रोल महंगा फिर भी!` |
-| 25+ word opener | **≤14 words** punch, then second breath |
-| No number/name in first line | **₹ / % / brand / person** in line 1 |
-
-**Weapons (pick one in line 1):** paradox · number shock · betrayal · `!` injustice · `आखिर क्या` · `सरप्राइज़` · `इस तरह से…किल/धोखा` · superlative (`सबसे बड़ा`)
-
-Mechanism (`जब…तो…`) starts **line 2+**, never line 1.
-
-### Pacing (match reference WPS ~3.3–3.7)
-
-- **Staccato beats:** `X। Y। Z।` — three short facts back-to-back at least once.
-- **Fast / slow:** stack numbers fast → one slow “मतलब…” line → twist slow (`लेकिन असली…`).
-- **Memorable detail:** one weird-specific fact (samosa: 56% कम तेल; LPG: 15 kg → वजन कम) — not only macro stats.
-
-### TWIST line
-
-Must include **`लेकिन असली`** or clear perspective flip — viewer should think “oh… OH.”
-
-### DNA audit (add)
-
-```markdown
-- Viral STOP: <first 6–10 words> = shock/paradox/number ✅
-- Line 1 word count: ≤14 punch (+ optional breath) ✅
-```
-
 ## Rule 2g: Pre-flight checklist (agent — before PRODUCTION READY)
 
 - [ ] Read **full** `data/<creator>/<ref_id>/transcript.txt` (not excerpt only)
 - [ ] Reference video matches **narrative job** (mechanism / list / digest / geo)
-- [ ] `[00:00]` = reference opener shape + **Devanagari**
-- [ ] Segment count ±1 vs reference; line length similar
+- [ ] `[00:00]` = reference opener shape + **Romanized Hinglish** (not pure Devanagari wall)
+- [ ] **≥2:00 spoken** — last stamp ≥`[01:55]`, ≥360 words (or ≥320 slow WPS)
+- [ ] Segment count ±1 vs reference **or** enough beats for 2 min; line length similar / dense
 - [ ] `WATCH-THROUGH MAP` has **Viewer question** column filled
 - [ ] Facts only from verified URLs in references table
-- [ ] **Rule 2h:** line 1 = shock (not case-name/context); ≤14-word punch; `लेकिन असली` twist
 - [ ] `python3 validate_script.py ...` passes (fix warnings that are errors in disguise)
+
+## Rule 2i: Creator-Specific Transitions (Anti-Listing)
+
+- **Do NOT use generic enumerators** like "Pehla reason hai...", "Dusra point yeh hai...", "Teesra factor...". This sounds like a generic AI or textbook, not a creator.
+- **Instead, use the creator's actual transition mechanics.** Look at the reference transcript. Use their specific logical pivots (e.g., "Jab aap X dekhte hain, toh lagta hai Y... Lekin asali game Z mein hai", or "Iske peeche sabse bada khel yeh hai ki... Aur isse bhi badi baat...").
+- Structural flow must be cause-and-effect driven, maintaining narrative momentum, rather than just reading out bullet points.
 
 ## Rule 3: Anti-Repetition
 

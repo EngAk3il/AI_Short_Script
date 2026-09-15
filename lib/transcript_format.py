@@ -264,7 +264,7 @@ def format_instructions_for_bundle(creator: str, topic: str) -> str:
             "- **Date density:** match reference (see analysis above). Never repeat the same date in 3+ lines.",
             "- **Phrases:** only use signature phrases **present in reference** or listed in CREATOR_MIND.",
             "- **Segment count & length:** match reference analysis.",
-            "- **Devanagari** speech; hook = reference opener **shape**, not assignment headline in Roman.",
+            "- **Romanized Hinglish** speech (Latin letters); hook = reference opener **shape**, not assignment headline pasted as wire copy.",
             "- **Retention:** teach ONE linked chain (or list/geo/legal per reference) — NOT a headline stack of stats.",
             "- **WATCH-THROUGH MAP:** column `Viewer question (why they stay)` required.",
             "- Read `CREATOR_SCRIPT_INTELLIGENCE.md` + `SCRIPT_RULES.md` Rule 2f–2g if unsure.",

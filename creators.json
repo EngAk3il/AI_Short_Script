@@ -1,6 +1,15 @@
 {
   "creators": [
     {
+      "name": "ProfessorOfHow",
+      "url": "https://www.youtube.com/@ProfessorOfHow/shorts",
+      "languages": [
+        "hi",
+        "en"
+      ],
+      "active": true
+    },
+    {
       "name": "Shivanshu.Agrawal",
       "url": "https://www.youtube.com/@Shivanshu.Agrawal/shorts",
       "languages": [
