@@ -1,0 +1,25 @@
+[00:00] There's a new way to predict the
+[00:01] weather, and it seems to be much better.
+[00:03] So, your weather app right now probably
+[00:04] uses measurements from all over the
+[00:06] world of wind and pressure and
+[00:07] temperature and plugs them into super
+[00:09] complicated physics equations. The
+[00:10] problem is a single forecast can take
+[00:12] trillions of [music] calculations. So,
+[00:13] they're only great at predicting either
+[00:15] where the storm will go or how intense
+[00:17] it'll get. But, this new model learns by
+[00:19] looking at a bunch of historical data,
+[00:21] both of measured weather in the past and
+[00:22] of previous cyclones. And that data,
+[00:24] paired with satellite imagery, helps it
+[00:25] find patterns in how weather develops.
+[00:27] And it's now better than traditional
+[00:29] methods at both predicting the path and
+[00:31] the intensity. So much so, that we could
+[00:33] get the same level of accuracy a full
+[00:36] day earlier. [music] But, we know that
+[00:37] this year half the world's weather
+[00:38] system is about to break. So, to see
+[00:40] why, subscribe.

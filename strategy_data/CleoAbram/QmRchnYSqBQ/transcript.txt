@@ -1,0 +1,44 @@
+[00:00] Have you heard the real story about this
+[00:01] crazy math problem? This is one of the
+[00:03] hardest math problems of all time.
+[00:05] There's a million-dollar prize for
+[00:06] solving it, and someone just did it.
+[00:08] But, there's big drama about who
+[00:09] deserves credit. So, there's this set of
+[00:11] equations that we use all the time for
+[00:12] everything from airplanes to blood flow
+[00:14] to your weather app to model how fluids
+[00:16] move because doing this is really hard.
+[00:19] And they basically use a math shortcut
+[00:20] that treats liquid like one continuous
+[00:22] soup as opposed to a bunch of little
+[00:24] molecules, which it really is. But, the
+[00:26] problem is we don't actually know if
+[00:28] these equations always work or if
+[00:30] there's some set of conditions where the
+[00:31] math blows up. And we rely on it so much
+[00:34] that trying to blow it up has become one
+[00:36] of the seven famous millennium prize
+[00:38] [music] problems. To solve the problem,
+[00:40] you have to prove either one, the math
+[00:41] never blows up, or two, the math does
+[00:44] blow up in this specific set of
+[00:45] circumstances. People have been trying
+[00:47] to solve this problem for a hundred
+[00:48] years, but recently two scientists used
+[00:50] a bunch of different AI tools and seem
+[00:52] to be getting really close to proving
+[00:53] that second option. But, then OpenAI
+[00:55] heard about this and threw a bunch more
+[00:57] resources at this problem. And just 88
+[00:59] [music] hours later, as I understand it,
+[01:01] they solved it. Exactly how is also
+[01:03] controversial, but the big drama is it's
+[01:05] possible those two scientists
+[01:07] unknowingly taught OpenAI tools how to
+[01:10] solve the problem by using them. OpenAI
+[01:12] says, "Maybe." But, what really matters
+[01:14] here is both groups were using new
+[01:17] technology to solve a problem we never
+[01:19] solved before. For more like this,
+[01:21] subscribe.

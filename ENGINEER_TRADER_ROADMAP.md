@@ -35,9 +35,10 @@
 
 ---
 
-## 🔄 Interaction Protocol
-For every script generation session:
-1. **Step 1: Pick Category**: User selects a category from Pillar 1, 2, or 3.
-2. **Step 2: Real-Time Trending Topics**: Present 3-5 high-engagement, real-world trending topics with high viral potential matching that category.
-3. **Step 3: Creator Voice & Style**: Prompt user to pick the creator voice/style (e.g., `Shivanshu.Agrawal`, `ThinkSchool_Hindi`, `UditInsights`, `GenZway`, etc.).
-4. **Step 4: Research & Generate**: Execute deep research, verify references, and produce clean production scripts (`<topic_slug>.md`) without `_BRIEF.md`, `_context.md`, or DNA audit boilerplate in the `scripts/` directory.
+## 🛑 ANTI-AI STORYTELLING RULES (How We Beat the 2-Second Drop-off)
+
+1. **BAN Academic Lecture Openings**: NEVER open with "If you think X, you're wrong", "In 2023, the government...", or "The most dangerous thing is...". Open directly inside a **visceral scene, an emotional gut-punch, or an embarrassing confession** within 1.5 seconds.
+2. **Inner Monologue Exposure**: Quote the exact, toxic or greedy thoughts humans actually tell themselves right before making a massive mistake (e.g. *"Hey, it's the market's money. Even if I lose half, I'm still up"*).
+3. **No Fluff or Definitions**: Never explain "This is a cognitive bias known as...". Show the physical reality: the sweaty palms, the empty account, the red candle, the 2 AM panic.
+4. **Day X of 30 / 100 Branding**: Anchor every script into a serialized journey (e.g., `# Day X of 30: ...`) so viewers instantly feel part of a challenge and follow for the next day.
+5. **Format & Length**: Strictly 1-minute spoken (~130–160 words, 6–8 punchy beats, timestamps [00:00] to ~[00:55]). Clean script only, zero `_BRIEF.md` or `_dna.md` clutter.
