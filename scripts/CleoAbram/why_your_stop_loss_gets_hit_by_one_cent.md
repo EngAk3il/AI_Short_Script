@@ -1,6 +1,6 @@
-# Day 6 of 30: Why Your Stop-Loss Gets Hit by Literally 1 Cent
+# Day X: Why Your Stop-Loss Gets Hit by Literally 1 Cent
 
-- **Series:** Day 6 of 30 (Technical Analytics & Market Microstructure)
+- **Series:** Day X of Technical Analytics & Market Microstructure
 - **Topic:** Stop-Loss Hunting & Institutional Liquidity Sweeps
 - **Target Watch Time:** 100% completion (Engineered to crush the 2-second drop-off)
 - **Style:** Cleo Abram Investigative / Visceral Mechanical Breakdown (Anti-AI)
@@ -18,7 +18,7 @@
 | **[00:26]** | Heatmap visual of an order book: glowing cluster of retail sell orders stacked right under a clean horizontal support line. | **They need millions of people to sell to them at a discount. And where is the biggest cluster of sell orders in the market? Right below obvious support: your stop-loss.** |
 | **[00:38]** | Animated algorithmic probe dipping 2 cents below support, vacuuming up red orders into a vault, followed by an immediate reversal rally. | **So the algorithm pushes the price down 2 cents, triggers your stop, swallows your shares at a discount—and lets the market rip.** |
 | **[00:49]** | Bold gold text centered on dark background: *"If you don't know where the liquidity is, YOU are the liquidity."* | **If you don't know where the liquidity is, your stop-loss IS the liquidity.** |
-| **[00:54]** | Host looks dead into the camera, series banner overlay (*Day 6 of 30*). | **This is Day 6 of 30. Follow to stop donating to hedge funds.** |
+| **[00:54]** | Host looks dead into the camera, series banner overlay (*Day X: Technical Analytics*). | **This is Day X of Technical Analytics. Follow to stop donating to hedge funds.** |
 
 ---
 
@@ -36,7 +36,7 @@
 
 [00:49] If you don't know where the liquidity is, your stop-loss IS the liquidity.
 
-[00:54] This is Day 6 of 30. Follow to stop donating to hedge funds.
+[00:54] This is Day X of Technical Analytics. Follow to stop donating to hedge funds.
 
 ---
 

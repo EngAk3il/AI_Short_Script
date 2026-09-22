@@ -1,6 +1,6 @@
-# Day 4 of 30: The $3,000 Trap That Empties Your Account
+# Day X: The $3,000 Trap That Empties Your Account
 
-- **Series:** Day 4 of 30 (Trader Psychology & Survival)
+- **Series:** Day X of Trader Psychology & Survival
 - **Topic:** The "House Money" Brain Glitch
 - **Target Watch Time:** 100% completion (Designed to kill the 2-second drop-off)
 - **Style:** Visceral, Raw Insider Storytelling (Anti-AI)
@@ -32,7 +32,7 @@
 
 [00:53] Casinos invented this trick 70 years ago. It’s called the House Money Glitch. The second you hit a target win, close the laptop. If the money stays on your screen, you will give it back.
 
-[00:58] This is Day 4 of 30. Follow if you actually want to survive this market.
+[00:58] This is Day X of Trader Psychology. Follow if you actually want to survive this market.
 
 ---
 

@@ -1,6 +1,6 @@
-# Day 7 of 30: You Are an Undercover Loan Shark (The $1.7T Shadow Debt Trap)
+# Day X: You Are an Undercover Loan Shark (The $1.7T Shadow Debt Trap)
 
-- **Series:** Day 7 of 30 (Shadow Wars & Institutional Finance)
+- **Series:** Day X of Shadow Wars & Institutional Finance
 - **Topic:** The $1.7 Trillion Private Credit Boom & Hidden Pension Debt
 - **Target Watch Time:** 100% completion (Engineered to crush the 2-second drop-off)
 - **Style:** The Financial Investigator / Cleo Abram Investigative Storytelling (Accessible complexity, human stakes)
@@ -17,7 +17,7 @@
 | **[00:15]** | Dark, cinematic drone shot of private equity skyscrapers (Apollo / Blackstone). Animation of cash flowing out of teacher and firefighter pension accounts straight into private vaults. | **So shadow giants like Apollo and Blackstone quietly stepped in. They took $1.7 trillion from pension funds and your 401(k)—and loaned it to businesses regular banks wouldn't touch.** |
 | **[00:27]** | Split screen: Left side shows a volatile, red stock chart plunging. Right side shows a private Excel spreadsheet where a guy calmly types: *"Value: 100.00% (No Change)"*. | **The catch? Normal bank loans are priced publicly every day. Shadow loans are priced behind closed doors in private spreadsheets. They pretend every loan is worth 100 cents on the dollar... until the company goes bankrupt.** |
 | **[00:39]** | 3D animation: An invisible debt bomb detonates. The shockwave completely misses the Wall Street banks and smashes directly into a suburban mailbox holding a pension check. | **When these loans blow up, Wall Street banks won't lose a dime. It’s your retirement account that takes the hit.** |
-| **[00:46]** | Creator looking straight down the lens. High-contrast typography: *"Day 7 of 30"*. | **This is Day 7 of 30. Follow to see where your money actually goes.** |
+| **[00:46]** | Creator looking straight down the lens. High-contrast typography: *"Day X: Shadow Wars"*. | **This is Day X of Shadow Wars. Follow to see where your money actually goes.** |
 
 ---
 
@@ -33,7 +33,7 @@
 
 [00:39] When these loans blow up, Wall Street banks won't lose a dime. It’s your retirement account that takes the hit.
 
-[00:46] This is Day 7 of 30. Follow to see where your money actually goes.
+[00:46] This is Day X of Shadow Wars. Follow to see where your money actually goes.
 
 ---
 

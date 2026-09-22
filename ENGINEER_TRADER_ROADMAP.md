@@ -49,6 +49,6 @@ For EVERY new script:
 1. **BAN Academic Lecture Openings**: NEVER open with "If you think X, you're wrong", "In 2023, the government...", or "The most dangerous thing is...". Open directly inside a **visceral scene, an emotional gut-punch, or an embarrassing confession** within 1.5 seconds.
 2. **Inner Monologue Exposure**: Quote the exact, toxic or greedy thoughts humans actually tell themselves right before making a massive mistake (e.g. *"Hey, it's the market's money. Even if I lose half, I'm still up"*).
 3. **No Fluff or Definitions**: Never explain "This is a cognitive bias known as...". Show the physical reality: the sweaty palms, the empty account, the red candle, the 2 AM panic.
-4. **Day X of 30 / 100 Branding**: Anchor every script into a serialized journey (e.g., `# Day X of 30: ...`) so viewers instantly feel part of a challenge and follow for the next day.
+4. **Day X Series Branding**: Format as `# Day X: [Title]` with the series name (e.g., `Day X of [Category / Series Name]`). DO NOT hardcode fixed day numbers like Day 4 or Day 8. The spoken outro must anchor the series: *"This is Day X of [Series Name]. Follow to..."* so viewers binge the playlist.
 5. **Format & Length**: Strictly 1-minute spoken (~130–160 words, 6–8 punchy beats, timestamps [00:00] to ~[00:55]). Clean script only, zero `_BRIEF.md` or `_dna.md` clutter.
 

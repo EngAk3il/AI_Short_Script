@@ -1,6 +1,6 @@
-# Day 5 of 30: The Trader Who Broke Wall Street From His Bedroom
+# Day X: The Trader Who Broke Wall Street From His Bedroom
 
-- **Series:** Day 5 of 30 (Trading Stories & Market Mechanics)
+- **Series:** Day X of Trading Stories & Market Mechanics
 - **Topic:** Navinder Sarao & The 2010 Flash Crash (How Spoofing Works)
 - **Target Watch Time:** 100% completion (Engineered to beat the 2-second drop-off)
 - **Style:** Cleo Abram Investigative Storytelling (Accessible complexity, visual-first)
@@ -20,7 +20,7 @@
 | **[00:39]** | Red crash candle down, green buy order executed right at the exact bottom. | **The bots dumped prices in a panic, and Nav quietly bought the bottom.** |
 | **[00:44]** | May 6, 2010 Flash Crash intraday chart waterfall. | **But on May 6th, his fake orders triggered an avalanche. The Dow crashed 1,000 points in minutes.** |
 | **[00:51]** | FBI evidence photo / police car outside suburban Hounslow house. Zero sports cars in the driveway. | **When the FBI finally raided his childhood bedroom, they found $40 million—and he hadn't even bought a car.** |
-| **[00:56]** | Creator looking straight down lens, series graphic overlay (*Day 5 of 30*). | **This is Day 5 of 30. Follow to see how modern markets are actually rigged.** |
+| **[00:56]** | Creator looking straight down lens, series graphic overlay (*Day X: Trading Stories*). | **This is Day X of Trading Stories. Follow to see how modern markets are actually rigged.** |
 
 ---
 
@@ -42,7 +42,7 @@
 
 [00:51] When the FBI finally raided his childhood bedroom, they found $40 million—and he hadn't even bought a car.
 
-[00:56] This is Day 5 of 30. Follow to see how modern markets are actually rigged.
+[00:56] This is Day X of Trading Stories. Follow to see how modern markets are actually rigged.
 
 ---
 

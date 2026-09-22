@@ -1,6 +1,6 @@
-# Day 8 of 30: How Billionaires Spend Millions and Pay 0% Tax
+# Day X: How Billionaires Spend Millions and Pay 0% Tax
 
-- **Series:** Day 8 of 30 (Tax Logic & Legal Loopholes)
+- **Series:** Day X of Tax Logic & Legal Loopholes
 - **Topic:** The "Buy, Borrow, Die" Tax Architecture
 - **Target Watch Time:** 100% completion (Engineered to crush the 2-second drop-off)
 - **Style:** Alex Hormozi Contrarian Breakdown (Direct, punchy, zero fluff)
@@ -15,10 +15,10 @@
 | **[00:00]** | Rapid cuts: Leaked IRS tax documents with red highlighter on $0.00 tax liability next to photos of Elon Musk and Jeff Bezos. | **In 2018, Elon Musk paid zero dollars in federal income tax. In 2007, Jeff Bezos paid zero dollars. And not a single law was broken.** |
 | **[00:08]** | Graphic of a standard paycheck having 30% sliced away by animated tax scissors, transitioning to a private jet taking off. | **If you make a $100,000 salary, the government takes thirty percent before you touch it. So how do billionaires spend billions tax-free?** |
 | **[00:16]** | Bold kinetic typography stamping across the screen: **1. BUY  →  2. BORROW  →  3. DIE**. | **They use a 3-step loop: Buy, Borrow, Die.** |
-| **[00:20]** | Stock chart climbing to the moon. A glowing padlock locks the stock in place with a label: *"NEVER SELL"*. | **Step one: BUY. They own assets like Tesla stock, but never sell. Selling triggers taxes.** |
+| **[00:20]** | Stock chart climbing upward. A glowing padlock locks the stock in place with a label: *"NEVER SELL"*. | **Step one: BUY. They own assets like Tesla stock, but never sell. Selling triggers taxes.** |
 | **[00:27]** | Private bank vault icon: Stock pledged as collateral, handing out tax-free cash loans at 3% interest. | **Step two: BORROW. They pledge their stock to a bank for a low-interest loan. Debt is not income—so they spend millions with zero tax.** |
 | **[00:37]** | Legal document stamping: *"Section 1014: Step-Up in Basis"*. The tax liability literally burns to ashes on screen. | **Step three: DIE. When they die, the 'Step-Up in Basis' rule legally wipes out decades of capital gains taxes forever.** |
-| **[00:46]** | Hormozi direct to camera, high intensity, pointing straight at viewer. Series overlay: *"Day 8 of 30"*. | **The rich don't work for income; they live on collateral. This is Day 8 of 30. Follow to learn the real rules of money.** |
+| **[00:46]** | Hormozi direct to camera, high intensity, pointing straight at viewer. Series overlay: *"Day X: Tax Logic"*. | **The rich don't work for income; they live on collateral. This is Day X of Tax Logic. Follow to learn the real rules of money.** |
 
 ---
 
@@ -36,7 +36,7 @@
 
 [00:37] Step three: DIE. When they die, the 'Step-Up in Basis' rule legally wipes out decades of capital gains taxes forever.
 
-[00:46] The rich don't work for income; they live on collateral. This is Day 8 of 30. Follow to learn the real rules of money.
+[00:46] The rich don't work for income; they live on collateral. This is Day X of Tax Logic. Follow to learn the real rules of money.
 
 ---
 

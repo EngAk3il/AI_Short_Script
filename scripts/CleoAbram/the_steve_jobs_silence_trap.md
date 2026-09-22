@@ -1,6 +1,6 @@
-# Day 8 of 30: The Steve Jobs "Silence Trap" (High-Ticket Negotiation)
+# Day X: The Steve Jobs "Silence Trap" (High-Ticket Negotiation)
 
-- **Series:** Day 8 of 30 (Billionaire Sales Secrets)
+- **Series:** Day X of Billionaire Sales Secrets
 - **Topic:** The Steve Jobs 14-Second Silence Rule & Negotiation Psychology
 - **Target Watch Time:** 100% completion (Engineered to crush the 2-second drop-off)
 - **Style:** Cleo Abram Investigative Storytelling (Visual-first, accessible psychological mechanics)
@@ -16,7 +16,7 @@
 | **[00:08]** | Close-up on Steve slowly unscrewing a water bottle cap and taking a calm sip while the 1,000-person auditorium falls into deathly silence. | **The man told Steve he didn't know what he was talking about. Most people would have panicked or shouted back. But Steve took a slow sip of water and let the silence hang in the air.** |
 | **[00:20]** | 3D visual of a human brain: Red warning indicators flashing as a thought bubble emerges: *"Why isn't he defending himself? What does he know?"* | **Here’s the brain glitch Steve exploited: humans are terrified of awkward silence. When you pause for more than three seconds, the other person’s brain enters a panic loop. They assume you know something they don't.** |
 | **[00:32]** | Split screen: Boardroom negotiation table. A $100,000 proposal slide on screen. One negotiator bites their lip, sweating, while the closer sits motionless. | **In high-ticket sales, the person who speaks first after naming the price always loses. Amateurs rush to discount. Elite negotiators state the terms—and shut their mouths.** |
-| **[00:44]** | Archival clip of Steve smiling disarmingly, walking forward on stage, transitioning to host looking directly at camera with series badge (*Day 8 of 30*). | **Steve broke the silence, agreed with the critic, and walked away with total control. This is Day 8 of 30. Follow to master high-stakes psychology.** |
+| **[00:44]** | Archival clip of Steve smiling disarmingly, walking forward on stage, transitioning to host looking directly at camera with series badge (*Day X: Billionaire Sales Secrets*). | **Steve broke the silence, agreed with the critic, and walked away with total control. This is Day X of Billionaire Sales Secrets. Follow to master high-stakes psychology.** |
 
 ---
 
@@ -30,7 +30,7 @@
 
 [00:32] In high-ticket sales, the person who speaks first after naming the price always loses. Amateurs rush to discount. Elite negotiators state the terms—and shut their mouths.
 
-[00:44] Steve broke the silence, agreed with the critic, and walked away with total control. This is Day 8 of 30. Follow to master high-stakes psychology.
+[00:44] Steve broke the silence, agreed with the critic, and walked away with total control. This is Day X of Billionaire Sales Secrets. Follow to master high-stakes psychology.
 
 ---
 
