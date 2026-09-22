@@ -35,6 +35,15 @@
 
 ---
 
+## 🔄 Mandatory Interaction Protocol (Strict Step-by-Step Flow)
+For EVERY new script:
+1. **Step 1: Pick Category**: Present the 18 categories across the 3 pillars and ASK the user to select which category they want to cover. DO NOT choose the category automatically.
+2. **Step 2: Propose Topics**: Once the user picks the category, propose 3–4 high-engagement, trending real-world topic angles with their 2-second hook concepts.
+3. **Step 3: Confirm Topic & Creator Voice**: Let the user choose the topic and preferred creator voice (`CleoAbram`, `AlexHormozi`, `MattGray`, etc.).
+4. **Step 4: Research & Generate**: Execute live web research, verify URLs (HTTP 200), and write the clean, 1-minute production script with Eyes/Ears visual direction and zero AI fluff.
+
+---
+
 ## 🛑 ANTI-AI STORYTELLING RULES (How We Beat the 2-Second Drop-off)
 
 1. **BAN Academic Lecture Openings**: NEVER open with "If you think X, you're wrong", "In 2023, the government...", or "The most dangerous thing is...". Open directly inside a **visceral scene, an emotional gut-punch, or an embarrassing confession** within 1.5 seconds.
@@ -42,3 +51,4 @@
 3. **No Fluff or Definitions**: Never explain "This is a cognitive bias known as...". Show the physical reality: the sweaty palms, the empty account, the red candle, the 2 AM panic.
 4. **Day X of 30 / 100 Branding**: Anchor every script into a serialized journey (e.g., `# Day X of 30: ...`) so viewers instantly feel part of a challenge and follow for the next day.
 5. **Format & Length**: Strictly 1-minute spoken (~130–160 words, 6–8 punchy beats, timestamps [00:00] to ~[00:55]). Clean script only, zero `_BRIEF.md` or `_dna.md` clutter.
+
